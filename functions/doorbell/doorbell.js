@@ -18,7 +18,6 @@ exports.handler = async (event, context) => {
       const { headers: eventHeaders } = event;
       const {
         referer,
-        host: eventHost,
         "user-agent": ua,
         "x-language": locale,
         "x-country": country
@@ -26,17 +25,13 @@ exports.handler = async (event, context) => {
 
       console.log(referer, eventHeaders);
       const timestamp = new Date().toISOString();
-      const { pathname: page, search: refParams = "", host: refHost } = new URL(
-        referer
-      );
-      const direct = (eventHost == refHost).toString();
+      const { pathname: page } = new URL(referer);
       const headers = JSON.stringify(eventHeaders);
 
       // columns
       const row = {
         timestamp,
         page,
-        direct,
         refParams,
         ua,
         locale,
