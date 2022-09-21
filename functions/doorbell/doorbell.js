@@ -15,7 +15,8 @@ exports.handler = async (event, context) => {
   ) {
     try {
       // netlify
-      const { headers: eventHeaders = { host } } = event;
+      const { headers: eventHeaders } = event;
+      const { host } = eventHeaders;
       const {
         referer = host,
         "user-agent": ua,
