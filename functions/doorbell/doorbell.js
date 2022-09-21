@@ -15,7 +15,7 @@ exports.handler = async (event, context) => {
   ) {
     try {
       // netlify
-      const { headers: eventHeaders } = event;
+      const { headers: eventHeaders, queryStringParameters: params = '' } = event;
       const { host } = eventHeaders;
       const {
         referer = `https://${host}`,
@@ -24,7 +24,7 @@ exports.handler = async (event, context) => {
         "x-country": country
       } = eventHeaders;
 
-      console.log(referer, eventHeaders);
+      console.log(event, context);
       const timestamp = new Date().toISOString();
       const { pathname: page } = new URL(referer);
       const headers = JSON.stringify(eventHeaders);
@@ -33,6 +33,7 @@ exports.handler = async (event, context) => {
       const row = {
         timestamp,
         page,
+        params,
         ua,
         locale,
         country,
