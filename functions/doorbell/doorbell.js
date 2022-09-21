@@ -18,17 +18,19 @@ exports.handler = async (event, context) => {
       const { headers: eventHeaders } = event;
       const {
         referer,
+        host: eventHost
         "user-agent": ua,
         "x-language": locale,
         "x-country": country
       } = eventHeaders;
 
       const timestamp = new Date().toISOString();
-      const { pathname: page } = new URL(referer);
+      const { pathname: page, search: refParams, host: refHost } = new URL(referer);
+      const direct = (eventHost == refHost).toString();
       const headers = JSON.stringify(eventHeaders);
 
       // columns
-      const row = { timestamp, page, ua, locale, country, headers };
+      const row = { timestamp, page, direct, refParams, ua, locale, country, headers };
 
       // google-spreadsheet
       const client_email = GOOGLE_SERVICE_ACCOUNT_EMAIL;
