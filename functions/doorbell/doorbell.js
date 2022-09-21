@@ -11,7 +11,7 @@ exports.handler = async (event, context) => {
     GOOGLE_SERVICE_ACCOUNT_EMAIL &&
     GOOGLE_PRIVATE_KEY &&
     SPREADSHEET_ID &&
-    SPREADSHEET_SHEET_INDEX
+    SPREADSHEET_SHEET_TITLE
   ) {
     try {
       // netlify
@@ -48,7 +48,7 @@ exports.handler = async (event, context) => {
     }
   } else {
     console.log(
-      `[ENV] GOOGLE_SERVICE_ACCOUNT_EMAIL && GOOGLE_PRIVATE_KEY && SPREADSHEET_ID && SPREADSHEET_SHEET_ITITLE`
+      `[ENV] GOOGLE_SERVICE_ACCOUNT_EMAIL && GOOGLE_PRIVATE_KEY && SPREADSHEET_ID && SPREADSHEET_SHEET_TITLE`
     );
   }
 
