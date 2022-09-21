@@ -18,7 +18,7 @@ exports.handler = async (event, context) => {
       const { headers: eventHeaders } = event;
       const { host } = eventHeaders;
       const {
-        referer = host,
+        referer = `https://${host}`,
         "user-agent": ua,
         "x-language": locale,
         "x-country": country
