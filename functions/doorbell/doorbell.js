@@ -24,7 +24,6 @@ exports.handler = async (event, context) => {
         "x-country": country
       } = eventHeaders;
 
-      console.log(event, context);
       const timestamp = new Date().toISOString();
       const { pathname: page } = new URL(referer);
       const headers = JSON.stringify(eventHeaders);
