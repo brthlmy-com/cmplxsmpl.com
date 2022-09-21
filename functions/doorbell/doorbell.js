@@ -24,6 +24,7 @@ exports.handler = async (event, context) => {
         "x-country": country
       } = eventHeaders;
 
+      console.log(referer, eventHeaders);
       const timestamp = new Date().toISOString();
       const { pathname: page, search: refParams = "", host: refHost } = new URL(
         referer
