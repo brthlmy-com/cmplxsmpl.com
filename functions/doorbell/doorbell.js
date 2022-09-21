@@ -32,7 +32,6 @@ exports.handler = async (event, context) => {
       const row = {
         timestamp,
         page,
-        refParams,
         ua,
         locale,
         country,
