@@ -25,7 +25,7 @@ exports.handler = async (event, context) => {
       } = eventHeaders;
 
       const timestamp = new Date().toISOString();
-      const { pathname: page, search: refParams, host: refHost } = new URL(
+      const { pathname: page, search: refParams = "", host: refHost } = new URL(
         referer
       );
       const direct = (eventHost == refHost).toString();
