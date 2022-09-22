@@ -13,8 +13,8 @@ jobs:
         # install dependencies for scraper script
         run: npm ci
         working-directory: ./sh/parse-analytics
-      - name: Fetch analytics for past week
-        # fetch analytics, filter for last week, convert to CSV, write to file
+      - name: Fetch analytics for yesterday
+        # fetch analytics, filter for yesterday, convert to CSV, write to file
         run: |
           mkdir -p "./_data/analytics/"
           curl '${{ secrets.ANALYTICS_URL }}' -s | \
