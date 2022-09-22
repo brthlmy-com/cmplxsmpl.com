@@ -1,0 +1,34 @@
+name: Daily analytics digest
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+jobs:
+  analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        # install dependencies for scraper script
+        run: npm ci
+        working-directory: ./sh/parse-analytics
+      - name: Fetch analytics for past week
+        # fetch analytics, filter for last week, convert to CSV, write to file
+        run: |
+          mkdir -p "./_data/analytics/"
+          curl '${{ secrets.ANALYTICS_URL }}' -s | \
+          node ./sh/parse-analytics > \
+          "./_data/analytics/$(date -d yesterday +"%Y-%m-%d").csv"
+      - name: Set up git config
+        # commit as a made up bot user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Commit
+        # if there are changes commit and push
+        run: |
+          git add .
+          # only commit if there's a change
+          git diff --quiet --staged || git commit -m "Analytics for $(date -d yesterday +"%Y-%m-%d")"
+          git push origin main
