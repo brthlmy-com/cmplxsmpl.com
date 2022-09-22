@@ -63,7 +63,7 @@ exports.handler = async (event, context) => {
       await doc.loadInfo();
 
       // store
-      const sheet = doc.sheetsByTitle[SPREADSHEET_SHEET_NEWSLETTER_TITLE];
+      const sheet = doc.sheetsByTitle[SPREADSHEET_SHEET_FORM_TITLE];
       const addedRow = await sheet.addRow(row);
     } catch (error) {
       console.error(error);
