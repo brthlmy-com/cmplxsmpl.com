@@ -21,14 +21,16 @@ process.stdin.on("end", () => {
   cutoff.setHours(0, 0, 0, 0);
 
   let csv =
-    "url,device,browser,browser_version,engine,engine_version,os,os_version,timestamp\n";
+    "page,locale,country,device,browser,browser_version,engine,engine_version,os,os_version,timestamp\n";
 
-  for (let { url, ua, timestamp } of entries) {
+  for (let { page, ua, timestamp, locale, country } of entries) {
     if (new Date(timestamp) < cutoff) continue;
     const { browser, engine, os, device } = parser(ua);
     csv +=
       [
-        url,
+        page,
+        locale,
+        country,
         device.type,
         browser.name,
         browser.version,

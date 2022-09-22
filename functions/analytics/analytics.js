@@ -29,8 +29,18 @@ exports.handler = async (event, context) => {
       const rows = await sheet.getRows();
 
       // return json response
-      console.log(rows);
+      let response = [];
 
+      for (let { timestamp, page, ua, locale, country } of rows) {
+        response.push({ timestamp, page, ua, locale, country });
+      }
+
+      console.log(response);
+
+      return {
+        statusCode: 200,
+        body: JSON.stringify(response)
+      }
 
     } catch (error) {
       console.error(`[ERROR]`, error);
@@ -41,10 +51,4 @@ exports.handler = async (event, context) => {
     );
   }
 
-  return {
-    statusCode: 200,
-    body: JSON.stringify({
-      result: JSON.stringify(rows)
-    })
-  }
 };
