@@ -31,16 +31,17 @@ function returnResponse(statusCode = 400, statusText = "invalid-method") {
 }
 
 exports.handler = async (event, context) => {
-  if (!event.body || event.httpMethod !== "POST") {
-    returnResponse(400, "invalid-method");
-  }
-
   if (
     GOOGLE_SERVICE_ACCOUNT_EMAIL &&
     GOOGLE_PRIVATE_KEY &&
     SPREADSHEET_ID &&
     SPREADSHEET_SHEET_FORM_TITLE
   ) {
+
+    if (!event.body || event.httpMethod !== "POST") {
+      returnResponse(400, "invalid-method");
+    }
+
     try {
       // form
       const timestamp = new Date().toISOString();
@@ -65,8 +66,13 @@ exports.handler = async (event, context) => {
       // store
       const sheet = doc.sheetsByTitle[SPREADSHEET_SHEET_FORM_TITLE];
       const addedRow = await sheet.addRow(row);
+
+      // response
+      returnResponse(200, 'form-submitted')
+
     } catch (error) {
       console.error(error);
+      returnResponse(500, 'server-error')
     }
   } else {
     console.log(
