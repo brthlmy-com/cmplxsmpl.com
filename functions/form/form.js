@@ -17,19 +17,6 @@ function redirectUrl(url) {
   };
 }
 
-function returnResponse(statusCode = 400, statusText = "invalid-method") {
-  return {
-    statusCode: statusCode,
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Headers": "Content-Type"
-    },
-    body: JSON.stringify({
-      status: statusText
-    })
-  };
-}
-
 exports.handler = async (event, context) => {
   if (
     GOOGLE_SERVICE_ACCOUNT_EMAIL &&
@@ -39,7 +26,16 @@ exports.handler = async (event, context) => {
   ) {
 
     if (!event.body || event.httpMethod !== "POST") {
-      returnResponse(400, "invalid-method");
+      return {
+        statusCode: 400,
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Headers": "Content-Type"
+        },
+        body: JSON.stringify({
+          status: 'invalid-method'
+        })
+      };
     }
 
     try {
@@ -66,17 +62,25 @@ exports.handler = async (event, context) => {
       // store
       const sheet = doc.sheetsByTitle[SPREADSHEET_SHEET_FORM_TITLE];
       const addedRow = await sheet.addRow(row);
-
-      // response
-      returnResponse(200, 'form-submitted')
-
     } catch (error) {
       console.error(error);
-      returnResponse(500, 'server-error')
+       return {
+          statusCode: error.statusCode || 500,
+          body: JSON.stringify({
+            error: error.message
+          })
+        }
     }
   } else {
     console.log(
       `[ENV] GOOGLE_SERVICE_ACCOUNT_EMAIL && GOOGLE_PRIVATE_KEY && SPREADSHEET_ID && SPREADSHEET_SHEET_FORM_TITLE`
     );
+  }
+
+  return {
+    statusCode: 200,
+    body: JSON.stringify({
+      result: row
+    })
   }
 };
