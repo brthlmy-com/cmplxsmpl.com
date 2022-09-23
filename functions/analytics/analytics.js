@@ -28,14 +28,18 @@ exports.handler = async (event, context) => {
       // get rows
       const rows = await sheet.getRows();
 
+      // yesterday
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - 1);
+      cutoff.setHours(0, 0, 0, 0);
+
       // return json response
       let response = [];
 
       for (let { timestamp, page, ua, locale, country } of rows) {
+        if (new Date(timestamp) < cutoff) continue;
         response.push({ timestamp, page, ua, locale, country });
       }
-
-      console.log(response);
 
       return {
         statusCode: 200,
