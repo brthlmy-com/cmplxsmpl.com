@@ -64,12 +64,12 @@ exports.handler = async (event, context) => {
       const addedRow = await sheet.addRow(row);
     } catch (error) {
       console.error(error);
-       return {
-          statusCode: error.statusCode || 500,
-          body: JSON.stringify({
-            error: error.message
-          })
-        }
+      return {
+        statusCode: error.statusCode || 500,
+        body: JSON.stringify({
+          error: error.message
+        })
+      }
     }
   } else {
     console.log(
