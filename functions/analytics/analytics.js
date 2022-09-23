@@ -44,15 +44,19 @@ exports.handler = async (event, context) => {
       return {
         statusCode: 200,
         body: JSON.stringify(response)
-      }
-
+      };
     } catch (error) {
       console.error(`[ERROR]`, error);
+      return {
+        statusCode: error.statusCode || 500,
+        body: JSON.stringify({
+          error: error.message
+        })
+      };
     }
   } else {
     console.log(
       `[ENV] GOOGLE_SERVICE_ACCOUNT_EMAIL && GOOGLE_PRIVATE_KEY && SPREADSHEET_ID && SPREADSHEET_SHEET_TITLE`
     );
   }
-
 };
