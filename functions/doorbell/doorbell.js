@@ -17,7 +17,10 @@ exports.handler = async (event, context) => {
   ) {
     try {
       // netlify
-      const { headers: eventHeaders, queryStringParameters: eventParams = '' } = event;
+      const {
+        headers: eventHeaders,
+        queryStringParameters: eventParams = ""
+      } = event;
       const { host } = eventHeaders;
       const {
         referer = `https://${host}`,
@@ -28,12 +31,12 @@ exports.handler = async (event, context) => {
 
       // block request, based on referer
       const { pathname: page, host: hostReferer } = new URL(referer);
-      const refererApexDomain = hostReferer.replace('www.','');
+      const refererApexDomain = hostReferer.replace("www.", "");
 
-      if(refererApexDomain !== APEX_DOMAIN) {
+      if (refererApexDomain !== APEX_DOMAIN) {
         return {
           statusCode: 418,
-          body: JSON.stringify({ status: "I'm a teapot"})
+          body: JSON.stringify({ status: "I'm a teapot" })
         };
       }
 
