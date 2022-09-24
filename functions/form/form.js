@@ -26,7 +26,6 @@ exports.handler = async (event, context) => {
     SPREADSHEET_SHEET_FORM_TITLE &&
     APEX_DOMAIN
   ) {
-
     if (!event.body || event.httpMethod !== "POST") {
       return {
         statusCode: 400,
@@ -35,7 +34,7 @@ exports.handler = async (event, context) => {
           "Access-Control-Allow-Headers": "Content-Type"
         },
         body: JSON.stringify({
-          status: 'invalid-method'
+          status: "invalid-method"
         })
       };
     }
@@ -56,16 +55,16 @@ exports.handler = async (event, context) => {
 
       // block request, based on referer
       const { host: hostReferer } = new URL(referer);
-      const refererApexDomain = hostReferer.replace('www.','');
+      const refererApexDomain = hostReferer.replace("www.", "");
 
-      if(refererApexDomain !== APEX_DOMAIN) {
+      if (refererApexDomain !== APEX_DOMAIN) {
         return {
           statusCode: 418,
-          body: JSON.stringify({ status: "I'm a teapot"})
+          body: JSON.stringify({ status: "I'm a teapot" })
         };
       }
 
-      const { 'form-name': formName, ...parsedFormData } = JSON.parse(formData);
+      const { "form-name": formName, ...parsedFormData } = JSON.parse(formData);
 
       const row = { timestamp, formName, parsedFormData, country, locale, ua };
 
@@ -87,7 +86,7 @@ exports.handler = async (event, context) => {
         body: JSON.stringify({
           error: error.message
         })
-      }
+      };
     }
   } else {
     console.log(
@@ -98,7 +97,7 @@ exports.handler = async (event, context) => {
   return {
     statusCode: 200,
     body: JSON.stringify({
-      result: 'true'
+      result: "true"
     })
-  }
+  };
 };
