@@ -40,7 +40,7 @@ The `analytics` github workflow needs the following github secrets:
 
 `doorbell` needs the following netlify secrets:
 
-* SPREADSHEET_SHEET_TITLE
+* `SPREADSHEET_SHEET_TITLE`
 
 `form` needs the following netlify secrets:
 
