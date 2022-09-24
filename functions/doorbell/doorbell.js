@@ -11,9 +11,11 @@ exports.handler = async (event, context) => {
     GOOGLE_SERVICE_ACCOUNT_EMAIL &&
     GOOGLE_PRIVATE_KEY &&
     SPREADSHEET_ID &&
-    SPREADSHEET_SHEET_TITLE
+    SPREADSHEET_SHEET_TITLE &&
+    APEX_DOMAIN
   ) {
     try {
+      console.log(event, context);
       // netlify
       const { headers: eventHeaders, queryStringParameters: eventParams = '' } = event;
       const { host } = eventHeaders;
@@ -24,8 +26,20 @@ exports.handler = async (event, context) => {
         "x-country": country
       } = eventHeaders;
 
+      // block request, based on referer
+      const { pathname: page, host: hostReferer } = new URL(referer);
+      const refererApexDomain = hostReferer.replace('www.','');
+
+      if(refererApexDomain !== APEX_DOMAIN) {
+        return {
+          statusCode: 418,
+          body: JSON.stringify({ status: "I'm a teapot"})
+        };
+      }
+
+      // compile analytics
+
       const timestamp = new Date().toISOString();
-      const { pathname: page } = new URL(referer);
       const headers = JSON.stringify(eventHeaders);
       const params = JSON.stringify(eventParams);
 
