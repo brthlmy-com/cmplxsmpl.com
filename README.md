@@ -34,9 +34,9 @@ The `analytics` github workflow needs the following github secrets:
 
 `doorbell`, `form`, `analytics` needs the following netlify secrets:
 
-* GOOGLE_SERVICE_ACCOUNT_EMAIL
-* GOOGLE_PRIVATE_KEY
-* SPREADSHEET_ID
+* `GOOGLE_SERVICE_ACCOUNT_EMAIL`
+* `GOOGLE_PRIVATE_KEY`
+* `SPREADSHEET_ID`
 
 `doorbell` needs the following netlify secrets:
 
