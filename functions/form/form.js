@@ -28,7 +28,7 @@ function redirectUrl(url) {
 // queryStringToJSON("variable=string&param=some")
 // => { variable: 'string', 'param': 'some' }
 function queryStringToJSON(input) {
-  var pairs = input.split("&");
+  var pair = input.split("&");
 
   var result = {};
   pairs.forEach(function(pair) {
@@ -86,16 +86,12 @@ exports.handler = async (event, context) => {
         };
       }
 
-      const { "form-name": formName, ...parsedFormData } = queryStringToJSON(
-        formData
-      );
-
-      const stringifyFormData = JSON.stringify(parsedFormData);
+      const { "form-name": formName } = queryStringToJSON(formData);
 
       const row = {
         timestamp,
         formName,
-        stringifyFormData,
+        formData,
         country,
         locale,
         ua
