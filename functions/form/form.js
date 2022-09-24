@@ -7,6 +7,8 @@ const {
   APEX_DOMAIN
 } = process.env;
 
+const REDIRECT_URL_SUCCESS = [APEX_DOMAIN, 'success.html'].join('/')
+
 function redirectUrl(url) {
   return {
     statusCode: 302,
@@ -122,10 +124,5 @@ exports.handler = async (event, context) => {
     );
   }
 
-  return {
-    statusCode: 200,
-    body: JSON.stringify({
-      result: "true"
-    })
-  };
+  return redirectUrl(REDIRECT_URL_SUCCESS);
 };
