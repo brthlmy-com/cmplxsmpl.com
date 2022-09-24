@@ -66,6 +66,7 @@ exports.handler = async (event, context) => {
       const timestamp = new Date().toISOString();
       const headers = JSON.stringify(eventHeaders);
 
+      console.log(event, eventParams);
       const { pathname: page, search } = queryStringToJSON(eventParams);
       const params = JSON.stringify(search);
 
