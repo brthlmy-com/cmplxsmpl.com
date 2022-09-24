@@ -3,7 +3,8 @@ const {
   GOOGLE_SERVICE_ACCOUNT_EMAIL,
   GOOGLE_PRIVATE_KEY,
   SPREADSHEET_ID,
-  SPREADSHEET_SHEET_FORM_TITLE
+  SPREADSHEET_SHEET_FORM_TITLE,
+  APEX_DOMAIN
 } = process.env;
 
 function redirectUrl(url) {
@@ -22,7 +23,8 @@ exports.handler = async (event, context) => {
     GOOGLE_SERVICE_ACCOUNT_EMAIL &&
     GOOGLE_PRIVATE_KEY &&
     SPREADSHEET_ID &&
-    SPREADSHEET_SHEET_FORM_TITLE
+    SPREADSHEET_SHEET_FORM_TITLE &&
+    APEX_DOMAIN
   ) {
 
     if (!event.body || event.httpMethod !== "POST") {
@@ -42,12 +44,26 @@ exports.handler = async (event, context) => {
       // form
       const timestamp = new Date().toISOString();
 
-      const { body: formData, headers } = event;
+      const { headers: eventHeaders, body: formData } = event;
+      const { host } = eventHeaders;
+
       const {
+        referer = `https://${host}`,
         "user-agent": ua,
         "x-language": locale,
         "x-country": country
-      } = headers;
+      } = eventHeaders;
+
+      // block request, based on referer
+      const { host: hostReferer } = new URL(referer);
+      const refererApexDomain = hostReferer.replace('www.','');
+
+      if(refererApexDomain !== APEX_DOMAIN) {
+        return {
+          statusCode: 418,
+          body: JSON.stringify({ status: "I'm a teapot"})
+        };
+      }
 
       const row = { timestamp, formData, country, locale, ua };
 
@@ -73,7 +89,7 @@ exports.handler = async (event, context) => {
     }
   } else {
     console.log(
-      `[ENV] GOOGLE_SERVICE_ACCOUNT_EMAIL && GOOGLE_PRIVATE_KEY && SPREADSHEET_ID && SPREADSHEET_SHEET_FORM_TITLE`
+      `[ENV] GOOGLE_SERVICE_ACCOUNT_EMAIL && GOOGLE_PRIVATE_KEY && SPREADSHEET_ID && SPREADSHEET_SHEET_FORM_TITLE && APEX_DOMAIN`
     );
   }
 
