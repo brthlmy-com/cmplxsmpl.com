@@ -65,7 +65,9 @@ exports.handler = async (event, context) => {
         };
       }
 
-      const row = { timestamp, formData, country, locale, ua };
+      const { 'form-name': formName, ...parsedFormData } = JSON.parse(formData);
+
+      const row = { timestamp, formName, parsedFormData, country, locale, ua };
 
       // google-spreadsheet
       const client_email = GOOGLE_SERVICE_ACCOUNT_EMAIL;
