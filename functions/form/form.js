@@ -40,6 +40,7 @@ exports.handler = async (event, context) => {
     }
 
     try {
+      console.log(event, context);
       // form
       const timestamp = new Date().toISOString();
 
