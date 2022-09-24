@@ -45,14 +45,14 @@ exports.handler = async (event, context) => {
       const timestamp = new Date().toISOString();
       const headers = JSON.stringify(eventHeaders);
 
-      console.log(event, eventParams);
-      const { pathname: page, search } = eventParams;
+      const { pathname: page, search, hash } = eventParams;
       const params = JSON.stringify(search);
 
       // columns
       const row = {
         timestamp,
         page,
+        hash,
         params,
         ua,
         locale,
