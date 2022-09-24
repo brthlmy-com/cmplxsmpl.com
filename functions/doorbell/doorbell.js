@@ -51,7 +51,7 @@ exports.handler = async (event, context) => {
       } = eventHeaders;
 
       // block request, based on referer
-      const { pathname: page, host: hostReferer } = new URL(referer);
+      const { host: hostReferer } = new URL(referer);
       const refererApexDomain = hostReferer.replace("www.", "");
 
       if (refererApexDomain !== APEX_DOMAIN) {
