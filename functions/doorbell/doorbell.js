@@ -16,7 +16,6 @@ exports.handler = async (event, context) => {
     APEX_DOMAIN
   ) {
     try {
-      console.log(event, context);
       // netlify
       const { headers: eventHeaders, queryStringParameters: eventParams = '' } = event;
       const { host } = eventHeaders;
