@@ -90,7 +90,16 @@ exports.handler = async (event, context) => {
         formData
       );
 
-      const row = { timestamp, formName, parsedFormData, country, locale, ua };
+      const stringifyFormData = JSON.stringify(parsedFormData);
+
+      const row = {
+        timestamp,
+        formName,
+        stringifyFormData,
+        country,
+        locale,
+        ua
+      };
 
       // google-spreadsheet
       const client_email = GOOGLE_SERVICE_ACCOUNT_EMAIL;
