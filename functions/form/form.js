@@ -28,7 +28,7 @@ function redirectUrl(url) {
 // queryStringToJSON("variable=string&param=some")
 // => { variable: 'string', 'param': 'some' }
 function queryStringToJSON(input) {
-  var pair = input.split("&");
+  var pairs = input.split("&");
 
   var result = {};
   pairs.forEach(function(pair) {
@@ -61,7 +61,6 @@ exports.handler = async (event, context) => {
     }
 
     try {
-      console.log(event, context);
       // form
       const timestamp = new Date().toISOString();
 
