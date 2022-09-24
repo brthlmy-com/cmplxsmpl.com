@@ -7,7 +7,7 @@ const {
   APEX_DOMAIN
 } = process.env;
 
-const REDIRECT_URL_SUCCESS = [APEX_DOMAIN, 'success.html'].join('/')
+const REDIRECT_URL_SUCCESS = ['https://',APEX_DOMAIN, 'success.html'].join('/')
 
 function redirectUrl(url) {
   return {
