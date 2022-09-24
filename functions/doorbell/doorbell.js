@@ -7,27 +7,6 @@ const {
   APEX_DOMAIN
 } = process.env;
 
-// https://www.developerdrive.com/turning-the-querystring-into-a-json-object-using-javascript/
-// Converts a queryString to a json object
-//
-// @param {string} input - A query string
-// @returns {json} Returns a json object
-//
-// @example
-// queryStringToJSON("variable=string&param=some")
-// => { variable: 'string', 'param': 'some' }
-function queryStringToJSON(input) {
-  var pairs = input.split("&");
-
-  var result = {};
-  pairs.forEach(function(pair) {
-    pair = pair.split("=");
-    result[pair[0]] = decodeURIComponent(pair[1] || "");
-  });
-
-  return JSON.parse(JSON.stringify(result));
-}
-
 exports.handler = async (event, context) => {
   if (
     GOOGLE_SERVICE_ACCOUNT_EMAIL &&
@@ -67,7 +46,7 @@ exports.handler = async (event, context) => {
       const headers = JSON.stringify(eventHeaders);
 
       console.log(event, eventParams);
-      const { pathname: page, search } = queryStringToJSON(eventParams);
+      const { pathname: page, search } = eventParams;
       const params = JSON.stringify(search);
 
       // columns
