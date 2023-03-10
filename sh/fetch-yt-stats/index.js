@@ -51,7 +51,7 @@ const fetchVideoInfo = async youtubeUrl => {
     availableCountries: availableCountries.length,
   };
 
-  console.log('***', info.videoId, info.timestamp, info.title);
+  // console.log('***', info.videoId, info.timestamp, info.title);
 
   return info;
 };
@@ -64,26 +64,26 @@ process.stdin.on('end', async () => {
     entries = JSON.parse(input);
 
     const ytChannelVideos = await ytpl('UC_gtVpAyiUt7vcqS5mCpVgw');
-    console.log(
-      '#',
-      ytChannelVideos.estimatedItemCount,
-      ytChannelVideos.title,
-      ytChannelVideos.id,
-      ytChannelVideos.lastUpdated,
-    );
+    // console.log(
+      // '#',
+      // ytChannelVideos.estimatedItemCount,
+      // ytChannelVideos.title,
+      // ytChannelVideos.id,
+      // ytChannelVideos.lastUpdated,
+    // );
 
     const ytFetched = ytChannelVideos.items.map(async ytVideo => {
-      console.log(
-        '**',
-        ytVideo.index,
-        ytVideo.title,
-        ytVideo.id,
-        ytVideo.shortUrl,
-      );
+      // console.log(
+        // '**',
+        // ytVideo.index,
+        // ytVideo.title,
+        // ytVideo.id,
+        // ytVideo.shortUrl,
+      // );
       return fetchVideoInfo(ytVideo.shortUrl);
     });
 
-    console.log('#', 'Fetching', ytFetched.length);
+    // console.log('#', 'Fetching', ytFetched.length);
 
     const resolved = await Promise.all(ytFetched);
 
@@ -101,7 +101,6 @@ process.stdin.on('end', async () => {
     process.stdout.write(JSON.stringify(updated, null, 4));
   } catch (error) {
     console.error('JSON parse failed', error);
-    console.error(input);
     process.exit(1);
   }
 });
