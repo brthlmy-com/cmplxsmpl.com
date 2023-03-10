@@ -18,7 +18,8 @@ jobs:
           mkdir -p "./_data/"
           cat "./_data/yt-stats.json" | \
           node ./sh/fetch-yt-stats/ > \
-          "./_data/yt-stats.json"
+          "./_data/yt-stats-new.json" \
+          && mv "./_data/yt-stats-new.json" "./_data/yt-stats.json"
       - name: Set up git config
         # commit as a made up bot user
         run: |

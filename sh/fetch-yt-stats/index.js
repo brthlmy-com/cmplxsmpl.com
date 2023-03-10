@@ -61,7 +61,7 @@ process.stdin.on('data', data => (input += data));
 process.stdin.on('end', async () => {
   let entries = {};
   try {
-    // entries = JSON.parse(input);
+    entries = JSON.parse(input);
 
     const ytChannelVideos = await ytpl('UC_gtVpAyiUt7vcqS5mCpVgw');
     // console.log(
