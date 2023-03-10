@@ -1,0 +1,14 @@
+{
+  "name": "fetch-yt-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ytdl-core": "^4.11.2",
+    "ytpl": "^2.3.0"
+  }
+}
