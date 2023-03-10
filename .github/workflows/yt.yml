@@ -1,4 +1,4 @@
-name: Daily analytics digest
+name: Daily YT analytics digest
 on:
   workflow_dispatch:
   schedule:
