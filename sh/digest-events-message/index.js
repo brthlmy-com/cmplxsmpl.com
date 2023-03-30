@@ -10,11 +10,11 @@ const $sorted = $.filter(item => item.startDate).sort(
 
 const events = $sorted.map(item => {
   const slugs = item.categorySlugs.map(text => text.toUpperCase()).join(' #');
-  const message = `${item.startDate.text} @ ${item.place}: #${slugs} \n <b>${item.title}</b>`;
+  const message = `${item.startDate.text} @ <code>${item.place}</code>: \n <b>${item.title}</b> \n #${slugs}`;
   return message;
 });
 
-const output = `Hey, today are ${events.length} in Aachen \n\n ${events
+const output = `Hey, these are 12 of ${events.length} events in Aachen today. \n\n ${events
   .slice(0, 12)
   .sort()
   .join('\n\n')}`;
