@@ -1,0 +1,33 @@
+name: Daily Klenkes Digest
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+jobs:
+  ytStats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        # install dependencies for scraper script
+        run: npm ci
+        working-directory: ./sh/fetch-klenkes-events
+      - name: Fetch klenkes events today
+        run: |
+          mkdir -p "./_data/events/"
+          curl https://www.klenkes.de/tageskalender/today > today.html
+          node ./sh/fetch-klenkes-events/ today.html > "./_data/events/$(date +"%Y-%m-%d").json"
+          rm today.html
+      - name: Set up git config
+        # commit as a made up bot user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Commit
+        # if there are changes commit and push
+        run: |
+          git add .
+          # only commit if there's a change
+          git diff --quiet --staged || git commit -m "Klenkes events today $(date -d yesterday +"%Y-%m-%d")"
+          git push origin master
