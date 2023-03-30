@@ -8,10 +8,10 @@ const $sorted = $.filter(item => item.startDate).sort((a,b) => b.startDate.start
 
 const events = $sorted.map(item => {
   const slugs = item.categorySlugs.map(text => text.toUpperCase()).join(' #');
-  const message = `${item.startDate.text}: ${item.title} #${slugs} @[${item.place}]`;
+  const message = `${item.startDate.text}: <b>${item.title}</b> #${slugs} @[${item.place}]`;
   return message;
 });
 
-const output = events.slice(0,12).sort().join('\n');
+const output = events.slice(0,12).sort().join('\n\n');
 
 process.stdout.write(encodeURIComponent(output));
