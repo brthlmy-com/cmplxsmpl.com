@@ -14,4 +14,4 @@ const events = $sorted.map(item => {
 
 const output = events.slice(0,12).sort().join('\n');
 
-process.stdout.write(output);
+process.stdout.write(encodeURIComponent(output));
