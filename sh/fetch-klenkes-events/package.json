@@ -1,0 +1,12 @@
+{
+  "name": "fetch-klenkes-events",
+  "version": "1.0.0",
+  "description": "parses the events of the today page",
+  "main": "index.js",
+  "author": "brthlmy.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
