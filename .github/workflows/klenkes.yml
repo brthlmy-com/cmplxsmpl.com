@@ -2,9 +2,10 @@ name: Daily Klenkes Digest
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 9 * * *"
 jobs:
-  ytStats:
+  digest:
+    name: "Daily Klenkes Digest"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -29,5 +30,5 @@ jobs:
         run: |
           git add .
           # only commit if there's a change
-          git diff --quiet --staged || git commit -m "Klenkes events today $(date -d yesterday +"%Y-%m-%d")"
+          git diff --quiet --staged || git commit -m "Updated: Klenkes events today $(date -d yesterday +"%Y-%m-%d")"
           git push origin master
