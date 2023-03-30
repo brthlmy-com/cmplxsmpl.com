@@ -11,6 +11,10 @@ jobs:
     name: "Telegram Klenkes Digest"
     runs-on: ubuntu-latest
     steps:
+      - name: Build
+        # install dependencies for scraper script
+        run: npm ci
+        working-directory: ./sh/digest-events-message
       - name: Set message
         run: |
          echo "MESSAGE=$(node ./sh/digest-events-message/ ./_data/events/$(date +"%Y-%m-%d").json)" >> $GITHUB_ENV
