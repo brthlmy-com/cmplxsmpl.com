@@ -7,8 +7,8 @@ const $ = JSON.parse(fs.readFileSync(inputJSON));
 const msgTemplate = (title, viewCountChange, viewCountLast, viewCountPrev) =>
   `${title.substring(
     0,
-    80,
-  )}... \n P:${viewCountPrev} N:${viewCountChange}+ T:${viewCountLast} C:${(viewCountChange / viewCountLast * 100).toString().substring(0,4)}%+`;
+    40,
+  )}... \n P:${viewCountPrev} N:${viewCountChange}+ T:${viewCountLast} C:${(viewCountChange / viewCountLast * 100).toString().substring(0,4)}%+ \n`;
 
 const outputString = items =>
   items.map(item => msgTemplate(item.title, item.change, item.last, item.prev));
