@@ -19,7 +19,7 @@ jobs:
         working-directory: ./sh/digest-events-message
       - name: Set message
         run: |
-         echo "MESSAGE=$(node ./sh/digest-events-message/ ./_data/events/$(date +"%Y-%m-%d").json)" >> $GITHUB_ENV
+         echo -e "MESSAGE="$(node ./sh/digest-events-message/ ./_data/events/$(date +"%Y-%m-%d").json)"" >> $GITHUB_ENV
       - name: Send telegram message
         run: |
           echo ${{ env.MESSAGE }}
