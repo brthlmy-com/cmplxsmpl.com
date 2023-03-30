@@ -11,8 +11,8 @@ jobs:
     name: "Telegram Klenkes Digest"
     runs-on: ubuntu-latest
     steps:
-     - name: Set message
-       run: |
+      - name: Set message
+        run: |
          echo "MESSAGE=$(node ./sh/digest-events/ ./_data/events/$(date +"%Y-%m-%d").json)" >> $GITHUB_ENV
       - name: Send telegram message
         run: |
