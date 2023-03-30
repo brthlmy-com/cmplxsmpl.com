@@ -40,8 +40,6 @@ const lowViewCount = ytVideoViewCount
   .sort((a, b) => a.last - b.last)
   .slice(0, 3);
 
-console.log(lowViewCount, topChangeViewCount);
-
 const output = `7 Days ago: \n
                 ${outputString(topChangeViewCount).join('\n')}
                 \n
