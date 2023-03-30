@@ -1,0 +1,17 @@
+name: Daily Telegram Klenkes Digest
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+env:
+  API_TOKEN: ${{ secrets.TG_APITOKEN}}
+  CHAT_ID: ${{ secrets.TG_CHATID }}
+  MESSAGE: "Hey from github action"
+jobs:
+  messageInABottle:
+    name: "Telegram Klenkes Digest"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send telegram message
+        run: |
+          curl -s -X POST https://api.telegram.org/bot$API_TOKEN/sendMessage -d chat_id=$CHAT_ID -d text="$MESSAGE" -d parse_mode=HTML -d protect_content=true -d disable_notification=true
