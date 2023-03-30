@@ -1,0 +1,9 @@
+{
+  "name": "digest-events-message",
+  "version": "1.0.0",
+  "description": "outputs a event string",
+  "main": "index.js",
+  "author": "brthlmy.com",
+  "license": "MIT",
+  "private": true
+}
