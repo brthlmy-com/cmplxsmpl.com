@@ -2,7 +2,7 @@ name: Daily Telegram Klenkes Digest
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 10 * * *"
 env:
   API_TOKEN: ${{ secrets.TG_APITOKEN}}
   CHAT_ID: ${{ secrets.TG_CHATID }}
