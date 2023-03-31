@@ -30,5 +30,5 @@ jobs:
         run: |
           git add .
           # only commit if there's a change
-          git diff --quiet --staged || git commit -m "Updated: Klenkes events today $(date -d yesterday +"%Y-%m-%d")"
+          git diff --quiet --staged || git commit -m "Updated: Klenkes events today $(date +"%Y-%m-%d")"
           git push origin master
