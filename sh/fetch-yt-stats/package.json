@@ -10,5 +10,11 @@
     "lodash": "^4.17.21",
     "ytdl-core": "^4.11.3",
     "ytpl": "^2.3.0"
+  },
+  "devDependencies": {
+    "patch-package": "^6.5.1"
+  },
+  "scripts": {
+    "postinstall": "patch-package"
   }
 }
