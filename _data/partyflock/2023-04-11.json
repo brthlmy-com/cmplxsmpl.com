@@ -1,0 +1,121 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/449643:DIP",
+        "image": "https://partyflock.nl/images/party/449643_495x330_651591/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-04-11T23:00:00+00:00",
+            "endDate": "2023-04-12T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Floor Jansen",
+        "url": "https://partyflock.nl/party/433347:Floor-Jansen",
+        "image": "https://partyflock.nl/images/party/433347_477x342_618571/Floor-Jansen.jpg",
+        "startDate": {
+            "startDate": "2023-04-11T19:00:00+00:00",
+            "endDate": "2023-04-11T21:59:59+00:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Floor Jansen",
+                "href": "/artist/127059:Floor-Jansen"
+            }
+        ]
+    },
+    {
+        "title": "Spring Break",
+        "url": "https://partyflock.nl/party/440876:Spring-Break",
+        "image": "https://partyflock.nl/images/party/440876_559x292_630645/Spring-Break.jpg",
+        "startDate": {
+            "startDate": "2023-04-09T11:00:00+00:00",
+            "endDate": "2023-04-13T10:59:59+00:00"
+        },
+        "place": {
+            "name": "onbekende locatie",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Chase & Status",
+                "href": "/artist/37052:Chase-and-Status"
+            },
+            {
+                "name": "Hott Like Detroit",
+                "href": "/artist/102003:Hott-Like-Detroit"
+            },
+            {
+                "name": "Interplanetary Criminal",
+                "href": "/artist/142114:Interplanetary-Criminal"
+            },
+            {
+                "name": "Kage",
+                "href": "/artist/101121:Kage"
+            },
+            {
+                "name": "LF System",
+                "href": "/artist/146321:LF-System"
+            },
+            {
+                "name": "Mr Traumatik",
+                "href": "/artist/95502:Mr-Traumatik"
+            },
+            {
+                "name": "SHOSH",
+                "href": "/artist/146438:SHOSH"
+            },
+            {
+                "name": "Shy FX",
+                "href": "/artist/2505:Shy-FX"
+            },
+            {
+                "name": "Vibe Chemistry",
+                "href": "/artist/146342:Vibe-Chemistry"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/449899:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/449899_554x295_652148/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-04-11T23:30:00+00:00",
+            "endDate": "2023-04-12T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Digitalistik",
+                "href": "/artist/80971:Digitalistik"
+            },
+            {
+                "name": "Linear System",
+                "href": "/artist/148113:Linear-System"
+            },
+            {
+                "name": "Teddy",
+                "href": "/artist/156482:Teddy"
+            }
+        ]
+    }
+]
