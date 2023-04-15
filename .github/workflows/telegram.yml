@@ -1,4 +1,4 @@
-name: Daily Telegram Klenkes Digest
+name: Daily Telegram Digest
 on:
   workflow_dispatch:
   schedule:
@@ -23,6 +23,22 @@ jobs:
       - name: Send telegram message
         run: |
           curl -s -X POST https://api.telegram.org/bot$API_TOKEN/sendMessage -d chat_id=$CHAT_ID -d text="$MESSAGE" -d parse_mode=HTML -d protect_content=true -d disable_notification=true > /dev/null 2>&1
+      - name: Save telegram message
+        run: |
+          mkdir -p "./_data/archive/klenkes/" && \
+          echo "{ raw: \"$MESSAGE\" }" > "./_data/archive/klenkes/$(date +"%Y-%m-%d").json"
+      - name: Set up git config
+        # commit as a made up bot user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Commit
+        # if there are changes commit and push
+        run: |
+          git add .
+          # only commit if there's a change
+          git diff --quiet --staged || git commit -m "Updated: TG Klenkes message today $(date +"%Y-%m-%d")"
+          git push origin master
   flockDigest:
     name: "Telegram Partyflock Digest"
     runs-on: ubuntu-latest
@@ -39,6 +55,22 @@ jobs:
       - name: Send telegram message
         run: |
           curl -s -X POST https://api.telegram.org/bot$API_TOKEN/sendMessage -d chat_id=$CHAT_ID -d text="$MESSAGE" -d parse_mode=HTML -d protect_content=true -d disable_notification=true > /dev/null 2>&1
+      - name: Save telegram message
+        run: |
+          mkdir -p "./_data/archive/partyflock/" && \
+          echo "{ raw: \"$MESSAGE\" }" > "./_data/archive/partyflock/$(date +"%Y-%m-%d").json"
+      - name: Set up git config
+        # commit as a made up bot user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Commit
+        # if there are changes commit and push
+        run: |
+          git add .
+          # only commit if there's a change
+          git diff --quiet --staged || git commit -m "Updated: TG Partyflock message today $(date +"%Y-%m-%d")"
+          git push origin master
   ytDigest:
     name: "Telegram Youtube Digest"
     runs-on: ubuntu-latest
@@ -55,3 +87,19 @@ jobs:
       - name: Send telegram message
         run: |
           curl -s -X POST https://api.telegram.org/bot$API_TOKEN/sendMessage -d chat_id=$CHAT_ID -d text="$MESSAGE" -d parse_mode=HTML -d protect_content=true -d disable_notification=true > /dev/null 2>&1
+      - name: Save telegram message
+        run: |
+          mkdir -p "./_data/archive/youtube/" && \
+          echo "{ raw: \"$MESSAGE\" }" > "./_data/archive/youtube/$(date +"%Y-%m-%d").json"
+      - name: Set up git config
+        # commit as a made up bot user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Commit
+        # if there are changes commit and push
+        run: |
+          git add .
+          # only commit if there's a change
+          git diff --quiet --staged || git commit -m "Updated: TG Youtube message today $(date +"%Y-%m-%d")"
+          git push origin master
