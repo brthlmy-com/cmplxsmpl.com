@@ -48,7 +48,7 @@ const latestViewCounts = changeCountVideos
       }x viewed. ${item.likes || 0} people liked`,
   );
 
-const latestViewCountsText = latestViewCounts.slice(0, 3).join('\n');
+const latestViewCountsText = latestViewCounts.slice(0, 3).join('\n\n');
 
 const likedCountVideos = ytVideoViewCount
   .filter(item => {
@@ -63,7 +63,7 @@ const likedCountVideosText = likedCountVideos
         0} people liked, that are ${item.plusLikes} more than 2 weeks ago.`,
   )
   .slice(0, 3)
-  .join('\n');
+  .join('\n\n');
 
 const mostViewsVideos = changeCountVideos
   .sort((a, b) => b.plusViews - a.plusViews)
@@ -77,7 +77,7 @@ const mostViewsVideos = changeCountVideos
         0} people liked, that are ${item.plusLikes} more than 2 weeks ago.`,
   );
 
-const mostViews = mostViewsVideos.slice(0, 3).join('\n');
+const mostViews = mostViewsVideos.slice(0, 3).join('\n\n');
 
 const todayVideos = ytVideoViewCount
   .sort((a, b) => b.viewCount - a.viewCount)
@@ -86,7 +86,7 @@ const todayVideos = ytVideoViewCount
       `"${item.title}" published on ${item.publishDate} ${item.viewCount}x watched.`,
   )
   .slice(0, 5)
-  .join('\n');
+  .join('\n\n');
 
 const totalPlusLikes = ytVideoViewCount.map(item => item.plusLikes).reduce(
   (a, b) => a + b,
