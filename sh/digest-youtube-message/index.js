@@ -108,15 +108,15 @@ const totalLikes = ytVideoViewCount.map(item => parseInt(item.likes)).reduce(
   0,
 );
 const output = `These are the latest 3 published videos: \n
-                ${latestViewCountsText}\n
-                Compared with today and two weeks ago.\n
-                These received the most new likes, ${likedCountVideos.length} videos with total of ${totalPlusLikes} likes:\n
-                ${likedCountVideosText}\n
-                These received the most views,  ${mostViewsVideos.length} videos watched, for a total of ${totalPlusViews} views:\n
-                ${mostViews}\n
-                Of ${ytVideoViewCount.length} videos have the most views today.\n
-                ${todayVideos}\n
-                Channel has ${channelViews} views and ${totalLikes} video likes.
+${latestViewCountsText}\n
+Compared with today and two weeks ago.\n
+These received the most new likes, ${likedCountVideos.length} videos with total of ${totalPlusLikes} likes:\n
+${likedCountVideosText}\n
+These received the most views,  ${mostViewsVideos.length} videos watched, for a total of ${totalPlusViews} views:\n
+${mostViews}\n
+Of ${ytVideoViewCount.length} videos have the most views today.\n
+${todayVideos}\n
+Channel has ${channelViews} views and ${totalLikes} video likes.
 `;
 
 // console.log(
