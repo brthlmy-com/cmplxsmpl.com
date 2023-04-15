@@ -67,6 +67,7 @@ jobs:
       - name: Commit
         # if there are changes commit and push
         run: |
+          git pull
           git add .
           # only commit if there's a change
           git diff --quiet --staged || git commit -m "Updated: TG Partyflock message today $(date +"%Y-%m-%d")"
@@ -99,6 +100,7 @@ jobs:
       - name: Commit
         # if there are changes commit and push
         run: |
+          git pull
           git add .
           # only commit if there's a change
           git diff --quiet --staged || git commit -m "Updated: TG Youtube message today $(date +"%Y-%m-%d")"
