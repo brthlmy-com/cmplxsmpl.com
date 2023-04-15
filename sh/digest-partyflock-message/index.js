@@ -15,7 +15,7 @@ const events = $sorted.map(item => {
           .map(text => text.name.toUpperCase().replace(' ', '_'))
           .join(' #')}`
       : ``;
-  const place = `${item.place.name}, ${item.place.city}`;
+  const place = `${item.place.name}, ${item.place.city.replace('Eindhoven', '<code>EINDHOVEN</code>'}`;
   const startDateText = new Date(item.startDate.startDate).toUTCString().slice(-12).replace(':00 GMT', ' Uhr');
 
   const message = `<a href="${item.url}">${startDateText}</a> @ <code>${place}</code>: \n <b>${item.title}</b> ${lineup}`;
