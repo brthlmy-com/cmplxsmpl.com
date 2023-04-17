@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/450961:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/450961_539x303_654858/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-04-17T23:00:00+00:00",
+            "endDate": "2023-04-18T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "Bass 80",
+                "href": "/artist/1847:Bass-80"
+            },
+            {
+                "name": "Ben Soundscape",
+                "href": "/artist/140621:Ben-Soundscape"
+            },
+            {
+                "name": "Collette Warren",
+                "href": "/artist/139590:Collette-Warren"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Rayven Lux",
+                "href": "/artist/156266:Rayven-Lux"
+            }
+        ]
+    },
+    {
+        "title": "Macklemore · The BEN Tour",
+        "url": "https://partyflock.nl/party/449681:Macklemore",
+        "image": "https://partyflock.nl/images/party/449681_539x303_651692/Macklemore.jpg",
+        "startDate": {
+            "startDate": "2023-04-17T20:00:00+00:00",
+            "endDate": "2023-04-17T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Vorst Nationaal",
+            "city": "Vorst",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Macklemore",
+                "href": "/artist/120172:Macklemore"
+            }
+        ]
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/450738:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/450738_404x404_654403/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-04-17T23:00:00+00:00",
+            "endDate": "2023-04-18T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Casanova",
+                "href": "/artist/59438:Casanova"
+            },
+            {
+                "name": "Fella",
+                "href": "/artist/116155:Fella"
+            },
+            {
+                "name": "Hightower",
+                "href": "/artist/86428:Hightower"
+            },
+            {
+                "name": "Jay Junior",
+                "href": "/artist/85980:Jay-Junior"
+            }
+        ]
+    }
+]
