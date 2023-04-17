@@ -1,0 +1,391 @@
+[
+    {
+        "title": "„3. Krabbelkonzert – Wasser“",
+        "url": "/konzert/klassische-musik/event/5f1859a43d65a16a754593e0.6411f26e09782d73fd21c59c.3-krabbelkonzert--wasser",
+        "startDate": {
+            "startDate": "2023-04-17T10:30:00.000Z",
+            "text": "Heute, 10:30 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/51954f1198884082d2f2f45a6000d7cc.jpg?v=1"
+    },
+    {
+        "title": "Gandho Sylla & Band",
+        "url": "/konzert/reggae/event/5f1859993d65a16a754585f8.6412fdfbd519a27f9b0b1827.gandho-sylla--band",
+        "startDate": {
+            "startDate": "2023-04-17T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "reggae"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/77bbea3e6fa40a9d0c77f0194d59fa67.jpg?v=1"
+    },
+    {
+        "title": "„Aachener Comedy Clash“",
+        "url": "/buehne/kabarett-und-comedy/comedy/event/617154aa3d65a108fa6877b2.6255f548a03d506e960f4052.aachener-comedy-clash",
+        "startDate": {
+            "startDate": "2023-04-17T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Franz, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "comedy"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/892cef32835da4a8b36d6002323d0dce.jpeg?v=1"
+    },
+    {
+        "title": "„Kabale und Liebe“",
+        "url": "/buehne/theater/drama/event/5f18599e3d65a16a75458cda.63eba24fe0d38157ab1c4765.kabale-und-liebe",
+        "startDate": {
+            "startDate": "2023-04-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ca6aa614da1db9fffe6422e985392e91.jpg?v=1"
+    },
+    {
+        "title": "„Das Neinhorn“",
+        "url": "/buehne/theater/kindertheater/event/5f1859963d65a16a75458335.64199d77dd50e501d8308778.das-neinhorn",
+        "startDate": {
+            "startDate": "2023-04-17T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Leonhardskapelle, Erkelenz",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "kindertheater"
+        ]
+    },
+    {
+        "title": "„Sicher in der digitalen Welt“",
+        "url": "/bildung/informationsveranstaltung/event/5f1859a63d65a16a7545963e.6346ce44d1f99d0198634f75.sicher-in-der-digitalen-welt",
+        "startDate": {
+            "startDate": "2023-04-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Polizeipräsidium Aachen",
+        "categorySlugs": [
+            "bildung",
+            "informationsveranstaltung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad376fcce13fda891eaabc4a03b0a8ac.jpg?v=3"
+    },
+    {
+        "title": "„Eine Geschichte der Umwelt:  Die Beziehung von Mensch und Natur in Geschichte und Gegenwart“",
+        "url": "/bildung/vortrag-und-diskussion/event/613767613d65a13a6f0ef162.6436bbf68090bd5aab08a367.eine-geschichte-der-umwelt--die-beziehung-von-mensch-und-natur-in-geschichte-und-gegenwart",
+        "startDate": {
+            "startDate": "2023-04-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Dietrich-Bonhoeffer-Haus, Jülich",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ]
+    },
+    {
+        "title": "„Öcher Osterbend“",
+        "url": "/markt-und-messe/markt/jahrmarkt/event/5f1859a73d65a16a75459707.5fbf7f8a3d65a14b9029b86a.cher-osterbend",
+        "startDate": {
+            "startDate": "2023-04-17T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "jahrmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2bce43e8ab0ad2e1705d3aa6b66f6ceb.jpg?v=1"
+    },
+    {
+        "title": "Theo Ramrath",
+        "url": "/kunst/ausstellung/malerei/event/5f18599b3d65a16a754589a3.5fbf7f843d65a14b9029b4e2.theo-ramrath",
+        "startDate": {
+            "startDate": "2023-04-17T10:00:00.000Z",
+            "endDate": "2023-04-17T18:30:00.000Z",
+            "text": "Heute, 10:00 - 18:30 Uhr"
+        },
+        "place": "Galerie Ramrath, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0b3dae66dcfc91bc7a1dab0f78aeaca6.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-04-17T10:00:00.000Z",
+            "endDate": "2023-04-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-04-17T10:00:00.000Z",
+            "endDate": "2023-04-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "„Montags im Museum @couven“",
+        "url": "/kunst/ausstellungsfuehrung/event/5f1859a23d65a16a754590f1.6037c93c3d65a16396696922.montags-im-museum-couven",
+        "startDate": {
+            "startDate": "2023-04-17T16:00:00.000Z",
+            "text": "Heute, 16:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e6506e29406f4edbc1872d3a377d3a50.jpg?v=1"
+    },
+    {
+        "title": "Domschatzkammer",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.62da8f83b987e74d2d515568.domschatzkammer",
+        "startDate": {
+            "startDate": "2023-04-17T10:00:00.000Z",
+            "endDate": "2023-04-17T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/247ab7480ac706cae2eb0142ee2b50d1.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2023-04-17T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "Gabriele Kleipsties",
+        "url": "/kunst/ausstellung/malerei/event/5f8a34033d65a15e2e3e733f.63871966dfe24a165554b043.gabriele-kleipsties",
+        "startDate": {
+            "startDate": "2023-04-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "St. Josef Krankenhaus, Linnich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a57d6286011aafaf35d062e6b5393d24.jpeg?v=2"
+    },
+    {
+        "title": "„Part of 3“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a754581e9.63d7d25f7c83a81fe6488f3a.part-of-3",
+        "startDate": {
+            "startDate": "2023-04-17T08:00:00.000Z",
+            "endDate": "2023-04-17T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fe7dfa1edb7fbe9a9e0fbd37e7346b1d.png?v=1"
+    },
+    {
+        "title": "„Der Mensch ist ein Abgrund“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a7545917a.63eb8eb9b567a85cba70b2ae.der-mensch-ist-ein-abgrund",
+        "startDate": {
+            "startDate": "2023-04-17T09:00:00.000Z",
+            "endDate": "2023-04-17T18:30:00.000Z",
+            "text": "Heute, 09:00 - 18:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9dd467791c173fed6f9b3712702e9be9.jpg?v=1"
+    },
+    {
+        "title": "„'Unser Alltag mit Kinderarbeit' – von Auto bis Zucker“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a7545917a.63ebae87e0d38157ab1c4769.unser-alltag-mit-kinderarbeit--von-auto-bis-zucker",
+        "startDate": {
+            "startDate": "2023-04-17T09:00:00.000Z",
+            "endDate": "2023-04-17T21:00:00.000Z",
+            "text": "Heute, 09:00 - 21:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "„Simenon. Bilder einer Welt in der Krise“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859943d65a16a7545802e.63fde7d88e4c3d56c456d075.simenon-bilder-einer-welt-in-der-krise",
+        "startDate": {
+            "startDate": "2023-04-17T10:00:00.000Z",
+            "endDate": "2023-04-17T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9f9f4d78233b61823bbf65715f960223.jpg?v=2"
+    },
+    {
+        "title": "„Komplex Karacho“",
+        "url": "/kunst/ausstellung/event/5f18599e3d65a16a75458cc9.63ff707db8480367ca3bb682.komplex-karacho",
+        "startDate": {
+            "startDate": "2023-04-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Altes Rathaus, Würselen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2ee215154000349b6bc9b68253a46fc5.jpg?v=1"
+    },
+    {
+        "title": "„Wohnen in der Nachkriegszeit in Jülich“",
+        "url": "/kunst/ausstellung/event/5f1859a53d65a16a7545950a.640755a8e64b4e2d8f429c12.wohnen-in-der-nachkriegszeit-in-juelich",
+        "startDate": {
+            "startDate": "2023-04-17T09:00:00.000Z",
+            "endDate": "2023-04-17T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Stadtarchiv Jülich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4688c4d193a15f7723c0def75c83b5e7.jpg?v=1"
+    },
+    {
+        "title": "Agathe Thiem: „Querbeet“",
+        "url": "/kunst/ausstellung/event/5f8a34043d65a15e2e3e7373.640f4bbe4350c35bbd3dbe28.agathe-thiem-querbeet",
+        "startDate": {
+            "startDate": "2023-04-17T08:30:00.000Z",
+            "endDate": "2023-04-17T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4f0e4dbb158af0ca3c238a6857841755.jpg?v=1"
+    },
+    {
+        "title": "Karl von Monschau: „Konkret per dekret“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457dd8.641498f4071ca31b1074fa4a.karl-von-monschau-konkret-per-dekret",
+        "startDate": {
+            "startDate": "2023-04-17T09:00:00.000Z",
+            "endDate": "2023-04-17T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "AVT Soft Matter Process Engineering, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e3bb3ef83b909bdb92f15e5ba98bfb1e.jpg?v=0"
+    },
+    {
+        "title": "Acrylmalerei von Renee Sieben",
+        "url": "/kunst/ausstellung/malerei/event/5f1859953d65a16a754581e9.642442cf83cad55e2f592ab2.acrylmalerei-von-renee-sieben",
+        "startDate": {
+            "startDate": "2023-04-17T08:00:00.000Z",
+            "endDate": "2023-04-17T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cc83cf514ecfe5ca73db4f94b57019d7.webp?v=1"
+    },
+    {
+        "title": "„Das Leben mit dem Loch“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859953d65a16a75458221.642ec640fd364c4e203aa113.das-leben-mit-dem-loch",
+        "startDate": {
+            "startDate": "2023-04-17T08:00:00.000Z",
+            "endDate": "2023-04-17T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Katho - Katholische Hochschule Nordrhein-Westfalen am Standort Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7147b899b0a3ac90fe42786345010d30.jpeg?v=1"
+    },
+    {
+        "title": "„Porträts in Sand“",
+        "url": "/kunst/ausstellung/installation/event/5f1859a63d65a16a75459699.642ed390a851774be136c464.portraets-in-sand",
+        "startDate": {
+            "startDate": "2023-04-17T10:00:00.000Z",
+            "endDate": "2023-04-17T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Geschwister-Scholl-Gymnasium, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b41ce74b817764a0f86e9869cdd5aa1d.jpg?v=2"
+    }
+]
