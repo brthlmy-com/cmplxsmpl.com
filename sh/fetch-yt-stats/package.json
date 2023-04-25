@@ -12,7 +12,7 @@
     "ytpl": "^2.3.0"
   },
   "devDependencies": {
-    "patch-package": "^6.5.1"
+    "patch-package": "^6.4.7"
   },
   "scripts": {
     "postinstall": "patch-package"
