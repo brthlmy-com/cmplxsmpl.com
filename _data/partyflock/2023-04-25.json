@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Club Limbo · Koningsnacht Afterparty",
+        "url": "https://partyflock.nl/party/451565:Club-Limbo",
+        "image": "https://partyflock.nl/images/party/451565_404x404_656008/Club-Limbo.jpg",
+        "startDate": {
+            "startDate": "2023-04-25T23:00:00+00:00",
+            "endDate": "2023-04-26T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Lïmbo Club",
+            "city": "Emmen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adin Dino",
+                "href": "/artist/72781:Adin-Dino"
+            },
+            {
+                "name": "Reza",
+                "href": "/artist/104207:Reza"
+            }
+        ]
+    },
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/449645:DIP",
+        "image": "https://partyflock.nl/images/party/449645_495x330_651595/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-04-25T23:00:00+00:00",
+            "endDate": "2023-04-26T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hans Zimmer · Europe Tour",
+        "url": "https://partyflock.nl/party/437775:Hans-Zimmer",
+        "image": "https://partyflock.nl/images/party/437775_559x292_625012/Hans-Zimmer.jpg",
+        "startDate": {
+            "startDate": "2023-04-25T19:00:00+00:00",
+            "endDate": "2023-04-25T21:59:59+00:00"
+        },
+        "place": {
+            "name": "Antwerps Sportpaleis",
+            "city": "Antwerpen",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Hans Zimmer",
+                "href": "/artist/151002:Hans-Zimmer"
+            }
+        ]
+    },
+    {
+        "title": "Mardi · Kingsday Edition",
+        "url": "https://partyflock.nl/party/451020:Mardi",
+        "image": "https://partyflock.nl/images/party/451020_558x292_655010/Mardi.jpg",
+        "startDate": {
+            "startDate": "2023-04-25T23:00:00+00:00",
+            "endDate": "2023-04-26T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Lima",
+            "city": "Antwerpen",
+            "country": "België"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/449901:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/449901_554x295_652150/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-04-25T23:30:00+00:00",
+            "endDate": "2023-04-26T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AHIL",
+                "href": "/artist/158784:AHIL"
+            },
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Digitalistik",
+                "href": "/artist/80971:Digitalistik"
+            },
+            {
+                "name": "Nakadia",
+                "href": "/artist/51061:Nakadia"
+            }
+        ]
+    }
+]
