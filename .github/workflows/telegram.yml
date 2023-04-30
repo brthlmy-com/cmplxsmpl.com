@@ -7,7 +7,7 @@ env:
   API_TOKEN: ${{ secrets.TG_APITOKEN}}
   CHAT_ID: ${{ secrets.TG_CHATID }}
 jobs:
-  eventDigest:
+  klenkesDigest:
     name: "Telegram Klenkes Digest"
     runs-on: ubuntu-latest
     steps:
@@ -35,7 +35,6 @@ jobs:
       - name: Commit
         # if there are changes commit and push
         run: |
-          git pull
           git add .
           # only commit if there's a change
           git diff --quiet --staged || git commit -m "Updated: TG Klenkes message today $(date +"%Y-%m-%d")"
@@ -43,6 +42,7 @@ jobs:
   flockDigest:
     name: "Telegram Partyflock Digest"
     runs-on: ubuntu-latest
+    needs: klenkesDigest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -68,7 +68,6 @@ jobs:
       - name: Commit
         # if there are changes commit and push
         run: |
-          git pull
           git add .
           # only commit if there's a change
           git diff --quiet --staged || git commit -m "Updated: TG Partyflock message today $(date +"%Y-%m-%d")"
@@ -76,6 +75,7 @@ jobs:
   ytDigest:
     name: "Telegram Youtube Digest"
     runs-on: ubuntu-latest
+    needs: [flockDigest, klenkesDigest]
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -101,7 +101,6 @@ jobs:
       - name: Commit
         # if there are changes commit and push
         run: |
-          git pull
           git add .
           # only commit if there's a change
           git diff --quiet --staged || git commit -m "Updated: TG Youtube message today $(date +"%Y-%m-%d")"
