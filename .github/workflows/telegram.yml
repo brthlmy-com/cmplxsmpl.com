@@ -2,7 +2,7 @@ name: Daily Telegram Digest
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "0 8 * * *"
 env:
   API_TOKEN: ${{ secrets.TG_APITOKEN}}
   CHAT_ID: ${{ secrets.TG_CHATID }}
