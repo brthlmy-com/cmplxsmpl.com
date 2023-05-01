@@ -2,7 +2,7 @@ name: Daily Klenkes Digest
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 6 * * *"
 jobs:
   digest:
     name: "Daily Klenkes Digest"
