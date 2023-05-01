@@ -1,0 +1,391 @@
+[
+    {
+        "title": "Frühjahrskonzert der Dürener Orchestergemeinschaft",
+        "url": "/konzert/klassische-musik/event/5f18599b3d65a16a75458898.625fd58317df786851214795.fruehjahrskonzert-der-duerener-orchestergemeinschaft",
+        "startDate": {
+            "startDate": "2023-05-01T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Haus der Evangelischen Gemeinde, Düren",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ec669f2cb53cf548954d7dbbfdd7fa1f.jpg?v=2"
+    },
+    {
+        "title": "„Singer-Songwriter-Night“",
+        "url": "/konzert/singer-songwriter/event/5f1859a63d65a16a75459694.642ad9266c1db23eef231c3d.singer-songwriter-night",
+        "startDate": {
+            "startDate": "2023-05-01T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Muziekgieterij, Maastricht",
+        "categorySlugs": [
+            "konzert",
+            "singer-songwriter"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db8b46f8a0d7d90bd58bbff52516ddd8.jpg?v=0"
+    },
+    {
+        "title": "The Datsuns",
+        "url": "/konzert/rock/event/5f1859a63d65a16a75459694.642addaa74b4906b6017ce27.the-datsuns",
+        "startDate": {
+            "startDate": "2023-05-01T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Muziekgieterij, Maastricht",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bdfebaae19d92aa1f46272596f58c6f0.jpeg?v=1"
+    },
+    {
+        "title": "„Wohnzimmerkonzert“ mit dem Duo Delos",
+        "url": "/konzert/klassische-musik/event/6239bfe7e96242157f13966e.6446799c7abcc9057614afb9.wohnzimmerkonzert-mit-dem-duo-delos",
+        "startDate": {
+            "startDate": "2023-05-01T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Bodega Weinhandel, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6b7b4c945535ad0085564f66068d11f5.jpg?v=1"
+    },
+    {
+        "title": "Aachen Bigband - „The music of Maria Schneider“",
+        "url": "/konzert/instrumental/event/5f18599c3d65a16a75458a14.644a83fe6a47c5420d083da8.aachen-bigband---the-music-of-maria-schneider",
+        "startDate": {
+            "startDate": "2023-05-01T20:30:00.000Z",
+            "text": "Heute, 20:30 Uhr"
+        },
+        "place": "Saalbau Rothe Erde, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/46da6c237123dcb914c949520708c605.jpg?v=2"
+    },
+    {
+        "title": "Circus Roncalli: „All for Art for All“",
+        "url": "/buehne/show/event/612f7a293d65a11596194e32.641348ded519a27f9b0b182f.circus-roncalli-all-for-art-for-all",
+        "startDate": {
+            "startDate": "2023-05-01T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "CHIO-Gelände, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/39ba42a9320e32691e62ce863ef3a09c.jpg?v=1"
+    },
+    {
+        "title": "„Hexenmarkt“",
+        "url": "/markt-und-messe/markt/event/5f1859a13d65a16a7545901f.62556d03fda5ca247256aeb1.hexenmarkt",
+        "startDate": {
+            "startDate": "2023-05-01T12:00:00.000Z",
+            "endDate": "2023-05-01T19:00:00.000Z",
+            "text": "Heute, 12:00 - 19:00 Uhr"
+        },
+        "place": "Burg Satzvey, Mechernich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a05aba18cc3f4e77d50e181cdc2e2e45.jpg?v=1"
+    },
+    {
+        "title": "Trödelmarkt des „MGV Eintracht 1879“",
+        "url": "/markt-und-messe/markt/flohmarkt/event/641c64fc5bf960098d78aa43.641c65b576d20965e77da8b2.troedelmarkt-des-mgv-eintracht-1879",
+        "startDate": {
+            "startDate": "2023-05-01T09:00:00.000Z",
+            "endDate": "2023-05-01T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "Hausen, Heimbach",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "flohmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/67b370962a706f19472e7645f531f438.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-05-01T10:00:00.000Z",
+            "endDate": "2023-05-01T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-05-01T10:00:00.000Z",
+            "endDate": "2023-05-01T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "Domschatzkammer",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.62da8f83b987e74d2d515568.domschatzkammer",
+        "startDate": {
+            "startDate": "2023-05-01T10:00:00.000Z",
+            "endDate": "2023-05-01T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/247ab7480ac706cae2eb0142ee2b50d1.jpg?v=1"
+    },
+    {
+        "title": "„Der Mensch ist ein Abgrund“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a7545917a.63eb8eb9b567a85cba70b2ae.der-mensch-ist-ein-abgrund",
+        "startDate": {
+            "startDate": "2023-05-01T09:00:00.000Z",
+            "endDate": "2023-05-01T18:30:00.000Z",
+            "text": "Heute, 09:00 - 18:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9dd467791c173fed6f9b3712702e9be9.jpg?v=1"
+    },
+    {
+        "title": "„'Unser Alltag mit Kinderarbeit' – von Auto bis Zucker“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a7545917a.63ebae87e0d38157ab1c4769.unser-alltag-mit-kinderarbeit--von-auto-bis-zucker",
+        "startDate": {
+            "startDate": "2023-05-01T09:00:00.000Z",
+            "endDate": "2023-05-01T21:00:00.000Z",
+            "text": "Heute, 09:00 - 21:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a18b8907de946a226c809bfa4bf0a7b9.jpg?v=2"
+    },
+    {
+        "title": "„Simenon. Bilder einer Welt in der Krise“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859943d65a16a7545802e.63fde7d88e4c3d56c456d075.simenon-bilder-einer-welt-in-der-krise",
+        "startDate": {
+            "startDate": "2023-05-01T10:00:00.000Z",
+            "endDate": "2023-05-01T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9f9f4d78233b61823bbf65715f960223.jpg?v=2"
+    },
+    {
+        "title": "„Wohnen in der Nachkriegszeit in Jülich“",
+        "url": "/kunst/ausstellung/event/5f1859a53d65a16a7545950a.640755a8e64b4e2d8f429c12.wohnen-in-der-nachkriegszeit-in-juelich",
+        "startDate": {
+            "startDate": "2023-05-01T09:00:00.000Z",
+            "endDate": "2023-05-01T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Stadtarchiv Jülich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4688c4d193a15f7723c0def75c83b5e7.jpg?v=1"
+    },
+    {
+        "title": "„Kontrast.Reich“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a23d65a16a75459167.64089152279786517d02aa4a.kontrastreich",
+        "startDate": {
+            "startDate": "2023-05-01T13:00:00.000Z",
+            "endDate": "2023-05-01T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/85e62f40e206050dde546bebcd63700e.jpg?v=1"
+    },
+    {
+        "title": "„Japan beginnt an der Ostsee“",
+        "url": "/kunst/ausstellung/kunsthandwerk/event/5f1859933d65a16a75457fee.640b4b057b89a263ad053f46.japan-beginnt-an-der-ostsee",
+        "startDate": {
+            "startDate": "2023-05-01T11:00:00.000Z",
+            "endDate": "2023-05-01T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "kunsthandwerk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/49ca460b6a194eb950c12384ca2c3ff0.jpg?v=1"
+    },
+    {
+        "title": "Karl von Monschau: „Konkret per dekret“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457dd8.641498f4071ca31b1074fa4a.karl-von-monschau-konkret-per-dekret",
+        "startDate": {
+            "startDate": "2023-05-01T09:00:00.000Z",
+            "endDate": "2023-05-01T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "AVT Soft Matter Process Engineering, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e3bb3ef83b909bdb92f15e5ba98bfb1e.jpg?v=0"
+    },
+    {
+        "title": "Roger Nyssen: „Lebendiger Stein“",
+        "url": "/kunst/ausstellung/installation/event/5f18599a3d65a16a754586c5.642c39edd3cc4e3b81135567.roger-nyssen-lebendiger-stein",
+        "startDate": {
+            "startDate": "2023-05-01T09:00:00.000Z",
+            "endDate": "2023-05-01T19:00:00.000Z",
+            "text": "Heute, 09:00 - 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/654686ff40334a2b573484f8663ffa45.jpg?v=2"
+    },
+    {
+        "title": "Dorothea Schrade und Gerlinde Zantis: „Natürlich“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587c8.643d4242b6e00068ae5c03b4.dorothea-schrade-und-gerlinde-zantis-natuerlich",
+        "startDate": {
+            "startDate": "2023-05-01T16:00:00.000Z",
+            "text": "Heute, 16:00 Uhr"
+        },
+        "place": "Atelier I.S., Walhorn",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b0458e539acd254d5d6adf22bf54add1.jpg?v=1"
+    },
+    {
+        "title": "Uwe Appold: „...noch bist du da“",
+        "url": "/kunst/ausstellung/event/6156ff453d65a102b71f33b2.643eb11303e7962c3f66c2af.uwe-appold-noch-bist-du-da",
+        "startDate": {
+            "startDate": "2023-05-01",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Columbarium St. Donatus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/97b974063d06b54d53e7db32fac366ea.jpg?v=2"
+    },
+    {
+        "title": "Jugend in Corona",
+        "url": "/kunst/ausstellung/fotografie/event/60d185653d65a10ab72925d2.644655827abcc9057614afb3.jugend-in-corona",
+        "startDate": {
+            "startDate": "2023-05-01",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Annakirche, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21762f292f04af0bff657b20e3a66632.jpg?v=1"
+    },
+    {
+        "title": "„Familientag am 1. Mai“",
+        "url": "/verschiedenes/aktionstag/event/5f1859943d65a16a7545803e.642d6df83c8dd623a9605b12.familientag-am-1-mai",
+        "startDate": {
+            "startDate": "2023-05-01",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Töpfereimuseum Raeren",
+        "categorySlugs": [
+            "verschiedenes",
+            "aktionstag"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/41ee7e0bf6f25f75048b9316a87746bb.jpg?v=2"
+    },
+    {
+        "title": "Maimarkt und Maikirmes",
+        "url": "/verschiedenes/geselliges-und-treffen/fest/event/5f18599e3d65a16a75458cfa.642ed01f021add4e83371375.maimarkt-und-maikirmes",
+        "startDate": {
+            "startDate": "2023-05-01",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Annakirmesplatz, Düren",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "fest"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/349c89fdf2f42fce5bffed419b7db6db.jpg?v=2"
+    },
+    {
+        "title": "Modellbahnausstellung",
+        "url": "/verschiedenes/tag-der-offenen-tuer/event/5f1859a63d65a16a75459657.643e9c9c7728281ec206c623.modellbahnausstellung",
+        "startDate": {
+            "startDate": "2023-05-01T10:00:00.000Z",
+            "endDate": "2023-05-01T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Selfkantbahn, Gangelt",
+        "categorySlugs": [
+            "verschiedenes",
+            "tag-der-offenen-tuer"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b985aa77de546b50b648d9e02145aebc.jpg?v=1"
+    },
+    {
+        "title": "1. Mai-Fest des DGB: „Ungebrochen solidarisch“",
+        "url": "/verschiedenes/geselliges-und-treffen/fest/event/5f18599e3d65a16a75458c54.6447ea925b6e944aa52bff48.1-mai-fest-des-dgb-ungebrochen-solidarisch",
+        "startDate": {
+            "startDate": "2023-05-01T13:00:00.000Z",
+            "text": "Heute, 13:00 Uhr"
+        },
+        "place": "Katschhof, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "fest"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/79eee5d40fb4a122c5f2c27082f0a587.jpg?v=2"
+    }
+]
