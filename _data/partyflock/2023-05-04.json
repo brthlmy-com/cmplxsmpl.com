@@ -1,0 +1,369 @@
+[
+    {
+        "title": "4Play · Culture",
+        "url": "https://partyflock.nl/party/452372:4Play",
+        "image": "https://partyflock.nl/images/party/452372_571x286_658087/4Play.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Amsterdam Techno Sessions",
+        "url": "https://partyflock.nl/party/452357:Amsterdam-Techno-Sessions",
+        "image": "https://partyflock.nl/images/party/452357_404x404_658072/Amsterdam-Techno-Sessions.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Marco Ramos",
+                "href": "/artist/125617:Marco-Ramos"
+            },
+            {
+                "name": "Surgeles",
+                "href": "/artist/13277:Surgeles"
+            }
+        ]
+    },
+    {
+        "title": "Bad 'n Boujee #5",
+        "url": "https://partyflock.nl/party/452391:Bad-n-Boujee",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-04T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Superdisco",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "BAMBU",
+        "url": "https://partyflock.nl/party/448883:BAMBU",
+        "image": "https://partyflock.nl/images/party/448883_558x292_614647/BAMBU.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Bang Face · Weekender",
+        "url": "https://partyflock.nl/party/444197:Bang-Face",
+        "image": "https://partyflock.nl/images/party/444197_571x286_638172/Bang-Face.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T16:00:00+00:00",
+            "endDate": "2023-05-08T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Pontins",
+            "city": "Southport",
+            "country": "Verenigd Koninkrijk"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Bevrijdingspop · Herdenkingsconcert",
+        "url": "https://partyflock.nl/party/448477:Bevrijdingspop",
+        "image": "https://partyflock.nl/images/party/448477_495x330_648468/Bevrijdingspop.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T20:00:00+00:00",
+            "endDate": "2023-05-04T21:29:59+00:00"
+        },
+        "place": {
+            "name": "Haarlemmerhout",
+            "city": "Haarlem",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Boef",
+        "url": "https://partyflock.nl/party/451605:Boef",
+        "image": "https://partyflock.nl/images/party/451605_664x246_656098/Boef.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Villa Thalia",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adventureboy",
+                "href": "/artist/100388:Adventureboy"
+            },
+            {
+                "name": "Boef",
+                "href": "/artist/92639:Boef"
+            },
+            {
+                "name": "Diamond",
+                "href": "/artist/105219:Diamond"
+            },
+            {
+                "name": "Joy Heart",
+                "href": "/artist/97450:Joy-Heart"
+            },
+            {
+                "name": "T-Style",
+                "href": "/artist/90645:T-Style"
+            }
+        ]
+    },
+    {
+        "title": "Complex · Mau P",
+        "url": "https://partyflock.nl/party/450691:Complex",
+        "image": "https://partyflock.nl/images/party/450691_560x292_654329/Complex.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Complex",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mathëox",
+                "href": "/artist/143895:Matheox"
+            },
+            {
+                "name": "Mau P",
+                "href": "/artist/90654:Mau-P"
+            },
+            {
+                "name": "Menesix",
+                "href": "/artist/95437:Menesix"
+            }
+        ]
+    },
+    {
+        "title": "EAST · Techno Collective",
+        "url": "https://partyflock.nl/party/452116:EAST",
+        "image": "https://partyflock.nl/images/party/452116_558x292_657427/EAST.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T22:00:00+00:00",
+            "endDate": "2023-05-05T02:59:59+00:00"
+        },
+        "place": {
+            "name": "NL",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dauphin Åka",
+                "href": "/artist/34845:Dauphin-Aka"
+            },
+            {
+                "name": "Miss Vimana",
+                "href": "/artist/160288:Miss-Vimana"
+            },
+            {
+                "name": "Robin Embrace",
+                "href": "/artist/96148:Robin-Embrace"
+            }
+        ]
+    },
+    {
+        "title": "Freaky Thursday",
+        "url": "https://partyflock.nl/party/450755:Freaky-Thursday",
+        "image": "https://partyflock.nl/images/party/450755_495x330_654424/Freaky-Thursday.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/451969:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/451969_558x292_656965/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Werfkelder",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Guilty",
+                "href": "/artist/109028:Guilty"
+            },
+            {
+                "name": "Molly",
+                "href": "/artist/129767:Molly"
+            },
+            {
+                "name": "Willow",
+                "href": "/artist/1472:Willow"
+            }
+        ]
+    },
+    {
+        "title": "Hard To Get",
+        "url": "https://partyflock.nl/party/452032:Hard-To-Get",
+        "image": "https://partyflock.nl/images/party/452032_404x404_657176/Hard-To-Get.png",
+        "startDate": {
+            "startDate": "2023-05-04T22:00:00+00:00",
+            "endDate": "2023-05-05T02:59:59+00:00"
+        },
+        "place": {
+            "name": "Twenty Two",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "SVBRINA",
+                "href": "/artist/156251:SVBRINA"
+            }
+        ]
+    },
+    {
+        "title": "Latin Thursdays",
+        "url": "https://partyflock.nl/party/452316:Latin-Thursdays",
+        "image": "https://partyflock.nl/images/party/452316_672x243_655807/Latin-Thursdays.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T20:00:00+00:00",
+            "endDate": "2023-05-04T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Garden of BIRD",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Philly",
+                "href": "/artist/86068:Philly"
+            }
+        ]
+    },
+    {
+        "title": "Mimi",
+        "url": "https://partyflock.nl/party/447538:Mimi",
+        "image": "https://partyflock.nl/images/party/447538_559x292_634932/Mimi.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T22:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chin Chin Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "NYX op Donderdag",
+        "url": "https://partyflock.nl/party/448032:NYX-op-Donderdag",
+        "image": "https://partyflock.nl/images/party/448032_660x247_634789/NYX-op-Donderdag.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T22:00:00+00:00",
+            "endDate": "2023-05-05T03:59:59+00:00"
+        },
+        "place": {
+            "name": "NYX",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Rave XXL · Indoor Festival",
+        "url": "https://partyflock.nl/party/449920:Rave-XXL",
+        "image": "https://partyflock.nl/images/party/449920_539x303_652186/Rave-XXL.jpg",
+        "startDate": {
+            "startDate": "2023-05-04T23:00:00+00:00",
+            "endDate": "2023-05-05T06:59:59+00:00"
+        },
+        "place": {
+            "name": "Now & Wow",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bandi",
+                "href": "/artist/91032:Bandi"
+            },
+            {
+                "name": "BSLS",
+                "href": "/artist/152718:BSLS"
+            },
+            {
+                "name": "Corps Céleste",
+                "href": "/artist/153568:Corps-Celeste"
+            },
+            {
+                "name": "Jånks",
+                "href": "/artist/150908:Janks"
+            },
+            {
+                "name": "Juul Exler",
+                "href": "/artist/158787:Juul-Exler"
+            },
+            {
+                "name": "KARAH",
+                "href": "/artist/143147:KARAH"
+            },
+            {
+                "name": "Luca van Oss",
+                "href": "/artist/157284:Luca-van-Oss"
+            },
+            {
+                "name": "M13D",
+                "href": "/artist/157620:M13D"
+            },
+            {
+                "name": "N00M1",
+                "href": "/artist/155424:N00M1"
+            },
+            {
+                "name": "NØUS",
+                "href": "/artist/150907:NOUS"
+            },
+            {
+                "name": "NYCΘ",
+                "href": "/artist/150682:NYC"
+            },
+            {
+                "name": "RaveRaiders",
+                "href": "/artist/139322:RaveRaiders"
+            }
+        ]
+    }
+]
