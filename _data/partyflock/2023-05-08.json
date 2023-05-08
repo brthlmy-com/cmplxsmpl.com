@@ -1,0 +1,161 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/451791:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/451791_539x303_656553/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-05-08T23:00:00+00:00",
+            "endDate": "2023-05-09T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "Flexusz",
+                "href": "/artist/101756:Flexusz"
+            },
+            {
+                "name": "Iching",
+                "href": "/artist/140514:Iching"
+            },
+            {
+                "name": "Lenzman",
+                "href": "/artist/4655:Lenzman"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "The High Class",
+                "href": "/artist/81521:The-High-Class"
+            }
+        ]
+    },
+    {
+        "title": "Circoloco",
+        "url": "https://partyflock.nl/party/448671:Circoloco",
+        "image": "https://partyflock.nl/images/party/448671_558x292_655740/Circoloco.jpg",
+        "startDate": {
+            "startDate": "2023-05-08T18:00:00+00:00",
+            "endDate": "2023-05-09T06:59:59+00:00"
+        },
+        "place": {
+            "name": "DC10",
+            "city": "Sant Jordi de ses Salines",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Alan Dixon",
+                "href": "/artist/112618:Alan-Dixon"
+            },
+            {
+                "name": "Art Alfie",
+                "href": "/artist/88902:Art-Alfie"
+            },
+            {
+                "name": "Caiiro",
+                "href": "/artist/128167:Caiiro"
+            },
+            {
+                "name": "Enoo Napa",
+                "href": "/artist/104176:Enoo-Napa"
+            },
+            {
+                "name": "Francesco Del Garda",
+                "href": "/artist/76941:Francesco-Del-Garda"
+            },
+            {
+                "name": "Gerd Janson",
+                "href": "/artist/31801:Gerd-Janson"
+            },
+            {
+                "name": "Idriss D",
+                "href": "/artist/59572:Idriss-D"
+            },
+            {
+                "name": "Kasra V",
+                "href": "/artist/90231:Kasra-V"
+            },
+            {
+                "name": "Kino Todo",
+                "href": "/artist/131432:Kino-Todo"
+            },
+            {
+                "name": "Konstantin",
+                "href": "/artist/80436:Konstantin"
+            },
+            {
+                "name": "Luuk van Dijk",
+                "href": "/artist/79315:Luuk-van-Dijk"
+            },
+            {
+                "name": "PAWSA",
+                "href": "/artist/96906:PAWSA"
+            },
+            {
+                "name": "Prospa",
+                "href": "/artist/123418:Prospa"
+            },
+            {
+                "name": "Seth Troxler",
+                "href": "/artist/49667:Seth-Troxler"
+            },
+            {
+                "name": "Sossa",
+                "href": "/artist/54965:Sossa"
+            },
+            {
+                "name": "Tania Vulcano",
+                "href": "/artist/14394:Tania-Vulcano"
+            },
+            {
+                "name": "Yung Prado",
+                "href": "/artist/159886:Yung-Prado"
+            }
+        ]
+    },
+    {
+        "title": "Give or Take Tour",
+        "url": "https://partyflock.nl/party/448598:Give-or-Take-Tour",
+        "image": "https://partyflock.nl/images/party/448598_404x404_648832/Give-or-Take-Tour.jpg",
+        "startDate": {
+            "startDate": "2023-05-08T20:00:00+00:00",
+            "endDate": "2023-05-08T19:59:59+00:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Givēon",
+                "href": "/artist/157984:Giveon"
+            }
+        ]
+    },
+    {
+        "title": "Tricky",
+        "url": "https://partyflock.nl/party/452379:Tricky",
+        "image": "https://partyflock.nl/images/party/452379_539x303_658091/Tricky.png",
+        "startDate": {
+            "startDate": "2023-05-08T23:00:00+00:00",
+            "endDate": "2023-05-09T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
