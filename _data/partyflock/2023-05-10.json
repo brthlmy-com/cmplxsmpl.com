@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Forever New Year",
+        "url": "https://partyflock.nl/party/452753:Forever-New-Year",
+        "image": "https://partyflock.nl/images/party/452753_361x452_659006/Forever-New-Year.jpg",
+        "startDate": {
+            "startDate": "2023-05-10T23:00:00+00:00",
+            "endDate": "2023-05-11T04:29:59+00:00"
+        },
+        "place": {
+            "name": "Doornroosje",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "3KUS",
+                "href": "/artist/157495:3KUS"
+            },
+            {
+                "name": "Orgasmic City",
+                "href": "/artist/156210:Orgasmic-City"
+            },
+            {
+                "name": "Scuba Divers",
+                "href": "/artist/135879:Scuba-Divers"
+            },
+            {
+                "name": "Tinc",
+                "href": "/artist/160765:Tinc"
+            }
+        ]
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/452369:Wazig",
+        "image": "https://partyflock.nl/images/party/452369_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-05-10T23:00:00+00:00",
+            "endDate": "2023-05-11T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
