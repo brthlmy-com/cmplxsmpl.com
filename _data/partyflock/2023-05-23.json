@@ -1,0 +1,145 @@
+[
+    {
+        "title": "BLØF",
+        "url": "https://partyflock.nl/party/447546:BLOF",
+        "image": "https://partyflock.nl/images/party/447546_558x292_646469/BLOF.jpg",
+        "startDate": {
+            "startDate": "2023-05-23T20:00:00+00:00",
+            "endDate": "2023-05-23T19:59:59+00:00"
+        },
+        "place": {
+            "name": "Oosterpoort",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BLØF",
+                "href": "/artist/95023:BLOF"
+            }
+        ]
+    },
+    {
+        "title": "Christian Löffler",
+        "url": "https://partyflock.nl/party/440095:Christian-Loffler",
+        "image": "https://partyflock.nl/images/party/440095_560x291_629464/Christian-Loffler.jpg",
+        "startDate": {
+            "startDate": "2023-05-23T19:00:00+00:00",
+            "endDate": "2023-05-23T22:59:59+00:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Christian Löffler",
+                "href": "/artist/72780:Christian-Loffler"
+            }
+        ]
+    },
+    {
+        "title": "DIP #1",
+        "url": "https://partyflock.nl/party/452583:DIP",
+        "image": "https://partyflock.nl/images/party/452583_495x330_658536/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-05-23T23:00:00+00:00",
+            "endDate": "2023-05-24T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Crayflaxx",
+                "href": "/artist/90393:Crayflaxx"
+            },
+            {
+                "name": "Invictim",
+                "href": "/artist/74089:Invictim"
+            },
+            {
+                "name": "Jimmy",
+                "href": "/artist/117264:Jimmy"
+            },
+            {
+                "name": "Kosta",
+                "href": "/artist/113888:Kosta"
+            },
+            {
+                "name": "Ritchyzegthet",
+                "href": "/artist/154716:Ritchyzegthet"
+            }
+        ]
+    },
+    {
+        "title": "Doe Maar Techno",
+        "url": "https://partyflock.nl/party/452366:Doe-Maar-Techno",
+        "image": "https://partyflock.nl/images/party/452366_511x319_658083/Doe-Maar-Techno.png",
+        "startDate": {
+            "startDate": "2023-05-23T23:00:00+00:00",
+            "endDate": "2023-05-24T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "RMX",
+        "url": "https://partyflock.nl/party/453418:RMX",
+        "image": "https://partyflock.nl/images/party/453418_361x452_660080/RMX.jpg",
+        "startDate": {
+            "startDate": "2023-05-23T23:00:00+00:00",
+            "endDate": "2023-05-24T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/450595:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/450595_554x295_654091/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-05-23T23:30:00+00:00",
+            "endDate": "2023-05-24T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Irregular Synth",
+                "href": "/artist/85446:Irregular-Synth"
+            },
+            {
+                "name": "Sophie Bruin",
+                "href": "/artist/137327:Sophie-Bruin"
+            }
+        ]
+    }
+]
