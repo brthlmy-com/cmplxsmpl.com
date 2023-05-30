@@ -1,0 +1,137 @@
+[
+    {
+        "title": "CamelPhat",
+        "url": "https://partyflock.nl/party/451285:CamelPhat",
+        "image": "https://partyflock.nl/images/party/451285_539x303_659942/CamelPhat.jpg",
+        "startDate": {
+            "startDate": "2023-05-30T23:59:59+00:00",
+            "endDate": "2023-05-31T05:59:59+00:00"
+        },
+        "place": {
+            "name": "Pacha",
+            "city": "Ibiza",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "CamelPhat",
+                "href": "/artist/83000:CamelPhat"
+            },
+            {
+                "name": "Fideles",
+                "href": "/artist/102774:Fideles"
+            },
+            {
+                "name": "Kas:st",
+                "href": "/artist/108216:Kas-st"
+            }
+        ]
+    },
+    {
+        "title": "DIP #1",
+        "url": "https://partyflock.nl/party/452584:DIP",
+        "image": "https://partyflock.nl/images/party/452584_330x495_658538/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-05-30T23:00:00+00:00",
+            "endDate": "2023-05-31T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "A$TMA",
+                "href": "/artist/142097:ASTMA"
+            },
+            {
+                "name": "Ekte",
+                "href": "/artist/69838:Ekte"
+            },
+            {
+                "name": "Junior",
+                "href": "/artist/125006:Junior"
+            },
+            {
+                "name": "Ritchyzegthet",
+                "href": "/artist/154716:Ritchyzegthet"
+            },
+            {
+                "name": "Tone",
+                "href": "/artist/88025:Tone"
+            }
+        ]
+    },
+    {
+        "title": "Doe Maar Techno",
+        "url": "https://partyflock.nl/party/452367:Doe-Maar-Techno",
+        "image": "https://partyflock.nl/images/party/452367_511x319_658083/Doe-Maar-Techno.png",
+        "startDate": {
+            "startDate": "2023-05-30T23:00:00+00:00",
+            "endDate": "2023-05-31T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Examenfeesten",
+        "url": "https://partyflock.nl/party/452431:Examenfeesten",
+        "image": "https://partyflock.nl/images/party/452431_495x330_658166/Examenfeesten.jpg",
+        "startDate": {
+            "startDate": "2023-05-30T22:00:00+00:00",
+            "endDate": "2023-05-31T02:59:59+00:00"
+        },
+        "place": {
+            "name": "On The Rocks",
+            "city": "Zoetermeer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DAZERS",
+                "href": "/artist/92443:DAZERS"
+            },
+            {
+                "name": "Nick Averton",
+                "href": "/artist/96484:Nick-Averton"
+            },
+            {
+                "name": "Rowin Bocxe",
+                "href": "/artist/83828:Rowin-Bocxe"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/450596:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/450596_554x295_654092/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-05-30T23:30:00+00:00",
+            "endDate": "2023-05-31T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Joton",
+                "href": "/artist/36195:Joton"
+            },
+            {
+                "name": "Lizz V",
+                "href": "/artist/144974:Lizz-V"
+            }
+        ]
+    }
+]
