@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Examenfeesten",
+        "url": "https://partyflock.nl/party/452432:Examenfeesten",
+        "image": "https://partyflock.nl/images/party/452432_495x330_658166/Examenfeesten.jpg",
+        "startDate": {
+            "startDate": "2023-05-31T22:00:00+00:00",
+            "endDate": "2023-06-01T02:59:59+00:00"
+        },
+        "place": {
+            "name": "On The Rocks",
+            "city": "Zoetermeer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DAZERS",
+                "href": "/artist/92443:DAZERS"
+            },
+            {
+                "name": "Nick Averton",
+                "href": "/artist/96484:Nick-Averton"
+            },
+            {
+                "name": "Rowin Bocxe",
+                "href": "/artist/83828:Rowin-Bocxe"
+            }
+        ]
+    },
+    {
+        "title": "Froukje",
+        "url": "https://partyflock.nl/party/446168:Froukje",
+        "image": "https://partyflock.nl/images/party/446168_559x292_643413/Froukje.jpg",
+        "startDate": {
+            "startDate": "2023-05-31T19:30:00+00:00",
+            "endDate": "2023-05-31T19:29:59+00:00"
+        },
+        "place": {
+            "name": "Hedon",
+            "city": "Zwolle",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Froukje",
+                "href": "/artist/132323:Froukje"
+            }
+        ]
+    },
+    {
+        "title": "Kala Festival",
+        "url": "https://partyflock.nl/event/kala-festival-al",
+        "image": "https://partyflock.nl/images/party/444924_558x292_640030/Kala-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-05-31T18:00:00+00:00",
+            "endDate": "2023-06-07T05:59:59+00:00"
+        },
+        "place": {
+            "name": "The Cove",
+            "city": "Dhërmi",
+            "country": "Albanië"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Sticks",
+        "url": "https://partyflock.nl/party/448337:Sticks",
+        "image": "https://partyflock.nl/images/party/448337_560x291_648214/Sticks.jpg",
+        "startDate": {
+            "startDate": "2023-05-31T19:30:00+00:00",
+            "endDate": "2023-05-31T22:59:59+00:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sticks",
+                "href": "/artist/44738:Sticks"
+            }
+        ]
+    }
+]
