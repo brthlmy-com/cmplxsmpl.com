@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Harry Styles · Love On Tour",
+        "url": "https://partyflock.nl/party/439567:Harry-Styles",
+        "image": "https://partyflock.nl/images/party/439567_539x303_628659/Harry-Styles.jpg",
+        "startDate": {
+            "startDate": "2023-06-05T20:00:00+00:00",
+            "endDate": "2023-06-05T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Johan Cruijff ArenA",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Harry Styles",
+                "href": "/artist/105949:Harry-Styles"
+            },
+            {
+                "name": "Wet Leg",
+                "href": "/artist/144418:Wet-Leg"
+            }
+        ]
+    }
+]
