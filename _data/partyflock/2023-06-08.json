@@ -1,0 +1,346 @@
+[
+    {
+        "title": "Afro Amapiano Night",
+        "url": "https://partyflock.nl/party/450791:Afro-Amapiano-Night",
+        "image": "https://partyflock.be/images/party/450791_559x292_654483/Afro-Amapiano-Night.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T22:00:00+00:00",
+            "endDate": "2023-06-09T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Rare",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Louis Moon",
+                "href": "/artist/142966:Louis-Moon"
+            }
+        ]
+    },
+    {
+        "title": "Dorpsfeest Goutum",
+        "url": "https://partyflock.nl/event/dorpsfeest-goutum-nl",
+        "startDate": {
+            "startDate": "2023-06-08T10:00:00+00:00",
+            "endDate": "2023-06-09T00:29:59+00:00"
+        },
+        "place": {
+            "name": "Festivalterrein Goutum",
+            "city": "Goutum",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DI-RECT",
+                "href": "/artist/77018:DI-RECT"
+            },
+            {
+                "name": "Jerke",
+                "href": "/artist/162828:Jerke"
+            },
+            {
+                "name": "Joël Borelli",
+                "href": "/artist/81534:Joel-Borelli"
+            },
+            {
+                "name": "Pascal Redeker",
+                "href": "/artist/82023:Pascal-Redeker"
+            }
+        ]
+    },
+    {
+        "title": "EAST · Techno Collective",
+        "url": "https://partyflock.nl/party/455045:EAST",
+        "image": "https://partyflock.nl/images/party/455045_558x292_662810/EAST.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T22:00:00+00:00",
+            "endDate": "2023-06-09T02:59:59+00:00"
+        },
+        "place": {
+            "name": "NL",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Driesse",
+                "href": "/artist/62891:Driesse"
+            },
+            {
+                "name": "Lady Lanter",
+                "href": "/artist/160291:Lady-Lanter"
+            },
+            {
+                "name": "Marion C",
+                "href": "/artist/144233:Marion-C"
+            }
+        ]
+    },
+    {
+        "title": "Freaky Thursday",
+        "url": "https://partyflock.nl/party/451642:Freaky-Thursday",
+        "image": "https://partyflock.nl/images/party/451642_495x330_654424/Freaky-Thursday.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T23:00:00+00:00",
+            "endDate": "2023-06-09T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/455097:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/455097_558x292_661832/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T23:30:00+00:00",
+            "endDate": "2023-06-09T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Werfkelder",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "APRD",
+                "href": "/artist/158974:APRD"
+            },
+            {
+                "name": "Bas",
+                "href": "/artist/147017:Bas"
+            },
+            {
+                "name": "Onkiehong",
+                "href": "/artist/157431:Onkiehong"
+            },
+            {
+                "name": "PELLIS",
+                "href": "/artist/126577:PELLIS"
+            }
+        ]
+    },
+    {
+        "title": "Homebase · Delinquent Habits + Deejay Irie",
+        "url": "https://partyflock.nl/party/451040:Homebase",
+        "image": "https://partyflock.nl/images/party/451040_495x330_655062/Homebase.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T20:00:00+00:00",
+            "endDate": "2023-06-08T19:59:59+00:00"
+        },
+        "place": {
+            "name": "Simplon",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Delinquent Habits",
+                "href": "/artist/64765:Delinquent-Habits"
+            },
+            {
+                "name": "Irie",
+                "href": "/artist/26568:Irie"
+            }
+        ]
+    },
+    {
+        "title": "Latin Thursdays",
+        "url": "https://partyflock.nl/party/452321:Latin-Thursdays",
+        "image": "https://partyflock.nl/images/party/452321_672x243_655807/Latin-Thursdays.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T20:00:00+00:00",
+            "endDate": "2023-06-08T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Garden of BIRD",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mañana Mañana",
+        "url": "https://partyflock.nl/party/452876:Manana-Manana",
+        "image": "https://partyflock.nl/images/party/452876_557x293_659312/Manana-Manana.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T17:00:00+00:00",
+            "endDate": "2023-06-08T23:59:59+00:00"
+        },
+        "place": {
+            "name": "Landgoed Oolde",
+            "city": "Laren",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bastian Benjamin",
+                "href": "/artist/129235:Bastian-Benjamin"
+            },
+            {
+                "name": "Björn van der Doelen",
+                "href": "/artist/124809:Bjorn-van-der-Doelen"
+            },
+            {
+                "name": "Coolio Iglesias",
+                "href": "/artist/160874:Coolio-Iglesias"
+            },
+            {
+                "name": "Def Americans",
+                "href": "/artist/110396:Def-Americans"
+            },
+            {
+                "name": "Hallo Venray",
+                "href": "/artist/96413:Hallo-Venray"
+            },
+            {
+                "name": "Itshe",
+                "href": "/artist/112278:Itshe"
+            },
+            {
+                "name": "Lena Hessels",
+                "href": "/artist/128001:Lena-Hessels"
+            },
+            {
+                "name": "Lo Poloko",
+                "href": "/artist/160250:Lo-Poloko"
+            },
+            {
+                "name": "Nerds With Acid",
+                "href": "/artist/88039:Nerds-With-Acid"
+            },
+            {
+                "name": "Rave train",
+                "href": "/artist/96485:Rave-train"
+            },
+            {
+                "name": "Shamzon",
+                "href": "/artist/160074:Shamzon"
+            },
+            {
+                "name": "Teddy's Hit",
+                "href": "/artist/138912:Teddys-Hit"
+            },
+            {
+                "name": "The 925",
+                "href": "/artist/160890:The-925"
+            },
+            {
+                "name": "Trap",
+                "href": "/artist/14214:Trap"
+            },
+            {
+                "name": "Zook",
+                "href": "/artist/160891:Zook"
+            }
+        ]
+    },
+    {
+        "title": "Off The Radar · Phone Free Event",
+        "url": "https://partyflock.nl/party/452720:Off-The-Radar",
+        "image": "https://partyflock.nl/images/party/452720_571x286_658896/Off-The-Radar.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T21:00:00+00:00",
+            "endDate": "2023-06-09T02:59:59+00:00"
+        },
+        "place": {
+            "name": "Smederij",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bouclée",
+                "href": "/artist/145267:Bouclee"
+            },
+            {
+                "name": "Djordin Sinay",
+                "href": "/artist/143362:Djordin-Sinay"
+            },
+            {
+                "name": "Gio Goose",
+                "href": "/artist/88068:Gio-Goose"
+            },
+            {
+                "name": "Last Snooze",
+                "href": "/artist/160754:Last-Snooze"
+            },
+            {
+                "name": "Tito",
+                "href": "/artist/40456:Tito"
+            }
+        ]
+    },
+    {
+        "title": "Stichting Sinus · De Week van Drift - Go Short",
+        "url": "https://partyflock.nl/party/452510:Stichting-Sinus",
+        "image": "https://partyflock.nl/images/party/452510_558x292_658329/Stichting-Sinus.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T19:30:00+00:00",
+            "endDate": "2023-06-08T23:29:59+00:00"
+        },
+        "place": {
+            "name": "Hubert",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Kessler",
+                "href": "/artist/142938:Kessler"
+            }
+        ]
+    },
+    {
+        "title": "Storm · Limited Edition",
+        "url": "https://partyflock.nl/party/454230:Storm",
+        "image": "https://partyflock.nl/images/party/454230_543x300_661315/Storm.png",
+        "startDate": {
+            "startDate": "2023-06-08T23:00:00+00:00",
+            "endDate": "2023-06-09T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Up",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ian Storm",
+                "href": "/artist/141252:Ian-Storm"
+            },
+            {
+                "name": "Jøase",
+                "href": "/artist/154494:Joase"
+            },
+            {
+                "name": "Lume",
+                "href": "/artist/156487:Lume"
+            },
+            {
+                "name": "Siëndo",
+                "href": "/artist/161964:Siendo"
+            }
+        ]
+    },
+    {
+        "title": "Twist",
+        "url": "https://partyflock.nl/party/454902:Twist",
+        "image": "https://partyflock.nl/images/party/454902_655x249_646770/Twist.jpg",
+        "startDate": {
+            "startDate": "2023-06-08T23:00:00+00:00",
+            "endDate": "2023-06-09T03:59:59+00:00"
+        },
+        "place": {
+            "name": "AIR",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
