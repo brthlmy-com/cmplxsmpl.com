@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Cheeky Monday · Membrain Festival Launch Party",
+        "url": "https://partyflock.nl/event/cheeky-monday-nl",
+        "image": "https://partyflock.be/images/party/455065_539x303_662856/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-06-12T23:00:00+00:00",
+            "endDate": "2023-06-13T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "Creatures DnB",
+                "href": "/artist/129113:Creatures-DnB"
+            },
+            {
+                "name": "Kolectiv",
+                "href": "/artist/162900:Kolectiv"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Ob-1",
+                "href": "/artist/93512:Ob-1"
+            },
+            {
+                "name": "Rebel Music",
+                "href": "/artist/162901:Rebel-Music"
+            },
+            {
+                "name": "ZeroZero",
+                "href": "/artist/84029:ZeroZero"
+            }
+        ]
+    },
+    {
+        "title": "Circoloco",
+        "url": "https://partyflock.nl/party/448676:Circoloco",
+        "image": "https://partyflock.nl/images/party/448676_558x292_655748/Circoloco.jpg",
+        "startDate": {
+            "startDate": "2023-06-12T18:00:00+00:00",
+            "endDate": "2023-06-13T06:59:59+00:00"
+        },
+        "place": {
+            "name": "DC10",
+            "city": "Sant Jordi de ses Salines",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Adriatique",
+                "href": "/artist/69384:Adriatique"
+            },
+            {
+                "name": "AIDA",
+                "href": "/artist/159888:AIDA"
+            },
+            {
+                "name": "Cici",
+                "href": "/artist/154947:Cici"
+            },
+            {
+                "name": "Curses",
+                "href": "/artist/102066:Curses"
+            },
+            {
+                "name": "Major League Djz",
+                "href": "/artist/117914:Major-League-Djz"
+            },
+            {
+                "name": "Mano le Tough",
+                "href": "/artist/62719:Mano-le-Tough"
+            },
+            {
+                "name": "Pretty Girl",
+                "href": "/artist/158492:Pretty-Girl"
+            },
+            {
+                "name": "Protein",
+                "href": "/artist/159887:Protein"
+            },
+            {
+                "name": "Rony Seikaly",
+                "href": "/artist/79789:Rony-Seikaly"
+            },
+            {
+                "name": "Seinfeld",
+                "href": "/artist/98798:Seinfeld"
+            },
+            {
+                "name": "Sossa",
+                "href": "/artist/54965:Sossa"
+            },
+            {
+                "name": "Sven Väth",
+                "href": "/artist/191:Sven-Vath"
+            },
+            {
+                "name": "Tennis",
+                "href": "/artist/66503:Tennis"
+            },
+            {
+                "name": "The Blessed Madonna",
+                "href": "/artist/136209:The-Blessed-Madonna"
+            },
+            {
+                "name": "VTSS",
+                "href": "/artist/116525:VTSS"
+            }
+        ]
+    },
+    {
+        "title": "Gumball 3000 afterparty",
+        "url": "https://partyflock.nl/party/454912:Gumball-3000-afterparty",
+        "image": "https://partyflock.nl/images/party/454912_361x452_662395/Gumball-3000-afterparty.png",
+        "startDate": {
+            "startDate": "2023-06-12T23:00:00+00:00",
+            "endDate": "2023-06-13T03:59:59+00:00"
+        },
+        "place": {
+            "name": "AIR",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hans Zimmer",
+        "url": "https://partyflock.nl/party/450063:Hans-Zimmer",
+        "image": "https://partyflock.nl/images/party/450063_558x292_652541/Hans-Zimmer.jpg",
+        "startDate": {
+            "startDate": "2023-06-12T18:30:00+00:00",
+            "endDate": "2023-06-12T18:29:59+00:00"
+        },
+        "place": {
+            "name": "Ahoy",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Hans Zimmer",
+                "href": "/artist/151002:Hans-Zimmer"
+            }
+        ]
+    },
+    {
+        "title": "KISS · End Of The Road World Tour",
+        "url": "https://partyflock.nl/party/445432:KISS",
+        "image": "https://partyflock.nl/images/party/445432_539x303_641423/KISS.jpg",
+        "startDate": {
+            "startDate": "2023-06-12T20:00:00+00:00",
+            "endDate": "2023-06-12T19:59:59+00:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
