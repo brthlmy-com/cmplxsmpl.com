@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/455068:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/455068_539x303_662856/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-06-19T23:00:00+00:00",
+            "endDate": "2023-06-20T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Iching",
+                "href": "/artist/140514:Iching"
+            },
+            {
+                "name": "JFB",
+                "href": "/artist/64616:JFB"
+            },
+            {
+                "name": "Lynn Drumm",
+                "href": "/artist/103367:Lynn-Drumm"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Red Lebanon",
+                "href": "/artist/70989:Red-Lebanon"
+            },
+            {
+                "name": "Spectra T",
+                "href": "/artist/149622:Spectra-T"
+            }
+        ]
+    },
+    {
+        "title": "Horeca Beachvolley",
+        "url": "https://partyflock.nl/party/447748:Horeca-Beachvolley",
+        "image": "https://partyflock.nl/images/party/447748_559x292_646875/Horeca-Beachvolley.jpg",
+        "startDate": {
+            "startDate": "2023-06-19T11:30:00+00:00",
+            "endDate": "2023-06-19T11:29:59+00:00"
+        },
+        "place": {
+            "name": "Klein Scheveningen",
+            "city": "Lopikerkapel",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Tricky",
+        "url": "https://partyflock.nl/party/455753:Tricky",
+        "image": "https://partyflock.nl/images/party/455753_539x303_658091/Tricky.png",
+        "startDate": {
+            "startDate": "2023-06-19T23:00:00+00:00",
+            "endDate": "2023-06-20T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
