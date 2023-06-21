@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Latincafé Dox",
+        "url": "https://partyflock.nl/party/452795:Latincafe-Dox",
+        "image": "https://partyflock.nl/images/party/452795_495x330_659150/Latincafe-Dox.jpg",
+        "startDate": {
+            "startDate": "2023-06-21T20:30:00+00:00",
+            "endDate": "2023-06-21T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Café Dox",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Donnie",
+                "href": "/artist/84535:Donnie"
+            }
+        ]
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/455758:Wazig",
+        "image": "https://partyflock.nl/images/party/455758_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-06-21T23:00:00+00:00",
+            "endDate": "2023-06-22T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
