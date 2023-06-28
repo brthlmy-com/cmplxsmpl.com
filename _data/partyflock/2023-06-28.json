@@ -1,0 +1,187 @@
+[
+    {
+        "title": "Balaton Sound",
+        "url": "https://partyflock.nl/event/balaton-sound-hu",
+        "image": "https://partyflock.nl/images/party/436643_539x303_647784/Balaton-Sound.jpg",
+        "startDate": {
+            "startDate": "2023-06-28T16:00:00+00:00",
+            "endDate": "2023-06-29T05:59:59+00:00"
+        },
+        "place": {
+            "name": "Balaton Beach",
+            "city": "Zamárdi",
+            "country": "Hongarije"
+        },
+        "lineup": [
+            {
+                "name": "Andrea Lane",
+                "href": "/artist/111997:Andrea-Lane"
+            },
+            {
+                "name": "Bernathy Zsiga",
+                "href": "/artist/70235:Bernathy-Zsiga"
+            },
+            {
+                "name": "Charlotte de Witte",
+                "href": "/artist/91272:Charlotte-de-Witte"
+            },
+            {
+                "name": "Claptone",
+                "href": "/artist/69897:Claptone"
+            },
+            {
+                "name": "Dave Wincent",
+                "href": "/artist/159581:Dave-Wincent"
+            },
+            {
+                "name": "Enrico Sangiuliano",
+                "href": "/artist/70100:Enrico-Sangiuliano"
+            },
+            {
+                "name": "Ferreck Dawn",
+                "href": "/artist/33370:Ferreck-Dawn"
+            },
+            {
+                "name": "Garay",
+                "href": "/artist/123555:Garay"
+            },
+            {
+                "name": "Hardwell",
+                "href": "/artist/21343:Hardwell"
+            },
+            {
+                "name": "Indira Paganotto",
+                "href": "/artist/139369:Indira-Paganotto"
+            },
+            {
+                "name": "Jaffa Surfa",
+                "href": "/artist/57526:Jaffa-Surfa"
+            },
+            {
+                "name": "Jeremy Olander",
+                "href": "/artist/61203:Jeremy-Olander"
+            },
+            {
+                "name": "Kitti Kay",
+                "href": "/artist/159582:Kitti-Kay"
+            },
+            {
+                "name": "KSHMR",
+                "href": "/artist/83255:KSHMR"
+            },
+            {
+                "name": "Kungs",
+                "href": "/artist/94663:Kungs"
+            },
+            {
+                "name": "Lenny Lenoks",
+                "href": "/artist/159584:Lenny-Lenoks"
+            },
+            {
+                "name": "Mateo & Spirit",
+                "href": "/artist/121153:Mateo-and-Spirit"
+            },
+            {
+                "name": "Nora En Pure",
+                "href": "/artist/80129:Nora-En-Pure"
+            },
+            {
+                "name": "NTO",
+                "href": "/artist/67322:NTO"
+            },
+            {
+                "name": "Octile",
+                "href": "/artist/159583:Octile"
+            },
+            {
+                "name": "Poli",
+                "href": "/artist/57552:Poli"
+            },
+            {
+                "name": "Raul Young",
+                "href": "/artist/144235:Raul-Young"
+            },
+            {
+                "name": "Riton",
+                "href": "/artist/48041:Riton"
+            },
+            {
+                "name": "Sébastien Léger",
+                "href": "/artist/10242:Sebastien-Leger"
+            },
+            {
+                "name": "Tini Gessler",
+                "href": "/artist/94473:Tini-Gessler"
+            },
+            {
+                "name": "Yves V",
+                "href": "/artist/42633:Yves-V"
+            }
+        ]
+    },
+    {
+        "title": "Dimitri Vegas & Like Mike",
+        "url": "https://partyflock.nl/party/449940:Dimitri-Vegas-and-Like-Mike",
+        "image": "https://partyflock.nl/images/party/449940_404x404_652256/Dimitri-Vegas-and-Like-Mike.jpg",
+        "startDate": {
+            "startDate": "2023-06-28T17:00:00+00:00",
+            "endDate": "2023-06-28T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Adam Sellouk",
+                "href": "/artist/161103:Adam-Sellouk"
+            },
+            {
+                "name": "Dimitri Vegas & Like Mike",
+                "href": "/artist/51516:Dimitri-Vegas-and-Like-Mike"
+            },
+            {
+                "name": "Lost Frequencies",
+                "href": "/artist/86487:Lost-Frequencies"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "Öwnboss",
+                "href": "/artist/142775:Ownboss"
+            }
+        ]
+    },
+    {
+        "title": "Fusion Festival",
+        "url": "https://partyflock.nl/event/fusion-festival-de",
+        "startDate": {
+            "startDate": "2023-06-28T12:00:00+00:00",
+            "endDate": "2023-07-02T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Kulturkosmos Müritz",
+            "city": "Lärz",
+            "country": "Duitsland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/455761:Wazig",
+        "image": "https://partyflock.nl/images/party/455761_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-06-28T23:00:00+00:00",
+            "endDate": "2023-06-29T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
