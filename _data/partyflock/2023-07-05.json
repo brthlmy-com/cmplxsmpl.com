@@ -1,0 +1,179 @@
+[
+    {
+        "title": "Electric Love",
+        "url": "https://partyflock.nl/event/electric-love-at",
+        "image": "https://partyflock.nl/images/party/456729_558x292_629081/Electric-Love.jpg",
+        "startDate": {
+            "startDate": "2023-07-05T18:00:00+00:00",
+            "endDate": "2023-07-06T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Festivalterrein Salzburgring",
+            "city": "Plainfeld",
+            "country": "Oostenrijk"
+        },
+        "lineup": [
+            {
+                "name": "Dominique Jardin",
+                "href": "/artist/120214:Dominique-Jardin"
+            },
+            {
+                "name": "Don Huaba",
+                "href": "/artist/164306:Don-Huaba"
+            },
+            {
+                "name": "Felice",
+                "href": "/artist/99438:Felice"
+            },
+            {
+                "name": "Finch",
+                "href": "/artist/123101:Finch"
+            },
+            {
+                "name": "HBz",
+                "href": "/artist/133649:HBz"
+            },
+            {
+                "name": "Mausio",
+                "href": "/artist/94709:Mausio"
+            },
+            {
+                "name": "Medun",
+                "href": "/artist/113281:Medun"
+            },
+            {
+                "name": "OBS",
+                "href": "/artist/56073:OBS"
+            },
+            {
+                "name": "Ran-D",
+                "href": "/artist/1685:Ran-D"
+            },
+            {
+                "name": "TWO KINX",
+                "href": "/artist/101078:TWO-KINX"
+            }
+        ]
+    },
+    {
+        "title": "FISHER",
+        "url": "https://partyflock.nl/party/453488:FISHER",
+        "image": "https://partyflock.nl/images/party/453488_558x292_660256/FISHER.jpg",
+        "startDate": {
+            "startDate": "2023-07-05T23:30:00+00:00",
+            "endDate": "2023-07-05T23:29:59+00:00"
+        },
+        "place": {
+            "name": "Hï Ibiza",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Airrica",
+                "href": "/artist/146361:Airrica"
+            },
+            {
+                "name": "EFFY",
+                "href": "/artist/133906:EFFY"
+            },
+            {
+                "name": "Fisher",
+                "href": "/artist/117761:Fisher"
+            },
+            {
+                "name": "John Summit",
+                "href": "/artist/136229:John-Summit"
+            },
+            {
+                "name": "Mall Grab",
+                "href": "/artist/97462:Mall-Grab"
+            },
+            {
+                "name": "Sosa",
+                "href": "/artist/127096:Sosa"
+            },
+            {
+                "name": "Vintage Culture",
+                "href": "/artist/89291:Vintage-Culture"
+            }
+        ]
+    },
+    {
+        "title": "New Faces",
+        "url": "https://partyflock.nl/party/455353:New-Faces",
+        "image": "https://partyflock.nl/images/party/455353_539x303_663215/New-Faces.jpg",
+        "startDate": {
+            "startDate": "2023-07-05T23:00:00+00:00",
+            "endDate": "2023-07-06T08:59:59+00:00"
+        },
+        "place": {
+            "name": "Tresor Club",
+            "city": "Berlijn",
+            "country": "Duitsland"
+        },
+        "lineup": [
+            {
+                "name": "BRND",
+                "href": "/artist/163052:BRND"
+            },
+            {
+                "name": "Marina George",
+                "href": "/artist/163051:Marina-George"
+            },
+            {
+                "name": "OFF/GRID",
+                "href": "/artist/163048:OFF-GRID"
+            },
+            {
+                "name": "Tante Emma",
+                "href": "/artist/163046:Tante-Emma"
+            }
+        ]
+    },
+    {
+        "title": "Sun Chasers",
+        "url": "https://partyflock.nl/party/456008:Sun-Chasers",
+        "image": "https://partyflock.nl/images/party/456008_539x303_664300/Sun-Chasers.jpg",
+        "startDate": {
+            "startDate": "2023-07-05T19:00:00+00:00",
+            "endDate": "2023-07-05T23:59:59+00:00"
+        },
+        "place": {
+            "name": "W Amsterdam",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Village People Café · Voor Jou",
+        "url": "https://partyflock.nl/party/438279:Village-People-Cafe",
+        "image": "https://partyflock.nl/images/party/438279_557x293_625919/Village-People-Cafe.jpg",
+        "startDate": {
+            "startDate": "2023-07-05T19:00:00+00:00",
+            "endDate": "2023-07-05T20:59:59+00:00"
+        },
+        "place": {
+            "name": "MESS",
+            "city": "Harderwijk",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/455762:Wazig",
+        "image": "https://partyflock.nl/images/party/455762_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-07-05T23:00:00+00:00",
+            "endDate": "2023-07-06T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
