@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Guns N' Roses",
+        "url": "https://partyflock.nl/party/449627:Guns-N-Roses",
+        "image": "https://partyflock.nl/images/party/449627_558x293_651545/Guns-N-Roses.jpg",
+        "startDate": {
+            "startDate": "2023-07-11T17:30:00+00:00",
+            "endDate": "2023-07-11T17:29:59+00:00"
+        },
+        "place": {
+            "name": "Megaland",
+            "city": "Schaesberg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Guns 'N Roses",
+                "href": "/artist/128910:Guns-N-Roses"
+            }
+        ]
+    },
+    {
+        "title": "Hitklup",
+        "url": "https://partyflock.nl/party/450660:Hitklup",
+        "image": "https://partyflock.nl/images/party/450660_457x357_654272/Hitklup.jpg",
+        "startDate": {
+            "startDate": "2023-07-11T19:00:00+00:00",
+            "endDate": "2023-07-11T18:59:59+00:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Anneke van Giersbergen",
+                "href": "/artist/130782:Anneke-van-Giersbergen"
+            },
+            {
+                "name": "Ir. Vendermeulen",
+                "href": "/artist/57116:Ir-Vendermeulen"
+            },
+            {
+                "name": "Mieke Stemerdink",
+                "href": "/artist/115842:Mieke-Stemerdink"
+            },
+            {
+                "name": "Monique Klemann",
+                "href": "/artist/116542:Monique-Klemann"
+            },
+            {
+                "name": "Peter Koelewijn",
+                "href": "/artist/117426:Peter-Koelewijn"
+            },
+            {
+                "name": "Rayen Panday",
+                "href": "/artist/139354:Rayen-Panday"
+            },
+            {
+                "name": "Sofie Winterson",
+                "href": "/artist/94377:Sofie-Winterson"
+            }
+        ]
+    },
+    {
+        "title": "Iron Maiden · The Future Past Tour",
+        "url": "https://partyflock.nl/party/441576:Iron-Maiden",
+        "image": "https://partyflock.nl/images/party/441576_558x292_632241/Iron-Maiden.jpg",
+        "startDate": {
+            "startDate": "2023-07-11T20:00:00+00:00",
+            "endDate": "2023-07-11T19:59:59+00:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Iron Maiden",
+                "href": "/artist/154370:Iron-Maiden"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/455346:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/455346_403x405_664374/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-07-11T23:30:00+00:00",
+            "endDate": "2023-07-12T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AHIL",
+                "href": "/artist/158784:AHIL"
+            },
+            {
+                "name": "Boryana",
+                "href": "/artist/103454:Boryana"
+            },
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Digitalistik",
+                "href": "/artist/80971:Digitalistik"
+            }
+        ]
+    },
+    {
+        "title": "Tunesday",
+        "url": "https://partyflock.nl/party/456924:Tunesday",
+        "image": "https://partyflock.nl/images/party/456924_495x330_666170/Tunesday.jpg",
+        "startDate": {
+            "startDate": "2023-07-11T23:00:00+00:00",
+            "endDate": "2023-07-12T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
