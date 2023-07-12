@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Dour festival",
+        "url": "https://partyflock.nl/event/dour-festival-be",
+        "image": "https://partyflock.nl/images/party/441995_539x303_632928/Dour-festival.jpg",
+        "startDate": {
+            "startDate": "2023-07-12T19:00:00+00:00",
+            "endDate": "2023-07-13T02:59:59+00:00"
+        },
+        "place": {
+            "name": "Festivalterrein",
+            "city": "Dour",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Acid Arab",
+                "href": "/artist/82730:Acid-Arab"
+            },
+            {
+                "name": "Aleksandir",
+                "href": "/artist/137804:Aleksandir"
+            },
+            {
+                "name": "Boys Noize",
+                "href": "/artist/31734:Boys-Noize"
+            },
+            {
+                "name": "Fadime Hodes",
+                "href": "/artist/126072:Fadime-Hodes"
+            },
+            {
+                "name": "Geeeko",
+                "href": "/artist/164867:Geeeko"
+            },
+            {
+                "name": "Khali",
+                "href": "/artist/159475:Khali"
+            },
+            {
+                "name": "Klangkuenstler",
+                "href": "/artist/71799:Klangkuenstler"
+            },
+            {
+                "name": "L'Impératrice",
+                "href": "/artist/108333:LImperatrice"
+            },
+            {
+                "name": "Malaa",
+                "href": "/artist/90788:Malaa"
+            },
+            {
+                "name": "Mama Snake",
+                "href": "/artist/102571:Mama-Snake"
+            },
+            {
+                "name": "Meg-Beg",
+                "href": "/artist/111290:Meg-Beg"
+            },
+            {
+                "name": "Nico Moreno",
+                "href": "/artist/104293:Nico-Moreno"
+            },
+            {
+                "name": "Serpent",
+                "href": "/artist/164868:Serpent"
+            },
+            {
+                "name": "Simon Medard",
+                "href": "/artist/164866:Simon-Medard"
+            },
+            {
+                "name": "Trikk",
+                "href": "/artist/75233:Trikk"
+            },
+            {
+                "name": "Tukan",
+                "href": "/artist/140569:Tukan"
+            },
+            {
+                "name": "Zola",
+                "href": "/artist/76153:Zola"
+            }
+        ]
+    },
+    {
+        "title": "Royal Park Live",
+        "url": "https://partyflock.nl/party/456099:Royal-Park-Live",
+        "image": "https://partyflock.nl/images/party/456099_558x292_664461/Royal-Park-Live.jpg",
+        "startDate": {
+            "startDate": "2023-07-12T16:00:00+00:00",
+            "endDate": "2023-07-12T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Paleis Soestdijk",
+            "city": "Baarn",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Eros Ramazzotti",
+                "href": "/artist/163788:Eros-Ramazzotti"
+            }
+        ]
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/456816:Wazig",
+        "image": "https://partyflock.nl/images/party/456816_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-07-12T23:00:00+00:00",
+            "endDate": "2023-07-13T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
