@@ -1,0 +1,477 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/457175:Cheeky-Monday",
+        "image": "https://partyflock.be/images/party/457175_539x303_666553/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T23:00:00+00:00",
+            "endDate": "2023-07-25T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gibbo",
+                "href": "/artist/65258:Gibbo"
+            },
+            {
+                "name": "Karimooo",
+                "href": "/artist/59433:Karimooo"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Nixus",
+                "href": "/artist/87414:Nixus"
+            },
+            {
+                "name": "Pythius",
+                "href": "/artist/60715:Pythius"
+            }
+        ]
+    },
+    {
+        "title": "Circoloco",
+        "url": "https://partyflock.nl/party/448682:Circoloco",
+        "image": "https://partyflock.nl/images/party/448682_404x404_655764/Circoloco.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T18:00:00+00:00",
+            "endDate": "2023-07-25T06:59:59+00:00"
+        },
+        "place": {
+            "name": "DC10",
+            "city": "Sant Jordi de ses Salines",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "&ME",
+                "href": "/artist/64731:ME"
+            },
+            {
+                "name": "Adriatique",
+                "href": "/artist/69384:Adriatique"
+            },
+            {
+                "name": "Carlita",
+                "href": "/artist/128756:Carlita"
+            },
+            {
+                "name": "Cici",
+                "href": "/artist/154947:Cici"
+            },
+            {
+                "name": "Cristi Cons",
+                "href": "/artist/67463:Cristi-Cons"
+            },
+            {
+                "name": "Cumhur Jay",
+                "href": "/artist/146968:Cumhur-Jay"
+            },
+            {
+                "name": "Dan Andrei",
+                "href": "/artist/56741:Dan-Andrei"
+            },
+            {
+                "name": "Dixon",
+                "href": "/artist/13328:Dixon"
+            },
+            {
+                "name": "Luciano",
+                "href": "/artist/9129:Luciano"
+            },
+            {
+                "name": "Nina Kraviz",
+                "href": "/artist/40011:Nina-Kraviz"
+            },
+            {
+                "name": "Peggy Gou",
+                "href": "/artist/99043:Peggy-Gou"
+            },
+            {
+                "name": "Rampa",
+                "href": "/artist/60006:Rampa"
+            },
+            {
+                "name": "Saoirse",
+                "href": "/artist/101178:Saoirse"
+            },
+            {
+                "name": "Seinfeld",
+                "href": "/artist/98798:Seinfeld"
+            },
+            {
+                "name": "Skepta",
+                "href": "/artist/27775:Skepta"
+            },
+            {
+                "name": "Sossa",
+                "href": "/artist/54965:Sossa"
+            },
+            {
+                "name": "Tania Vulcano",
+                "href": "/artist/14394:Tania-Vulcano"
+            },
+            {
+                "name": "VTSS",
+                "href": "/artist/116525:VTSS"
+            }
+        ]
+    },
+    {
+        "title": "Day & Night Festival",
+        "url": "https://partyflock.nl/event/day-night-festival-hr",
+        "image": "https://partyflock.nl/images/party/441788_404x404_632571/Day-and-Night-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T12:00:00+00:00",
+            "endDate": "2023-07-27T11:59:59+00:00"
+        },
+        "place": {
+            "name": "Zrce beach",
+            "city": "Novalja",
+            "country": "Kroatië"
+        },
+        "lineup": []
+    },
+    {
+        "title": "HERRiE MET GERRiE · Roze Maandag Editie",
+        "url": "https://partyflock.nl/party/452772:HERRiE-MET-GERRiE",
+        "image": "https://partyflock.nl/images/party/452772_557x293_659052/HERRiE-MET-GERRiE.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T16:00:00+00:00",
+            "endDate": "2023-07-24T23:59:59+00:00"
+        },
+        "place": {
+            "name": "Doloris",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Het grootste indoor festival van Roze Maandag",
+        "url": "https://partyflock.nl/event/het-grootste-indoor-festival-van-roze-maandag-nl",
+        "image": "https://partyflock.nl/images/party/436851_590x277_623405/Het-grootste-indoor-festival-van-Roze-Maandag.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T18:00:00+00:00",
+            "endDate": "2023-07-25T02:59:59+00:00"
+        },
+        "place": {
+            "name": "PKHS",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Blxck Nola",
+                "href": "/artist/165206:Blxck-Nola"
+            },
+            {
+                "name": "Charlie Blue",
+                "href": "/artist/116703:Charlie-Blue"
+            },
+            {
+                "name": "Kimberlee Ramirez",
+                "href": "/artist/61262:Kimberlee-Ramirez"
+            },
+            {
+                "name": "Latu",
+                "href": "/artist/93758:Latu"
+            },
+            {
+                "name": "Lisa Louise",
+                "href": "/artist/139649:Lisa-Louise"
+            },
+            {
+                "name": "Maria de Lima",
+                "href": "/artist/143408:Maria-de-Lima"
+            },
+            {
+                "name": "Shug la Sheedah",
+                "href": "/artist/64711:Shug-la-Sheedah"
+            }
+        ]
+    },
+    {
+        "title": "Holy Pink",
+        "url": "https://partyflock.nl/party/457231:Holy-Pink",
+        "image": "https://partyflock.nl/images/party/457231_361x452_666640/Holy-Pink.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T13:00:00+00:00",
+            "endDate": "2023-07-25T00:59:59+00:00"
+        },
+        "place": {
+            "name": "Muzentuin",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "CCL",
+                "href": "/artist/119861:CCL"
+            },
+            {
+                "name": "CEM",
+                "href": "/artist/104920:CEM"
+            },
+            {
+                "name": "Ki/Ki",
+                "href": "/artist/106679:Ki-Ki"
+            },
+            {
+                "name": "Kikelomo",
+                "href": "/artist/143533:Kikelomo"
+            },
+            {
+                "name": "L U C Y",
+                "href": "/artist/130352:L-U-C-Y"
+            },
+            {
+                "name": "Nazira",
+                "href": "/artist/112728:Nazira"
+            },
+            {
+                "name": "OK Williams",
+                "href": "/artist/130207:OK-Williams"
+            },
+            {
+                "name": "Stella Zekri",
+                "href": "/artist/154704:Stella-Zekri"
+            }
+        ]
+    },
+    {
+        "title": "ICONIC · Queer Pop Party (Roze Maandag Special)",
+        "url": "https://partyflock.nl/party/456450:ICONIC",
+        "image": "https://partyflock.nl/images/party/456450_558x292_664861/ICONIC.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T23:00:00+00:00",
+            "endDate": "2023-07-25T03:59:59+00:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "LGBT_ECHNØ · Day 'N Night rave × Roze maandag",
+        "url": "https://partyflock.nl/party/455137:LGBT_ECHNO",
+        "image": "https://partyflock.nl/images/party/455137_303x538_663014/LGBT_ECHNO.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T19:00:00+00:00",
+            "endDate": "2023-07-25T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Qwibus",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Axtrpo",
+                "href": "/artist/162953:Axtrpo"
+            },
+            {
+                "name": "Biønic Bambï",
+                "href": "/artist/158515:Bionic-Bambi"
+            },
+            {
+                "name": "Blue Rabbits",
+                "href": "/artist/158514:Blue-Rabbits"
+            },
+            {
+                "name": "Claudiu",
+                "href": "/artist/12719:Claudiu"
+            },
+            {
+                "name": "Kahorsa",
+                "href": "/artist/162954:Kahorsa"
+            },
+            {
+                "name": "Laduch",
+                "href": "/artist/129195:Laduch"
+            },
+            {
+                "name": "Nomon",
+                "href": "/artist/142150:Nomon"
+            },
+            {
+                "name": "RUL3",
+                "href": "/artist/156502:RUL3"
+            }
+        ]
+    },
+    {
+        "title": "Monday",
+        "url": "https://partyflock.nl/party/457185:Monday",
+        "startDate": {
+            "startDate": "2023-07-24T22:00:00+00:00",
+            "endDate": "2023-07-25T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Road Show · Roze maandag",
+        "url": "https://partyflock.nl/event/road-show-nl",
+        "image": "https://partyflock.nl/images/party/450396_664x246_653483/Road-Show.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T15:00:00+00:00",
+            "endDate": "2023-07-25T00:59:59+00:00"
+        },
+        "place": {
+            "name": "Spoorzone 013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bart van Dishoeck",
+                "href": "/artist/123897:Bart-van-Dishoeck"
+            },
+            {
+                "name": "Bontgenoot",
+                "href": "/artist/100790:Bontgenoot"
+            },
+            {
+                "name": "De Hofnar",
+                "href": "/artist/77031:De-Hofnar"
+            },
+            {
+                "name": "Dennis Beso",
+                "href": "/artist/130858:Dennis-Beso"
+            },
+            {
+                "name": "Feest dj Jordi",
+                "href": "/artist/158543:Feest-dj-Jordi"
+            },
+            {
+                "name": "Guus Doggen",
+                "href": "/artist/158801:Guus-Doggen"
+            },
+            {
+                "name": "H4ZEL",
+                "href": "/artist/150743:H4ZEL"
+            },
+            {
+                "name": "Henry Huijsmans",
+                "href": "/artist/102635:Henry-Huijsmans"
+            },
+            {
+                "name": "HouseWire",
+                "href": "/artist/156839:HouseWire"
+            },
+            {
+                "name": "Karyo",
+                "href": "/artist/103122:Karyo"
+            },
+            {
+                "name": "Keezus Christus",
+                "href": "/artist/74689:Keezus-Christus"
+            },
+            {
+                "name": "Mo'Faya",
+                "href": "/artist/107746:MoFaya"
+            },
+            {
+                "name": "Peto On",
+                "href": "/artist/145686:Peto-On"
+            },
+            {
+                "name": "RonRon",
+                "href": "/artist/25976:RonRon"
+            },
+            {
+                "name": "Superstrings",
+                "href": "/artist/113340:Superstrings"
+            },
+            {
+                "name": "Tunebased",
+                "href": "/artist/104095:Tunebased"
+            },
+            {
+                "name": "Vince Morgana",
+                "href": "/artist/102505:Vince-Morgana"
+            }
+        ]
+    },
+    {
+        "title": "We Are One · Roze Maandag",
+        "url": "https://partyflock.nl/event/we-are-one-nl",
+        "image": "https://partyflock.nl/images/party/454874_340x480_662253/We-Are-One.jpg",
+        "startDate": {
+            "startDate": "2023-07-24T20:00:00+00:00",
+            "endDate": "2023-07-25T03:29:59+00:00"
+        },
+        "place": {
+            "name": "De Heuvel Gallery",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Brasco",
+                "href": "/artist/41223:Brasco"
+            },
+            {
+                "name": "Dice",
+                "href": "/artist/162759:Dice"
+            },
+            {
+                "name": "Gregor Salto",
+                "href": "/artist/10323:Gregor-Salto"
+            },
+            {
+                "name": "Harley K. Winn",
+                "href": "/artist/162758:Harley-K-Winn"
+            },
+            {
+                "name": "Jo enny versace",
+                "href": "/artist/162762:Jo-enny-versace"
+            },
+            {
+                "name": "Jochem van Wieren",
+                "href": "/artist/89914:Jochem-van-Wieren"
+            },
+            {
+                "name": "Lady Bee",
+                "href": "/artist/2152:Lady-Bee"
+            },
+            {
+                "name": "Marvin F.",
+                "href": "/artist/162760:Marvin-F"
+            },
+            {
+                "name": "Michelle Rodriquez",
+                "href": "/artist/162761:Michelle-Rodriquez"
+            },
+            {
+                "name": "Samantha",
+                "href": "/artist/129334:Samantha"
+            },
+            {
+                "name": "The Darkraver",
+                "href": "/artist/40:The-Darkraver"
+            },
+            {
+                "name": "WenDee",
+                "href": "/artist/119848:WenDee"
+            },
+            {
+                "name": "Willem de Wijs",
+                "href": "/artist/70745:Willem-de-Wijs"
+            }
+        ]
+    }
+]
