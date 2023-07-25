@@ -1,0 +1,136 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/457876:DIP",
+        "image": "https://partyflock.nl/images/party/457876_495x330_668709/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-07-25T23:00:00+00:00",
+            "endDate": "2023-07-26T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Secret Underground · Pool Festival at France",
+        "url": "https://partyflock.nl/event/secret-underground-fr",
+        "image": "https://partyflock.nl/images/party/439439_539x303_628429/Secret-Underground.jpg",
+        "startDate": {
+            "startDate": "2023-07-25T18:00:00+00:00",
+            "endDate": "2023-07-26T00:59:59+00:00"
+        },
+        "place": {
+            "name": "Le Jardin de Babylone",
+            "city": "Le Cap d'Agde",
+            "country": "Frankrijk"
+        },
+        "lineup": [
+            {
+                "name": "Emiel Roché",
+                "href": "/artist/54697:Emiel-Roche"
+            },
+            {
+                "name": "Eric van Kleef",
+                "href": "/artist/13324:Eric-van-Kleef"
+            },
+            {
+                "name": "Iwan",
+                "href": "/artist/3511:Iwan"
+            },
+            {
+                "name": "Marcello",
+                "href": "/artist/64:Marcello"
+            },
+            {
+                "name": "Mario Rivano",
+                "href": "/artist/73994:Mario-Rivano"
+            },
+            {
+                "name": "Mr & Mrs Secret",
+                "href": "/artist/98591:Mr-and-Mrs-Secret"
+            },
+            {
+                "name": "Spider",
+                "href": "/artist/106:Spider"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/455348:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/455348_403x405_664374/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-07-25T23:30:00+00:00",
+            "endDate": "2023-07-26T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Digitalistik",
+                "href": "/artist/80971:Digitalistik"
+            },
+            {
+                "name": "Invalid Request",
+                "href": "/artist/140515:Invalid-Request"
+            },
+            {
+                "name": "Milo Raad",
+                "href": "/artist/142337:Milo-Raad"
+            }
+        ]
+    },
+    {
+        "title": "Tiësto",
+        "url": "https://partyflock.nl/party/453546:Tiesto",
+        "image": "https://partyflock.nl/images/party/453546_558x292_660271/Tiesto.jpg",
+        "startDate": {
+            "startDate": "2023-07-25T17:00:00+00:00",
+            "endDate": "2023-07-25T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "BYOR",
+                "href": "/artist/95351:BYOR"
+            },
+            {
+                "name": "KREAM",
+                "href": "/artist/126355:KREAM"
+            },
+            {
+                "name": "Tiësto",
+                "href": "/artist/1:Tiesto"
+            }
+        ]
+    },
+    {
+        "title": "Tunesday",
+        "url": "https://partyflock.nl/party/456926:Tunesday",
+        "image": "https://partyflock.nl/images/party/456926_495x330_666170/Tunesday.jpg",
+        "startDate": {
+            "startDate": "2023-07-25T23:00:00+00:00",
+            "endDate": "2023-07-26T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
