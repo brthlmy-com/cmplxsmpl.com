@@ -1,0 +1,84 @@
+[
+    {
+        "title": "EXHALE #1",
+        "url": "https://partyflock.nl/party/452813:EXHALE",
+        "image": "https://partyflock.nl/images/party/452813_539x303_659200/EXHALE.jpg",
+        "startDate": {
+            "startDate": "2023-07-26T23:00:00+00:00",
+            "endDate": "2023-07-27T17:59:59+00:00"
+        },
+        "place": {
+            "name": "DC10",
+            "city": "Sant Jordi de ses Salines",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Amélie Lens",
+                "href": "/artist/90740:Amelie-Lens"
+            }
+        ]
+    },
+    {
+        "title": "Summerbreak",
+        "url": "https://partyflock.nl/party/457188:Summerbreak",
+        "image": "https://partyflock.nl/images/party/457188_539x303_668950/Summerbreak.jpg",
+        "startDate": {
+            "startDate": "2023-07-26T23:00:00+00:00",
+            "endDate": "2023-07-27T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "The Oranje Beat Festival",
+        "url": "https://partyflock.nl/event/the-oranje-beat-festival-nl",
+        "image": "https://partyflock.nl/images/party/456120_539x303_664501/The-Oranje-Beat-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-07-26T21:40:00+00:00",
+            "endDate": "2023-07-27T05:54:59+00:00"
+        },
+        "place": {
+            "name": "KNVB Campus",
+            "city": "Zeist",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BENR",
+                "href": "/artist/143988:BENR"
+            },
+            {
+                "name": "La Fuente",
+                "href": "/artist/40210:La-Fuente"
+            },
+            {
+                "name": "Numidia",
+                "href": "/artist/112834:Numidia"
+            },
+            {
+                "name": "Sigourney K",
+                "href": "/artist/119695:Sigourney-K"
+            }
+        ]
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/456938:Wazig",
+        "image": "https://partyflock.nl/images/party/456938_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-07-26T23:00:00+00:00",
+            "endDate": "2023-07-27T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
