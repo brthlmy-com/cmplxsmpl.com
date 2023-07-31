@@ -1,0 +1,277 @@
+[
+    {
+        "title": "„The Son“",
+        "url": "/film-und-bild/film/drama/event/5f1859a73d65a16a75459710.64888e6011422f3b5e3c04bf.the-son",
+        "startDate": {
+            "startDate": "2023-07-31T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3b9fca5d45e9b485a1a6f4e7d024617e.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2023-07-31T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„Simenon. Bilder einer Welt in der Krise“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859943d65a16a7545802e.63fde7d88e4c3d56c456d075.simenon-bilder-einer-welt-in-der-krise",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9f9f4d78233b61823bbf65715f960223.jpg?v=2"
+    },
+    {
+        "title": "Karl von Monschau: „Konkret per dekret“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457dd8.641498f4071ca31b1074fa4a.karl-von-monschau-konkret-per-dekret",
+        "startDate": {
+            "startDate": "2023-07-31T09:00:00.000Z",
+            "endDate": "2023-07-31T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "AVT Soft Matter Process Engineering, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e3bb3ef83b909bdb92f15e5ba98bfb1e.jpg?v=0"
+    },
+    {
+        "title": "„Das Leben mit dem Loch“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859943d65a16a7545805b.645277c227a2d0009e41cb6d.das-leben-mit-dem-loch",
+        "startDate": {
+            "startDate": "2023-07-31",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Energeticon, Alsdorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/548f635991b656c7432f2cbab08dde36.jpg?v=2"
+    },
+    {
+        "title": "„Menschen, Bilder, Orte - 1700 Jahre Jüdisches Leben in Deutschland“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.645a54747592422ab14472ab.menschen-bilder-orte---1700-jahre-juedisches-leben-in-deutschland",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e22378ec0a858befbce4494975814175.jpg?v=2"
+    },
+    {
+        "title": "Freddy Sánchez Caballero",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754586d1.647f1f8e67bbbd7e3b5cc513.freddy-snchez-caballero",
+        "startDate": {
+            "startDate": "2023-07-31T08:00:00.000Z",
+            "endDate": "2023-07-31T16:00:00.000Z",
+            "text": "Heute, 08:00 - 16:00 Uhr"
+        },
+        "place": "Bischöfliche Akademie des Bistums Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db66b4c49a1a19f7fa117d58f86eaaea.jpg?v=1"
+    },
+    {
+        "title": "Beate Jahn & Vera Kuckuck: „Wege. Wellen. Wandlungen“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859953d65a16a754581e9.64900e9f479c3c06667a7324.beate-jahn--vera-kuckuck-wege-wellen-wandlungen",
+        "startDate": {
+            "startDate": "2023-07-31T08:00:00.000Z",
+            "endDate": "2023-07-31T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6a954f20aa23b2b7e244f860e94c1e51.jpg?v=1"
+    },
+    {
+        "title": "Eugenie Bongs-Beer: „Lebendige Visionen“",
+        "url": "/kunst/ausstellung/malerei/event/5f73ca833d65a107b7121dc2.64905540089b560bbe3df08d.eugenie-bongs-beer-lebendige-visionen",
+        "startDate": {
+            "startDate": "2023-07-31T09:00:00.000Z",
+            "endDate": "2023-07-31T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Europabüro Sabine Verheyen, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b013613b16a425501751cb1bbebf24ab.jpg?v=1"
+    },
+    {
+        "title": "Helga Weihs & Joachim Griess: „1zu1 – Pro und Contra Sommergalerie“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859a63d65a16a754595bd.64a2cd0d08152f2e745e7317.helga-weihs--joachim-griess-1zu1--pro-und-contra-sommergalerie",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Logoi, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5722e016333235c72b4e924495d1261d.jpg?v=1"
+    },
+    {
+        "title": "„Memory Foam“",
+        "url": "/kunst/ausstellung/event/5f18599f3d65a16a75458d8f.64a80e75bb90e16a7812e062.memory-foam",
+        "startDate": {
+            "startDate": "2023-07-31",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b2c412a0f0857ed3e92d2f0f2a10bc52.jpg?v=1"
+    },
+    {
+        "title": "Kunstkreis Eifel: „Energie“",
+        "url": "/kunst/ausstellungsfuehrung/malerei/event/5f1859953d65a16a754581d1.64b679009648ba6d4b14e20a.kunstkreis-eifel-energie",
+        "startDate": {
+            "startDate": "2023-07-31T13:00:00.000Z",
+            "endDate": "2023-07-31T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Aukloster, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2d3c782333fc2ae9907fbe0027085532.jpg?v=1"
+    },
+    {
+        "title": "Lucie Schmitz: „Verbundenheit“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458da3.64be81e25b001840fb4d2bb7.lucie-schmitz-verbundenheit",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "„In Memoriam“, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/822413dca25803adf2d7d7aeb170455e.jpg?v=1"
+    },
+    {
+        "title": "„Lindy Hop“",
+        "url": "/sport-und-bewegung/sport/mitmachen/event/5f18599e3d65a16a75458c24.649aad9cdb3118688104a715.lindy-hop",
+        "startDate": {
+            "startDate": "2023-07-31T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Elisenbrunnen, Aachen",
+        "categorySlugs": [
+            "sport-und-bewegung",
+            "sport",
+            "mitmachen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac9962b079e77a175bf8977efbddefb8.jpg?v=1"
+    },
+    {
+        "title": "„Archimedischer Sandkasten“",
+        "url": "/verschiedenes/event/5f18599e3d65a16a75458c54.5fbf7f873d65a14b9029b631.archimedischer-sandkasten",
+        "startDate": {
+            "startDate": "2023-07-31",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Katschhof, Aachen",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a8f0c4a1ecdb238b32e353b7d50d3e5a.jpg?v=2"
+    },
+    {
+        "title": "ToleranzRäume am Büchel",
+        "url": "/verschiedenes/event/64b90a5452c57674772a2613.64b90b1facf0311af959f723.toleranzraeume-am-buechel",
+        "startDate": {
+            "startDate": "2023-07-31T10:00:00.000Z",
+            "endDate": "2023-07-31T22:00:00.000Z",
+            "text": "Heute, 10:00 - 22:00 Uhr"
+        },
+        "place": "Toleranz-Container, Aachen",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b9e74ed633bb5d62df6d3a46620d690f.jpg?v=2"
+    }
+]
