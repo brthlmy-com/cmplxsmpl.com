@@ -1,0 +1,175 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/457176:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/457176_539x303_666553/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-07-31T23:00:00+00:00",
+            "endDate": "2023-08-01T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Greg Millz",
+                "href": "/artist/59393:Greg-Millz"
+            },
+            {
+                "name": "Loco",
+                "href": "/artist/28499:Loco"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Nicky Blackmarket",
+                "href": "/artist/30455:Nicky-Blackmarket"
+            },
+            {
+                "name": "Quincy Glenn",
+                "href": "/artist/67531:Quincy-Glenn"
+            },
+            {
+                "name": "RoMan",
+                "href": "/artist/157598:RoMan"
+            }
+        ]
+    },
+    {
+        "title": "Draai Van De Kaai",
+        "url": "https://partyflock.nl/party/457363:Draai-Van-De-Kaai",
+        "image": "https://partyflock.nl/images/party/457363_558x292_667106/Draai-Van-De-Kaai.jpg",
+        "startDate": {
+            "startDate": "2023-07-31T12:00:00+00:00",
+            "endDate": "2023-07-31T23:29:59+00:00"
+        },
+        "place": {
+            "name": "Kadeplein",
+            "city": "Roosendaal",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Alex",
+                "href": "/artist/105767:Alex"
+            },
+            {
+                "name": "Buren van de Brandweer",
+                "href": "/artist/84077:Buren-van-de-Brandweer"
+            },
+            {
+                "name": "Coenio",
+                "href": "/artist/12368:Coenio"
+            },
+            {
+                "name": "FEESTNATION",
+                "href": "/artist/99669:FEESTNATION"
+            },
+            {
+                "name": "Jan Biggel",
+                "href": "/artist/141506:Jan-Biggel"
+            },
+            {
+                "name": "Jeffrey Heesen",
+                "href": "/artist/103650:Jeffrey-Heesen"
+            },
+            {
+                "name": "Jordy van den Boer",
+                "href": "/artist/98486:Jordy-van-den-Boer"
+            },
+            {
+                "name": "Marco Kanters",
+                "href": "/artist/115078:Marco-Kanters"
+            },
+            {
+                "name": "Robert Pater",
+                "href": "/artist/123298:Robert-Pater"
+            },
+            {
+                "name": "Stef Ekkel",
+                "href": "/artist/96587:Stef-Ekkel"
+            },
+            {
+                "name": "Wesly Bronkhorst",
+                "href": "/artist/104224:Wesly-Bronkhorst"
+            },
+            {
+                "name": "Wilbert Pigmans",
+                "href": "/artist/123299:Wilbert-Pigmans"
+            }
+        ]
+    },
+    {
+        "title": "Life On A Monday",
+        "url": "https://partyflock.nl/party/458241:Life-On-A-Monday",
+        "image": "https://partyflock.nl/images/party/458241_664x246_669558/Life-On-A-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-07-31T20:00:00+00:00",
+            "endDate": "2023-08-01T00:59:59+00:00"
+        },
+        "place": {
+            "name": "Ongespecificeerde catamaran",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DAIMS",
+                "href": "/artist/96154:DAIMS"
+            },
+            {
+                "name": "Edson Cesar",
+                "href": "/artist/59504:Edson-Cesar"
+            },
+            {
+                "name": "Jayh Martina",
+                "href": "/artist/99633:Jayh-Martina"
+            },
+            {
+                "name": "JP",
+                "href": "/artist/106428:JP"
+            },
+            {
+                "name": "Mitchellito",
+                "href": "/artist/83433:Mitchellito"
+            },
+            {
+                "name": "NEMS",
+                "href": "/artist/142323:NEMS"
+            }
+        ]
+    },
+    {
+        "title": "Monday",
+        "url": "https://partyflock.nl/party/457186:Monday",
+        "startDate": {
+            "startDate": "2023-07-31T22:00:00+00:00",
+            "endDate": "2023-08-01T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Ozora Festival",
+        "url": "https://partyflock.nl/event/ozora-festival-hu",
+        "image": "https://partyflock.nl/images/party/438165_404x404_636634/Ozora-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-07-31T20:00:00+00:00",
+            "endDate": "2023-08-07T19:59:59+00:00"
+        },
+        "place": {
+            "name": "Ozora",
+            "city": "Dádpuszta",
+            "country": "Hongarije"
+        },
+        "lineup": []
+    }
+]
