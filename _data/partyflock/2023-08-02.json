@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Summerbreak",
+        "url": "https://partyflock.nl/party/457189:Summerbreak",
+        "image": "https://partyflock.nl/images/party/457189_404x404_666573/Summerbreak.png",
+        "startDate": {
+            "startDate": "2023-08-02T23:00:00+00:00",
+            "endDate": "2023-08-03T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/456939:Wazig",
+        "image": "https://partyflock.nl/images/party/456939_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-08-02T23:00:00+00:00",
+            "endDate": "2023-08-03T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
