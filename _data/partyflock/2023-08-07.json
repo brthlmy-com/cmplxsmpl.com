@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Het gezelligste feestje van de buurt · Happy Vibes",
+        "url": "https://partyflock.nl/party/458401:Het-gezelligste-feestje-van-de-buurt",
+        "image": "https://partyflock.nl/images/party/458401_563x290_670096/Het-gezelligste-feestje-van-de-buurt.jpg",
+        "startDate": {
+            "startDate": "2023-08-07T21:00:00+00:00",
+            "endDate": "2023-08-08T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Willem van Oranje",
+            "city": "Veldhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Just Robert",
+                "href": "/artist/158664:Just-Robert"
+            },
+            {
+                "name": "Omattic",
+                "href": "/artist/46039:Omattic"
+            },
+            {
+                "name": "Potato",
+                "href": "/artist/1956:Potato"
+            },
+            {
+                "name": "Woodpecker",
+                "href": "/artist/61488:Woodpecker"
+            }
+        ]
+    },
+    {
+        "title": "I Love Kizomba Sensual Festival #8",
+        "url": "https://partyflock.nl/event/i-love-kizomba-sensual-festival-nl",
+        "image": "https://partyflock.nl/images/party/442000_664x246_636061/I-Love-Kizomba-Sensual-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-08-07T20:00:00+00:00",
+            "endDate": "2023-08-14T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Novotel Amsterdam Schiphol Airport",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "MoDem Festival · Momento Demento",
+        "url": "https://partyflock.nl/event/modem-festival-hr",
+        "image": "https://partyflock.nl/images/party/443834_556x293_637315/MoDem-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-08-07T17:00:00+00:00",
+            "endDate": "2023-08-07T16:59:59+00:00"
+        },
+        "place": {
+            "name": "Event Terrain Primislje",
+            "city": "Primišlje",
+            "country": "Kroatië"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/458518:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/458518_558x292_670346/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-08-07T23:00:00+00:00",
+            "endDate": "2023-08-08T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Veenhoop Festival",
+        "url": "https://partyflock.nl/event/veenhoop-festival-nl",
+        "image": "https://partyflock.nl/images/party/457633_300x300_668038/Veenhoop-Festival.png",
+        "startDate": {
+            "startDate": "2023-08-07T16:00:00+00:00",
+            "endDate": "2023-08-07T19:59:59+00:00"
+        },
+        "place": {
+            "name": "Evenementen terrein",
+            "city": "De Veenhoop",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Baby Blue",
+                "href": "/artist/87909:Baby-Blue"
+            },
+            {
+                "name": "Bökkers",
+                "href": "/artist/85722:Bokkers"
+            },
+            {
+                "name": "De Kast",
+                "href": "/artist/107886:De-Kast"
+            },
+            {
+                "name": "Gigant FM",
+                "href": "/artist/165234:Gigant-FM"
+            }
+        ]
+    }
+]
