@@ -1,0 +1,292 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/457879:DIP",
+        "image": "https://partyflock.nl/images/party/457879_495x330_668709/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-08-15T23:00:00+00:00",
+            "endDate": "2023-08-16T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Sziget Festival",
+        "url": "https://partyflock.nl/event/sziget-festival-hu",
+        "image": "https://partyflock.nl/images/party/450292_558x292_671933/Sziget-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-08-15T10:00:00+00:00",
+            "endDate": "2023-08-16T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Óbudai-sziget",
+            "city": "Budapest",
+            "country": "Hongarije"
+        },
+        "lineup": [
+            {
+                "name": "070 Shake",
+                "href": "/artist/102304:070-Shake"
+            },
+            {
+                "name": "43.Nove",
+                "href": "/artist/164750:43-Nove"
+            },
+            {
+                "name": "777",
+                "href": "/artist/164835:777"
+            },
+            {
+                "name": "999999999",
+                "href": "/artist/105320:999999999"
+            },
+            {
+                "name": "Adam French",
+                "href": "/artist/108377:Adam-French"
+            },
+            {
+                "name": "Alica Longyu Gao",
+                "href": "/artist/164640:Alica-Longyu-Gao"
+            },
+            {
+                "name": "Ashibah",
+                "href": "/artist/140658:Ashibah"
+            },
+            {
+                "name": "Beton.Hofi",
+                "href": "/artist/164748:Beton-Hofi"
+            },
+            {
+                "name": "Billie Eilish",
+                "href": "/artist/118592:Billie-Eilish"
+            },
+            {
+                "name": "Break Yoga",
+                "href": "/artist/164824:Break-Yoga"
+            },
+            {
+                "name": "Breaking Workshop: Transitions",
+                "href": "/artist/164830:Breaking-Workshop-Transitions"
+            },
+            {
+                "name": "Cypher Town Battle",
+                "href": "/artist/164826:Cypher-Town-Battle"
+            },
+            {
+                "name": "Cz.K Sebő",
+                "href": "/artist/164754:Cz-K-Sebo"
+            },
+            {
+                "name": "Dzsúdló",
+                "href": "/artist/164746:Dzsudlo"
+            },
+            {
+                "name": "Frazi.er",
+                "href": "/artist/131835:Frazi-er"
+            },
+            {
+                "name": "Freekind",
+                "href": "/artist/164751:Freekind"
+            },
+            {
+                "name": "Girl in Red",
+                "href": "/artist/123429:Girl-in-Red"
+            },
+            {
+                "name": "Hannah Grae",
+                "href": "/artist/155964:Hannah-Grae"
+            },
+            {
+                "name": "I Hate Models",
+                "href": "/artist/95926:I-Hate-Models"
+            },
+            {
+                "name": "James Cole",
+                "href": "/artist/57553:James-Cole"
+            },
+            {
+                "name": "Kazuo",
+                "href": "/artist/164838:Kazuo"
+            },
+            {
+                "name": "Kobosil",
+                "href": "/artist/82057:Kobosil"
+            },
+            {
+                "name": "Lee Ann Roberts",
+                "href": "/artist/141329:Lee-Ann-Roberts"
+            },
+            {
+                "name": "Lokier",
+                "href": "/artist/103565:Lokier"
+            },
+            {
+                "name": "Love Revolution Special Event",
+                "href": "/artist/164846:Love-Revolution-Special-Event"
+            },
+            {
+                "name": "Mark Rubingh",
+                "href": "/artist/5914:Mark-Rubingh"
+            },
+            {
+                "name": "MAZ",
+                "href": "/artist/153242:MAZ"
+            },
+            {
+                "name": "Mochakk",
+                "href": "/artist/145579:Mochakk"
+            },
+            {
+                "name": "ONE-AB",
+                "href": "/artist/164839:ONE-AB"
+            },
+            {
+                "name": "Pat Duff",
+                "href": "/artist/121174:Pat-Duff"
+            },
+            {
+                "name": "Rebekah",
+                "href": "/artist/43590:Rebekah"
+            },
+            {
+                "name": "Sallai Laci",
+                "href": "/artist/164753:Sallai-Laci"
+            },
+            {
+                "name": "SanFranciscoBeat",
+                "href": "/artist/121191:SanFranciscoBeat"
+            },
+            {
+                "name": "Sara Landry",
+                "href": "/artist/138894:Sara-Landry"
+            },
+            {
+                "name": "Shlømo",
+                "href": "/artist/90259:Shlomo"
+            },
+            {
+                "name": "Sisi",
+                "href": "/artist/164747:Sisi"
+            },
+            {
+                "name": "Sleaford Mods",
+                "href": "/artist/112470:Sleaford-Mods"
+            },
+            {
+                "name": "Steve O'Sullivan",
+                "href": "/artist/83251:Steve-OSullivan"
+            },
+            {
+                "name": "Svetec",
+                "href": "/artist/49040:Svetec"
+            },
+            {
+                "name": "Sziámi",
+                "href": "/artist/164752:Sziami"
+            },
+            {
+                "name": "The Dreggs",
+                "href": "/artist/164755:The-Dreggs"
+            },
+            {
+                "name": "The Mary Wallopers",
+                "href": "/artist/159848:The-Mary-Wallopers"
+            },
+            {
+                "name": "TxC",
+                "href": "/artist/146594:TxC"
+            },
+            {
+                "name": "Uncle Waffles",
+                "href": "/artist/143883:Uncle-Waffles"
+            },
+            {
+                "name": "Vintage Culture",
+                "href": "/artist/89291:Vintage-Culture"
+            },
+            {
+                "name": "Yung Lean",
+                "href": "/artist/79864:Yung-Lean"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/455637:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/455637_554x295_663732/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-08-15T23:30:00+00:00",
+            "endDate": "2023-08-16T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Amorphic",
+                "href": "/artist/148803:Amorphic"
+            },
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Digitalistik",
+                "href": "/artist/80971:Digitalistik"
+            },
+            {
+                "name": "Noark",
+                "href": "/artist/157019:Noark"
+            }
+        ]
+    },
+    {
+        "title": "Tiësto",
+        "url": "https://partyflock.nl/party/453549:Tiesto",
+        "image": "https://partyflock.nl/images/party/453549_558x292_660271/Tiesto.jpg",
+        "startDate": {
+            "startDate": "2023-08-15T17:00:00+00:00",
+            "endDate": "2023-08-15T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Joel Corry",
+                "href": "/artist/127312:Joel-Corry"
+            },
+            {
+                "name": "Tiësto",
+                "href": "/artist/1:Tiesto"
+            },
+            {
+                "name": "VINNE",
+                "href": "/artist/124644:VINNE"
+            }
+        ]
+    },
+    {
+        "title": "Tunesday",
+        "url": "https://partyflock.nl/party/456929:Tunesday",
+        "image": "https://partyflock.nl/images/party/456929_495x330_666170/Tunesday.jpg",
+        "startDate": {
+            "startDate": "2023-08-15T23:00:00+00:00",
+            "endDate": "2023-08-16T01:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
