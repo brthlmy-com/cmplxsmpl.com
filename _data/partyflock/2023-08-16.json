@@ -1,0 +1,148 @@
+[
+    {
+        "title": "elrow · Delusionville",
+        "url": "https://partyflock.nl/party/451812:elrow",
+        "image": "https://partyflock.nl/images/party/451812_361x452_671561/elrow.jpg",
+        "startDate": {
+            "startDate": "2023-08-16T17:00:00+00:00",
+            "endDate": "2023-08-16T22:59:59+00:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "De La Swing",
+                "href": "/artist/67954:De-La-Swing"
+            },
+            {
+                "name": "Manda Moor",
+                "href": "/artist/124835:Manda-Moor"
+            },
+            {
+                "name": "Nicolas Caprile",
+                "href": "/artist/156697:Nicolas-Caprile"
+            },
+            {
+                "name": "Paco Osuna",
+                "href": "/artist/85:Paco-Osuna"
+            }
+        ]
+    },
+    {
+        "title": "FISHER",
+        "url": "https://partyflock.nl/party/453494:FISHER",
+        "image": "https://partyflock.nl/images/party/453494_362x451_660262/FISHER.jpg",
+        "startDate": {
+            "startDate": "2023-08-16T23:30:00+00:00",
+            "endDate": "2023-08-16T23:29:59+00:00"
+        },
+        "place": {
+            "name": "Hï Ibiza",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Antidot",
+                "href": "/artist/161265:Antidot"
+            },
+            {
+                "name": "Cloonee",
+                "href": "/artist/95400:Cloonee"
+            },
+            {
+                "name": "Fisher",
+                "href": "/artist/117761:Fisher"
+            },
+            {
+                "name": "Joris Voorn",
+                "href": "/artist/4584:Joris-Voorn"
+            },
+            {
+                "name": "MAZ",
+                "href": "/artist/153242:MAZ"
+            },
+            {
+                "name": "Sosa",
+                "href": "/artist/127096:Sosa"
+            },
+            {
+                "name": "Vintage Culture",
+                "href": "/artist/89291:Vintage-Culture"
+            }
+        ]
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/457236:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/457236_404x404_672255/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-08-16T18:00:00+00:00",
+            "endDate": "2023-08-17T04:59:59+00:00"
+        },
+        "place": {
+            "name": "Cova Santa",
+            "city": "Ibiza",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "BELLA",
+                "href": "/artist/99160:BELLA"
+            },
+            {
+                "name": "BORING",
+                "href": "/artist/99166:BORING"
+            },
+            {
+                "name": "CICI",
+                "href": "/artist/158576:CICI"
+            },
+            {
+                "name": "Happy Feelings Soundsystem",
+                "href": "/artist/94067:Happy-Feelings-Soundsystem"
+            },
+            {
+                "name": "Mella Dee",
+                "href": "/artist/95762:Mella-Dee"
+            },
+            {
+                "name": "Sally C",
+                "href": "/artist/115411:Sally-C"
+            }
+        ]
+    },
+    {
+        "title": "Summerbreak",
+        "url": "https://partyflock.nl/party/457191:Summerbreak",
+        "image": "https://partyflock.nl/images/party/457191_404x404_666573/Summerbreak.png",
+        "startDate": {
+            "startDate": "2023-08-16T23:00:00+00:00",
+            "endDate": "2023-08-17T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/456941:Wazig",
+        "image": "https://partyflock.nl/images/party/456941_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-08-16T23:00:00+00:00",
+            "endDate": "2023-08-17T03:59:59+00:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
