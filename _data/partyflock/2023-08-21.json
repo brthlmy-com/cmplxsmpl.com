@@ -1,0 +1,129 @@
+[
+    {
+        "title": "Cheeky Monday · Crossy & Aft Records",
+        "url": "https://partyflock.nl/party/458804:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/458804_539x303_671231/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-08-22T01:00:00+02:00",
+            "endDate": "2023-08-22T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Akespeare",
+                "href": "/artist/76367:Akespeare"
+            },
+            {
+                "name": "Carasel",
+                "href": "/artist/51537:Carasel"
+            },
+            {
+                "name": "Changing Ways",
+                "href": "/artist/110598:Changing-Ways"
+            },
+            {
+                "name": "Crossy",
+                "href": "/artist/134733:Crossy"
+            },
+            {
+                "name": "Dubbz",
+                "href": "/artist/110596:Dubbz"
+            },
+            {
+                "name": "J-man",
+                "href": "/artist/74199:J-man"
+            },
+            {
+                "name": "Kaydan",
+                "href": "/artist/51538:Kaydan"
+            },
+            {
+                "name": "Move",
+                "href": "/artist/110594:Move"
+            },
+            {
+                "name": "PhantomJama",
+                "href": "/artist/110595:PhantomJama"
+            },
+            {
+                "name": "RIddle",
+                "href": "/artist/122023:RIddle"
+            },
+            {
+                "name": "Tuskan",
+                "href": "/artist/152534:Tuskan"
+            }
+        ]
+    },
+    {
+        "title": "Cypress Hill",
+        "url": "https://partyflock.nl/party/449761:Cypress-Hill",
+        "image": "https://partyflock.nl/images/party/449761_539x303_651874/Cypress-Hill.jpg",
+        "startDate": {
+            "startDate": "2023-08-21T21:00:00+02:00",
+            "endDate": "2023-08-21T20:59:59+02:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cypress Hill",
+                "href": "/artist/44967:Cypress-Hill"
+            }
+        ]
+    },
+    {
+        "title": "F*** Me I'm Famous",
+        "url": "https://partyflock.nl/party/453585:F-Me-Im-Famous",
+        "image": "https://partyflock.nl/images/party/453585_361x452_660253/F-Me-Im-Famous.jpg",
+        "startDate": {
+            "startDate": "2023-08-21T19:00:00+02:00",
+            "endDate": "2023-08-22T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Afrojack",
+                "href": "/artist/34851:Afrojack"
+            },
+            {
+                "name": "David Guetta",
+                "href": "/artist/4408:David-Guetta"
+            },
+            {
+                "name": "Paul Reynolds",
+                "href": "/artist/74982:Paul-Reynolds"
+            },
+            {
+                "name": "Tom Staar",
+                "href": "/artist/74272:Tom-Staar"
+            }
+        ]
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/458520:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/458520_558x292_670346/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-08-22T01:00:00+02:00",
+            "endDate": "2023-08-22T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
