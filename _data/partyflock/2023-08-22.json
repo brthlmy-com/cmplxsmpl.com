@@ -1,0 +1,156 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/457880:DIP",
+        "image": "https://partyflock.nl/images/party/457880_495x330_668709/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-08-23T01:00:00+02:00",
+            "endDate": "2023-08-23T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Sky Bass",
+        "url": "https://partyflock.nl/party/458686:Sky-Bass",
+        "image": "https://partyflock.nl/images/party/458686_404x404_670788/Sky-Bass.jpg",
+        "startDate": {
+            "startDate": "2023-08-23T01:00:00+02:00",
+            "endDate": "2023-08-23T06:59:59+02:00"
+        },
+        "place": {
+            "name": "NEXT",
+            "city": "Leiden",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Astreaux",
+                "href": "/artist/152874:Astreaux"
+            },
+            {
+                "name": "Fryware",
+                "href": "/artist/161737:Fryware"
+            },
+            {
+                "name": "Oxidate",
+                "href": "/artist/155694:Oxidate"
+            },
+            {
+                "name": "The Outsiders",
+                "href": "/artist/107590:The-Outsiders"
+            },
+            {
+                "name": "Unity",
+                "href": "/artist/155765:Unity"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/455638:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/455638_554x295_663733/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-08-23T01:30:00+02:00",
+            "endDate": "2023-08-23T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Digitalistik",
+                "href": "/artist/80971:Digitalistik"
+            },
+            {
+                "name": "Jayzo",
+                "href": "/artist/68137:Jayzo"
+            },
+            {
+                "name": "Mark Mywords",
+                "href": "/artist/30240:Mark-Mywords"
+            }
+        ]
+    },
+    {
+        "title": "Tiësto",
+        "url": "https://partyflock.nl/party/453550:Tiesto",
+        "image": "https://partyflock.nl/images/party/453550_404x404_660272/Tiesto.jpg",
+        "startDate": {
+            "startDate": "2023-08-22T19:00:00+02:00",
+            "endDate": "2023-08-23T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Martin Solveig",
+                "href": "/artist/10920:Martin-Solveig"
+            },
+            {
+                "name": "SKIY",
+                "href": "/artist/101787:SKIY"
+            },
+            {
+                "name": "Tiësto",
+                "href": "/artist/1:Tiesto"
+            }
+        ]
+    },
+    {
+        "title": "Tunesday",
+        "url": "https://partyflock.nl/party/456930:Tunesday",
+        "image": "https://partyflock.nl/images/party/456930_495x330_666170/Tunesday.jpg",
+        "startDate": {
+            "startDate": "2023-08-23T01:00:00+02:00",
+            "endDate": "2023-08-23T03:59:59+02:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Zürich Openair",
+        "url": "https://partyflock.nl/event/zurich-openair-ch",
+        "image": "https://partyflock.nl/images/party/456716_357x458_665280/Zurich-Openair.jpg",
+        "startDate": {
+            "startDate": "2023-08-22T17:00:00+02:00",
+            "endDate": "2023-08-23T01:29:59+02:00"
+        },
+        "place": {
+            "name": "Terrein Flughofstrasse",
+            "city": "Opfikon",
+            "country": "Zwitserland"
+        },
+        "lineup": [
+            {
+                "name": "Marius Bear",
+                "href": "/artist/128012:Marius-Bear"
+            },
+            {
+                "name": "Robbie Williams",
+                "href": "/artist/129061:Robbie-Williams"
+            },
+            {
+                "name": "Zara Larsson",
+                "href": "/artist/108272:Zara-Larsson"
+            }
+        ]
+    }
+]
