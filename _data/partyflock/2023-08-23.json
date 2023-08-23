@@ -1,0 +1,148 @@
+[
+    {
+        "title": "EAST Techno",
+        "url": "https://partyflock.nl/party/459359:EAST-Techno",
+        "image": "https://partyflock.nl/images/party/459359_558x292_672769/EAST-Techno.png",
+        "startDate": {
+            "startDate": "2023-08-24T01:00:00+02:00",
+            "endDate": "2023-08-24T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "GRDO",
+                "href": "/artist/109025:GRDO"
+            },
+            {
+                "name": "Ozzy Sahin",
+                "href": "/artist/131916:Ozzy-Sahin"
+            },
+            {
+                "name": "Santi Davi",
+                "href": "/artist/165154:Santi-Davi"
+            }
+        ]
+    },
+    {
+        "title": "EXHALE #5",
+        "url": "https://partyflock.nl/party/452817:EXHALE",
+        "image": "https://partyflock.nl/images/party/452817_404x404_659201/EXHALE.png",
+        "startDate": {
+            "startDate": "2023-08-24T01:00:00+02:00",
+            "endDate": "2023-08-24T07:59:59+02:00"
+        },
+        "place": {
+            "name": "DC10",
+            "city": "Sant Jordi de ses Salines",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Amélie Lens",
+                "href": "/artist/90740:Amelie-Lens"
+            }
+        ]
+    },
+    {
+        "title": "Psylân · Soul of Essence",
+        "url": "https://partyflock.nl/event/psylan-nl",
+        "image": "https://partyflock.nl/images/party/455625_610x268_658994/Psylan.jpg",
+        "startDate": {
+            "startDate": "2023-08-23T16:00:00+02:00",
+            "endDate": "2023-08-24T03:59:59+02:00"
+        },
+        "place": {
+            "name": "Binnendijk 73",
+            "city": "Rijperkerk",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cashews",
+                "href": "/artist/163375:Cashews"
+            },
+            {
+                "name": "dawamesk",
+                "href": "/artist/163376:dawamesk"
+            },
+            {
+                "name": "Kindred",
+                "href": "/artist/163377:Kindred"
+            },
+            {
+                "name": "LocoHood",
+                "href": "/artist/163374:LocoHood"
+            },
+            {
+                "name": "Malu",
+                "href": "/artist/130880:Malu"
+            },
+            {
+                "name": "Mirror Neurons",
+                "href": "/artist/133607:Mirror-Neurons"
+            },
+            {
+                "name": "Misterius",
+                "href": "/artist/56318:Misterius"
+            },
+            {
+                "name": "Nate Strong",
+                "href": "/artist/163372:Nate-Strong"
+            },
+            {
+                "name": "Sander Bos",
+                "href": "/artist/163371:Sander-Bos"
+            },
+            {
+                "name": "Sir Dancealot",
+                "href": "/artist/116597:Sir-Dancealot"
+            },
+            {
+                "name": "Sounds of Snow",
+                "href": "/artist/120936:Sounds-of-Snow"
+            },
+            {
+                "name": "Space Beest",
+                "href": "/artist/113447:Space-Beest"
+            },
+            {
+                "name": "Tupinky",
+                "href": "/artist/163373:Tupinky"
+            }
+        ]
+    },
+    {
+        "title": "Summerbreak",
+        "url": "https://partyflock.nl/party/457192:Summerbreak",
+        "image": "https://partyflock.nl/images/party/457192_404x404_666573/Summerbreak.png",
+        "startDate": {
+            "startDate": "2023-08-24T01:00:00+02:00",
+            "endDate": "2023-08-24T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Wazig",
+        "url": "https://partyflock.nl/party/456942:Wazig",
+        "image": "https://partyflock.nl/images/party/456942_539x303_658086/Wazig.png",
+        "startDate": {
+            "startDate": "2023-08-24T01:00:00+02:00",
+            "endDate": "2023-08-24T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
