@@ -1,0 +1,228 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/458805:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/458805_539x303_671231/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-08-29T01:00:00+02:00",
+            "endDate": "2023-08-29T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "Bass 80",
+                "href": "/artist/1847:Bass-80"
+            },
+            {
+                "name": "Coco Bryce",
+                "href": "/artist/53114:Coco-Bryce"
+            },
+            {
+                "name": "Karimooo",
+                "href": "/artist/59433:Karimooo"
+            },
+            {
+                "name": "Lynn Drumm",
+                "href": "/artist/103367:Lynn-Drumm"
+            },
+            {
+                "name": "Meja",
+                "href": "/artist/156218:Meja"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            }
+        ]
+    },
+    {
+        "title": "Eric Prydz · HOLO",
+        "url": "https://partyflock.nl/party/453336:Eric-Prydz",
+        "image": "https://partyflock.nl/images/party/453336_558x292_662184/Eric-Prydz.jpg",
+        "startDate": {
+            "startDate": "2023-08-29T01:30:00+02:00",
+            "endDate": "2023-08-29T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Hï Ibiza",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Adam Beyer",
+                "href": "/artist/190:Adam-Beyer"
+            },
+            {
+                "name": "Alan Fitzpatrick",
+                "href": "/artist/53928:Alan-Fitzpatrick"
+            },
+            {
+                "name": "Andres Campo",
+                "href": "/artist/82655:Andres-Campo"
+            },
+            {
+                "name": "Cristoph",
+                "href": "/artist/83816:Cristoph"
+            },
+            {
+                "name": "Eric Prydz",
+                "href": "/artist/21844:Eric-Prydz"
+            },
+            {
+                "name": "Patrick Topping",
+                "href": "/artist/80051:Patrick-Topping"
+            }
+        ]
+    },
+    {
+        "title": "F*** Me I'm Famous",
+        "url": "https://partyflock.nl/party/453586:F-Me-Im-Famous",
+        "image": "https://partyflock.nl/images/party/453586_361x452_660253/F-Me-Im-Famous.jpg",
+        "startDate": {
+            "startDate": "2023-08-28T19:00:00+02:00",
+            "endDate": "2023-08-29T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Alesso",
+                "href": "/artist/65994:Alesso"
+            },
+            {
+                "name": "David Guetta",
+                "href": "/artist/4408:David-Guetta"
+            },
+            {
+                "name": "Öwnboss",
+                "href": "/artist/142775:Ownboss"
+            },
+            {
+                "name": "Paul Reynolds",
+                "href": "/artist/74982:Paul-Reynolds"
+            }
+        ]
+    },
+    {
+        "title": "Forbidden Island · The Ultimate Hardcore Holiday",
+        "url": "https://partyflock.nl/event/forbidden-island-hr",
+        "image": "https://partyflock.nl/images/party/439203_558x292_649688/Forbidden-Island.jpg",
+        "startDate": {
+            "startDate": "2023-08-28T17:00:00+02:00",
+            "endDate": "2023-08-29T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Zrce beach",
+            "city": "Novalja",
+            "country": "Kroatië"
+        },
+        "lineup": [
+            {
+                "name": "Abaddon",
+                "href": "/artist/109533:Abaddon"
+            },
+            {
+                "name": "Barber",
+                "href": "/artist/102191:Barber"
+            },
+            {
+                "name": "Bulletproof",
+                "href": "/artist/107241:Bulletproof"
+            },
+            {
+                "name": "Chaotic Hostility",
+                "href": "/artist/85478:Chaotic-Hostility"
+            },
+            {
+                "name": "Da Mouth of Madness",
+                "href": "/artist/3144:Da-Mouth-of-Madness"
+            },
+            {
+                "name": "Dimitri K.",
+                "href": "/artist/117919:Dimitri-K"
+            },
+            {
+                "name": "Irradiate",
+                "href": "/artist/125140:Irradiate"
+            },
+            {
+                "name": "Noxiouz",
+                "href": "/artist/121554:Noxiouz"
+            },
+            {
+                "name": "Partyraiser",
+                "href": "/artist/982:Partyraiser"
+            },
+            {
+                "name": "RG",
+                "href": "/artist/36037:RG"
+            },
+            {
+                "name": "Satirized",
+                "href": "/artist/140068:Satirized"
+            },
+            {
+                "name": "Soulblast",
+                "href": "/artist/115667:Soulblast"
+            },
+            {
+                "name": "STV",
+                "href": "/artist/105391:STV"
+            },
+            {
+                "name": "The Dark Horror",
+                "href": "/artist/100278:The-Dark-Horror"
+            },
+            {
+                "name": "Trespassed",
+                "href": "/artist/113498:Trespassed"
+            },
+            {
+                "name": "Yoshiko",
+                "href": "/artist/104981:Yoshiko"
+            }
+        ]
+    },
+    {
+        "title": "Mondays",
+        "url": "https://partyflock.nl/party/459271:Mondays",
+        "image": "https://partyflock.nl/images/party/459271_404x404_667883/Mondays.jpg",
+        "startDate": {
+            "startDate": "2023-08-28T23:00:00+02:00",
+            "endDate": "2023-08-29T02:59:59+02:00"
+        },
+        "place": {
+            "name": "The Grit",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/458521:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/458521_558x292_670346/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-08-29T01:00:00+02:00",
+            "endDate": "2023-08-29T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
