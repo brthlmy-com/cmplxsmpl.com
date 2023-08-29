@@ -1,0 +1,220 @@
+[
+    {
+        "title": "Bruisconcert",
+        "url": "https://partyflock.nl/party/458640:Bruisconcert",
+        "image": "https://partyflock.nl/images/party/458640_495x330_670641/Bruisconcert.jpg",
+        "startDate": {
+            "startDate": "2023-08-29T21:30:00+02:00",
+            "endDate": "2023-08-29T21:29:59+02:00"
+        },
+        "place": {
+            "name": "Wezenlanderpark",
+            "city": "Zwolle",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gers Pardoel",
+                "href": "/artist/55807:Gers-Pardoel"
+            },
+            {
+                "name": "Marc Floor",
+                "href": "/artist/158901:Marc-Floor"
+            },
+            {
+                "name": "Sjaak",
+                "href": "/artist/43252:Sjaak"
+            },
+            {
+                "name": "The Dean",
+                "href": "/artist/143960:The-Dean"
+            }
+        ]
+    },
+    {
+        "title": "CamelPhat",
+        "url": "https://partyflock.nl/party/451297:CamelPhat",
+        "image": "https://partyflock.nl/images/party/451297_539x303_659942/CamelPhat.jpg",
+        "startDate": {
+            "startDate": "2023-08-30T01:59:59+02:00",
+            "endDate": "2023-08-30T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Pacha",
+            "city": "Ibiza",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "CamelPhat",
+                "href": "/artist/83000:CamelPhat"
+            },
+            {
+                "name": "Josh Gigante",
+                "href": "/artist/147401:Josh-Gigante"
+            },
+            {
+                "name": "WhoMadeWho",
+                "href": "/artist/50126:WhoMadeWho"
+            }
+        ]
+    },
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/457881:DIP",
+        "image": "https://partyflock.nl/images/party/457881_495x330_668709/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-08-30T01:00:00+02:00",
+            "endDate": "2023-08-30T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Forbidden Island · The Ultimate Hardcore Holiday",
+        "url": "https://partyflock.nl/party/456730:Forbidden-Island",
+        "image": "https://partyflock.nl/images/party/456730_558x292_649688/Forbidden-Island.jpg",
+        "startDate": {
+            "startDate": "2023-08-29T17:00:00+02:00",
+            "endDate": "2023-08-30T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Zrce beach",
+            "city": "Novalja",
+            "country": "Kroatië"
+        },
+        "lineup": [
+            {
+                "name": "Angerfist",
+                "href": "/artist/1779:Angerfist"
+            },
+            {
+                "name": "AniMe",
+                "href": "/artist/44260:AniMe"
+            },
+            {
+                "name": "Barber",
+                "href": "/artist/102191:Barber"
+            },
+            {
+                "name": "Doris",
+                "href": "/artist/137696:Doris"
+            },
+            {
+                "name": "Hysta",
+                "href": "/artist/119464:Hysta"
+            },
+            {
+                "name": "Juliëx",
+                "href": "/artist/98195:Juliex"
+            },
+            {
+                "name": "RG",
+                "href": "/artist/36037:RG"
+            },
+            {
+                "name": "Robs",
+                "href": "/artist/106069:Robs"
+            },
+            {
+                "name": "Røza",
+                "href": "/artist/143259:Roza"
+            },
+            {
+                "name": "Spitnoise",
+                "href": "/artist/77788:Spitnoise"
+            },
+            {
+                "name": "STV",
+                "href": "/artist/105391:STV"
+            },
+            {
+                "name": "The Sickest Squad",
+                "href": "/artist/18808:The-Sickest-Squad"
+            },
+            {
+                "name": "Trespassed",
+                "href": "/artist/113498:Trespassed"
+            },
+            {
+                "name": "Yoshiko",
+                "href": "/artist/104981:Yoshiko"
+            }
+        ]
+    },
+    {
+        "title": "Mystik · Ida Engberg",
+        "url": "https://partyflock.nl/party/453221:Mystik",
+        "image": "https://partyflock.nl/images/party/453221_404x404_664363/Mystik.png",
+        "startDate": {
+            "startDate": "2023-08-30T01:45:00+02:00",
+            "endDate": "2023-08-30T01:44:59+02:00"
+        },
+        "place": {
+            "name": "Chinois",
+            "city": "Illes balears",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Ida Engberg",
+                "href": "/artist/40736:Ida-Engberg"
+            },
+            {
+                "name": "Miss Monique",
+                "href": "/artist/114369:Miss-Monique"
+            },
+            {
+                "name": "Yulia Niko",
+                "href": "/artist/112250:Yulia-Niko"
+            }
+        ]
+    },
+    {
+        "title": "Tiësto · Closing Party",
+        "url": "https://partyflock.nl/party/453551:Tiesto",
+        "image": "https://partyflock.nl/images/party/453551_558x292_660271/Tiesto.jpg",
+        "startDate": {
+            "startDate": "2023-08-29T19:00:00+02:00",
+            "endDate": "2023-08-30T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Ushuaïa",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "B Jones",
+                "href": "/artist/101758:B-Jones"
+            },
+            {
+                "name": "Jax Jones",
+                "href": "/artist/82783:Jax-Jones"
+            },
+            {
+                "name": "Tiësto",
+                "href": "/artist/1:Tiesto"
+            }
+        ]
+    },
+    {
+        "title": "Tunesday",
+        "url": "https://partyflock.nl/party/456931:Tunesday",
+        "image": "https://partyflock.nl/images/party/456931_495x330_666170/Tunesday.jpg",
+        "startDate": {
+            "startDate": "2023-08-30T01:00:00+02:00",
+            "endDate": "2023-08-30T03:59:59+02:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
