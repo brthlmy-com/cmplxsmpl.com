@@ -1,0 +1,2680 @@
+[
+    {
+        "title": "40UP · Let's Dance Again",
+        "url": "https://partyflock.nl/party/449974:40UP",
+        "image": "https://partyflock.nl/images/party/449974_539x303_636157/40UP.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T03:59:59+02:00"
+        },
+        "place": {
+            "name": "Effenaar",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "80S 90S Nullies · Paard van Stal (By Night)",
+        "url": "https://partyflock.nl/party/457977:80S-90S-Nullies",
+        "image": "https://partyflock.nl/images/party/457977_626x261_668992/80S-90S-Nullies.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Akercity · Rocks",
+        "url": "https://partyflock.nl/event/akercity-nl",
+        "image": "https://partyflock.nl/images/party/444673_655x249_639287/Akercity.png",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T02:59:59+02:00"
+        },
+        "place": {
+            "name": "Wilhelminaplein",
+            "city": "Akersloot",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Beatstad",
+        "url": "https://partyflock.nl/party/449694:Beatstad",
+        "image": "https://partyflock.nl/images/party/449694_331x493_652222/Beatstad.png",
+        "startDate": {
+            "startDate": "2023-09-01T18:30:00+02:00",
+            "endDate": "2023-09-02T01:29:59+02:00"
+        },
+        "place": {
+            "name": "Scheveningen Strand",
+            "city": "Scheveningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Beatstad Afterparty",
+                "href": "/artist/158743:Beatstad-Afterparty"
+            },
+            {
+                "name": "DI-RECT",
+                "href": "/artist/77018:DI-RECT"
+            },
+            {
+                "name": "Goldband",
+                "href": "/artist/122055:Goldband"
+            },
+            {
+                "name": "Prins S. en De Geit",
+                "href": "/artist/140333:Prins-S-en-De-Geit"
+            },
+            {
+                "name": "Son Mieux",
+                "href": "/artist/97053:Son-Mieux"
+            }
+        ]
+    },
+    {
+        "title": "Bekkerveld Festival",
+        "url": "https://partyflock.nl/event/bekkerveld-festival-nl",
+        "image": "https://partyflock.nl/images/party/456177_664x246_664583/Bekkerveld-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:00:00+02:00",
+            "endDate": "2023-09-02T02:59:59+02:00"
+        },
+        "place": {
+            "name": "RKSV Bekkerveld",
+            "city": "Heerlen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Anderkovver",
+                "href": "/artist/115410:Anderkovver"
+            },
+            {
+                "name": "TONCA",
+                "href": "/artist/120083:TONCA"
+            }
+        ]
+    },
+    {
+        "title": "Blackout · 20 Years",
+        "url": "https://partyflock.nl/party/457868:Blackout",
+        "image": "https://partyflock.nl/images/party/457868_361x452_668684/Blackout.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Black Sun Empire",
+                "href": "/artist/1541:Black-Sun-Empire"
+            },
+            {
+                "name": "Camo & Krooked",
+                "href": "/artist/55678:Camo-and-Krooked"
+            },
+            {
+                "name": "Dart",
+                "href": "/artist/51558:Dart"
+            },
+            {
+                "name": "Enei",
+                "href": "/artist/69000:Enei"
+            },
+            {
+                "name": "Flexusz",
+                "href": "/artist/101756:Flexusz"
+            },
+            {
+                "name": "Mefjus",
+                "href": "/artist/68907:Mefjus"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "RedPill",
+                "href": "/artist/104431:RedPill"
+            }
+        ]
+    },
+    {
+        "title": "Booty Rave Festival",
+        "url": "https://partyflock.nl/event/booty-rave-festival-be",
+        "image": "https://partyflock.nl/images/party/458175_404x404_669429/Booty-Rave-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T03:59:59+02:00"
+        },
+        "place": {
+            "name": "Buitenterrein Boekweitbaan",
+            "city": "Kasterlee",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Ava Eva",
+                "href": "/artist/144415:Ava-Eva"
+            },
+            {
+                "name": "Blue Bird Paradise",
+                "href": "/artist/129259:Blue-Bird-Paradise"
+            },
+            {
+                "name": "DB Tapis-Plain",
+                "href": "/artist/165581:DB-Tapis-Plain"
+            },
+            {
+                "name": "Eternal Love",
+                "href": "/artist/143798:Eternal-Love"
+            },
+            {
+                "name": "Forbidden Fruit",
+                "href": "/artist/157900:Forbidden-Fruit"
+            },
+            {
+                "name": "Honey",
+                "href": "/artist/165576:Honey"
+            },
+            {
+                "name": "I-F",
+                "href": "/artist/1478:I-F"
+            },
+            {
+                "name": "Jazz Brak",
+                "href": "/artist/157237:Jazz-Brak"
+            },
+            {
+                "name": "Jizzy Jazz & Linke Lou",
+                "href": "/artist/165579:Jizzy-Jazz-and-Linke-Lou"
+            },
+            {
+                "name": "Karla Böhm",
+                "href": "/artist/116007:Karla-Bohm"
+            },
+            {
+                "name": "MADMADMAD",
+                "href": "/artist/128010:MADMADMAD"
+            },
+            {
+                "name": "Mekong Delta",
+                "href": "/artist/165578:Mekong-Delta"
+            },
+            {
+                "name": "Mojo and the Kitchen Brothers",
+                "href": "/artist/165577:Mojo-and-the-Kitchen-Brothers"
+            },
+            {
+                "name": "Nubiyan Twist",
+                "href": "/artist/108086:Nubiyan-Twist"
+            },
+            {
+                "name": "Nusantara Beat",
+                "href": "/artist/155279:Nusantara-Beat"
+            },
+            {
+                "name": "Sawkee",
+                "href": "/artist/165580:Sawkee"
+            }
+        ]
+    },
+    {
+        "title": "Borrel071",
+        "url": "https://partyflock.nl/party/458163:Borrel071",
+        "image": "https://partyflock.nl/images/party/458163_539x303_671766/Borrel071.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T20:00:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Buitenhuis",
+            "city": "Valkenburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Borrelaars",
+        "url": "https://partyflock.nl/party/452435:Borrelaars",
+        "image": "https://partyflock.be/images/party/452435_539x303_670457/Borrelaars.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T23:00:00+02:00",
+            "endDate": "2023-09-02T03:59:59+02:00"
+        },
+        "place": {
+            "name": "On The Rocks",
+            "city": "Zoetermeer",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Broederliefde",
+        "url": "https://partyflock.nl/party/459360:Broederliefde",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Xi",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Broederliefde",
+                "href": "/artist/71025:Broederliefde"
+            },
+            {
+                "name": "Darkflex",
+                "href": "/artist/81671:Darkflex"
+            },
+            {
+                "name": "Demi Maria",
+                "href": "/artist/149922:Demi-Maria"
+            },
+            {
+                "name": "Gila Kaia",
+                "href": "/artist/145783:Gila-Kaia"
+            },
+            {
+                "name": "Jahtime",
+                "href": "/artist/136455:Jahtime"
+            },
+            {
+                "name": "Lapendo",
+                "href": "/artist/58715:Lapendo"
+            }
+        ]
+    },
+    {
+        "title": "Bruis Festival",
+        "url": "https://partyflock.nl/event/bruis-festival-nl",
+        "image": "https://partyflock.nl/images/party/442110_404x404_671462/Bruis-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Muziekgieterij",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Acid Rooster",
+                "href": "/artist/125896:Acid-Rooster"
+            },
+            {
+                "name": "Crowd Of Chairs",
+                "href": "/artist/113758:Crowd-Of-Chairs"
+            },
+            {
+                "name": "David Ramirez",
+                "href": "/artist/113104:David-Ramirez"
+            },
+            {
+                "name": "Gallus",
+                "href": "/artist/130040:Gallus"
+            },
+            {
+                "name": "Gen & The Degenerates",
+                "href": "/artist/166093:Gen-and-The-Degenerates"
+            },
+            {
+                "name": "Noah Kite",
+                "href": "/artist/166092:Noah-Kite"
+            },
+            {
+                "name": "Noémie Wolfs",
+                "href": "/artist/166094:Noemie-Wolfs"
+            },
+            {
+                "name": "The Hickey Underworld",
+                "href": "/artist/165427:The-Hickey-Underworld"
+            },
+            {
+                "name": "Warhaus",
+                "href": "/artist/108147:Warhaus"
+            }
+        ]
+    },
+    {
+        "title": "Bruist · Vrijmibo",
+        "url": "https://partyflock.nl/event/bruist-nl",
+        "image": "https://partyflock.nl/images/party/452482_521x313_658268/Bruist.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T02:59:59+02:00"
+        },
+        "place": {
+            "name": "Evenemententerrein Biezenmortel",
+            "city": "Biezenmortel",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Claydrum · 14 Year Anniversary",
+        "url": "https://partyflock.nl/party/457702:Claydrum",
+        "image": "https://partyflock.nl/images/party/457702_404x404_668223/Claydrum.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Complex",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Alignment",
+                "href": "/artist/124435:Alignment"
+            },
+            {
+                "name": "Creeds",
+                "href": "/artist/107768:Creeds"
+            },
+            {
+                "name": "Japau",
+                "href": "/artist/140528:Japau"
+            }
+        ]
+    },
+    {
+        "title": "Club Atelier",
+        "url": "https://partyflock.nl/party/459386:Club-Atelier",
+        "image": "https://partyflock.nl/images/party/459386_558x292_672955/Club-Atelier.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Club Atelier",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bondru",
+                "href": "/artist/145737:Bondru"
+            },
+            {
+                "name": "Borren",
+                "href": "/artist/115159:Borren"
+            },
+            {
+                "name": "Izak Jules",
+                "href": "/artist/129527:Izak-Jules"
+            },
+            {
+                "name": "Keefy G",
+                "href": "/artist/166447:Keefy-G"
+            },
+            {
+                "name": "Lori",
+                "href": "/artist/122982:Lori"
+            },
+            {
+                "name": "Tristan da Cunha",
+                "href": "/artist/110815:Tristan-da-Cunha"
+            }
+        ]
+    },
+    {
+        "title": "Club Night",
+        "url": "https://partyflock.nl/party/459295:Club-Night",
+        "image": "https://partyflock.nl/images/party/459295_404x404_402735/Club-Night.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "De School",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Binh",
+                "href": "/artist/43896:Binh"
+            },
+            {
+                "name": "Eli Verveine",
+                "href": "/artist/84138:Eli-Verveine"
+            },
+            {
+                "name": "Gwenan",
+                "href": "/artist/102874:Gwenan"
+            },
+            {
+                "name": "Pieter Jansen",
+                "href": "/artist/80287:Pieter-Jansen"
+            }
+        ]
+    },
+    {
+        "title": "Club Vaag Invites · VISION",
+        "url": "https://partyflock.nl/party/458564:Club-Vaag-Invites",
+        "image": "https://partyflock.nl/images/party/458564_558x292_670441/Club-Vaag-Invites.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Vaag",
+            "city": "Antwerpen",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Ed Rush",
+                "href": "/artist/316:Ed-Rush"
+            },
+            {
+                "name": "Former",
+                "href": "/artist/80365:Former"
+            },
+            {
+                "name": "Fre4knc",
+                "href": "/artist/10535:Fre4knc"
+            },
+            {
+                "name": "Gyrofield",
+                "href": "/artist/134511:Gyrofield"
+            },
+            {
+                "name": "Lavance",
+                "href": "/artist/114400:Lavance"
+            },
+            {
+                "name": "SVB",
+                "href": "/artist/111652:SVB"
+            }
+        ]
+    },
+    {
+        "title": "Crammerock",
+        "url": "https://partyflock.nl/party/459319:Crammerock",
+        "image": "https://partyflock.nl/images/party/459319_404x404_672685/Crammerock.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T14:00:00+02:00",
+            "endDate": "2023-09-03T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Festival terrein",
+            "city": "Stekene",
+            "country": "België"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Darkside · 24 Years",
+        "url": "https://partyflock.nl/party/458821:Darkside",
+        "image": "https://partyflock.nl/images/party/458821_404x404_671270/Darkside.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T23:00:00+02:00",
+            "endDate": "2023-09-02T04:59:59+02:00"
+        },
+        "place": {
+            "name": "The Classic Grand",
+            "city": "Glasgow",
+            "country": "Schotland"
+        },
+        "lineup": [
+            {
+                "name": "GPF",
+                "href": "/artist/100891:GPF"
+            },
+            {
+                "name": "Satirized",
+                "href": "/artist/140068:Satirized"
+            },
+            {
+                "name": "Screecher",
+                "href": "/artist/143355:Screecher"
+            },
+            {
+                "name": "The Dark Horror",
+                "href": "/artist/100278:The-Dark-Horror"
+            }
+        ]
+    },
+    {
+        "title": "David Guetta & MORTEN · Future Rave",
+        "url": "https://partyflock.nl/party/453514:David-Guetta-and-MORTEN",
+        "image": "https://partyflock.nl/images/party/453514_558x292_663842/David-Guetta-and-MORTEN.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:30:00+02:00",
+            "endDate": "2023-09-02T08:29:59+02:00"
+        },
+        "place": {
+            "name": "Hï Ibiza",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "Arielle Free",
+                "href": "/artist/133784:Arielle-Free"
+            },
+            {
+                "name": "ARTBAT",
+                "href": "/artist/112373:ARTBAT"
+            },
+            {
+                "name": "David Guetta",
+                "href": "/artist/4408:David-Guetta"
+            },
+            {
+                "name": "Meduza",
+                "href": "/artist/122918:Meduza"
+            }
+        ]
+    },
+    {
+        "title": "De Microclub",
+        "url": "https://partyflock.nl/party/453608:De-Microclub",
+        "image": "https://partyflock.nl/images/party/453608_558x293_660199/De-Microclub.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T02:29:59+02:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Delicious Festival",
+        "url": "https://partyflock.nl/party/440845:Delicious-Festival",
+        "image": "https://partyflock.be/images/party/440845_560x292_666235/Delicious-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:00:00+02:00",
+            "endDate": "2023-09-02T02:59:59+02:00"
+        },
+        "place": {
+            "name": "De Zandmeren",
+            "city": "Kerkdriel",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "3KUS",
+                "href": "/artist/157495:3KUS"
+            },
+            {
+                "name": "AJ Buitendijk",
+                "href": "/artist/108489:AJ-Buitendijk"
+            },
+            {
+                "name": "Bart Alba",
+                "href": "/artist/144298:Bart-Alba"
+            },
+            {
+                "name": "Kruzo",
+                "href": "/artist/99628:Kruzo"
+            },
+            {
+                "name": "Luca Montez",
+                "href": "/artist/123836:Luca-Montez"
+            },
+            {
+                "name": "Maxx Lips",
+                "href": "/artist/89820:Maxx-Lips"
+            },
+            {
+                "name": "Mental Theo",
+                "href": "/artist/736:Mental-Theo"
+            },
+            {
+                "name": "Team Rush Hour",
+                "href": "/artist/63126:Team-Rush-Hour"
+            },
+            {
+                "name": "Wesley Rooijackers",
+                "href": "/artist/116133:Wesley-Rooijackers"
+            }
+        ]
+    },
+    {
+        "title": "Density",
+        "url": "https://partyflock.nl/event/density-nl",
+        "image": "https://partyflock.nl/images/party/451984_559x292_668859/Density.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T06:29:59+02:00"
+        },
+        "place": {
+            "name": "Hall of Fame",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "El León",
+                "href": "/artist/165417:El-Leon"
+            },
+            {
+                "name": "Jazz Dalia",
+                "href": "/artist/165418:Jazz-Dalia"
+            },
+            {
+                "name": "Jope",
+                "href": "/artist/159797:Jope"
+            },
+            {
+                "name": "Samuel Dictus",
+                "href": "/artist/121124:Samuel-Dictus"
+            }
+        ]
+    },
+    {
+        "title": "Electric Zoo · Hyperspace",
+        "url": "https://partyflock.nl/event/electric-zoo-us",
+        "image": "https://partyflock.nl/images/party/454235_404x404_670976/Electric-Zoo.png",
+        "startDate": {
+            "startDate": "2023-09-01T14:00:00+02:00",
+            "endDate": "2023-09-03T13:59:59+02:00"
+        },
+        "place": {
+            "name": "Randall's Island Park",
+            "city": "New York",
+            "country": "Verenigde Staten"
+        },
+        "lineup": [
+            {
+                "name": "An21",
+                "href": "/artist/58468:An21"
+            },
+            {
+                "name": "Bart B More",
+                "href": "/artist/15818:Bart-B-More"
+            },
+            {
+                "name": "Benny Benassi",
+                "href": "/artist/12880:Benny-Benassi"
+            },
+            {
+                "name": "Busy P",
+                "href": "/artist/47224:Busy-P"
+            },
+            {
+                "name": "Carl Cox",
+                "href": "/artist/146:Carl-Cox"
+            },
+            {
+                "name": "Crookers",
+                "href": "/artist/41065:Crookers"
+            },
+            {
+                "name": "Feed Me",
+                "href": "/artist/61925:Feed-Me"
+            },
+            {
+                "name": "Felguk",
+                "href": "/artist/62501:Felguk"
+            },
+            {
+                "name": "Gareth Emery",
+                "href": "/artist/20993:Gareth-Emery"
+            },
+            {
+                "name": "High Contrast",
+                "href": "/artist/2611:High-Contrast"
+            },
+            {
+                "name": "Joris Voorn",
+                "href": "/artist/4584:Joris-Voorn"
+            },
+            {
+                "name": "Josh Wink",
+                "href": "/artist/359:Josh-Wink"
+            },
+            {
+                "name": "Loco Dice",
+                "href": "/artist/14395:Loco-Dice"
+            },
+            {
+                "name": "Markus Schulz",
+                "href": "/artist/7062:Markus-Schulz"
+            },
+            {
+                "name": "Martin Solveig",
+                "href": "/artist/10920:Martin-Solveig"
+            },
+            {
+                "name": "Max Vangeli",
+                "href": "/artist/58469:Max-Vangeli"
+            },
+            {
+                "name": "Moby",
+                "href": "/artist/39584:Moby"
+            },
+            {
+                "name": "Mstrkrft",
+                "href": "/artist/40363:Mstrkrft"
+            },
+            {
+                "name": "Nic Fanciulli",
+                "href": "/artist/11640:Nic-Fanciulli"
+            },
+            {
+                "name": "Nicole Moudaber",
+                "href": "/artist/49901:Nicole-Moudaber"
+            },
+            {
+                "name": "Plastikman",
+                "href": "/artist/55769:Plastikman"
+            },
+            {
+                "name": "Robbie Rivera",
+                "href": "/artist/3751:Robbie-Rivera"
+            },
+            {
+                "name": "Rusko",
+                "href": "/artist/39975:Rusko"
+            },
+            {
+                "name": "SebastiAn",
+                "href": "/artist/34761:SebastiAn"
+            },
+            {
+                "name": "Serge Devant",
+                "href": "/artist/63196:Serge-Devant"
+            },
+            {
+                "name": "Sunnery James & Ryan Marciano",
+                "href": "/artist/81460:Sunnery-James-and-Ryan-Marciano"
+            },
+            {
+                "name": "The Martinez Brothers",
+                "href": "/artist/37556:The-Martinez-Brothers"
+            },
+            {
+                "name": "Tiësto",
+                "href": "/artist/1:Tiesto"
+            },
+            {
+                "name": "Tiga",
+                "href": "/artist/2005:Tiga"
+            },
+            {
+                "name": "Victor Calderone",
+                "href": "/artist/11870:Victor-Calderone"
+            }
+        ]
+    },
+    {
+        "title": "Elektric Park",
+        "url": "https://partyflock.nl/party/459380:Elektric-Park",
+        "image": "https://partyflock.nl/images/party/459380_539x303_672864/Elektric-Park.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T15:00:00+02:00",
+            "endDate": "2023-09-03T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Île des Impressionnistes",
+            "city": "Chatou",
+            "country": "Frankrijk"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Favela",
+        "url": "https://partyflock.nl/party/458957:Favela",
+        "image": "https://partyflock.nl/images/party/458957_495x330_671712/Favela.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Villa Thalia",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Balbino",
+                "href": "/artist/66805:Balbino"
+            },
+            {
+                "name": "Faby Forster",
+                "href": "/artist/130680:Faby-Forster"
+            },
+            {
+                "name": "Favela",
+                "href": "/artist/114477:Favela"
+            },
+            {
+                "name": "iNiT",
+                "href": "/artist/137973:iNiT"
+            },
+            {
+                "name": "Izzy Bizzy",
+                "href": "/artist/76575:Izzy-Bizzy"
+            },
+            {
+                "name": "Mojo",
+                "href": "/artist/124511:Mojo"
+            },
+            {
+                "name": "Ossie",
+                "href": "/artist/108541:Ossie"
+            },
+            {
+                "name": "Rafinha",
+                "href": "/artist/127861:Rafinha"
+            }
+        ]
+    },
+    {
+        "title": "FCKN LKKR",
+        "url": "https://partyflock.nl/party/458485:FCKN-LKKR",
+        "image": "https://partyflock.nl/images/party/458485_539x303_670290/FCKN-LKKR.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-01T23:59:59+02:00"
+        },
+        "place": {
+            "name": "Magistrat",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Aad Mouthaan",
+                "href": "/artist/60259:Aad-Mouthaan"
+            },
+            {
+                "name": "DenE",
+                "href": "/artist/123309:DenE"
+            },
+            {
+                "name": "Desiray",
+                "href": "/artist/24368:Desiray"
+            },
+            {
+                "name": "DiVine",
+                "href": "/artist/33797:DiVine"
+            },
+            {
+                "name": "Jack Doe",
+                "href": "/artist/97480:Jack-Doe"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "Pedro",
+                "href": "/artist/238:Pedro"
+            },
+            {
+                "name": "Quintexx",
+                "href": "/artist/139975:Quintexx"
+            },
+            {
+                "name": "Ronnie Jansen",
+                "href": "/artist/88928:Ronnie-Jansen"
+            },
+            {
+                "name": "Steve Wassenaar",
+                "href": "/artist/90448:Steve-Wassenaar"
+            },
+            {
+                "name": "Techneck",
+                "href": "/artist/131479:Techneck"
+            },
+            {
+                "name": "Tonny Krijgsman",
+                "href": "/artist/84068:Tonny-Krijgsman"
+            }
+        ]
+    },
+    {
+        "title": "Fiesta Macumba",
+        "url": "https://partyflock.nl/party/458438:Fiesta-Macumba",
+        "image": "https://partyflock.nl/images/party/458438_558x292_670179/Fiesta-Macumba.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:29:59+02:00"
+        },
+        "place": {
+            "name": "Doornroosje",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Blacksta",
+                "href": "/artist/111607:Blacksta"
+            },
+            {
+                "name": "Fiesta Macumba",
+                "href": "/artist/69701:Fiesta-Macumba"
+            },
+            {
+                "name": "Kingsta",
+                "href": "/artist/93047:Kingsta"
+            },
+            {
+                "name": "Latin Master",
+                "href": "/artist/37080:Latin-Master"
+            }
+        ]
+    },
+    {
+        "title": "FIX",
+        "url": "https://partyflock.nl/party/458372:FIX",
+        "image": "https://partyflock.nl/images/party/458372_539x303_670014/FIX.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "MEZZ",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Alessio",
+                "href": "/artist/153102:Alessio"
+            },
+            {
+                "name": "Joyliana",
+                "href": "/artist/144973:Joyliana"
+            }
+        ]
+    },
+    {
+        "title": "Frenchkickz and Harder #8",
+        "url": "https://partyflock.nl/party/455396:Frenchkickz-and-Harder",
+        "image": "https://partyflock.nl/images/party/455396_404x404_669048/Frenchkickz-and-Harder.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-01T23:59:59+02:00"
+        },
+        "place": {
+            "name": "Kroepoekfabriek",
+            "city": "Vlaardingen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DFG",
+                "href": "/artist/127006:DFG"
+            },
+            {
+                "name": "dutchgabber",
+                "href": "/artist/149423:dutchgabber"
+            },
+            {
+                "name": "Jeffa-D",
+                "href": "/artist/121667:Jeffa-D"
+            },
+            {
+                "name": "Miss Intense",
+                "href": "/artist/141869:Miss-Intense"
+            },
+            {
+                "name": "Mr. Ivex",
+                "href": "/artist/66857:Mr-Ivex"
+            },
+            {
+                "name": "Nielos",
+                "href": "/artist/71687:Nielos"
+            },
+            {
+                "name": "Refuzer",
+                "href": "/artist/125427:Refuzer"
+            },
+            {
+                "name": "Sloperij Janssen",
+                "href": "/artist/63293:Sloperij-Janssen"
+            },
+            {
+                "name": "Sniper",
+                "href": "/artist/1787:Sniper"
+            },
+            {
+                "name": "SnoeperTrooper",
+                "href": "/artist/77598:SnoeperTrooper"
+            },
+            {
+                "name": "Ysiss",
+                "href": "/artist/71420:Ysiss"
+            }
+        ]
+    },
+    {
+        "title": "Gooische Borrel",
+        "url": "https://partyflock.nl/party/459137:Gooische-Borrel",
+        "image": "https://partyflock.nl/images/party/459137_404x404_672246/Gooische-Borrel.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-01T18:59:59+02:00"
+        },
+        "place": {
+            "name": "The Spot",
+            "city": "Bussum",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Gyal A Bubble",
+        "url": "https://partyflock.nl/party/459068:Gyal-A-Bubble",
+        "image": "https://partyflock.nl/images/party/459068_559x292_672126/Gyal-A-Bubble.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:29:59+02:00"
+        },
+        "place": {
+            "name": "Palace",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "D-Opss",
+                "href": "/artist/144677:D-Opss"
+            },
+            {
+                "name": "D-Train",
+                "href": "/artist/62564:D-Train"
+            },
+            {
+                "name": "Ghennesis",
+                "href": "/artist/82017:Ghennesis"
+            },
+            {
+                "name": "Madbwoy",
+                "href": "/artist/73986:Madbwoy"
+            },
+            {
+                "name": "Rockefellababe",
+                "href": "/artist/102297:Rockefellababe"
+            }
+        ]
+    },
+    {
+        "title": "Hardcamp · Spitnoise",
+        "url": "https://partyflock.nl/party/458796:Hardcamp",
+        "image": "https://partyflock.nl/images/party/458796_547x299_671218/Hardcamp.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:00:00+02:00",
+            "endDate": "2023-09-01T20:59:59+02:00"
+        },
+        "place": {
+            "name": "eXcalibur-Hartberg",
+            "city": "Hartberg",
+            "country": "Oostenrijk"
+        },
+        "lineup": [
+            {
+                "name": "Andrw Madnss",
+                "href": "/artist/166058:Andrw-Madnss"
+            },
+            {
+                "name": "Poley Tight",
+                "href": "/artist/97768:Poley-Tight"
+            },
+            {
+                "name": "Spitnoise",
+                "href": "/artist/77788:Spitnoise"
+            }
+        ]
+    },
+    {
+        "title": "Het Doetinchems Manifest",
+        "url": "https://partyflock.nl/event/het-doetinchems-manifest-nl",
+        "image": "https://partyflock.nl/images/party/454978_362x451_662626/Het-Doetinchems-Manifest.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:00:00+02:00",
+            "endDate": "2023-09-02T02:29:59+02:00"
+        },
+        "place": {
+            "name": "De Bleek",
+            "city": "Doetinchem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AXL",
+                "href": "/artist/157188:AXL"
+            },
+            {
+                "name": "Bende van Ellende",
+                "href": "/artist/104662:Bende-van-Ellende"
+            },
+            {
+                "name": "Boef",
+                "href": "/artist/92639:Boef"
+            },
+            {
+                "name": "Cynthia Spiering",
+                "href": "/artist/96071:Cynthia-Spiering"
+            },
+            {
+                "name": "Dirty-T",
+                "href": "/artist/109639:Dirty-T"
+            },
+            {
+                "name": "KSMS",
+                "href": "/artist/143563:KSMS"
+            },
+            {
+                "name": "Sam Hofman",
+                "href": "/artist/124859:Sam-Hofman"
+            },
+            {
+                "name": "Sjosjo",
+                "href": "/artist/159960:Sjosjo"
+            },
+            {
+                "name": "SMEERKEES",
+                "href": "/artist/155912:SMEERKEES"
+            },
+            {
+                "name": "Technika",
+                "href": "/artist/158296:Technika"
+            }
+        ]
+    },
+    {
+        "title": "Highlight · Live",
+        "url": "https://partyflock.nl/party/448980:Highlight",
+        "image": "https://partyflock.nl/images/party/448980_558x292_649819/Highlight.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Meenseweg 401",
+            "city": "Ieper",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Gene Thomas",
+                "href": "/artist/165885:Gene-Thomas"
+            },
+            {
+                "name": "Mama's Jasje",
+                "href": "/artist/117877:Mamas-Jasje"
+            },
+            {
+                "name": "Michael Schack",
+                "href": "/artist/121416:Michael-Schack"
+            },
+            {
+                "name": "Niels Destadsbader",
+                "href": "/artist/158591:Niels-Destadsbader"
+            }
+        ]
+    },
+    {
+        "title": "Hitjesgolf",
+        "url": "https://partyflock.nl/party/459258:Hitjesgolf",
+        "image": "https://partyflock.nl/images/party/459258_558x292_672579/Hitjesgolf.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Hitjesdag DJ team",
+                "href": "/artist/110055:Hitjesdag-DJ-team"
+            }
+        ]
+    },
+    {
+        "title": "Hoessenbosch Festival · Fairytales",
+        "url": "https://partyflock.nl/event/hoessenbosch-festival-nl",
+        "image": "https://partyflock.nl/images/party/452004_403x405_657062/Hoessenbosch-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:00:00+02:00",
+            "endDate": "2023-09-02T02:59:59+02:00"
+        },
+        "place": {
+            "name": "Openluchttheater Hoessenbosch",
+            "city": "Berghem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bart van Dishoeck",
+                "href": "/artist/123897:Bart-van-Dishoeck"
+            },
+            {
+                "name": "Dansado & De Feestmeester",
+                "href": "/artist/90456:Dansado-and-De-Feestmeester"
+            },
+            {
+                "name": "Dennis van Erp",
+                "href": "/artist/166430:Dennis-van-Erp"
+            },
+            {
+                "name": "Derek Shots",
+                "href": "/artist/65527:Derek-Shots"
+            },
+            {
+                "name": "Diva Turner",
+                "href": "/artist/157997:Diva-Turner"
+            },
+            {
+                "name": "Jeffrey Heesen",
+                "href": "/artist/103650:Jeffrey-Heesen"
+            },
+            {
+                "name": "K-Liber",
+                "href": "/artist/13996:K-Liber"
+            },
+            {
+                "name": "Mark's Hazes Tribute",
+                "href": "/artist/141991:Marks-Hazes-Tribute"
+            },
+            {
+                "name": "Menno",
+                "href": "/artist/50752:Menno"
+            },
+            {
+                "name": "Pat B",
+                "href": "/artist/17416:Pat-B"
+            },
+            {
+                "name": "Raymon Hermans",
+                "href": "/artist/102247:Raymon-Hermans"
+            },
+            {
+                "name": "Sonny",
+                "href": "/artist/117660:Sonny"
+            },
+            {
+                "name": "Sonny",
+                "href": "/artist/166431:Sonny"
+            },
+            {
+                "name": "Stef Ekkel",
+                "href": "/artist/96587:Stef-Ekkel"
+            },
+            {
+                "name": "Team Rush Hour",
+                "href": "/artist/63126:Team-Rush-Hour"
+            },
+            {
+                "name": "The Darkraver",
+                "href": "/artist/40:The-Darkraver"
+            },
+            {
+                "name": "The Dirty Daddies",
+                "href": "/artist/85719:The-Dirty-Daddies"
+            }
+        ]
+    },
+    {
+        "title": "Initial Festival",
+        "url": "https://partyflock.nl/event/initial-festival-fr",
+        "image": "https://partyflock.nl/images/party/459026_558x292_671932/Initial-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T20:00:00+02:00",
+            "endDate": "2023-09-03T04:59:59+02:00"
+        },
+        "place": {
+            "name": "Expositions de Bordeaux",
+            "city": "Bordeaux",
+            "country": "Frankrijk"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Kiss All Hipsters · Paard van Stal (By Night)",
+        "url": "https://partyflock.nl/party/457978:Kiss-All-Hipsters",
+        "image": "https://partyflock.nl/images/party/457978_626x261_668995/Kiss-All-Hipsters.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:45:00+02:00",
+            "endDate": "2023-09-02T01:44:59+02:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "L'Afrique · Carnaval",
+        "url": "https://partyflock.nl/party/450435:LAfrique",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "PKHS",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "La Rêve",
+        "url": "https://partyflock.nl/party/456536:La-Reve",
+        "image": "https://partyflock.nl/images/party/456536_539x303_670393/La-Reve.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Het Sieraad",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gabriel Ananda",
+                "href": "/artist/18476:Gabriel-Ananda"
+            },
+            {
+                "name": "Ninsa",
+                "href": "/artist/151842:Ninsa"
+            },
+            {
+                "name": "Notre Dame",
+                "href": "/artist/161837:Notre-Dame"
+            },
+            {
+                "name": "Rose Ringed",
+                "href": "/artist/122852:Rose-Ringed"
+            }
+        ]
+    },
+    {
+        "title": "Laboratorium",
+        "url": "https://partyflock.nl/party/458737:Laboratorium",
+        "image": "https://partyflock.nl/images/party/458737_404x404_671079/Laboratorium.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Wibar",
+            "city": "Leiden",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MARRØN",
+                "href": "/artist/84233:MARRON"
+            },
+            {
+                "name": "Salbany",
+                "href": "/artist/166036:Salbany"
+            },
+            {
+                "name": "Valody",
+                "href": "/artist/166035:Valody"
+            }
+        ]
+    },
+    {
+        "title": "Limbo · Baby, we're back",
+        "url": "https://partyflock.nl/party/459269:Limbo",
+        "image": "https://partyflock.nl/images/party/459269_404x404_667883/Limbo.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "The Grit",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Manify · Out of office",
+        "url": "https://partyflock.nl/party/458456:Manify",
+        "image": "https://partyflock.nl/images/party/458456_558x292_670221/Manify.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Rosalie",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Marimba · Unboxing",
+        "url": "https://partyflock.nl/party/458739:Marimba",
+        "image": "https://partyflock.nl/images/party/458739_404x404_671082/Marimba.png",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Levenslang",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mega Piraten Festijn",
+        "url": "https://partyflock.nl/party/445715:Mega-Piraten-Festijn",
+        "image": "https://partyflock.nl/images/party/445715_404x404_642186/Mega-Piraten-Festijn.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T20:00:00+02:00",
+            "endDate": "2023-09-02T01:44:59+02:00"
+        },
+        "place": {
+            "name": "Koeleweg Evenemententerrein",
+            "city": "Oldebroek",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Model Man",
+        "url": "https://partyflock.nl/party/457177:Model-Man",
+        "image": "https://partyflock.nl/images/party/457177_496x329_666561/Model-Man.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Model Man",
+                "href": "/artist/164598:Model-Man"
+            }
+        ]
+    },
+    {
+        "title": "Munch Invites · Karim Soliman",
+        "url": "https://partyflock.nl/party/458391:Munch-Invites",
+        "image": "https://partyflock.nl/images/party/458391_539x303_670079/Munch-Invites.png",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "MUNCH",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "NOA",
+        "url": "https://partyflock.nl/party/458758:NOA",
+        "image": "https://partyflock.nl/images/party/458758_404x404_630635/NOA.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Onbegrensd",
+        "url": "https://partyflock.nl/party/457936:Onbegrensd",
+        "image": "https://partyflock.nl/images/party/457936_404x404_668835/Onbegrensd.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Grenswerk",
+            "city": "Venlo",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "GWELD",
+                "href": "/artist/157186:GWELD"
+            },
+            {
+                "name": "KVD",
+                "href": "/artist/149221:KVD"
+            },
+            {
+                "name": "LESSSS",
+                "href": "/artist/141334:LESSSS"
+            },
+            {
+                "name": "Sonder",
+                "href": "/artist/144326:Sonder"
+            }
+        ]
+    },
+    {
+        "title": "Outside World Festival · Future Past",
+        "url": "https://partyflock.nl/event/outside-world-festival-de",
+        "image": "https://partyflock.nl/images/party/447057_404x404_670498/Outside-World-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T17:00:00+02:00",
+            "endDate": "2023-09-03T03:59:59+02:00"
+        },
+        "place": {
+            "name": "Blauer See",
+            "city": "Garbsen",
+            "country": "Duitsland"
+        },
+        "lineup": [
+            {
+                "name": "Barthezz",
+                "href": "/artist/103594:Barthezz"
+            },
+            {
+                "name": "Brooklyn Bounce",
+                "href": "/artist/1499:Brooklyn-Bounce"
+            },
+            {
+                "name": "Charly Lownoise",
+                "href": "/artist/1042:Charly-Lownoise"
+            },
+            {
+                "name": "DAG",
+                "href": "/artist/4591:DAG"
+            },
+            {
+                "name": "Derb",
+                "href": "/artist/225:Derb"
+            },
+            {
+                "name": "Dune",
+                "href": "/artist/1776:Dune"
+            },
+            {
+                "name": "Falk",
+                "href": "/artist/8041:Falk"
+            },
+            {
+                "name": "Future Breeze",
+                "href": "/artist/98019:Future-Breeze"
+            },
+            {
+                "name": "Hooligan",
+                "href": "/artist/1294:Hooligan"
+            },
+            {
+                "name": "K-Vee",
+                "href": "/artist/156691:K-Vee"
+            },
+            {
+                "name": "Lexy & K-Paul",
+                "href": "/artist/57313:Lexy-and-K-Paul"
+            },
+            {
+                "name": "Mauro Picotto",
+                "href": "/artist/258:Mauro-Picotto"
+            },
+            {
+                "name": "Nalin & Kane",
+                "href": "/artist/60858:Nalin-and-Kane"
+            },
+            {
+                "name": "Niels van Gogh",
+                "href": "/artist/23999:Niels-van-Gogh"
+            },
+            {
+                "name": "Quicksilver",
+                "href": "/artist/26470:Quicksilver"
+            },
+            {
+                "name": "Revil O.",
+                "href": "/artist/93739:Revil-O"
+            },
+            {
+                "name": "Talla 2XLC",
+                "href": "/artist/1052:Talla-2XLC"
+            },
+            {
+                "name": "Westbam",
+                "href": "/artist/755:Westbam"
+            },
+            {
+                "name": "Woody van Eyden",
+                "href": "/artist/30970:Woody-van-Eyden"
+            },
+            {
+                "name": "Yanny",
+                "href": "/artist/30620:Yanny"
+            }
+        ]
+    },
+    {
+        "title": "Pact · ØRGIE All Night Long",
+        "url": "https://partyflock.nl/party/456751:Pact",
+        "image": "https://partyflock.nl/images/party/456751_558x292_670044/Pact.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T10:59:59+02:00"
+        },
+        "place": {
+            "name": "Now&Wow",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "ØRGIE",
+                "href": "/artist/151006:ORGIE"
+            },
+            {
+                "name": "SEMMUS",
+                "href": "/artist/155425:SEMMUS"
+            }
+        ]
+    },
+    {
+        "title": "PIV",
+        "url": "https://partyflock.nl/party/456723:PIV",
+        "image": "https://partyflock.nl/images/party/456723_539x303_665294/PIV.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T02:59:59+02:00"
+        },
+        "place": {
+            "name": "Colorado Charlie",
+            "city": "Scheveningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Artmann",
+                "href": "/artist/108485:Artmann"
+            },
+            {
+                "name": "Chez Damier",
+                "href": "/artist/51253:Chez-Damier"
+            },
+            {
+                "name": "East End Dubs",
+                "href": "/artist/80024:East-End-Dubs"
+            },
+            {
+                "name": "Jamback",
+                "href": "/artist/127323:Jamback"
+            },
+            {
+                "name": "Job de Jong",
+                "href": "/artist/128906:Job-de-Jong"
+            },
+            {
+                "name": "Noumé",
+                "href": "/artist/87912:Noume"
+            }
+        ]
+    },
+    {
+        "title": "PIÑA",
+        "url": "https://partyflock.nl/party/456068:PINA",
+        "image": "https://partyflock.nl/images/party/456068_539x303_664398/PINA.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Podium Victorie",
+            "city": "Alkmaar",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Pop Ya Collar",
+        "url": "https://partyflock.nl/party/452627:Pop-Ya-Collar",
+        "image": "https://partyflock.nl/images/party/452627_404x404_667760/Pop-Ya-Collar.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T05:29:59+02:00"
+        },
+        "place": {
+            "name": "Bitterzoet",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "HMLSS",
+                "href": "/artist/144686:HMLSS"
+            }
+        ]
+    },
+    {
+        "title": "Sfeerpop",
+        "url": "https://partyflock.nl/party/459253:Sfeerpop",
+        "image": "https://partyflock.nl/images/party/459253_558x292_672536/Sfeerpop.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:00:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Evenemententerrein Veerkensweg",
+            "city": "Gastel",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "It all started in the Nineties",
+                "href": "/artist/61987:It-all-started-in-the-Nineties"
+            },
+            {
+                "name": "Royal Beat",
+                "href": "/artist/108430:Royal-Beat"
+            },
+            {
+                "name": "Team TNT",
+                "href": "/artist/87561:Team-TNT"
+            }
+        ]
+    },
+    {
+        "title": "Shelter",
+        "url": "https://partyflock.nl/party/459212:Shelter",
+        "image": "https://partyflock.nl/images/party/459212_558x292_672450/Shelter.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T08:29:59+02:00"
+        },
+        "place": {
+            "name": "Shelter",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gaskin",
+                "href": "/artist/166336:Gaskin"
+            },
+            {
+                "name": "Koko",
+                "href": "/artist/156921:Koko"
+            },
+            {
+                "name": "Luuk van Dijk",
+                "href": "/artist/79315:Luuk-van-Dijk"
+            },
+            {
+                "name": "Paige Tomlinson",
+                "href": "/artist/153097:Paige-Tomlinson"
+            }
+        ]
+    },
+    {
+        "title": "Sounds Of Freedom",
+        "url": "https://partyflock.nl/party/458308:Sounds-Of-Freedom",
+        "image": "https://partyflock.nl/images/party/458308_404x404_669865/Sounds-Of-Freedom.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "onbekende locatie",
+            "city": "Jarocin",
+            "country": "Polen"
+        },
+        "lineup": [
+            {
+                "name": "4 Strings",
+                "href": "/artist/3661:4-Strings"
+            },
+            {
+                "name": "Ben Gold",
+                "href": "/artist/59896:Ben-Gold"
+            },
+            {
+                "name": "Emma Hewitt",
+                "href": "/artist/67399:Emma-Hewitt"
+            },
+            {
+                "name": "Johan Gielen",
+                "href": "/artist/58:Johan-Gielen"
+            },
+            {
+                "name": "Matt Bukovski",
+                "href": "/artist/70958:Matt-Bukovski"
+            },
+            {
+                "name": "Matys",
+                "href": "/artist/33471:Matys"
+            },
+            {
+                "name": "Skytech",
+                "href": "/artist/39801:Skytech"
+            }
+        ]
+    },
+    {
+        "title": "Space Safari",
+        "url": "https://partyflock.nl/event/space-safari-be",
+        "image": "https://partyflock.nl/images/party/439877_404x404_642157/Space-Safari.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-04T18:59:59+02:00"
+        },
+        "place": {
+            "name": "De Massembre",
+            "city": "Heer",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Alter Fritz",
+                "href": "/artist/116420:Alter-Fritz"
+            },
+            {
+                "name": "Anoebis",
+                "href": "/artist/13964:Anoebis"
+            },
+            {
+                "name": "Antonymous",
+                "href": "/artist/111732:Antonymous"
+            },
+            {
+                "name": "Arkanoid",
+                "href": "/artist/3973:Arkanoid"
+            },
+            {
+                "name": "Atriohm",
+                "href": "/artist/92877:Atriohm"
+            },
+            {
+                "name": "Baere",
+                "href": "/artist/128471:Baere"
+            },
+            {
+                "name": "Basenji",
+                "href": "/artist/89543:Basenji"
+            },
+            {
+                "name": "Bashir",
+                "href": "/artist/68674:Bashir"
+            },
+            {
+                "name": "Blaame",
+                "href": "/artist/147122:Blaame"
+            },
+            {
+                "name": "Black Francis",
+                "href": "/artist/79556:Black-Francis"
+            },
+            {
+                "name": "Blue Planet Corporation",
+                "href": "/artist/165000:Blue-Planet-Corporation"
+            },
+            {
+                "name": "Braincell",
+                "href": "/artist/59047:Braincell"
+            },
+            {
+                "name": "Bsaer",
+                "href": "/artist/165004:Bsaer"
+            },
+            {
+                "name": "C&R",
+                "href": "/artist/165016:C-R"
+            },
+            {
+                "name": "Confo",
+                "href": "/artist/119340:Confo"
+            },
+            {
+                "name": "Cosmosis",
+                "href": "/artist/46081:Cosmosis"
+            },
+            {
+                "name": "Creeds",
+                "href": "/artist/107768:Creeds"
+            },
+            {
+                "name": "Cuften",
+                "href": "/artist/141479:Cuften"
+            },
+            {
+                "name": "Dardenne",
+                "href": "/artist/126303:Dardenne"
+            },
+            {
+                "name": "DigiCult",
+                "href": "/artist/63813:DigiCult"
+            },
+            {
+                "name": "Dijd",
+                "href": "/artist/165005:Dijd"
+            },
+            {
+                "name": "Dirckie",
+                "href": "/artist/165006:Dirckie"
+            },
+            {
+                "name": "Dubsakee",
+                "href": "/artist/147126:Dubsakee"
+            },
+            {
+                "name": "Dynamic Intervention",
+                "href": "/artist/99690:Dynamic-Intervention"
+            },
+            {
+                "name": "Eliminator",
+                "href": "/artist/35993:Eliminator"
+            },
+            {
+                "name": "Freak Factory",
+                "href": "/artist/144996:Freak-Factory"
+            },
+            {
+                "name": "Future Ripples",
+                "href": "/artist/110633:Future-Ripples"
+            },
+            {
+                "name": "G.Well",
+                "href": "/artist/165015:G-Well"
+            },
+            {
+                "name": "Geometek",
+                "href": "/artist/123516:Geometek"
+            },
+            {
+                "name": "Giuseppe",
+                "href": "/artist/98849:Giuseppe"
+            },
+            {
+                "name": "H.A.R.A.L.D",
+                "href": "/artist/164863:H-A-R-A-L-D"
+            },
+            {
+                "name": "Hobin Rood",
+                "href": "/artist/165026:Hobin-Rood"
+            },
+            {
+                "name": "James Monro",
+                "href": "/artist/28087:James-Monro"
+            },
+            {
+                "name": "John Faustus",
+                "href": "/artist/72538:John-Faustus"
+            },
+            {
+                "name": "JOKEM",
+                "href": "/artist/165002:JOKEM"
+            },
+            {
+                "name": "Kashyyyk",
+                "href": "/artist/110635:Kashyyyk"
+            },
+            {
+                "name": "KinDzaDza",
+                "href": "/artist/36620:KinDzaDza"
+            },
+            {
+                "name": "King Samir",
+                "href": "/artist/165019:King-Samir"
+            },
+            {
+                "name": "Knobs",
+                "href": "/artist/60133:Knobs"
+            },
+            {
+                "name": "KO4D",
+                "href": "/artist/130985:KO4D"
+            },
+            {
+                "name": "Komomo",
+                "href": "/artist/123515:Komomo"
+            },
+            {
+                "name": "Koxbox",
+                "href": "/artist/51787:Koxbox"
+            },
+            {
+                "name": "Krumelur",
+                "href": "/artist/78932:Krumelur"
+            },
+            {
+                "name": "La Kajofol",
+                "href": "/artist/154420:La-Kajofol"
+            },
+            {
+                "name": "Lethö",
+                "href": "/artist/165003:Lethoe"
+            },
+            {
+                "name": "Logic Bomb",
+                "href": "/artist/89864:Logic-Bomb"
+            },
+            {
+                "name": "Long Legged Lander",
+                "href": "/artist/147560:Long-Legged-Lander"
+            },
+            {
+                "name": "Luche",
+                "href": "/artist/157390:Luche"
+            },
+            {
+                "name": "Mantrum",
+                "href": "/artist/88804:Mantrum"
+            },
+            {
+                "name": "Massaar",
+                "href": "/artist/63827:Massaar"
+            },
+            {
+                "name": "Mountain Sushi",
+                "href": "/artist/165025:Mountain-Sushi"
+            },
+            {
+                "name": "Orestis",
+                "href": "/artist/45640:Orestis"
+            },
+            {
+                "name": "Pako Marckx",
+                "href": "/artist/157413:Pako-Marckx"
+            },
+            {
+                "name": "Pius Perplex",
+                "href": "/artist/165027:Pius-Perplex"
+            },
+            {
+                "name": "Psytek",
+                "href": "/artist/134818:Psytek"
+            },
+            {
+                "name": "Radze",
+                "href": "/artist/98737:Radze"
+            },
+            {
+                "name": "Raemdonck",
+                "href": "/artist/158700:Raemdonck"
+            },
+            {
+                "name": "Rapunzel",
+                "href": "/artist/165008:Rapunzel"
+            },
+            {
+                "name": "Re:nald",
+                "href": "/artist/100425:Re-nald"
+            },
+            {
+                "name": "Rino",
+                "href": "/artist/154492:Rino"
+            },
+            {
+                "name": "Roentgen Limiter",
+                "href": "/artist/155199:Roentgen-Limiter"
+            },
+            {
+                "name": "Samoth",
+                "href": "/artist/162558:Samoth"
+            },
+            {
+                "name": "Sanoj",
+                "href": "/artist/165007:Sanoj"
+            },
+            {
+                "name": "Sasha",
+                "href": "/artist/245:Sasha"
+            },
+            {
+                "name": "Sensient",
+                "href": "/artist/45048:Sensient"
+            },
+            {
+                "name": "Sevenum Six",
+                "href": "/artist/66024:Sevenum-Six"
+            },
+            {
+                "name": "Sofus Forsberg",
+                "href": "/artist/165024:Sofus-Forsberg"
+            },
+            {
+                "name": "Solarythm",
+                "href": "/artist/165022:Solarythm"
+            },
+            {
+                "name": "Sopik",
+                "href": "/artist/144489:Sopik"
+            },
+            {
+                "name": "Sterling Moss",
+                "href": "/artist/152:Sterling-Moss"
+            },
+            {
+                "name": "Strapontin",
+                "href": "/artist/120294:Strapontin"
+            },
+            {
+                "name": "Subway Shamans",
+                "href": "/artist/107726:Subway-Shamans"
+            },
+            {
+                "name": "Technossomy",
+                "href": "/artist/164999:Technossomy"
+            },
+            {
+                "name": "The Delta",
+                "href": "/artist/131052:The-Delta"
+            },
+            {
+                "name": "Tig",
+                "href": "/artist/135007:Tig"
+            },
+            {
+                "name": "Tristan",
+                "href": "/artist/1094:Tristan"
+            },
+            {
+                "name": "Tushen Raï",
+                "href": "/artist/128339:Tushen-Rai"
+            },
+            {
+                "name": "Unification Sound",
+                "href": "/artist/88145:Unification-Sound"
+            },
+            {
+                "name": "Vinylla Ice",
+                "href": "/artist/165009:Vinylla-Ice"
+            },
+            {
+                "name": "Waga Waga",
+                "href": "/artist/115109:Waga-Waga"
+            },
+            {
+                "name": "Warum",
+                "href": "/artist/165010:Warum"
+            },
+            {
+                "name": "Whrikk",
+                "href": "/artist/65540:Whrikk"
+            },
+            {
+                "name": "Woodub",
+                "href": "/artist/165018:Woodub"
+            },
+            {
+                "name": "X-Dream",
+                "href": "/artist/51574:X-Dream"
+            },
+            {
+                "name": "X&Trick",
+                "href": "/artist/23441:X-Trick"
+            },
+            {
+                "name": "Xynia",
+                "href": "/artist/117481:Xynia"
+            },
+            {
+                "name": "Yentl",
+                "href": "/artist/76061:Yentl"
+            },
+            {
+                "name": "Zeck",
+                "href": "/artist/62927:Zeck"
+            }
+        ]
+    },
+    {
+        "title": "T.M.O. B-Day Bash",
+        "url": "https://partyflock.nl/party/457357:T-M-O-B-Day-Bash",
+        "image": "https://partyflock.nl/images/party/457357_404x404_669937/T-M-O-B-Day-Bash.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T23:00:00+02:00",
+            "endDate": "2023-09-02T03:59:59+02:00"
+        },
+        "place": {
+            "name": "De Ster",
+            "city": "Nieuwkuijk",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Aalst",
+                "href": "/artist/157262:Aalst"
+            },
+            {
+                "name": "Akimbo",
+                "href": "/artist/153075:Akimbo"
+            },
+            {
+                "name": "Amnesia",
+                "href": "/artist/99675:Amnesia"
+            },
+            {
+                "name": "CVDL",
+                "href": "/artist/165141:CVDL"
+            },
+            {
+                "name": "Grof Geschut",
+                "href": "/artist/165142:Grof-Geschut"
+            },
+            {
+                "name": "Jay Borrow",
+                "href": "/artist/157320:Jay-Borrow"
+            },
+            {
+                "name": "Ketso",
+                "href": "/artist/141518:Ketso"
+            },
+            {
+                "name": "T.M.O.",
+                "href": "/artist/165139:T-M-O"
+            }
+        ]
+    },
+    {
+        "title": "The Gardens of Babylon Festival",
+        "url": "https://partyflock.nl/event/the-gardens-of-babylon-festival-nl",
+        "image": "https://partyflock.nl/images/party/450351_558x292_653375/The-Gardens-of-Babylon-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T12:00:00+02:00",
+            "endDate": "2023-09-04T13:59:59+02:00"
+        },
+        "place": {
+            "name": "De Bergen",
+            "city": "Wanroij",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "TOAST · BACK AT OOSTERBAR",
+        "url": "https://partyflock.nl/party/459388:TOAST",
+        "image": "https://partyflock.nl/images/party/459388_404x404_672875/TOAST.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T04:59:59+02:00"
+        },
+        "place": {
+            "name": "Oosterbar",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BLACKPRINT",
+                "href": "/artist/166463:BLACKPRINT"
+            },
+            {
+                "name": "Camtrao",
+                "href": "/artist/84904:Camtrao"
+            },
+            {
+                "name": "ESSI",
+                "href": "/artist/126254:ESSI"
+            },
+            {
+                "name": "MALINDI",
+                "href": "/artist/166465:MALINDI"
+            },
+            {
+                "name": "Yusu",
+                "href": "/artist/156202:Yusu"
+            }
+        ]
+    },
+    {
+        "title": "Under the Milky Way",
+        "url": "https://partyflock.nl/event/under-the-milky-way-nl",
+        "image": "https://partyflock.nl/images/party/443509_404x404_636507/Under-the-Milky-Way.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T18:00:00+02:00",
+            "endDate": "2023-09-03T02:29:59+02:00"
+        },
+        "place": {
+            "name": "Surfclub",
+            "city": "Huissen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Unheard",
+        "url": "https://partyflock.nl/party/453196:Unheard",
+        "image": "https://partyflock.nl/images/party/453196_495x330_659826/Unheard.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "PKHS",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Brutal Habitz",
+                "href": "/artist/159295:Brutal-Habitz"
+            },
+            {
+                "name": "Discharged",
+                "href": "/artist/164943:Discharged"
+            },
+            {
+                "name": "Eraized",
+                "href": "/artist/139285:Eraized"
+            },
+            {
+                "name": "Heavy Resistance",
+                "href": "/artist/136996:Heavy-Resistance"
+            },
+            {
+                "name": "Indvstry",
+                "href": "/artist/152888:Indvstry"
+            },
+            {
+                "name": "Level One",
+                "href": "/artist/97850:Level-One"
+            },
+            {
+                "name": "Required",
+                "href": "/artist/140212:Required"
+            },
+            {
+                "name": "RVAGE",
+                "href": "/artist/83100:RVAGE"
+            },
+            {
+                "name": "Skinwalker",
+                "href": "/artist/164942:Skinwalker"
+            }
+        ]
+    },
+    {
+        "title": "Urban Friday",
+        "url": "https://partyflock.nl/party/457087:Urban-Friday",
+        "image": "https://partyflock.nl/images/party/457087_404x404_666364/Urban-Friday.png",
+        "startDate": {
+            "startDate": "2023-09-02T00:00:00+02:00",
+            "endDate": "2023-09-02T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Twenty Two",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Vault Sessions · All Vinyl Weekender",
+        "url": "https://partyflock.nl/party/457844:Vault-Sessions",
+        "image": "https://partyflock.nl/images/party/457844_404x404_668631/Vault-Sessions.jpg",
+        "startDate": {
+            "startDate": "2023-09-02T01:00:00+02:00",
+            "endDate": "2023-09-02T09:59:59+02:00"
+        },
+        "place": {
+            "name": "RADION",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Beau Didier",
+                "href": "/artist/143247:Beau-Didier"
+            },
+            {
+                "name": "Phara",
+                "href": "/artist/98828:Phara"
+            },
+            {
+                "name": "Ruiz OSC1",
+                "href": "/artist/143923:Ruiz-OSC1"
+            },
+            {
+                "name": "The Lady Machine",
+                "href": "/artist/122599:The-Lady-Machine"
+            },
+            {
+                "name": "Tool",
+                "href": "/artist/155450:Tool"
+            },
+            {
+                "name": "Vân Anh",
+                "href": "/artist/48167:Van-Anh"
+            }
+        ]
+    },
+    {
+        "title": "VM Radio × Libertas Music",
+        "url": "https://partyflock.nl/party/456739:VM-Radio-x-Libertas-Music",
+        "image": "https://partyflock.nl/images/party/456739_571x286_665385/VM-Radio-x-Libertas-Music.png",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T04:59:59+02:00"
+        },
+        "place": {
+            "name": "Toekomstmuziek",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Braketrack",
+                "href": "/artist/156770:Braketrack"
+            },
+            {
+                "name": "Brinkie",
+                "href": "/artist/156772:Brinkie"
+            },
+            {
+                "name": "Buddy Suwijn",
+                "href": "/artist/77438:Buddy-Suwijn"
+            },
+            {
+                "name": "Charles Mingles",
+                "href": "/artist/156771:Charles-Mingles"
+            },
+            {
+                "name": "Swanborn",
+                "href": "/artist/116255:Swanborn"
+            },
+            {
+                "name": "T-Gray",
+                "href": "/artist/70976:T-Gray"
+            },
+            {
+                "name": "Younes",
+                "href": "/artist/26648:Younes"
+            }
+        ]
+    },
+    {
+        "title": "Vrijmiboot · Wereldhavendagen",
+        "url": "https://partyflock.nl/party/449790:Vrijmiboot",
+        "image": "https://partyflock.nl/images/party/449790_655x249_607525/Vrijmiboot.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T20:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "unspecified boat",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sheila Hill",
+                "href": "/artist/47960:Sheila-Hill"
+            }
+        ]
+    },
+    {
+        "title": "Vrijmiboot",
+        "url": "https://partyflock.nl/party/449791:Vrijmiboot",
+        "image": "https://partyflock.nl/images/party/449791_655x249_607525/Vrijmiboot.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T20:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "unspecified boat",
+            "city": "Deventer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Donny Summer",
+                "href": "/artist/125103:Donny-Summer"
+            },
+            {
+                "name": "Walter Looks",
+                "href": "/artist/57135:Walter-Looks"
+            }
+        ]
+    },
+    {
+        "title": "Vroeg Pieken",
+        "url": "https://partyflock.nl/party/452677:Vroeg-Pieken",
+        "image": "https://partyflock.nl/images/party/452677_539x303_658811/Vroeg-Pieken.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:30:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Steck",
+            "city": "Delft",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Vroeg Pieken",
+        "url": "https://partyflock.nl/party/455058:Vroeg-Pieken",
+        "image": "https://partyflock.nl/images/party/455058_539x303_662828/Vroeg-Pieken.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T02:29:59+02:00"
+        },
+        "place": {
+            "name": "5th Avenue",
+            "city": "Arnhem",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Vroeg Pieken",
+        "url": "https://partyflock.nl/party/456621:Vroeg-Pieken",
+        "image": "https://partyflock.nl/images/party/456621_539x303_665022/Vroeg-Pieken.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T02:29:59+02:00"
+        },
+        "place": {
+            "name": "Van Aken",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Vroeg Pieken",
+        "url": "https://partyflock.nl/party/458557:Vroeg-Pieken",
+        "image": "https://partyflock.nl/images/party/458557_539x303_670419/Vroeg-Pieken.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T22:00:00+02:00",
+            "endDate": "2023-09-02T02:29:59+02:00"
+        },
+        "place": {
+            "name": "Smederij",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "VroegZat",
+        "url": "https://partyflock.nl/party/457912:VroegZat",
+        "image": "https://partyflock.nl/images/party/457912_539x303_668788/VroegZat.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T21:30:00+02:00",
+            "endDate": "2023-09-02T01:59:59+02:00"
+        },
+        "place": {
+            "name": "DRU Cultuurfabriek",
+            "city": "Ulft",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Zomerpop",
+        "url": "https://partyflock.nl/event/zomerpop-nl",
+        "image": "https://partyflock.nl/images/party/450241_558x292_653051/Zomerpop.jpg",
+        "startDate": {
+            "startDate": "2023-09-01T19:00:00+02:00",
+            "endDate": "2023-09-02T00:59:59+02:00"
+        },
+        "place": {
+            "name": "Weyver",
+            "city": "Hoogwoud",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "De Klok Op Rock",
+                "href": "/artist/166109:De-Klok-Op-Rock"
+            },
+            {
+                "name": "Mark Foggo",
+                "href": "/artist/31936:Mark-Foggo"
+            },
+            {
+                "name": "Oos Joos",
+                "href": "/artist/143447:Oos-Joos"
+            },
+            {
+                "name": "Rave van Fortuin",
+                "href": "/artist/75088:Rave-van-Fortuin"
+            },
+            {
+                "name": "Robby Valentine",
+                "href": "/artist/166108:Robby-Valentine"
+            },
+            {
+                "name": "Sleazy Stereo",
+                "href": "/artist/70966:Sleazy-Stereo"
+            },
+            {
+                "name": "Timba",
+                "href": "/artist/158567:Timba"
+            }
+        ]
+    }
+]
