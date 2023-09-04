@@ -1,0 +1,240 @@
+[
+    {
+        "title": "Aachen Big Band",
+        "url": "/konzert/funk/event/5f1859943d65a16a7545809c.62f62aabcecfa74ea2028542.aachen-big-band",
+        "startDate": {
+            "startDate": "2023-09-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Mufab, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "funk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/46da6c237123dcb914c949520708c605.jpg?v=2"
+    },
+    {
+        "title": "Scott Weis & Band",
+        "url": "/konzert/blues/event/5f18599d3d65a16a75458bcd.63283100147d1f4c555dd2f0.scott-weis--band",
+        "startDate": {
+            "startDate": "2023-09-04T20:15:00.000Z",
+            "text": "Heute, 20:15 Uhr"
+        },
+        "place": "Rio, Eschweiler",
+        "categorySlugs": [
+            "konzert",
+            "blues"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/16e62d8d279c241419118dbd061615c7.jpeg?v=1"
+    },
+    {
+        "title": "„Keiner hat gesagt, dass du ausziehen sollst“",
+        "url": "/buehne/theater/event/5f18599e3d65a16a75458cda.64b05f3c4ed469609f41d5d3.keiner-hat-gesagt-dass-du-ausziehen-sollst",
+        "startDate": {
+            "startDate": "2023-09-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f4b954a20372243ef3db30bd64593e0c.jpg?v=1"
+    },
+    {
+        "title": "„Was man von hier aus sehen kann“",
+        "url": "/film-und-bild/film/drama/event/5f1859a23d65a16a7545917e.63c400cd45849d3ddd28dcc7.was-man-von-hier-aus-sehen-kann",
+        "startDate": {
+            "startDate": "2023-09-04T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c193187876ab5297a96578d51793c656.jpg?v=2"
+    },
+    {
+        "title": "Philosophisches Café",
+        "url": "/bildung/vortrag-und-diskussion/event/5f18599b3d65a16a75458898.64ef6629599b185ee17baa43.philosophisches-caf",
+        "startDate": {
+            "startDate": "2023-09-04T18:30:00.000Z",
+            "endDate": "2023-09-04T20:30:00.000Z",
+            "text": "Heute, 18:30 - 20:30 Uhr"
+        },
+        "place": "Haus der Evangelischen Gemeinde, Düren",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ]
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-09-04T10:00:00.000Z",
+            "endDate": "2023-09-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-09-04T10:00:00.000Z",
+            "endDate": "2023-09-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2023-09-04T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "Karl von Monschau: „Konkret per dekret“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457dd8.641498f4071ca31b1074fa4a.karl-von-monschau-konkret-per-dekret",
+        "startDate": {
+            "startDate": "2023-09-04T09:00:00.000Z",
+            "endDate": "2023-09-04T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "AVT Soft Matter Process Engineering, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e3bb3ef83b909bdb92f15e5ba98bfb1e.jpg?v=0"
+    },
+    {
+        "title": "Tim Berresheim: „Caverna“",
+        "url": "/kunst/ausstellung/event/61d2f49a3d65a1303244ce04.6459fb2a7d1f133c44140782.tim-berresheim-caverna",
+        "startDate": {
+            "startDate": "2023-09-04T12:00:00.000Z",
+            "endDate": "2023-09-04T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Auge & Welt, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/38c286424e4366386ca32886efe0c1cb.jpg?v=2"
+    },
+    {
+        "title": "„Menschen, Bilder, Orte - 1700 Jahre Jüdisches Leben in Deutschland“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.645a54747592422ab14472ab.menschen-bilder-orte---1700-jahre-juedisches-leben-in-deutschland",
+        "startDate": {
+            "startDate": "2023-09-04T10:00:00.000Z",
+            "endDate": "2023-09-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e22378ec0a858befbce4494975814175.jpg?v=2"
+    },
+    {
+        "title": "„Memory Foam“",
+        "url": "/kunst/ausstellung/event/5f18599f3d65a16a75458d8f.64a80e75bb90e16a7812e062.memory-foam",
+        "startDate": {
+            "startDate": "2023-09-04",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b2c412a0f0857ed3e92d2f0f2a10bc52.jpg?v=1"
+    },
+    {
+        "title": "Lucie Schmitz: „Verbundenheit“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458da3.64be81e25b001840fb4d2bb7.lucie-schmitz-verbundenheit",
+        "startDate": {
+            "startDate": "2023-09-04T10:00:00.000Z",
+            "endDate": "2023-09-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "„In Memoriam“, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/822413dca25803adf2d7d7aeb170455e.jpg?v=1"
+    },
+    {
+        "title": "Meditative Malerei",
+        "url": "/kunst/ausstellung/malerei/event/5f1859953d65a16a754581e9.64c78c5bceebe4414431b684.meditative-malerei",
+        "startDate": {
+            "startDate": "2023-09-04T08:00:00.000Z",
+            "endDate": "2023-09-04T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ]
+    },
+    {
+        "title": "„Lindy Hop“",
+        "url": "/sport-und-bewegung/sport/mitmachen/event/5f18599e3d65a16a75458c24.649aad9cdb3118688104a715.lindy-hop",
+        "startDate": {
+            "startDate": "2023-09-04T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Elisenbrunnen, Aachen",
+        "categorySlugs": [
+            "sport-und-bewegung",
+            "sport",
+            "mitmachen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac9962b079e77a175bf8977efbddefb8.jpg?v=1"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2023-09-04T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    }
+]
