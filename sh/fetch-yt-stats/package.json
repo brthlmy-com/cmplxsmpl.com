@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
-    "ytdl-core": "^4.11.5",
+    "ytdl-core": "4.10.0",
     "ytpl": "^2.3.0"
   },
   "devDependencies": {},
