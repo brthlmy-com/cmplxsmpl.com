@@ -8,13 +8,9 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
-    "ytdl-core": "^4.11.4",
+    "ytdl-core": "^4.11.5",
     "ytpl": "^2.3.0"
   },
-  "devDependencies": {
-    "patch-package": "^6.4.7"
-  },
-  "scripts": {
-    "postinstall": "patch-package"
-  }
+  "devDependencies": {},
+  "scripts": {}
 }
