@@ -1,0 +1,1387 @@
+[
+    {
+        "title": "Kasalla (Ausverkauft)",
+        "url": "/konzert/mundart/event/5f18599a3d65a16a7545880d.60c89fa23d65a1358a1271e2.kasalla-ausverkauft",
+        "startDate": {
+            "startDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Burg Wilhelmstein, Würselen",
+        "categorySlugs": [
+            "konzert",
+            "mundart"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d56351587094550b1349b2a7e5531a29.jpg?v=1"
+    },
+    {
+        "title": "„Die Magie der Sitar“",
+        "url": "/konzert/volksmusik/event/5f1859a13d65a16a75458f7c.626faa313645c47e732a0a75.die-magie-der-sitar",
+        "startDate": {
+            "startDate": "2023-09-17T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Atelier 21, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "volksmusik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c2dd6e5b26376a59c4f551f437626a3a.jpeg?v=2"
+    },
+    {
+        "title": "„1. Sinfoniekonzert – Kumin“",
+        "url": "/konzert/klassische-musik/event/5f18599a3d65a16a7545874c.64d0d92c7a3e81065b63aa05.1-sinfoniekonzert--kumin",
+        "startDate": {
+            "startDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Eurogress Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0f3b83dc2132ce53b0417cf436eaf21f.jpg?v=2"
+    },
+    {
+        "title": "Don Alder",
+        "url": "/konzert/blues/event/5f1859a23d65a16a75459167.64d37d2425dcb50f3943ba41.don-alder",
+        "startDate": {
+            "startDate": "2023-09-17T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "konzert",
+            "blues"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3705505c7d37d06a6401ece5bc56b4bb.jpg?v=1"
+    },
+    {
+        "title": "„Andantino: Papperlapappe – von Knistern und Reißen“",
+        "url": "/konzert/event/5f1859a03d65a16a75458e2c.64d530eb5c0c13173757b2eb.andantino-papperlapappe--von-knistern-und-reissen",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Schloss Burgau, Düren",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34df680950d6789b815d6b3268774ba6.jpg?v=1"
+    },
+    {
+        "title": "Bridge City Sinners",
+        "url": "/konzert/folk/event/5f1859a63d65a16a75459694.64db537981d4ef4bcb149cb8.bridge-city-sinners",
+        "startDate": {
+            "startDate": "2023-09-17T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Muziekgieterij, Maastricht",
+        "categorySlugs": [
+            "konzert",
+            "folk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/da1dd02958192c9715bb1711b737350b.jpg?v=1"
+    },
+    {
+        "title": "„Euregional Electronic Music Network“",
+        "url": "/konzert/elektronische-musik/event/5f1859a23d65a16a75459167.64e274119aaff36af161e8e3.euregional-electronic-music-network",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "konzert",
+            "elektronische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e555d1ae57709204dfff4c6de61c465.jpeg?v=1"
+    },
+    {
+        "title": "„Flöte & Harfe“",
+        "url": "/konzert/klassische-musik/event/5f18599b3d65a16a75458844.64e292e5161a615a8f0d0fb4.floete--harfe",
+        "startDate": {
+            "startDate": "2023-09-17T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Zitadelle Jülich",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b064ac479c72522de1beaed59c192f2a.jpg?v=1"
+    },
+    {
+        "title": "Stabat Mater von Karl Jenkins",
+        "url": "/konzert/chor/event/5f1859a23d65a16a754590fc.64ff1b1d255ed934242934b2.stabat-mater-von-karl-jenkins",
+        "startDate": {
+            "startDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "St. Severin, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "chor"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/35574a2ccd88d2bacf4d34c7cad32767.jpg?v=1"
+    },
+    {
+        "title": "AachenSeptemberSpecial 2023",
+        "url": "/konzert/event/5f18599e3d65a16a75458c54.650075f39a2fb506c87ed169.aachenseptemberspecial-2023",
+        "startDate": {
+            "startDate": "2023-09-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Katschhof, Aachen",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4fbbf31a830bb8e41ac4fdaeb709edf1.jpg?v=1"
+    },
+    {
+        "title": "AachenSeptemberSpecial 2023",
+        "url": "/konzert/event/61307d083d65a16b7667aa22.6500765592bae640b74cd8a4.aachenseptemberspecial-2023",
+        "startDate": {
+            "startDate": "2023-09-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Elisengarten, Aachen",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/888b9051cb047a440225a9cf24a254d2.jpg?v=1"
+    },
+    {
+        "title": "„Sir Duke Trio“",
+        "url": "/konzert/jazz/event/6167fb8c3d65a14e9d6a2e02.6501c8f39a2fb506c87ed173.sir-duke-trio",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Park-Terrassen, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f0fbb0adbf3299a1028c3b7d89b381ed.jpg?v=1"
+    },
+    {
+        "title": "True Voice",
+        "url": "/konzert/spirituelle-musik/event/5f1859a03d65a16a75458e2e.63da656188999e4b0e14fa53.true-voice",
+        "startDate": {
+            "startDate": "2023-09-17T18:00:00.000Z",
+            "endDate": "2023-09-17T19:30:00.000Z",
+            "text": "Heute, 18:00 - 19:30 Uhr"
+        },
+        "place": "Bischöfliches Pius-Gymnasium, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "spirituelle-musik"
+        ]
+    },
+    {
+        "title": "Chorgemeinschaft Constantia 1869 Düren-Birkesdorf e.V.",
+        "url": "/konzert/event/612f8d553d65a11af42772b3.64e89d4ac3056812ec7fec72.chorgemeinschaft-constantia-1869-dueren-birkesdorf-ev",
+        "startDate": {
+            "startDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Pfarrkirche St. Peter, Düren",
+        "categorySlugs": [
+            "konzert"
+        ]
+    },
+    {
+        "title": "Ms. Jeanna",
+        "url": "/buehne/show/event/61828bf83d65a14c863fc7c9.620c0c9cf4f301217454b4b3.ms-jeanna",
+        "startDate": {
+            "startDate": "2023-09-17T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Die kleine Theaterfabrik, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/10ece660bed529d86322de84d7a57026.jpg?v=2"
+    },
+    {
+        "title": "„Willkommen bei den Hartmanns“",
+        "url": "/buehne/theater/komoedie/event/5f1859a63d65a16a75459615.63b41af3dd90f07a2e356256.willkommen-bei-den-hartmanns",
+        "startDate": {
+            "startDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Das Da Theater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7aac4100fe675e77dd09dd032db7021f.jfif?v=2"
+    },
+    {
+        "title": "„Keiner hat gesagt, dass du ausziehen sollst“",
+        "url": "/buehne/theater/event/5f1859933d65a16a75457f5c.64b05f3c4ed469609f41d5d3.keiner-hat-gesagt-dass-du-ausziehen-sollst",
+        "startDate": {
+            "startDate": "2023-09-17T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "St.-Michael-Gymnasium, Monschau",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f4b954a20372243ef3db30bd64593e0c.jpg?v=1"
+    },
+    {
+        "title": "„Aloha“",
+        "url": "/buehne/theater/krimi/event/5f1859a63d65a16a754595cd.64cb72cd4b8f64639720b434.aloha",
+        "startDate": {
+            "startDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Theater Brand, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "krimi"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6a95b9efe4a4db8991b1277d6c17f6c9.jpeg?v=6"
+    },
+    {
+        "title": "„Schängche als fahrender Musikant“ + „Der Geist vom Lousberg“",
+        "url": "/buehne/theater/figurentheater/event/5f18599e3d65a16a75458c27.64d3996325dcb50f3943ba44.schaengche-als-fahrender-musikant--der-geist-vom-lousberg",
+        "startDate": {
+            "startDate": "2023-09-17T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Öcher Schängche, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "figurentheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d8e74cd117fd752104e94b400f4a823e.jpg?v=1"
+    },
+    {
+        "title": "Christian Schulte-Loh: „Bankrott Royal“",
+        "url": "/buehne/kabarett-und-comedy/comedy/event/617154aa3d65a108fa6877b2.64d3ce49a419c041212e7d75.christian-schulte-loh-bankrott-royal",
+        "startDate": {
+            "startDate": "2023-09-17T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Franz, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "comedy"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a572a68dc23b577a4c8723f7dba5772f.jpg?v=1"
+    },
+    {
+        "title": "„James Brown trug Lockenwickler“",
+        "url": "/buehne/theater/event/5f18599e3d65a16a75458cda.64d64482b19ad164d302f083.james-brown-trug-lockenwickler",
+        "startDate": {
+            "startDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0ef1b91233df9f5b8a25781cbef816f7.jpg?v=1"
+    },
+    {
+        "title": "La Verità Dance Company: „One to One“",
+        "url": "/buehne/performance/event/60f6b03a3d65a1543d5a5a72.64dddcd11311522254766042.la-verit-dance-company-one-to-one",
+        "startDate": {
+            "startDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "meffi.s, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "performance"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/682780b49a53c3216dd3bb4d87deec1c.jpg?v=2"
+    },
+    {
+        "title": "„Reisen, von denen wir gerne erzählen“",
+        "url": "/bildung/lesung/event/5f18599f3d65a16a75458d8f.64281dc80829a8179f599098.reisen-von-denen-wir-gerne-erzaehlen",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc3c2450737a5029373e755eb09d8262.jpg?v=1"
+    },
+    {
+        "title": "„Die Märchenmühle“",
+        "url": "/bildung/lesung/event/5f1859953d65a16a75458160.646759cb755b00030f30c98a.die-maerchenmuehle",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "endDate": "2023-09-17T13:00:00.000Z",
+            "text": "Heute, 12:00 - 13:00 Uhr"
+        },
+        "place": "Gut Obermühle, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0055766162625737956cb1d2cd5f753.jpg?v=2"
+    },
+    {
+        "title": "„Reisen, von denen wir gerne erzählen“",
+        "url": "/bildung/lesung/event/5f18599f3d65a16a75458d8f.64d4d4e25c0c13173757b2e7.reisen-von-denen-wir-gerne-erzaehlen",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc3c2450737a5029373e755eb09d8262.jpg?v=1"
+    },
+    {
+        "title": "Norbert Greuel: „Die Verwirrung“",
+        "url": "/bildung/lesung/event/5f1859a03d65a16a75458f21.64fee7cd7eb1c3395652dbd2.norbert-greuel-die-verwirrung",
+        "startDate": {
+            "startDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Burg Frankenberg, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/37111563ce06392bb3668e66c98b494f.jpg?v=3"
+    },
+    {
+        "title": "„RegioHochzeit – Die Hochzeitsmesse in Aachen“",
+        "url": "/markt-und-messe/messe/verbrauchermesse/event/5f1859943d65a16a754580a5.5fbf7f7b3d65a14b9029afdc.regiohochzeit--die-hochzeitsmesse-in-aachen",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Schloss Rahe, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "messe",
+            "verbrauchermesse"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b63f644fabdca61c6a372d1d602e6860.jpg?v=2"
+    },
+    {
+        "title": "„Kaiserstadt Tattoo Expo“",
+        "url": "/markt-und-messe/messe/verbrauchermesse/event/5f18599c3d65a16a75458a1e.62192e44b2ac234bc71a8387.kaiserstadt-tattoo-expo",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "endDate": "2023-09-17T19:00:00.000Z",
+            "text": "Heute, 12:00 - 19:00 Uhr"
+        },
+        "place": "100,5 Arena, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "messe",
+            "verbrauchermesse"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bcf196a953f1810ee0f32d98339882fe.jpg?v=1"
+    },
+    {
+        "title": "Marché de la Batte",
+        "url": "/markt-und-messe/markt/wochenmarkt/event/60548ab33d65a114b30803f2.6232064932359b175d3b7334.march-de-la-batte",
+        "startDate": {
+            "startDate": "2023-09-17T08:00:00.000Z",
+            "text": "Heute, 08:00 Uhr"
+        },
+        "place": "Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "wochenmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/469c4af2132fd3392e284b0aec3a7a71.jpg?v=1"
+    },
+    {
+        "title": "„Antiquitätenmarkt“",
+        "url": "/markt-und-messe/markt/antik/event/5f18599b3d65a16a754588bb.6232077cbad1c708a13bdddd.antiquitaetenmarkt",
+        "startDate": {
+            "startDate": "2023-09-17T07:00:00.000Z",
+            "text": "Heute, 07:00 Uhr"
+        },
+        "place": "Tongeren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "antik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84d7fb937beddcfa8a7de5ded1c8a76e.jpg?v=1"
+    },
+    {
+        "title": "Bücherflohmarkt",
+        "url": "/markt-und-messe/markt/flohmarkt/event/5f1859933d65a16a75457f08.64f86e4ec332e640a1751bf3.buecherflohmarkt",
+        "startDate": {
+            "startDate": "2023-09-17T13:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 13:00 - 17:00 Uhr"
+        },
+        "place": "Stadtbücherei Jülich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "flohmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0f7d7b66847b2fb146ede33856899a4f.jpg?v=1"
+    },
+    {
+        "title": "Ernte wie früher, Altes Handwerk und großer Bauernmarkt",
+        "url": "/markt-und-messe/markt/event/5f1859993d65a16a75458659.6501c7d29177a6732463e0b8.ernte-wie-frueher-altes-handwerk-und-grosser-bauernmarkt",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4bcf713c7e17d5bc7f68e696ca529414.jpg?v=2"
+    },
+    {
+        "title": "„International Dog Show Maastricht“",
+        "url": "/markt-und-messe/messe/event/5f18599a3d65a16a754587e7.64dcebfdc7d4a604bd580d06.international-dog-show-maastricht",
+        "startDate": {
+            "startDate": "2023-09-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "MECC, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "messe"
+        ]
+    },
+    {
+        "title": "„Geschichte Aachens – Stadt Karls des Großen“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599f3d65a16a75458d8d.604a4e083d65a15cca48d442.geschichte-aachens--stadt-karls-des-grossen",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a5c0c99779721b432ce0377a33551959.jpg?v=2"
+    },
+    {
+        "title": "„Bürgerliche Kunstkammer“",
+        "url": "/kunst/ausstellung/kunsthandwerk/event/5f1859933d65a16a75457fa5.604a4c443d65a145dd6ac393.buergerliche-kunstkammer",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "kunsthandwerk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8e963e8d638586959105b0ec65f57c59.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Töpfereimuseum Langerwehe",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fee.60a4ff013d65a1126a3b1242.dauerausstellung-im-toepfereimuseum-langerwehe",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1254d6bf530da1649d17292f7b2a193f.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Burgenmuseum Nideggen",
+        "url": "/kunst/ausstellung/historisch/event/5f63f8843d65a13d43653910.60545d983d65a168a04e2852.dauerausstellung-im-burgenmuseum-nideggen",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Burgenmuseum Nideggen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad94637e39a50a3097e3cacb357caacf.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Roten Haus",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a83d65a16a75459904.60b493713d65a13b5e7b0a62.dauerausstellung-im-roten-haus",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Rotes Haus, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d21bac1a79390ec1c2de4b66660228f0.jpg?v=1"
+    },
+    {
+        "title": "Emil Orlik",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587af.6045eb523d65a176a60adbe2.emil-orlik",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Büchel-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/339a738837c1a6d405e8703a2a7b5456.jpg?v=1"
+    },
+    {
+        "title": "„Von der Sonne zur Sonne“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859943d65a16a7545805b.604a49f43d65a145dd6ac392.von-der-sonne-zur-sonne",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Energeticon, Alsdorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c4a942dea49995af8b436d23a640907.jpg?v=3"
+    },
+    {
+        "title": "Dauerausstellung im Begas Haus",
+        "url": "/kunst/ausstellung/malerei/event/5f1859933d65a16a75457ec5.60b4925f3d65a12c544392f2.dauerausstellung-im-begas-haus",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Begas Haus, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7e1aced7979a7728723b0059ddc2e613.jpg?v=1"
+    },
+    {
+        "title": "„Mobilität“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590b8.60d069533d65a17942592793.mobilitaet",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5c05382078d81a36e6d4e6fb40b7ee8a.jpeg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "Museumsführung",
+        "url": "/kunst/ausstellungsfuehrung/event/5f1859933d65a16a75457ec5.60fff9433d65a11d90171f02.museumsfuehrung",
+        "startDate": {
+            "startDate": "2023-09-17T14:30:00.000Z",
+            "text": "Heute, 14:30 Uhr"
+        },
+        "place": "Begas Haus, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7176dad9991be08a2fbebc8c8c00af93.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im LVR-Kulturhaus Landsynagoge Rödingen",
+        "url": "/kunst/ausstellung/historisch/event/60aff6fa3d65a1397b4f50e2.60aff6813d65a1396031f492.dauerausstellung-im-lvr-kulturhaus-landsynagoge-roedingen",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "LVR-Kulturhaus Landsynagoge Rödingen,Titz",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b06091c8336d4cbe0d652a6cf95a7af0.jpg?v=1"
+    },
+    {
+        "title": "„Schau zur Wohnkultur im 18. und 19. Jahrhundert“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590f1.60b612f03d65a17cbf4cd952.schau-zur-wohnkultur-im-18-und-19-jahrhundert",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0f63ae89b92cf02bb1627c5f21253b8.jpg?v=1"
+    },
+    {
+        "title": "„Von der Sonne zur Sonne“",
+        "url": "/kunst/ausstellungsfuehrung/naturwissenschaftlich/event/5f1859943d65a16a7545805b.6140547f3d65a153c31dacf5.von-der-sonne-zur-sonne",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Energeticon, Alsdorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c4a942dea49995af8b436d23a640907.jpg?v=3"
+    },
+    {
+        "title": "„Öffentliche Sonntagsführung im Couven-Museum“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/5f1859a23d65a16a754590f1.61a7ab183d65a1555655f783.ffentliche-sonntagsfuehrung-im-couven-museum",
+        "startDate": {
+            "startDate": "2023-09-17T11:15:00.000Z",
+            "text": "Heute, 11:15 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fc426fb064747ca7bbffbbb3179fe851.jpg?v=2"
+    },
+    {
+        "title": "„Führung im Zollmuseum“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/5f1859a13d65a16a75459042.61bb22663d65a117c30c3024.fuehrung-im-zollmuseum",
+        "startDate": {
+            "startDate": "2023-09-17T14:30:00.000Z",
+            "text": "Heute, 14:30 Uhr"
+        },
+        "place": "Zollmuseum Friedrichs, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34489e1c07a8ae6d0b74cacade7f0d69.jpeg?v=1"
+    },
+    {
+        "title": "„Öffentliche Familienführung“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/5f1859a63d65a16a75459645.61eebdeaf4f30167ba55ceec.ffentliche-familienfuehrung",
+        "startDate": {
+            "startDate": "2023-09-17T11:30:00.000Z",
+            "endDate": "2023-09-17T13:00:00.000Z",
+            "text": "Heute, 11:30 - 13:00 Uhr"
+        },
+        "place": "Papiermuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1cfebe7267a7978865b5a95d9f8e5ad4.jpg?v=1"
+    },
+    {
+        "title": "„Eine Stadt im Aufbau“",
+        "url": "/kunst/ausstellung/industrie/event/5f1859963d65a16a754582e9.61f2ac9cf4f3010b3e2be3e7.eine-stadt-im-aufbau",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "industrie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3a84d8531f87abeec6bee4c6adb290d5.jpg?v=1"
+    },
+    {
+        "title": "Nicole Röhlen, Ulrich Kämmerer und Regina Liegl",
+        "url": "/kunst/ausstellung/event/62160b273821873b9d766fb3.62160ef23821873b9d766fb4.nicole-roehlen-ulrich-kaemmerer-und-regina-liegl",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Atelier N.U.R. Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8189b28aa170ffceab2ad2cefb3913f8.jpg?v=2"
+    },
+    {
+        "title": "Heimatkundliche Ausstellung",
+        "url": "/kunst/ausstellung/historisch/event/62138baebed0f23757394b47.6227330afcea9b05af7974c5.heimatkundliche-ausstellung",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Heimatmuseum Waldfeucht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/42941ae0d744a431386e3de0ff685f1d.jpg?v=2"
+    },
+    {
+        "title": "„Themenführung durch die aktuellen Ausstellungen“",
+        "url": "/kunst/ausstellungsfuehrung/event/5f1859973d65a16a7545840f.62556330fda5ca247256aead.themenfuehrung-durch-die-aktuellen-ausstellungen",
+        "startDate": {
+            "startDate": "2023-09-17T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/909594b524b409dea3ec8c34e221a9f3.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Dokumentationszentrum Glanzstoff",
+        "url": "/kunst/ausstellung/fotografie/event/62557743fda5ca247256aeb6.6385ea86a2f1147cec1af07b.dauerausstellung-im-dokumentationszentrum-glanzstoff",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Dokumentationszentrum Glanzstoff, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fdf935418537c65861fd2cb672a01bbf.jpg?v=2"
+    },
+    {
+        "title": "„1100 - 1500 Leben, Handel, Seelenheil“ - Die Mittelalterabteilung",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fa5.63973727c99bb96f7107794e.1100---1500-leben-handel-seelenheil---die-mittelalterabteilung",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0301cfaffaa27cf56a9f4891cd64a121.jpg?v=1"
+    },
+    {
+        "title": "„Streifzug durch die Klassische  Moderne“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587af.63bd62ab0a253b62c569af59.streifzug-durch-die-klassische--moderne",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Büchel-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b154842aa98e6eea8b13acab3013ce8a.jpg?v=2"
+    },
+    {
+        "title": "„Tierisch was los - Vom Schoßhund bis zum Wildtier in der Landschaftsmalerei“",
+        "url": "/kunst/ausstellung/event/6266936392fc7770ef66a0f2.641c553366f5dd34fb655147.tierisch-was-los---vom-schosshund-bis-zum-wildtier-in-der-landschaftsmalerei",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Kulturhaus am Hexenturm, Jülich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e20494e835e56af9363dd3c7b8c7756c.jpg?v=2"
+    },
+    {
+        "title": "Ecce Ego. Jens Dummer - Selbstbildnisse",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a13d65a16a7545900c.645a58e9c03ed917de28075d.ecce-ego-jens-dummer---selbstbildnisse",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Museum Zitadelle, Jülich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5257f50f011b765921214e69adc7b549.jpg?v=1"
+    },
+    {
+        "title": "„Sammlung mit losen Enden 06: Drei Seiten des Bildes“",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a75458fb4.646356068255720cd4367915.sammlung-mit-losen-enden-06-drei-seiten-des-bildes",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Kunsthaus NRW, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f622bb33b4be50ff4350955b7ae34871.jpg?v=2"
+    },
+    {
+        "title": "„Playground + Nature“ im Skulpturengarten",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a75458fb4.6463574f8255720cd4367916.playground--nature-im-skulpturengarten",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Kunsthaus NRW, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9f69525b79cfc748ee48117e7bbd55e8.jpg?v=1"
+    },
+    {
+        "title": "„Bildwiderstand. Garzweiler in Film und Fotografie“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a13d65a16a75458fb4.64a2a82671b20c5e02186622.bildwiderstand-garzweiler-in-film-und-fotografie",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Kunsthaus NRW, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7d2cccf3ad750129cbefdbc30e3fba44.jpg?v=2"
+    },
+    {
+        "title": "„Memory Foam“",
+        "url": "/kunst/ausstellung/event/5f18599f3d65a16a75458d8f.64a80e75bb90e16a7812e062.memory-foam",
+        "startDate": {
+            "startDate": "2023-09-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b2c412a0f0857ed3e92d2f0f2a10bc52.jpg?v=1"
+    },
+    {
+        "title": "Ed Templeton: „Wires Crossed“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a63d65a16a754596b0.64b15d94e0b636366005f112.ed-templeton-wires-crossed",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/017ebd6fa1d5d0a220acf5269cebdf2d.jpg?v=1"
+    },
+    {
+        "title": "„Essen wie der Kaiser von China“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590f1.64c25e9e32299c7f611b1e72.essen-wie-der-kaiser-von-china",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4227304f50d3ef814076394f7bc2cd23.jpg?v=1"
+    },
+    {
+        "title": "„Zeitreise“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a03d65a16a75458ef9.64c8dca7886cc911c25b3466.zeitreise",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 11:00 - 14:00 Uhr"
+        },
+        "place": "Kunsthaus Eurode-Bahnhof Herzogenrath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1d0332ebd7e0065d2c6eff751b2906da.jpg?v=1"
+    },
+    {
+        "title": "„Das Prinzip Apfelbaum. 11 Persönlichkeiten zur Frage „Was bleibt?“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599a3d65a16a754586c5.64d3a3ae0facfa1f2351d3a3.das-prinzip-apfelbaum-11-persoenlichkeiten-zur-frage-was-bleibt",
+        "startDate": {
+            "startDate": "2023-09-17T09:00:00.000Z",
+            "endDate": "2023-09-17T19:00:00.000Z",
+            "text": "Heute, 09:00 - 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b5eef2bc496a0ac74c74c88fb6c94297.jpg?v=1"
+    },
+    {
+        "title": "Dagmar vom Grafen Connolly: „Gehäuse-Intermezzo“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599e3d65a16a75458cab.64d5e3ab8ed4cf6ba4487003.dagmar-vom-grafen-connolly-gehaeuse-intermezzo",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "BBK – Kleine Galerie, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/48dd0d5fbf13351378f6116adade2c99.jpg?v=1"
+    },
+    {
+        "title": "„So blau, wie...“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e2c.64da0581eb82c01dd8287ced.so-blau-wie",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Schloss Burgau, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/10beb9a7f138e64771d44cb9a33697fc.jpg?v=2"
+    },
+    {
+        "title": "Heidy Giesbrecht: \"Seelensplitter\"",
+        "url": "/kunst/ausstellung/malerei/event/5f18599e3d65a16a75458c9e.64f734daae3dca44d95bc363.heidy-giesbrecht-seelensplitter",
+        "startDate": {
+            "startDate": "2023-09-17T10:30:00.000Z",
+            "text": "Heute, 10:30 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c023662590fe3cd1ba3c03f3ac479b9.jpg?v=1"
+    },
+    {
+        "title": "Hubert Perschke: „Alte Heimat - neue Zukunft“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a43d65a16a75459417.64f739eaae3dca44d95bc364.hubert-perschke-alte-heimat---neue-zukunft",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "endDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Nell-Breuning-Haus, Herzogenrath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4e731e3d26ade0c3f063987918a6de79.jpg?v=1"
+    },
+    {
+        "title": "„Himmel“",
+        "url": "/kunst/ausstellung/installation/event/5f1859993d65a16a75458696.64f89e5fb5b19e1559251b2e.himmel",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Skulpturenhügel, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f11bbf9e1841eb4afa5dc47c74685a70.jpg?v=1"
+    },
+    {
+        "title": "„Exposed“",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a7545905c.64f975d4c332e640a1751c07.exposed",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Atelierhaus Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1b0f435280ed4caf6868b6d622010a67.jpg?v=1"
+    },
+    {
+        "title": "Inge Morath: Fotografien 1944-1998",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859953d65a16a754581d1.64feeca97eb1c3395652dbd4.inge-morath-fotografien-1944-1998",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "text": "Heute, 12:00 Uhr"
+        },
+        "place": "Aukloster, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/614d1bd713fcffab6e247ad6b5f7da40.jpg?v=1"
+    },
+    {
+        "title": "Marcin Dudek: „Akumulatory“",
+        "url": "/kunst/ausstellung/event/5f1859a53d65a16a754594cb.65005496d4cb023f247f18a5.marcin-dudek-akumulatory",
+        "startDate": {
+            "startDate": "2023-09-17T15:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 15:00 - 18:00 Uhr"
+        },
+        "place": "Ikob – Museum für zeitgenössische Kunst, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc536634c88fd1e1264a5c6632601f6e.jpg?v=1"
+    },
+    {
+        "title": "Veronika Rappaport und R. Oestereich-Rappaport",
+        "url": "/kunst/event/5f1859a73d65a16a75459752.6500889a92bae640b74cd8a6.veronika-rappaport-und-r-oestereich-rappaport",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Aula Carolina, Aachen",
+        "categorySlugs": [
+            "kunst"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0b7bf2ea1400a75ca2cbe7fde57b7e5.jpg?v=2"
+    },
+    {
+        "title": "„750 Jahre Stadtrechte“",
+        "url": "/kunst/ausstellung/historisch/event/60d4c6bd3d65a1649929a3f2.6502ba6a13675a33701d4232.750-jahre-stadtrechte",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Bergfried Wassenberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f96a1b45340d5b370c94016981ae1708.jpg?v=1"
+    },
+    {
+        "title": "Ragini Upadhyay-Grela: „Open Mind“",
+        "url": "/kunst/ausstellung/event/5f18599a3d65a16a754587c8.64f73c63ddf30569106adba2.ragini-upadhyay-grela-open-mind",
+        "startDate": {
+            "startDate": "2023-09-17T14:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Atelier I.S., Walhorn",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    },
+    {
+        "title": "Zehn Jahre „Fotogruppe 50 Millimeter Eifel“",
+        "url": "/kunst/ausstellung/fotografie/event/64fef516ab288d736d4f55be.64fef607ab288d736d4f55bf.zehn-jahre-fotogruppe-50-millimeter-eifel",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Provinzial Heimbach, Heimbach",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ]
+    },
+    {
+        "title": "Dressurfestival Jülich",
+        "url": "/sport-und-bewegung/sport/mitmachen/event/643fd35e13703211d57c8fe4.64db5f3c8405115a895f32a7.dressurfestival-juelich",
+        "startDate": {
+            "startDate": "2023-09-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Reit- und Fahrverein Jan von Werth, Jülich",
+        "categorySlugs": [
+            "sport-und-bewegung",
+            "sport",
+            "mitmachen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/aa95f9fa46701c595420433a4ec370ec.jpg?v=2"
+    },
+    {
+        "title": "„Rathausführung“",
+        "url": "/verschiedenes/event/5f1859a23d65a16a7545908e.5fbf7f7c3d65a14b9029b0d2.rathausfuehrung",
+        "startDate": {
+            "startDate": "2023-09-17T10:30:00.000Z",
+            "endDate": "2023-09-17T11:30:00.000Z",
+            "text": "Heute, 10:30 - 11:30 Uhr"
+        },
+        "place": "Aachener Rathaus",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3bcd0ac15f33da08360eff8402e6b27d.jpg?v=2"
+    },
+    {
+        "title": "„Aachener Straßennamen erzählen Geschichte(n)“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f18599f3d65a16a75458da6.61011e0b3d65a13a641f8872.aachener-strassennamen-erzaehlen-geschichten",
+        "startDate": {
+            "startDate": "2023-09-17T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Fischmarkt, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/02b89f457a047588123d0a40fd6de85f.jpg?v=1"
+    },
+    {
+        "title": "„Aachen September Special 2023“",
+        "url": "/verschiedenes/geselliges-und-treffen/fest/event/600575083d65a112dc26a9a3.61376a8d3d65a13ab6728212.aachen-september-special-2023",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T22:00:00.000Z",
+            "text": "Heute, 11:00 - 22:00 Uhr"
+        },
+        "place": "Diverse Orte in Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "fest"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/681ce962b833ffb80f98bbba44e8dcca.jpg?v=1"
+    },
+    {
+        "title": "„Mach‘ Dir ein paar schöne Stunden - Dürener Kinogeschichte(n)“",
+        "url": "/verschiedenes/event/609e30363d65a14ad50eb942.643fe55b2bcb00434703cb9c.mach-dir-ein-paar-schoene-stunden---duerener-kinogeschichten",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Stadtmuseum Düren",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/96d7820f4e853672bf148a3b6d3face4.jpeg?v=1"
+    },
+    {
+        "title": "„Heiligtumsfahrt Kornelimünster“",
+        "url": "/verschiedenes/geselliges-und-treffen/fest/event/600575083d65a112dc26a9a3.646a686baad82b446135a3c4.heiligtumsfahrt-kornelimuenster",
+        "startDate": {
+            "startDate": "2023-09-17",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "fest"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/32ededa270b82694ace223a3c6382bea.jpg?v=1"
+    },
+    {
+        "title": "„Pilgermesse“",
+        "url": "/verschiedenes/gottesdienst/event/5f1859963d65a16a75458368.6474ab00ef5d0910f0739184.pilgermesse",
+        "startDate": {
+            "startDate": "2023-09-17T10:00:00.000Z",
+            "text": "Heute, 10:00 Uhr"
+        },
+        "place": "Propsteikirche St. Kornelius, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "gottesdienst"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/32ededa270b82694ace223a3c6382bea.jpg?v=1"
+    },
+    {
+        "title": "„Feierliche Schlussandacht“",
+        "url": "/verschiedenes/gottesdienst/event/5f1859963d65a16a75458368.6474b2f62e860523d90a1e74.feierliche-schlussandacht",
+        "startDate": {
+            "startDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Propsteikirche St. Kornelius, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "gottesdienst"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/32ededa270b82694ace223a3c6382bea.jpg?v=1"
+    },
+    {
+        "title": "„Mobility Special powered by Stawag“",
+        "url": "/verschiedenes/aktionstag/event/5f1859933d65a16a75457ee1.649048bd089b560bbe3df089.mobility-special-powered-by-stawag",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Markt, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "aktionstag"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c7cb6da02d27c4108a643d01efdfd71f.jpg?v=1"
+    },
+    {
+        "title": "Führung durch Burtscheid",
+        "url": "/verschiedenes/exkursion-spaziergang/event/5f1859a73d65a16a754597a0.64afeb021af5763a740e5f92.fuehrung-durch-burtscheid",
+        "startDate": {
+            "startDate": "2023-09-17T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Abteitor, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "exkursion-spaziergang"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7b89378a992537b6a9369a0277aad5b2.jpg?v=2"
+    },
+    {
+        "title": "„Parkfest“",
+        "url": "/verschiedenes/geselliges-und-treffen/fest/event/5f1859a53d65a16a7545949b.64dcefc7c7d4a604bd580d07.parkfest",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Brückenkopf-Park, Jülich",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "fest"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a286b07a3e843b496368167e74264c1a.jpg?v=1"
+    },
+    {
+        "title": "Ernte wie früher, Altes Handwerk und großer Bauernmarkt",
+        "url": "/markt-und-messe/markt/event/5f1859993d65a16a75458659.6501c7d29177a6732463e0b8.ernte-wie-frueher-altes-handwerk-und-grosser-bauernmarkt",
+        "startDate": {
+            "startDate": "2023-09-17T11:00:00.000Z",
+            "endDate": "2023-09-17T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4bcf713c7e17d5bc7f68e696ca529414.jpg?v=2"
+    },
+    {
+        "title": "Aktionstag der Europäischen Mobilitätswoche",
+        "url": "/verschiedenes/aktionstag/event/60015f363d65a1688a7ed502.64f873b4c332e640a1751bf7.aktionstag-der-europaeischen-mobilitaetswoche",
+        "startDate": {
+            "startDate": "2023-09-17T12:00:00.000Z",
+            "text": "Heute, 12:00 Uhr"
+        },
+        "place": "Jülich, Jülich",
+        "categorySlugs": [
+            "verschiedenes",
+            "aktionstag"
+        ]
+    }
+]
