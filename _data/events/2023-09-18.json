@@ -1,0 +1,300 @@
+[
+    {
+        "title": "„1. Sinfoniekonzert – Kumin“",
+        "url": "/konzert/klassische-musik/event/5f18599a3d65a16a7545874c.64d0d92c7a3e81065b63aa05.1-sinfoniekonzert--kumin",
+        "startDate": {
+            "startDate": "2023-09-18T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Eurogress Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0f3b83dc2132ce53b0417cf436eaf21f.jpg?v=2"
+    },
+    {
+        "title": "„Andantino: Papperlapappe – von Knistern und Reißen“",
+        "url": "/konzert/event/5f1859a03d65a16a75458e2c.64d530eb5c0c13173757b2eb.andantino-papperlapappe--von-knistern-und-reissen",
+        "startDate": {
+            "startDate": "2023-09-18T10:00:00.000Z",
+            "text": "Heute, 10:00 Uhr"
+        },
+        "place": "Schloss Burgau, Düren",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34df680950d6789b815d6b3268774ba6.jpg?v=1"
+    },
+    {
+        "title": "Agustín Luna",
+        "url": "/konzert/folk/event/5f1859993d65a16a754585f8.64df78dcfd8d7f51ae29feb2.agustn-luna",
+        "startDate": {
+            "startDate": "2023-09-18T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "folk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cf9aab39bcf011f8b7db2ef5c6a4e0db.jpeg?v=1"
+    },
+    {
+        "title": "„James Brown trug Lockenwickler“",
+        "url": "/buehne/theater/event/5f18599e3d65a16a75458cda.64d64482b19ad164d302f083.james-brown-trug-lockenwickler",
+        "startDate": {
+            "startDate": "2023-09-18T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0ef1b91233df9f5b8a25781cbef816f7.jpg?v=1"
+    },
+    {
+        "title": "La Verità Dance Company: „One to One“",
+        "url": "/buehne/performance/event/60f6b03a3d65a1543d5a5a72.64dddcd11311522254766042.la-verit-dance-company-one-to-one",
+        "startDate": {
+            "startDate": "2023-09-18T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "meffi.s, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "performance"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/682780b49a53c3216dd3bb4d87deec1c.jpg?v=2"
+    },
+    {
+        "title": "Rockchor 60+",
+        "url": "/bildung/workshop-und-seminar/event/5f18599c3d65a16a75458a51.64f5cc4b2d556b56df4010c3.rockchor-60",
+        "startDate": {
+            "startDate": "2023-09-18T19:00:00.000Z",
+            "endDate": "2023-09-18T21:00:00.000Z",
+            "text": "Heute, 19:00 - 21:00 Uhr"
+        },
+        "place": "Music Academy Aachen",
+        "categorySlugs": [
+            "bildung",
+            "workshop-und-seminar"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/48fc890ec1969c8f13212c63132589d8.jpg?v=1"
+    },
+    {
+        "title": "Netzwerktreffen „Koordinationsstelle Kaiserplatz/Östliche Innenstadt“",
+        "url": "/bildung/informationsveranstaltung/event/5f1859933d65a16a75457fa5.65005210f613d2069c5bf562.netzwerktreffen-koordinationsstelle-kaiserplatzstliche-innenstadt",
+        "startDate": {
+            "startDate": "2023-09-18T18:00:00.000Z",
+            "endDate": "2023-09-18T20:00:00.000Z",
+            "text": "Heute, 18:00 - 20:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "informationsveranstaltung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c989f42cd075ed70a2f63bbef9e9e0be.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-09-18T10:00:00.000Z",
+            "endDate": "2023-09-18T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-09-18T10:00:00.000Z",
+            "endDate": "2023-09-18T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2023-09-18T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„Memory Foam“",
+        "url": "/kunst/ausstellung/event/5f18599f3d65a16a75458d8f.64a80e75bb90e16a7812e062.memory-foam",
+        "startDate": {
+            "startDate": "2023-09-18",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b2c412a0f0857ed3e92d2f0f2a10bc52.jpg?v=1"
+    },
+    {
+        "title": "Lucie Schmitz: „Verbundenheit“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458da3.64be81e25b001840fb4d2bb7.lucie-schmitz-verbundenheit",
+        "startDate": {
+            "startDate": "2023-09-18T10:00:00.000Z",
+            "endDate": "2023-09-18T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "„In Memoriam“, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/822413dca25803adf2d7d7aeb170455e.jpg?v=1"
+    },
+    {
+        "title": "„Das Prinzip Apfelbaum. 11 Persönlichkeiten zur Frage „Was bleibt?“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599a3d65a16a754586c5.64d3a3ae0facfa1f2351d3a3.das-prinzip-apfelbaum-11-persoenlichkeiten-zur-frage-was-bleibt",
+        "startDate": {
+            "startDate": "2023-09-18T09:00:00.000Z",
+            "endDate": "2023-09-18T19:00:00.000Z",
+            "text": "Heute, 09:00 - 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b5eef2bc496a0ac74c74c88fb6c94297.jpg?v=1"
+    },
+    {
+        "title": "„Lützerath lebt weiter“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599f3d65a16a75458d80.64d3d5bca419c041212e7d77.luetzerath-lebt-weiter",
+        "startDate": {
+            "startDate": "2023-09-18T14:00:00.000Z",
+            "endDate": "2023-09-18T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/480a4fa1bd38b98ca04d0bd34d68d2de.jpg?v=1"
+    },
+    {
+        "title": "Wanderausstellung „Selbsthilfe und Migration“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a7545917a.64f0415ebf1aa217ec3a0fd2.wanderausstellung-selbsthilfe-und-migration",
+        "startDate": {
+            "startDate": "2023-09-18T09:00:00.000Z",
+            "endDate": "2023-09-18T18:30:00.000Z",
+            "text": "Heute, 09:00 - 18:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "Heidy Giesbrecht: \"Seelensplitter\"",
+        "url": "/kunst/ausstellung/malerei/event/5f18599e3d65a16a75458c9e.64f734daae3dca44d95bc363.heidy-giesbrecht-seelensplitter",
+        "startDate": {
+            "startDate": "2023-09-18T11:00:00.000Z",
+            "endDate": "2023-09-18T13:00:00.000Z",
+            "text": "Heute, 11:00 - 13:00 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c023662590fe3cd1ba3c03f3ac479b9.jpg?v=1"
+    },
+    {
+        "title": "Hubert Perschke: „Alte Heimat - neue Zukunft“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a43d65a16a75459417.64f739eaae3dca44d95bc364.hubert-perschke-alte-heimat---neue-zukunft",
+        "startDate": {
+            "startDate": "2023-09-18T10:00:00.000Z",
+            "endDate": "2023-09-18T19:00:00.000Z",
+            "text": "Heute, 10:00 - 19:00 Uhr"
+        },
+        "place": "Nell-Breuning-Haus, Herzogenrath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4e731e3d26ade0c3f063987918a6de79.jpg?v=1"
+    },
+    {
+        "title": "Meditative Malerei",
+        "url": "/kunst/ausstellung/malerei/event/5f1859953d65a16a754581e9.64c78c5bceebe4414431b684.meditative-malerei",
+        "startDate": {
+            "startDate": "2023-09-18T08:00:00.000Z",
+            "endDate": "2023-09-18T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ]
+    },
+    {
+        "title": "Ökumenisches Trauercafé Lichtblick",
+        "url": "/verschiedenes/sprechstunde/event/60eea53f3d65a128ed433fd2.62bc3d618f4113366d68e152.kumenisches-trauercaf-lichtblick",
+        "startDate": {
+            "startDate": "2023-09-18T15:00:00.000Z",
+            "endDate": "2023-09-18T16:30:00.000Z",
+            "text": "Heute, 15:00 - 16:30 Uhr"
+        },
+        "place": "Pfarrheim St. Sebastian/Hörn, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "sprechstunde"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/05cd6f228ece9bde78331b1c401057e8.jpg?v=2"
+    },
+    {
+        "title": "„Wer wird Mamas Chef*in?“",
+        "url": "/verschiedenes/aktionstag/event/5f18599c3d65a16a75458a17.64fefa88ab288d736d4f55c0.wer-wird-mamas-chefin",
+        "startDate": {
+            "startDate": "2023-09-18T09:30:00.000Z",
+            "endDate": "2023-09-18T13:00:00.000Z",
+            "text": "Heute, 09:30 - 13:00 Uhr"
+        },
+        "place": "Jugendzentrum HOT, Herzogenrath",
+        "categorySlugs": [
+            "verschiedenes",
+            "aktionstag"
+        ]
+    }
+]
