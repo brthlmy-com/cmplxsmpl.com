@@ -1,0 +1,259 @@
+[
+    {
+        "title": "Khumo",
+        "url": "/konzert/funk/event/5f1859993d65a16a754585f8.64df79410e01bf52e44bc224.khumo",
+        "startDate": {
+            "startDate": "2023-09-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "funk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db3b1045802332ffd55f067ce8707e0a.jpeg?v=1"
+    },
+    {
+        "title": "Montagskonzert der Musikschule Düren",
+        "url": "/konzert/jazz/event/5f1859a03d65a16a75458e2c.650bf4c04304433bb6581862.montagskonzert-der-musikschule-dueren",
+        "startDate": {
+            "startDate": "2023-09-25T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Schloss Burgau, Düren",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34df680950d6789b815d6b3268774ba6.jpg?v=1"
+    },
+    {
+        "title": "„In Love with Freddie Mercury“",
+        "url": "/buehne/musiktheater/event/5f18599e3d65a16a75458cda.63c86ec8694c911efe5aa512.in-love-with-freddie-mercury",
+        "startDate": {
+            "startDate": "2023-09-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e4bb442522f4d91d92e69fe2e7a2a85e.jpg?v=1"
+    },
+    {
+        "title": "Freshtorge: „Live 2023“",
+        "url": "/buehne/kabarett-und-comedy/comedy/event/5f1859943d65a16a7545801e.63d90ed32687dd664801a9d3.freshtorge-live-2023",
+        "startDate": {
+            "startDate": "2023-09-25T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Arena Kreis Düren",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "comedy"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/01ddd5e98837e78bdb153e50ca53f53f.jpg?v=1"
+    },
+    {
+        "title": "Lesung mit Ali Can",
+        "url": "/bildung/lesung/event/5f1859a63d65a16a7545963e.65007f4b9177a6732463e0b2.lesung-mit-ali-can",
+        "startDate": {
+            "startDate": "2023-09-25T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Polizeipräsidium Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/627debeb3c87e9b601b007310671e898.jpg?v=1"
+    },
+    {
+        "title": "„Düren und seine Weinpatenschaften im Dritten Reich“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a83d65a16a754598d0.650aed88c2234074ac195c22.dueren-und-seine-weinpatenschaften-im-dritten-reich",
+        "startDate": {
+            "startDate": "2023-09-25T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Haus der Stadt, Düren",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/669dbc0e7ecea7a1d254dcd7b03d28e6.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-09-25T10:00:00.000Z",
+            "endDate": "2023-09-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-09-25T10:00:00.000Z",
+            "endDate": "2023-09-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a43258f351dc1967b28b7f52c7c6a0b.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2023-09-25T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "Lucie Schmitz: „Verbundenheit“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458da3.64be81e25b001840fb4d2bb7.lucie-schmitz-verbundenheit",
+        "startDate": {
+            "startDate": "2023-09-25T10:00:00.000Z",
+            "endDate": "2023-09-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "„In Memoriam“, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/822413dca25803adf2d7d7aeb170455e.jpg?v=1"
+    },
+    {
+        "title": "„Das Prinzip Apfelbaum. 11 Persönlichkeiten zur Frage „Was bleibt?“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599a3d65a16a754586c5.64d3a3ae0facfa1f2351d3a3.das-prinzip-apfelbaum-11-persoenlichkeiten-zur-frage-was-bleibt",
+        "startDate": {
+            "startDate": "2023-09-25T09:00:00.000Z",
+            "endDate": "2023-09-25T19:00:00.000Z",
+            "text": "Heute, 09:00 - 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b5eef2bc496a0ac74c74c88fb6c94297.jpg?v=1"
+    },
+    {
+        "title": "„Lützerath lebt weiter“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599f3d65a16a75458d80.64d3d5bca419c041212e7d77.luetzerath-lebt-weiter",
+        "startDate": {
+            "startDate": "2023-09-25T14:00:00.000Z",
+            "endDate": "2023-09-25T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/480a4fa1bd38b98ca04d0bd34d68d2de.jpg?v=1"
+    },
+    {
+        "title": "Wanderausstellung „Selbsthilfe und Migration“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a7545917a.64f0415ebf1aa217ec3a0fd2.wanderausstellung-selbsthilfe-und-migration",
+        "startDate": {
+            "startDate": "2023-09-25T09:00:00.000Z",
+            "endDate": "2023-09-25T18:30:00.000Z",
+            "text": "Heute, 09:00 - 18:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "Heidy Giesbrecht: \"Seelensplitter\"",
+        "url": "/kunst/ausstellung/malerei/event/5f18599e3d65a16a75458c9e.64f734daae3dca44d95bc363.heidy-giesbrecht-seelensplitter",
+        "startDate": {
+            "startDate": "2023-09-25T11:00:00.000Z",
+            "endDate": "2023-09-25T13:00:00.000Z",
+            "text": "Heute, 11:00 - 13:00 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c023662590fe3cd1ba3c03f3ac479b9.jpg?v=1"
+    },
+    {
+        "title": "Hubert Perschke: „Alte Heimat - neue Zukunft“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a43d65a16a75459417.64f739eaae3dca44d95bc364.hubert-perschke-alte-heimat---neue-zukunft",
+        "startDate": {
+            "startDate": "2023-09-25T10:00:00.000Z",
+            "endDate": "2023-09-25T19:00:00.000Z",
+            "text": "Heute, 10:00 - 19:00 Uhr"
+        },
+        "place": "Nell-Breuning-Haus, Herzogenrath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4e731e3d26ade0c3f063987918a6de79.jpg?v=1"
+    },
+    {
+        "title": "„Auch du gehörst dem Führer!?“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer",
+        "startDate": {
+            "startDate": "2023-09-25T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=1"
+    },
+    {
+        "title": "„Glanzlichter der Naturfotografie 2023“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650c274625aa3774490b8a65.glanzlichter-der-naturfotografie-2023",
+        "startDate": {
+            "startDate": "2023-09-25T10:00:00.000Z",
+            "endDate": "2023-09-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e35afb8451aeb68d9e2e06f3d83d4307.jpg?v=1"
+    }
+]
