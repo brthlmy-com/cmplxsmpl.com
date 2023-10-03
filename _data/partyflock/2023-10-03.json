@@ -1,0 +1,108 @@
+[
+    {
+        "title": "CamelPhat · Closing Party",
+        "url": "https://partyflock.nl/party/451302:CamelPhat",
+        "image": "https://partyflock.nl/images/party/451302_539x303_659944/CamelPhat.jpg",
+        "startDate": {
+            "startDate": "2023-10-04T01:59:59+02:00",
+            "endDate": "2023-10-04T07:59:59+02:00"
+        },
+        "place": {
+            "name": "Pacha",
+            "city": "Ibiza",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "CamelPhat",
+                "href": "/artist/83000:CamelPhat"
+            },
+            {
+                "name": "Mita Gami",
+                "href": "/artist/142330:Mita-Gami"
+            },
+            {
+                "name": "Stephan Bodzin",
+                "href": "/artist/36515:Stephan-Bodzin"
+            }
+        ]
+    },
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/461039:DIP",
+        "image": "https://partyflock.nl/images/party/461039_495x330_677444/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-10-04T00:00:00+02:00",
+            "endDate": "2023-10-04T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings · Leidens Ontzet",
+        "url": "https://partyflock.nl/party/459634:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/459634_558x292_673401/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-10-03T19:00:00+02:00",
+            "endDate": "2023-10-04T02:59:59+02:00"
+        },
+        "place": {
+            "name": "Ambachtsplein",
+            "city": "Leiden",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "RMX",
+        "url": "https://partyflock.nl/party/460519:RMX",
+        "image": "https://partyflock.nl/images/party/460519_404x404_676013/RMX.jpg",
+        "startDate": {
+            "startDate": "2023-10-04T01:00:00+02:00",
+            "endDate": "2023-10-04T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/459231:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/459231_403x405_672495/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-10-04T01:00:00+02:00",
+            "endDate": "2023-10-04T06:29:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "JP",
+                "href": "/artist/92:JP"
+            }
+        ]
+    }
+]
