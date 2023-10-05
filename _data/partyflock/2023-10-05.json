@@ -1,0 +1,361 @@
+[
+    {
+        "title": "4PLAY · Doe Maar Techno",
+        "url": "https://partyflock.nl/party/456952:4PLAY",
+        "image": "https://partyflock.nl/images/party/456952_511x319_658083/4PLAY.png",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Dolly",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Afterlife · Closing Party",
+        "url": "https://partyflock.nl/party/453458:Afterlife",
+        "image": "https://partyflock.nl/images/party/453458_404x404_663643/Afterlife.png",
+        "startDate": {
+            "startDate": "2023-10-05T18:00:00+02:00",
+            "endDate": "2023-10-06T08:59:59+02:00"
+        },
+        "place": {
+            "name": "Hï Ibiza",
+            "city": "Playa d'en Bossa",
+            "country": "Spanje"
+        },
+        "lineup": [
+            {
+                "name": "8Kays",
+                "href": "/artist/125283:8Kays"
+            },
+            {
+                "name": "Adriatique",
+                "href": "/artist/69384:Adriatique"
+            },
+            {
+                "name": "Anetha",
+                "href": "/artist/91344:Anetha"
+            },
+            {
+                "name": "Argy",
+                "href": "/artist/30782:Argy"
+            },
+            {
+                "name": "Ben Klock",
+                "href": "/artist/40844:Ben-Klock"
+            },
+            {
+                "name": "Chris Avantgarde",
+                "href": "/artist/89240:Chris-Avantgarde"
+            },
+            {
+                "name": "Clara Cuvé",
+                "href": "/artist/113844:Clara-Cuve"
+            },
+            {
+                "name": "Colyn",
+                "href": "/artist/112514:Colyn"
+            },
+            {
+                "name": "Innellea",
+                "href": "/artist/100751:Innellea"
+            },
+            {
+                "name": "Kevin de Vries",
+                "href": "/artist/78209:Kevin-de-Vries"
+            },
+            {
+                "name": "Kobosil",
+                "href": "/artist/82057:Kobosil"
+            },
+            {
+                "name": "Kölsch",
+                "href": "/artist/66739:Kolsch"
+            },
+            {
+                "name": "MRAK",
+                "href": "/artist/154385:MRAK"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "Tale Of Us",
+                "href": "/artist/61511:Tale-Of-Us"
+            }
+        ]
+    },
+    {
+        "title": "Amsterdam Techno Sessions",
+        "url": "https://partyflock.nl/party/461347:Amsterdam-Techno-Sessions",
+        "image": "https://partyflock.nl/images/party/461347_604x270_678177/Amsterdam-Techno-Sessions.jpg",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "GI.O",
+                "href": "/artist/164572:GI-O"
+            },
+            {
+                "name": "Marco Ramos",
+                "href": "/artist/125617:Marco-Ramos"
+            }
+        ]
+    },
+    {
+        "title": "BAMBÚ",
+        "url": "https://partyflock.nl/party/460462:BAMBU",
+        "image": "https://partyflock.nl/images/party/460462_539x303_675890/BAMBU.png",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Chef'Special",
+        "url": "https://partyflock.nl/party/457856:ChefSpecial",
+        "image": "https://partyflock.nl/images/party/457856_539x303_668649/ChefSpecial.jpg",
+        "startDate": {
+            "startDate": "2023-10-05T21:00:00+02:00",
+            "endDate": "2023-10-05T20:59:59+02:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Chef'Special",
+                "href": "/artist/55369:ChefSpecial"
+            }
+        ]
+    },
+    {
+        "title": "EAST Techno Collective",
+        "url": "https://partyflock.nl/party/460649:EAST-Techno-Collective",
+        "image": "https://partyflock.nl/images/party/460649_558x292_676407/EAST-Techno-Collective.png",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Francesco Andolina",
+                "href": "/artist/167273:Francesco-Andolina"
+            },
+            {
+                "name": "Sub_Under",
+                "href": "/artist/78073:Sub_Under"
+            },
+            {
+                "name": "Vibeke Bruff",
+                "href": "/artist/167272:Vibeke-Bruff"
+            }
+        ]
+    },
+    {
+        "title": "Freaky Thursday",
+        "url": "https://partyflock.nl/party/453409:Freaky-Thursday",
+        "image": "https://partyflock.nl/images/party/453409_495x330_654424/Freaky-Thursday.jpg",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Goldkimono",
+        "url": "https://partyflock.nl/party/454969:Goldkimono",
+        "image": "https://partyflock.nl/images/party/454969_558x292_662585/Goldkimono.jpg",
+        "startDate": {
+            "startDate": "2023-10-05T21:30:00+02:00",
+            "endDate": "2023-10-05T21:29:59+02:00"
+        },
+        "place": {
+            "name": "Doornroosje",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Goldkimono",
+                "href": "/artist/145687:Goldkimono"
+            }
+        ]
+    },
+    {
+        "title": "Guus Meeuwis · Uit Het Hoofd",
+        "url": "https://partyflock.nl/party/452571:Guus-Meeuwis",
+        "image": "https://partyflock.nl/images/party/452571_539x303_658517/Guus-Meeuwis.jpg",
+        "startDate": {
+            "startDate": "2023-10-05T22:15:00+02:00",
+            "endDate": "2023-10-06T00:29:59+02:00"
+        },
+        "place": {
+            "name": "Oosterpoort",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Guus Meeuwis",
+                "href": "/artist/94003:Guus-Meeuwis"
+            }
+        ]
+    },
+    {
+        "title": "Het Grote Kinderfeestje",
+        "url": "https://partyflock.nl/party/461341:Het-Grote-Kinderfeestje",
+        "image": "https://partyflock.nl/images/party/461341_404x404_678165/Het-Grote-Kinderfeestje.jpg",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Holy Moly Club",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Oath.",
+        "url": "https://partyflock.nl/party/460299:Oath",
+        "image": "https://partyflock.nl/images/party/460299_361x452_675462/Oath.jpg",
+        "startDate": {
+            "startDate": "2023-10-05T23:00:00+02:00",
+            "endDate": "2023-10-06T04:59:59+02:00"
+        },
+        "place": {
+            "name": "Smederij",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Lenz",
+                "href": "/artist/143420:Lenz"
+            },
+            {
+                "name": "Noark",
+                "href": "/artist/157019:Noark"
+            },
+            {
+                "name": "OZUM",
+                "href": "/artist/126859:OZUM"
+            }
+        ]
+    },
+    {
+        "title": "Sam Hofman · Zomerkater Clubtour",
+        "url": "https://partyflock.nl/party/460445:Sam-Hofman",
+        "image": "https://partyflock.nl/images/party/460445_539x303_675862/Sam-Hofman.jpg",
+        "startDate": {
+            "startDate": "2023-10-06T00:00:00+02:00",
+            "endDate": "2023-10-05T23:59:59+02:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sam Hofman",
+                "href": "/artist/124859:Sam-Hofman"
+            }
+        ]
+    },
+    {
+        "title": "Video",
+        "url": "https://partyflock.nl/party/460486:Video",
+        "image": "https://partyflock.nl/images/party/460486_404x404_628945/Video.jpg",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Djennah",
+                "href": "/artist/78502:Djennah"
+            },
+            {
+                "name": "Fella",
+                "href": "/artist/116155:Fella"
+            },
+            {
+                "name": "Lotte",
+                "href": "/artist/140258:Lotte"
+            },
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Otis Hajo",
+                "href": "/artist/154967:Otis-Hajo"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            },
+            {
+                "name": "Taquito y Tres",
+                "href": "/artist/86426:Taquito-y-Tres"
+            },
+            {
+                "name": "ThorMoss",
+                "href": "/artist/105084:ThorMoss"
+            }
+        ]
+    },
+    {
+        "title": "WE LIT · 2 Year Anniversary",
+        "url": "https://partyflock.nl/party/460960:WE-LIT",
+        "image": "https://partyflock.nl/images/party/460960_404x404_677176/WE-LIT.jpg",
+        "startDate": {
+            "startDate": "2023-10-06T01:00:00+02:00",
+            "endDate": "2023-10-06T06:59:59+02:00"
+        },
+        "place": {
+            "name": "MUNCH",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
