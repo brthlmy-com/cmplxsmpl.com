@@ -125,22 +125,32 @@ const contentLength = ytVideoViewCount
 
 const output = `#youtube #monitoring\n
 https://youtube.com/@_mesotv_\n
+<pre>
 Supported by ${subscriberCount} great humans.\n
 New Video online ${mostRecent[0].timeSince} ago\n
+</pre>
 \n
+<pre>
 Watched ${channelViews}\n
 Since Yesterday +${channelViews - channelViewsYesterday} ${channelViewsYesterday} \n
 7 Days Ago +${channelViews - channelViewsWeekAgo} ${channelViewsWeekAgo} \n
+</pre>
 \n
+<pre>
 TotalVideo ${ytVideoViewCount.length} | #ContentHours ${humanSeconds(
   contentLength,
 )}
-\n \n
+</pre>
+\n
+<pre>
 Recently released:\n
 ${videosRecently}\n
-\n \n
+</pre>
+\n
+<pre>
 Most watched videos:\n
 ${videosTop5}
+</pre>
 `;
 
 // console.log(
