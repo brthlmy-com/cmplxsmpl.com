@@ -98,10 +98,10 @@ const mostRecent = ytVideoViewCount.sort(
 const videosRecently = mostRecent
   .map(
     item =>
-      `${item.viewCount} | <a href="${item.url}">${item.title}</a> | ${item.timeSince}`,
+      `${item.timeSince} | <a href="${item.url}">${item.title}</a> | ${item.viewCount}`,
   )
   .slice(0, 5)
-  .join('\n\n');
+  .join('\n');
 
 const channelViews = ytVideoViewCount
   .map(item => parseInt(item.viewCount))
