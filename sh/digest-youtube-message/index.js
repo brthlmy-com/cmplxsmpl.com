@@ -127,12 +127,11 @@ const output = `#youtube #monitoring\n
 https://youtube.com/@_mesotv_\n
 Supported by ${subscriberCount} great humans.\n
 New Video online ${mostRecent[0].timeSince} ago\n
-TotalVideo ${ytVideoViewCount.length} | #ContentHours ${humanSeconds(
+Created ${ytVideoViewCount.length}\n Watch for ${humanSeconds(
   contentLength,
-)}
-Watched ${channelViews}\n
-Since Yesterday +${channelViews - channelViewsYesterday} ${channelViewsYesterday} \n
-7 Days Ago +${channelViews - channelViewsWeekAgo} ${channelViewsWeekAgo} \n
+)}\n
+Watched ${channelViews}\n Since Yesterday +${channelViews - channelViewsYesterday}\n
+7 Days Ago +${channelViews - channelViewsWeekAgo}\n
 Recently released:\n
 ${videosRecently}\n
 Most watched videos:\n
