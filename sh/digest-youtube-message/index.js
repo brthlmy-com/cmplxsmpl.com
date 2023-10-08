@@ -58,7 +58,6 @@ const buildRecord = (video, daysAgoInt) => {
   const today = $[video][todayRecord];
 
   return {
-    id: today.videoId,
     url: ytHref(today.videoId),
     title: today.title.slice(0, 30),
     date: todayRecord,
@@ -87,7 +86,7 @@ const videosTop5 = ytVideoViewCount
   .sort((a, b) => b.viewCount - a.viewCount)
   .map(
     item =>
-      `#${item.id} | ${item.viewCount} | <a href="${item.url}">${item.title}</a> | ${item.timeSince}`,
+      `${item.viewCount} | <a href="${item.url}">${item.title}</a> | ${item.timeSince}`,
   )
   .slice(0, 5)
   .join('\n\n');
@@ -99,7 +98,7 @@ const mostRecent = ytVideoViewCount.sort(
 const videosRecently = mostRecent
   .map(
     item =>
-      `#${item.id} | ${item.viewCount} | <a href="${item.url}">${item.title}</a> | ${item.timeSince}`,
+      `${item.viewCount} | <a href="${item.url}">${item.title}</a> | ${item.timeSince}`,
   )
   .slice(0, 5)
   .join('\n\n');
@@ -126,22 +125,28 @@ const contentLength = ytVideoViewCount
 
 const output = `#youtube #monitoring\n
 https://youtube.com/@_mesotv_\n
-#Support ${subscriberCount}\n
-#Watched ${channelViews} | Yesterday ${channelViewsYesterday} +${channelViews - channelViewsYesterday} | 7 days ago ${channelViewsWeekAgo} +${channelViews - channelViewsWeekAgo}\n
-#NewVideo ${mostRecent[0].timeSince} ago\n
-#TotalVideo ${ytVideoViewCount.length} | #ContentHours ${humanSeconds(
+Supported by ${subscriberCount} great humans.\n
+New Video online ${mostRecent[0].timeSince} ago\n
+\n
+Watched ${channelViews}\n
+Since Yesterday +${channelViews - channelViewsYesterday} ${channelViewsYesterday} \n
+7 Days Ago +${channelViews - channelViewsWeekAgo} ${channelViewsWeekAgo} \n
+\n
+TotalVideo ${ytVideoViewCount.length} | #ContentHours ${humanSeconds(
   contentLength,
-)}\n
+)}
+\n \n
 Recently released:\n
 ${videosRecently}\n
+\n \n
 Most watched videos:\n
-${videosTop5}\n
+${videosTop5}
 `;
 
-console.log(
-  // changeCountVideos.length,
-  // ytVideoViewCount.length,
-  output,
-  output.length,
-);
+// console.log(
+  // // changeCountVideos.length,
+  // // ytVideoViewCount.length,
+  // output,
+  // output.length,
+// );
 process.stdout.write(encodeURIComponent(output));
