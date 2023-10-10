@@ -1,0 +1,89 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/461041:DIP",
+        "image": "https://partyflock.nl/images/party/461041_495x330_677447/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-10-11T00:00:00+02:00",
+            "endDate": "2023-10-11T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mayra Andrade · reEncanto",
+        "url": "https://partyflock.nl/party/459729:Mayra-Andrade",
+        "image": "https://partyflock.nl/images/party/459729_361x451_673668/Mayra-Andrade.jpg",
+        "startDate": {
+            "startDate": "2023-10-10T21:00:00+02:00",
+            "endDate": "2023-10-10T23:29:59+02:00"
+        },
+        "place": {
+            "name": "De Doelen",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mayra Andrade",
+                "href": "/artist/138929:Mayra-Andrade"
+            }
+        ]
+    },
+    {
+        "title": "RMX every Tuesday Escape Amsterdam",
+        "url": "https://partyflock.nl/party/460520:RMX-every-Tuesday-Escape-Amsterdam",
+        "image": "https://partyflock.nl/images/party/460520_404x404_676013/RMX-every-Tuesday-Escape-Amsterdam.jpg",
+        "startDate": {
+            "startDate": "2023-10-11T01:00:00+02:00",
+            "endDate": "2023-10-11T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/459232:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/459232_554x295_672496/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-10-11T01:30:00+02:00",
+            "endDate": "2023-10-11T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Developer",
+                "href": "/artist/70922:Developer"
+            },
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Jayzo",
+                "href": "/artist/68137:Jayzo"
+            }
+        ]
+    }
+]
