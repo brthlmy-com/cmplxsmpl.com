@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Acht tot Nacht",
+        "url": "https://partyflock.nl/party/460077:Acht-tot-Nacht",
+        "image": "https://partyflock.nl/images/party/460077_539x303_674778/Acht-tot-Nacht.jpg",
+        "startDate": {
+            "startDate": "2023-10-11T22:00:00+02:00",
+            "endDate": "2023-10-12T01:59:59+02:00"
+        },
+        "place": {
+            "name": "Bitterzoet",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hotspot",
+        "url": "https://partyflock.nl/party/460514:Hotspot",
+        "image": "https://partyflock.nl/images/party/460514_540x302_647493/Hotspot.jpg",
+        "startDate": {
+            "startDate": "2023-10-12T01:00:00+02:00",
+            "endDate": "2023-10-12T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
