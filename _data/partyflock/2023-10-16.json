@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/461052:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/461052_404x404_677471/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-10-17T01:00:00+02:00",
+            "endDate": "2023-10-17T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bass 80",
+                "href": "/artist/1847:Bass-80"
+            },
+            {
+                "name": "Dr Meaker",
+                "href": "/artist/107340:Dr-Meaker"
+            },
+            {
+                "name": "Loco",
+                "href": "/artist/28499:Loco"
+            },
+            {
+                "name": "Mains",
+                "href": "/artist/112289:Mains"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "SUV",
+                "href": "/artist/167414:SUV"
+            }
+        ]
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/460508:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/460508_558x292_670346/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-10-17T01:00:00+02:00",
+            "endDate": "2023-10-17T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
