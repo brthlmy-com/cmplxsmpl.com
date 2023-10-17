@@ -1,0 +1,114 @@
+[
+    {
+        "title": "DIP #1 · Sam Hofman",
+        "url": "https://partyflock.nl/party/461037:DIP",
+        "image": "https://partyflock.nl/images/party/461037_480x340_677440/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-10-18T00:00:00+02:00",
+            "endDate": "2023-10-18T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "De Ideale Schoonzonen",
+                "href": "/artist/124617:De-Ideale-Schoonzonen"
+            },
+            {
+                "name": "DIPSHIT FM",
+                "href": "/artist/166133:DIPSHIT-FM"
+            },
+            {
+                "name": "La June",
+                "href": "/artist/129515:La-June"
+            },
+            {
+                "name": "Ritchyzegthet",
+                "href": "/artist/154716:Ritchyzegthet"
+            },
+            {
+                "name": "Sam Hofman",
+                "href": "/artist/124859:Sam-Hofman"
+            },
+            {
+                "name": "Sascha",
+                "href": "/artist/167407:Sascha"
+            }
+        ]
+    },
+    {
+        "title": "Grandmaster Flash",
+        "url": "https://partyflock.nl/party/460456:Grandmaster-Flash",
+        "image": "https://partyflock.nl/images/party/460456_361x453_675885/Grandmaster-Flash.jpg",
+        "startDate": {
+            "startDate": "2023-10-17T22:00:00+02:00",
+            "endDate": "2023-10-17T21:59:59+02:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Grandmaster Flash",
+                "href": "/artist/37417:Grandmaster-Flash"
+            }
+        ]
+    },
+    {
+        "title": "RMX · Hot City Boys Label Night",
+        "url": "https://partyflock.nl/party/460521:RMX",
+        "image": "https://partyflock.nl/images/party/460521_404x404_676013/RMX.jpg",
+        "startDate": {
+            "startDate": "2023-10-18T01:00:00+02:00",
+            "endDate": "2023-10-18T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/459233:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/459233_403x405_672495/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-10-18T01:30:00+02:00",
+            "endDate": "2023-10-18T06:59:59+02:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Kr!z",
+                "href": "/artist/23355:Kr-z"
+            },
+            {
+                "name": "Tina V",
+                "href": "/artist/125771:Tina-V"
+            }
+        ]
+    }
+]
