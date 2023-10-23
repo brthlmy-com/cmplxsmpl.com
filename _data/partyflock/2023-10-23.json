@@ -1,0 +1,37 @@
+[
+    {
+        "title": "ABBA Gold",
+        "url": "https://partyflock.nl/party/449340:ABBA-Gold",
+        "image": "https://partyflock.nl/images/party/449340_560x291_650768/ABBA-Gold.jpg",
+        "startDate": {
+            "startDate": "2023-10-23T21:00:00+02:00",
+            "endDate": "2023-10-23T20:59:59+02:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Abba Gold",
+                "href": "/artist/98907:Abba-Gold"
+            }
+        ]
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/460509:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/460509_404x404_670347/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-10-24T01:00:00+02:00",
+            "endDate": "2023-10-24T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
