@@ -1,0 +1,69 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/461042:DIP",
+        "image": "https://partyflock.nl/images/party/461042_495x330_677449/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-10-25T00:00:00+02:00",
+            "endDate": "2023-10-25T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Fall Out Boy · So Much For (Tour) Dust",
+        "url": "https://partyflock.nl/party/454556:Fall-Out-Boy",
+        "image": "https://partyflock.nl/images/party/454556_521x313_670394/Fall-Out-Boy.jpg",
+        "startDate": {
+            "startDate": "2023-10-24T22:00:00+02:00",
+            "endDate": "2023-10-25T00:59:59+02:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Nothing, Nowhere",
+                "href": "/artist/120122:Nothing-Nowhere"
+            },
+            {
+                "name": "Patrick Stump",
+                "href": "/artist/121566:Patrick-Stump"
+            },
+            {
+                "name": "PVRIS",
+                "href": "/artist/120126:PVRIS"
+            }
+        ]
+    },
+    {
+        "title": "RMX every Tuesday Escape Amsterdam",
+        "url": "https://partyflock.nl/party/460522:RMX-every-Tuesday-Escape-Amsterdam",
+        "image": "https://partyflock.nl/images/party/460522_404x404_676013/RMX-every-Tuesday-Escape-Amsterdam.jpg",
+        "startDate": {
+            "startDate": "2023-10-25T01:00:00+02:00",
+            "endDate": "2023-10-25T05:59:59+02:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            }
+        ]
+    }
+]
