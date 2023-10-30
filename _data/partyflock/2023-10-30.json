@@ -1,0 +1,105 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/461053:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/461053_404x404_677471/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-10-31T00:00:00+01:00",
+            "endDate": "2023-10-31T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "INSOM",
+                "href": "/artist/66258:INSOM"
+            },
+            {
+                "name": "Karimooo",
+                "href": "/artist/59433:Karimooo"
+            },
+            {
+                "name": "Mandidextrous",
+                "href": "/artist/78076:Mandidextrous"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Rakc",
+                "href": "/artist/158317:Rakc"
+            },
+            {
+                "name": "Sinistah",
+                "href": "/artist/1278:Sinistah"
+            }
+        ]
+    },
+    {
+        "title": "Dia de Los Muertos × Halloween",
+        "url": "https://partyflock.nl/party/460510:Dia-de-Los-Muertos-x-Halloween",
+        "image": "https://partyflock.nl/images/party/460510_303x539_680587/Dia-de-Los-Muertos-x-Halloween.png",
+        "startDate": {
+            "startDate": "2023-10-31T00:00:00+01:00",
+            "endDate": "2023-10-31T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Ellie Goulding",
+        "url": "https://partyflock.nl/party/452086:Ellie-Goulding",
+        "image": "https://partyflock.nl/images/party/452086_560x291_657320/Ellie-Goulding.jpg",
+        "startDate": {
+            "startDate": "2023-10-30T20:00:00+01:00",
+            "endDate": "2023-10-30T23:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ellie Goulding",
+                "href": "/artist/54924:Ellie-Goulding"
+            }
+        ]
+    },
+    {
+        "title": "Jack in concert",
+        "url": "https://partyflock.nl/party/461974:Jack-in-concert",
+        "image": "https://partyflock.nl/images/party/461974_539x303_680091/Jack-in-concert.jpg",
+        "startDate": {
+            "startDate": "2023-10-30T23:00:00+01:00",
+            "endDate": "2023-10-31T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Villa Thalia",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Jack",
+                "href": "/artist/124102:Jack"
+            },
+            {
+                "name": "MRD",
+                "href": "/artist/121362:MRD"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            }
+        ]
+    }
+]
