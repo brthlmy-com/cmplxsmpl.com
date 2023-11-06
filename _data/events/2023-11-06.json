@@ -1,0 +1,286 @@
+[
+    {
+        "title": "Louderdales",
+        "url": "/konzert/country/event/5f1859993d65a16a754585f8.6167f2123d65a14c6e612982.louderdales",
+        "startDate": {
+            "startDate": "2023-11-06T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "country"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6b62a4024d33418124134cb441c49e63.jpeg?v=1"
+    },
+    {
+        "title": "The Brew",
+        "url": "/konzert/blues/event/5f1859993d65a16a754585e2.631f11a70684671bfc125e46.the-brew",
+        "startDate": {
+            "startDate": "2023-11-06T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "blues"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/af6331b40f52e7e62e4c1a52df835a39.jpg?v=3"
+    },
+    {
+        "title": "„In diesem Land ... Deutschland 1923 – Das Krisenjahr“",
+        "url": "/bildung/lesung/event/5f18599e3d65a16a75458c3d.633c4bcda8f7666c104717f6.in-diesem-land--deutschland-1923--das-krisenjahr",
+        "startDate": {
+            "startDate": "2023-11-06T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Altes Kurhaus, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4e0085a2c4882887f590d3aac4879f70.jpg?v=1"
+    },
+    {
+        "title": "Aachen Big Band - Jubiläumskonzert",
+        "url": "/konzert/instrumental/event/5f1859943d65a16a7545809c.6537a18bbd0f3b1c651d3b34.aachen-big-band---jubilaeumskonzert",
+        "startDate": {
+            "startDate": "2023-11-06T20:30:00.000Z",
+            "text": "Heute, 20:30 Uhr"
+        },
+        "place": "Mufab, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/46da6c237123dcb914c949520708c605.jpg?v=2"
+    },
+    {
+        "title": "„Living – Einmal wirklich leben“",
+        "url": "/film-und-bild/film/drama/event/5f1859a23d65a16a7545917e.648889dd11422f3b5e3c04bd.living--einmal-wirklich-leben",
+        "startDate": {
+            "startDate": "2023-11-06T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4c1e8cbeaef44d23dd4186847843bbf5.jpg?v=2"
+    },
+    {
+        "title": "„Shutter Island – Krimitage Kino Spezial“",
+        "url": "/film-und-bild/film/krimi-und-thriller/event/5f1859a63d65a16a754595a9.6530eb101b675333eb1914e4.shutter-island--krimitage-kino-spezial",
+        "startDate": {
+            "startDate": "2023-11-06T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Eden Palast, Aachen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "krimi-und-thriller"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d4dc159bbc68a54b3437cf954fc1a9f9.jpeg?v=2"
+    },
+    {
+        "title": "„In diesem Land ... Deutschland 1923 – Das Krisenjahr“",
+        "url": "/bildung/lesung/event/5f18599e3d65a16a75458c3d.633c4bcda8f7666c104717f6.in-diesem-land--deutschland-1923--das-krisenjahr",
+        "startDate": {
+            "startDate": "2023-11-06T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Altes Kurhaus, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4e0085a2c4882887f590d3aac4879f70.jpg?v=1"
+    },
+    {
+        "title": "Energiesparen leicht gemacht",
+        "url": "/bildung/vortrag-und-diskussion/event/6531b511a02ac643a34d7773.6531b5412074905dfc24e734.energiesparen-leicht-gemacht",
+        "startDate": {
+            "startDate": "2023-11-06T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Evangelisches Gemeindezentrum Martin-Luther-Kirche, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/18f1d30a1c13af5ef9aced8eb4473c69.jpeg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-11-06T10:00:00.000Z",
+            "endDate": "2023-11-06T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-11-06T10:00:00.000Z",
+            "endDate": "2023-11-06T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2023-11-06T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "Hanne Werhan: „Durch die Zeit“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d8f.64fa1ebc9f873a17fc566356.hanne-werhan-durch-die-zeit",
+        "startDate": {
+            "startDate": "2023-11-06T00:00:00.000Z",
+            "text": "Heute, 00:00 Uhr"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc3c2450737a5029373e755eb09d8262.jpg?v=1"
+    },
+    {
+        "title": "„Auch du gehörst dem Führer!?“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer",
+        "startDate": {
+            "startDate": "2023-11-06T10:00:00.000Z",
+            "endDate": "2023-11-06T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=1"
+    },
+    {
+        "title": "„Der Aachener Bushof im Fokus der Fotografie.“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a7545917a.651161d673acdc3b3e0d97d6.der-aachener-bushof-im-fokus-der-fotografie",
+        "startDate": {
+            "startDate": "2023-11-06T09:00:00.000Z",
+            "endDate": "2023-11-06T18:30:00.000Z",
+            "text": "Heute, 09:00 - 18:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d72ca1f7c7e0162da78fd6bcea60a8ab.jpg?v=1"
+    },
+    {
+        "title": "Udo Sturm: „Transparence“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f18599f3d65a16a75458d8f.6512cd30e4988b38eb4ffc14.udo-sturm-transparence",
+        "startDate": {
+            "startDate": "2023-11-06",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0efc51c7f1f383ab9ebd4b17bb82df4a.jpg?v=2"
+    },
+    {
+        "title": "Bill Viola: \"Sculptor of Time\"",
+        "url": "/kunst/ausstellung/video/event/5f18599b3d65a16a75458891.6512d708a2748222436ebfa5.bill-viola-sculptor-of-time",
+        "startDate": {
+            "startDate": "2023-11-06",
+            "text": "Heute, ganztägig"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "video"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f0b7b4f3bfe521d4a55842e920c5d2ee.jpg?v=1"
+    },
+    {
+        "title": "„Wie alles begann. Die Schatzkammer in der Karlskapelle 1873-1881“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.651402d13d1dc366416d8a02.wie-alles-begann-die-schatzkammer-in-der-karlskapelle-1873-1881",
+        "startDate": {
+            "startDate": "2023-11-06T10:00:00.000Z",
+            "endDate": "2023-11-06T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6cb92175ba21f172abf590d8be472ddc.jpg?v=1"
+    },
+    {
+        "title": "Erich Wellhöfer: „Neue Bilder“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859933d65a16a75457fc5.65279e68ccf1e65aad59e952.erich-wellhoefer-neue-bilder",
+        "startDate": {
+            "startDate": "2023-11-06T15:30:00.000Z",
+            "endDate": "2023-11-06T18:00:00.000Z",
+            "text": "Heute, 15:30 - 18:00 Uhr"
+        },
+        "place": "Galerie Nova, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c6950318c3e778feb07f102789ecb76b.jpg?v=1"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2023-11-06T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    }
+]
