@@ -1,0 +1,69 @@
+[
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/462688:DIP",
+        "image": "https://partyflock.nl/images/party/462688_495x330_681880/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-11-07T23:00:00+01:00",
+            "endDate": "2023-11-08T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Polo G & NLE Choppa",
+        "url": "https://partyflock.nl/party/460959:Polo-G-and-NLE-Choppa",
+        "image": "https://partyflock.nl/images/party/460959_558x292_677174/Polo-G-and-NLE-Choppa.jpg",
+        "startDate": {
+            "startDate": "2023-11-07T19:30:00+01:00",
+            "endDate": "2023-11-07T23:59:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "NLE Choppa",
+                "href": "/artist/158749:NLE-Choppa"
+            },
+            {
+                "name": "Polo G",
+                "href": "/artist/141601:Polo-G"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/462324:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/462324_554x295_681082/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-11-08T00:30:00+01:00",
+            "endDate": "2023-11-08T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Rossa",
+                "href": "/artist/4627:Rossa"
+            },
+            {
+                "name": "Shipe",
+                "href": "/artist/107479:Shipe"
+            }
+        ]
+    }
+]
