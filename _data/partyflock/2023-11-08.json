@@ -1,0 +1,157 @@
+[
+    {
+        "title": "Asdek · Release Party",
+        "url": "https://partyflock.nl/party/461057:Asdek",
+        "image": "https://partyflock.nl/images/party/461057_539x303_677480/Asdek.jpg",
+        "startDate": {
+            "startDate": "2023-11-09T00:30:00+01:00",
+            "endDate": "2023-11-09T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Rex Club",
+            "city": "Parijs",
+            "country": "Frankrijk"
+        },
+        "lineup": [
+            {
+                "name": "Asdek",
+                "href": "/artist/131499:Asdek"
+            },
+            {
+                "name": "Basstrick",
+                "href": "/artist/126480:Basstrick"
+            },
+            {
+                "name": "Loge21",
+                "href": "/artist/106566:Loge21"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "The Caracal Project",
+                "href": "/artist/127642:The-Caracal-Project"
+            }
+        ]
+    },
+    {
+        "title": "Ayra Starr",
+        "url": "https://partyflock.nl/party/458426:Ayra-Starr",
+        "image": "https://partyflock.nl/images/party/458426_391x417_670154/Ayra-Starr.jpg",
+        "startDate": {
+            "startDate": "2023-11-08T19:00:00+01:00",
+            "endDate": "2023-11-08T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Maassilo",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ayra Starr",
+                "href": "/artist/151673:Ayra-Starr"
+            }
+        ]
+    },
+    {
+        "title": "Brass Rave Unit",
+        "url": "https://partyflock.nl/party/458539:Brass-Rave-Unit",
+        "image": "https://partyflock.nl/images/party/458539_558x292_670378/Brass-Rave-Unit.jpg",
+        "startDate": {
+            "startDate": "2023-11-08T21:00:00+01:00",
+            "endDate": "2023-11-08T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Doornroosje",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Brass Rave Unit",
+                "href": "/artist/91781:Brass-Rave-Unit"
+            }
+        ]
+    },
+    {
+        "title": "Cigarettes After Sex",
+        "url": "https://partyflock.nl/party/462341:Cigarettes-After-Sex",
+        "image": "https://partyflock.nl/images/party/462341_558x292_681152/Cigarettes-After-Sex.jpg",
+        "startDate": {
+            "startDate": "2023-11-08T19:30:00+01:00",
+            "endDate": "2023-11-08T23:59:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cigarettes After Sex",
+                "href": "/artist/108277:Cigarettes-After-Sex"
+            }
+        ]
+    },
+    {
+        "title": "Greta van Fleet · Starcatcher World Tour",
+        "url": "https://partyflock.nl/party/460813:Greta-van-Fleet",
+        "image": "https://partyflock.nl/images/party/460813_539x303_676816/Greta-van-Fleet.jpg",
+        "startDate": {
+            "startDate": "2023-11-08T21:00:00+01:00",
+            "endDate": "2023-11-08T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Greta van Fleet",
+                "href": "/artist/110532:Greta-van-Fleet"
+            },
+            {
+                "name": "Mt. Joy",
+                "href": "/artist/167290:Mt-Joy"
+            }
+        ]
+    },
+    {
+        "title": "Hotspot",
+        "url": "https://partyflock.nl/party/462906:Hotspot",
+        "image": "https://partyflock.nl/images/party/462906_404x404_660081/Hotspot.jpg",
+        "startDate": {
+            "startDate": "2023-11-09T00:00:00+01:00",
+            "endDate": "2023-11-09T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Johnny Jewel · Live",
+        "url": "https://partyflock.nl/party/458743:Johnny-Jewel",
+        "image": "https://partyflock.nl/images/party/458743_404x404_671088/Johnny-Jewel.png",
+        "startDate": {
+            "startDate": "2023-11-08T21:00:00+01:00",
+            "endDate": "2023-11-08T23:29:59+01:00"
+        },
+        "place": {
+            "name": "Levenslang",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Johnny Jewel",
+                "href": "/artist/166038:Johnny-Jewel"
+            }
+        ]
+    }
+]
