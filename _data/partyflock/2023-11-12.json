@@ -1,0 +1,271 @@
+[
+    {
+        "title": "BLØF",
+        "url": "https://partyflock.nl/party/460846:BLOF",
+        "image": "https://partyflock.nl/images/party/460846_404x404_676907/BLOF.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T21:00:00+01:00",
+            "endDate": "2023-11-12T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Luxor Live",
+            "city": "Arnhem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BLØF",
+                "href": "/artist/95023:BLOF"
+            }
+        ]
+    },
+    {
+        "title": "Het Weekend",
+        "url": "https://partyflock.nl/party/462377:Het-Weekend",
+        "image": "https://partyflock.nl/images/party/462377_404x404_681215/Het-Weekend.jpg",
+        "startDate": {
+            "startDate": "2023-11-13T00:00:00+01:00",
+            "endDate": "2023-11-13T04:59:59+01:00"
+        },
+        "place": {
+            "name": "De School",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Juice",
+        "url": "https://partyflock.nl/party/462920:Juice",
+        "image": "https://partyflock.nl/images/party/462920_655x249_629986/Juice.png",
+        "startDate": {
+            "startDate": "2023-11-13T00:00:00+01:00",
+            "endDate": "2023-11-13T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Casanova",
+                "href": "/artist/59438:Casanova"
+            },
+            {
+                "name": "Della",
+                "href": "/artist/86145:Della"
+            },
+            {
+                "name": "Fella",
+                "href": "/artist/116155:Fella"
+            },
+            {
+                "name": "Hightower",
+                "href": "/artist/86428:Hightower"
+            },
+            {
+                "name": "Irwan",
+                "href": "/artist/7286:Irwan"
+            },
+            {
+                "name": "Jay Junior",
+                "href": "/artist/85980:Jay-Junior"
+            },
+            {
+                "name": "Kimberlee Ramirez",
+                "href": "/artist/61262:Kimberlee-Ramirez"
+            }
+        ]
+    },
+    {
+        "title": "Mega Record & CD Fair",
+        "url": "https://partyflock.nl/party/458326:Mega-Record-and-CD-Fair",
+        "image": "https://partyflock.nl/images/party/458326_494x330_669898/Mega-Record-and-CD-Fair.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T11:00:00+01:00",
+            "endDate": "2023-11-12T17:59:59+01:00"
+        },
+        "place": {
+            "name": "Brabanthallen",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "OMG It's Sunday",
+        "url": "https://partyflock.nl/party/462467:OMG-Its-Sunday",
+        "image": "https://partyflock.nl/images/party/462467_404x404_675272/OMG-Its-Sunday.jpg",
+        "startDate": {
+            "startDate": "2023-11-13T00:30:00+01:00",
+            "endDate": "2023-11-13T04:59:59+01:00"
+        },
+        "place": {
+            "name": "AIR",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Outsiders Popquiz · Rockeditie XXL",
+        "url": "https://partyflock.nl/party/461822:Outsiders-Popquiz",
+        "image": "https://partyflock.nl/images/party/461822_538x303_679581/Outsiders-Popquiz.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T15:00:00+01:00",
+            "endDate": "2023-11-12T14:59:59+01:00"
+        },
+        "place": {
+            "name": "De Nobel",
+            "city": "Leiden",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Outsiders",
+                "href": "/artist/38037:Outsiders"
+            }
+        ]
+    },
+    {
+        "title": "Sofia Kourtesis · Live",
+        "url": "https://partyflock.nl/party/458217:Sofia-Kourtesis",
+        "image": "https://partyflock.nl/images/party/458217_513x318_669523/Sofia-Kourtesis.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T21:00:00+01:00",
+            "endDate": "2023-11-12T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sofia Kourtesis",
+                "href": "/artist/120057:Sofia-Kourtesis"
+            }
+        ]
+    },
+    {
+        "title": "Suzan & Freek",
+        "url": "https://partyflock.nl/party/461547:Suzan-and-Freek",
+        "image": "https://partyflock.nl/images/party/461547_539x303_648533/Suzan-and-Freek.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T13:00:00+01:00",
+            "endDate": "2023-11-12T16:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Suzan & Freek",
+                "href": "/artist/107364:Suzan-and-Freek"
+            }
+        ]
+    },
+    {
+        "title": "The Bruceband",
+        "url": "https://partyflock.nl/party/458483:The-Bruceband",
+        "image": "https://partyflock.nl/images/party/458483_539x303_652777/The-Bruceband.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T16:00:00+01:00",
+            "endDate": "2023-11-12T15:59:59+01:00"
+        },
+        "place": {
+            "name": "Effenaar",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Bruceband",
+                "href": "/artist/143241:The-Bruceband"
+            }
+        ]
+    },
+    {
+        "title": "Thuishaven",
+        "url": "https://partyflock.nl/party/461554:Thuishaven",
+        "image": "https://partyflock.nl/images/party/461554_361x452_678639/Thuishaven.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T14:00:00+01:00",
+            "endDate": "2023-11-12T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Thuishaven",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AWEN",
+                "href": "/artist/165732:AWEN"
+            },
+            {
+                "name": "Culoe De Song",
+                "href": "/artist/52087:Culoe-De-Song"
+            },
+            {
+                "name": "Kitty Amor",
+                "href": "/artist/142075:Kitty-Amor"
+            },
+            {
+                "name": "Shimza",
+                "href": "/artist/80870:Shimza"
+            },
+            {
+                "name": "Soulroots",
+                "href": "/artist/155482:Soulroots"
+            },
+            {
+                "name": "Unruly Phoenix",
+                "href": "/artist/142174:Unruly-Phoenix"
+            }
+        ]
+    },
+    {
+        "title": "Tribute to CCR",
+        "url": "https://partyflock.nl/party/458832:Tribute-to-CCR",
+        "image": "https://partyflock.nl/images/party/458832_496x329_671297/Tribute-to-CCR.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T18:00:00+01:00",
+            "endDate": "2023-11-12T21:59:59+01:00"
+        },
+        "place": {
+            "name": "P79",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Fortunate Sons",
+                "href": "/artist/126000:The-Fortunate-Sons"
+            }
+        ]
+    },
+    {
+        "title": "Wild Romance · Shpritsz & Hitsz Tour",
+        "url": "https://partyflock.nl/party/452726:Wild-Romance",
+        "image": "https://partyflock.nl/images/party/452726_467x349_658907/Wild-Romance.jpg",
+        "startDate": {
+            "startDate": "2023-11-12T21:00:00+01:00",
+            "endDate": "2023-11-12T20:59:59+01:00"
+        },
+        "place": {
+            "name": "EM2",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Wild Romance",
+                "href": "/artist/108880:Wild-Romance"
+            }
+        ]
+    }
+]
