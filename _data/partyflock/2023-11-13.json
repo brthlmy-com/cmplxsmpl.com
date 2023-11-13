@@ -1,0 +1,163 @@
+[
+    {
+        "title": "25 jaar 013",
+        "url": "https://partyflock.nl/party/459627:25-jaar-013",
+        "image": "https://partyflock.nl/images/party/459627_303x539_673381/25-jaar-013.jpg",
+        "startDate": {
+            "startDate": "2023-11-13T19:15:00+01:00",
+            "endDate": "2023-11-13T19:14:59+01:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Coloray",
+                "href": "/artist/140600:Coloray"
+            },
+            {
+                "name": "De Staat",
+                "href": "/artist/96589:De-Staat"
+            },
+            {
+                "name": "Nusantara Beat",
+                "href": "/artist/155279:Nusantara-Beat"
+            },
+            {
+                "name": "Penny Roox",
+                "href": "/artist/166550:Penny-Roox"
+            },
+            {
+                "name": "Sef",
+                "href": "/artist/47977:Sef"
+            }
+        ]
+    },
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/462388:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/462388_539x303_681242/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-11-14T00:00:00+01:00",
+            "endDate": "2023-11-14T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Enei",
+                "href": "/artist/69000:Enei"
+            },
+            {
+                "name": "Loco",
+                "href": "/artist/28499:Loco"
+            },
+            {
+                "name": "Meja",
+                "href": "/artist/156218:Meja"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Sinistah",
+                "href": "/artist/1278:Sinistah"
+            },
+            {
+                "name": "Spud",
+                "href": "/artist/32559:Spud"
+            }
+        ]
+    },
+    {
+        "title": "Hard Mondays",
+        "url": "https://partyflock.nl/party/462947:Hard-Mondays",
+        "image": "https://partyflock.nl/images/party/462947_449x363_682339/Hard-Mondays.png",
+        "startDate": {
+            "startDate": "2023-11-14T00:00:00+01:00",
+            "endDate": "2023-11-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "N01ELSE",
+                "href": "/artist/168487:N01ELSE"
+            }
+        ]
+    },
+    {
+        "title": "Het Weekend",
+        "url": "https://partyflock.nl/party/462380:Het-Weekend",
+        "image": "https://partyflock.nl/images/party/462380_404x404_681215/Het-Weekend.jpg",
+        "startDate": {
+            "startDate": "2023-11-14T00:00:00+01:00",
+            "endDate": "2023-11-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "De School",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Level",
+        "url": "https://partyflock.nl/party/461231:Level",
+        "image": "https://partyflock.nl/images/party/461231_495x330_677951/Level.jpg",
+        "startDate": {
+            "startDate": "2023-11-13T21:30:00+01:00",
+            "endDate": "2023-11-13T21:29:59+01:00"
+        },
+        "place": {
+            "name": "Metropool",
+            "city": "Hengelo",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Level 42",
+                "href": "/artist/122767:Level-42"
+            }
+        ]
+    },
+    {
+        "title": "Monday",
+        "url": "https://partyflock.nl/party/462726:Monday",
+        "image": "https://partyflock.nl/images/party/462726_404x404_601557/Monday.jpg",
+        "startDate": {
+            "startDate": "2023-11-13T23:00:00+01:00",
+            "endDate": "2023-11-14T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/462903:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/462903_404x404_670347/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-11-14T00:00:00+01:00",
+            "endDate": "2023-11-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
