@@ -1,0 +1,136 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/462389:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/462389_404x404_681244/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-11-21T00:00:00+01:00",
+            "endDate": "2023-11-21T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Aries",
+                "href": "/artist/90956:Aries"
+            },
+            {
+                "name": "Iching",
+                "href": "/artist/140514:Iching"
+            },
+            {
+                "name": "Majestic",
+                "href": "/artist/7772:Majestic"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Roman",
+                "href": "/artist/167413:Roman"
+            }
+        ]
+    },
+    {
+        "title": "Hard Mondays",
+        "url": "https://partyflock.nl/party/462948:Hard-Mondays",
+        "image": "https://partyflock.nl/images/party/462948_449x363_682339/Hard-Mondays.png",
+        "startDate": {
+            "startDate": "2023-11-21T00:00:00+01:00",
+            "endDate": "2023-11-21T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BYØRN",
+                "href": "/artist/144125:BYORN"
+            },
+            {
+                "name": "N01ELSE",
+                "href": "/artist/168487:N01ELSE"
+            }
+        ]
+    },
+    {
+        "title": "Hard Mondays",
+        "url": "https://partyflock.nl/party/463232:Hard-Mondays",
+        "image": "https://partyflock.nl/images/party/463232_404x404_683063/Hard-Mondays.jpg",
+        "startDate": {
+            "startDate": "2023-11-21T00:00:00+01:00",
+            "endDate": "2023-11-21T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BYØRN",
+                "href": "/artist/144125:BYORN"
+            },
+            {
+                "name": "N01ELSE",
+                "href": "/artist/168487:N01ELSE"
+            }
+        ]
+    },
+    {
+        "title": "Monday",
+        "url": "https://partyflock.nl/party/462727:Monday",
+        "image": "https://partyflock.nl/images/party/462727_404x404_601557/Monday.jpg",
+        "startDate": {
+            "startDate": "2023-11-20T23:00:00+01:00",
+            "endDate": "2023-11-21T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Monday Breakbeat Sessions, special guest DJ Me-Shell",
+        "url": "https://partyflock.nl/party/463289:Monday-Breakbeat-Sessions-special-guest-DJ-Me-Shell",
+        "image": "https://partyflock.nl/images/party/463289_404x404_683203/Monday-Breakbeat-Sessions-special-guest-DJ-Me-Shell.png",
+        "startDate": {
+            "startDate": "2023-11-20T19:00:00+01:00",
+            "endDate": "2023-11-20T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Amsterdam Most Wanted Radio",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Me-Shell",
+                "href": "/artist/163482:Me-Shell"
+            }
+        ]
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/462904:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/462904_404x404_670347/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-11-21T00:00:00+01:00",
+            "endDate": "2023-11-21T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
