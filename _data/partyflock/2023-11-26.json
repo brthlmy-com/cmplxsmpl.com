@@ -1,0 +1,723 @@
+[
+    {
+        "title": "BCL",
+        "url": "https://partyflock.nl/party/463434:BCL",
+        "image": "https://partyflock.nl/images/party/463434_404x404_683593/BCL.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T13:00:00+01:00",
+            "endDate": "2023-11-26T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Leisurepark",
+            "city": "Echt",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Beppie Kraft",
+                "href": "/artist/96553:Beppie-Kraft"
+            },
+            {
+                "name": "Big Benny",
+                "href": "/artist/80019:Big-Benny"
+            },
+            {
+                "name": "Erwin",
+                "href": "/artist/111778:Erwin"
+            },
+            {
+                "name": "Knallermann",
+                "href": "/artist/122751:Knallermann"
+            },
+            {
+                "name": "Marleen Rutten",
+                "href": "/artist/96594:Marleen-Rutten"
+            },
+            {
+                "name": "Spik & Span",
+                "href": "/artist/96595:Spik-and-Span"
+            },
+            {
+                "name": "W-Dreej",
+                "href": "/artist/147543:W-Dreej"
+            }
+        ]
+    },
+    {
+        "title": "Davina Michelle · Heartbeat Clubtour",
+        "url": "https://partyflock.nl/party/463408:Davina-Michelle",
+        "image": "https://partyflock.nl/images/party/463408_539x303_683495/Davina-Michelle.png",
+        "startDate": {
+            "startDate": "2023-11-26T21:00:00+01:00",
+            "endDate": "2023-11-26T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Oosterpoort",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Davina Michelle",
+                "href": "/artist/116392:Davina-Michelle"
+            }
+        ]
+    },
+    {
+        "title": "Game Café",
+        "url": "https://partyflock.nl/party/461819:Game-Cafe",
+        "image": "https://partyflock.nl/images/party/461819_643x254_637009/Game-Cafe.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T17:00:00+01:00",
+            "endDate": "2023-11-26T16:59:59+01:00"
+        },
+        "place": {
+            "name": "De Nobel",
+            "city": "Leiden",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "STRMSTRNG",
+                "href": "/artist/167905:STRMSTRNG"
+            }
+        ]
+    },
+    {
+        "title": "Haaren op z'n Hollands",
+        "url": "https://partyflock.nl/party/459789:Haaren-op-zn-Hollands",
+        "image": "https://partyflock.nl/images/party/459789_404x404_674023/Haaren-op-zn-Hollands.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T16:00:00+01:00",
+            "endDate": "2023-11-26T23:29:59+01:00"
+        },
+        "place": {
+            "name": "The Dome",
+            "city": "Haaren",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Danny Panadero",
+                "href": "/artist/91591:Danny-Panadero"
+            },
+            {
+                "name": "Guus Doggen",
+                "href": "/artist/158801:Guus-Doggen"
+            },
+            {
+                "name": "Henk Wijngaard",
+                "href": "/artist/110473:Henk-Wijngaard"
+            },
+            {
+                "name": "Maksum & Danstan",
+                "href": "/artist/166728:Maksum-and-Danstan"
+            },
+            {
+                "name": "Robert Pater",
+                "href": "/artist/123298:Robert-Pater"
+            },
+            {
+                "name": "Thom Craane",
+                "href": "/artist/130457:Thom-Craane"
+            },
+            {
+                "name": "Tommy Santo",
+                "href": "/artist/60954:Tommy-Santo"
+            }
+        ]
+    },
+    {
+        "title": "Het Amsterdamse Winterterras · Weekend 1",
+        "url": "https://partyflock.nl/party/460934:Het-Amsterdamse-Winterterras",
+        "image": "https://partyflock.nl/images/party/460934_404x404_677127/Het-Amsterdamse-Winterterras.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T14:00:00+01:00",
+            "endDate": "2023-11-26T22:59:59+01:00"
+        },
+        "place": {
+            "name": "Gashouder",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hitjesdag #215",
+        "url": "https://partyflock.nl/party/463553:Hitjesdag",
+        "image": "https://partyflock.nl/images/party/463553_404x404_683966/Hitjesdag.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T23:00:00+01:00",
+            "endDate": "2023-11-27T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Nassau",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Ilse DeLange",
+        "url": "https://partyflock.nl/party/447712:Ilse-DeLange",
+        "image": "https://partyflock.nl/images/party/447712_539x303_646799/Ilse-DeLange.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T20:30:00+01:00",
+            "endDate": "2023-11-26T20:29:59+01:00"
+        },
+        "place": {
+            "name": "Effenaar",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ilse DeLange",
+                "href": "/artist/80309:Ilse-DeLange"
+            }
+        ]
+    },
+    {
+        "title": "Innercore · United We Stand",
+        "url": "https://partyflock.nl/party/461283:Innercore",
+        "image": "https://partyflock.nl/images/party/461283_558x292_683312/Innercore.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T14:00:00+01:00",
+            "endDate": "2023-11-27T02:59:59+01:00"
+        },
+        "place": {
+            "name": "The Nex",
+            "city": "Castricum",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Angernoizer",
+                "href": "/artist/8384:Angernoizer"
+            },
+            {
+                "name": "Bass-D",
+                "href": "/artist/5570:Bass-D"
+            },
+            {
+                "name": "Chosen Few",
+                "href": "/artist/566:Chosen-Few"
+            },
+            {
+                "name": "Chuck One",
+                "href": "/artist/83772:Chuck-One"
+            },
+            {
+                "name": "D-Hunter & Dryade",
+                "href": "/artist/106925:D-Hunter-and-Dryade"
+            },
+            {
+                "name": "D'ort",
+                "href": "/artist/125830:Dort"
+            },
+            {
+                "name": "Da Mouth of Madness",
+                "href": "/artist/3144:Da-Mouth-of-Madness"
+            },
+            {
+                "name": "Distortion",
+                "href": "/artist/32:Distortion"
+            },
+            {
+                "name": "Doris",
+                "href": "/artist/137696:Doris"
+            },
+            {
+                "name": "Dr. Peacock",
+                "href": "/artist/42257:Dr-Peacock"
+            },
+            {
+                "name": "Estasia",
+                "href": "/artist/93493:Estasia"
+            },
+            {
+                "name": "Hellcreator",
+                "href": "/artist/64124:Hellcreator"
+            },
+            {
+                "name": "Irradiate",
+                "href": "/artist/125140:Irradiate"
+            },
+            {
+                "name": "KAGE",
+                "href": "/artist/95476:KAGE"
+            },
+            {
+                "name": "Lano",
+                "href": "/artist/17360:Lano"
+            },
+            {
+                "name": "Major Conspiracy",
+                "href": "/artist/110109:Major-Conspiracy"
+            },
+            {
+                "name": "Mr. Ivex",
+                "href": "/artist/66857:Mr-Ivex"
+            },
+            {
+                "name": "Nightshift",
+                "href": "/artist/142420:Nightshift"
+            },
+            {
+                "name": "Noisekick",
+                "href": "/artist/4946:Noisekick"
+            },
+            {
+                "name": "Patriot",
+                "href": "/artist/33734:Patriot"
+            },
+            {
+                "name": "Pavo",
+                "href": "/artist/3:Pavo"
+            },
+            {
+                "name": "Preceptor",
+                "href": "/artist/157003:Preceptor"
+            },
+            {
+                "name": "Repix",
+                "href": "/artist/60398:Repix"
+            },
+            {
+                "name": "Resurrector",
+                "href": "/artist/159140:Resurrector"
+            },
+            {
+                "name": "Sefa",
+                "href": "/artist/95254:Sefa"
+            },
+            {
+                "name": "Sprinky",
+                "href": "/artist/66027:Sprinky"
+            },
+            {
+                "name": "STV",
+                "href": "/artist/105391:STV"
+            },
+            {
+                "name": "Super Trash Bros",
+                "href": "/artist/106180:Super-Trash-Bros"
+            },
+            {
+                "name": "System Overload",
+                "href": "/artist/54882:System-Overload"
+            },
+            {
+                "name": "The Darkraver",
+                "href": "/artist/40:The-Darkraver"
+            },
+            {
+                "name": "Xqruciator",
+                "href": "/artist/41764:Xqruciator"
+            }
+        ]
+    },
+    {
+        "title": "Juice",
+        "url": "https://partyflock.nl/party/462922:Juice",
+        "image": "https://partyflock.nl/images/party/462922_655x249_629986/Juice.png",
+        "startDate": {
+            "startDate": "2023-11-27T00:00:00+01:00",
+            "endDate": "2023-11-27T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Casanova",
+                "href": "/artist/59438:Casanova"
+            },
+            {
+                "name": "Della",
+                "href": "/artist/86145:Della"
+            },
+            {
+                "name": "Fella",
+                "href": "/artist/116155:Fella"
+            },
+            {
+                "name": "Hightower",
+                "href": "/artist/86428:Hightower"
+            },
+            {
+                "name": "Irwan",
+                "href": "/artist/7286:Irwan"
+            },
+            {
+                "name": "Jay Junior",
+                "href": "/artist/85980:Jay-Junior"
+            },
+            {
+                "name": "Kimberlee Ramirez",
+                "href": "/artist/61262:Kimberlee-Ramirez"
+            }
+        ]
+    },
+    {
+        "title": "Nielson",
+        "url": "https://partyflock.nl/party/461799:Nielson",
+        "image": "https://partyflock.nl/images/party/461799_567x288_679521/Nielson.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T20:30:00+01:00",
+            "endDate": "2023-11-26T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Maassilo",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Nielson",
+                "href": "/artist/75825:Nielson"
+            }
+        ]
+    },
+    {
+        "title": "OMG It's Sunday",
+        "url": "https://partyflock.nl/party/462469:OMG-Its-Sunday",
+        "image": "https://partyflock.nl/images/party/462469_404x404_675272/OMG-Its-Sunday.jpg",
+        "startDate": {
+            "startDate": "2023-11-27T00:30:00+01:00",
+            "endDate": "2023-11-27T04:59:59+01:00"
+        },
+        "place": {
+            "name": "AIR",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Ploegefist",
+        "url": "https://partyflock.nl/party/462713:Ploegefist",
+        "image": "https://partyflock.nl/images/party/462713_404x404_681913/Ploegefist.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T16:00:00+01:00",
+            "endDate": "2023-11-26T22:59:59+01:00"
+        },
+        "place": {
+            "name": "Evenemententerrein De Rips",
+            "city": "De Rips",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Tribute To The Cats Band",
+                "href": "/artist/168409:Tribute-To-The-Cats-Band"
+            }
+        ]
+    },
+    {
+        "title": "REBELLiON · The Eclipse",
+        "url": "https://partyflock.nl/party/454066:REBELLiON",
+        "image": "https://partyflock.nl/images/party/454066_511x319_670242/REBELLiON.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T13:00:00+01:00",
+            "endDate": "2023-11-26T23:59:59+01:00"
+        },
+        "place": {
+            "name": "The Dome",
+            "city": "Haaren",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Act of Rage",
+                "href": "/artist/81084:Act-of-Rage"
+            },
+            {
+                "name": "Anderex",
+                "href": "/artist/108938:Anderex"
+            },
+            {
+                "name": "B-Front",
+                "href": "/artist/17832:B-Front"
+            },
+            {
+                "name": "Bloodlust",
+                "href": "/artist/122564:Bloodlust"
+            },
+            {
+                "name": "Chapter V",
+                "href": "/artist/144523:Chapter-V"
+            },
+            {
+                "name": "Cryex",
+                "href": "/artist/101194:Cryex"
+            },
+            {
+                "name": "Deadly Guns",
+                "href": "/artist/98171:Deadly-Guns"
+            },
+            {
+                "name": "DEEZL",
+                "href": "/artist/113032:DEEZL"
+            },
+            {
+                "name": "Deluzion",
+                "href": "/artist/91016:Deluzion"
+            },
+            {
+                "name": "Dual Damage",
+                "href": "/artist/147130:Dual-Damage"
+            },
+            {
+                "name": "E-Force",
+                "href": "/artist/61261:E-Force"
+            },
+            {
+                "name": "Element",
+                "href": "/artist/118836:Element"
+            },
+            {
+                "name": "FLO",
+                "href": "/artist/120600:FLO"
+            },
+            {
+                "name": "Gezellige Uptempo",
+                "href": "/artist/158306:Gezellige-Uptempo"
+            },
+            {
+                "name": "Griever",
+                "href": "/artist/120256:Griever"
+            },
+            {
+                "name": "Killshot",
+                "href": "/artist/98231:Killshot"
+            },
+            {
+                "name": "Krowdexx",
+                "href": "/artist/95295:Krowdexx"
+            },
+            {
+                "name": "Livid",
+                "href": "/artist/71476:Livid"
+            },
+            {
+                "name": "Major Conspiracy",
+                "href": "/artist/110109:Major-Conspiracy"
+            },
+            {
+                "name": "Mish",
+                "href": "/artist/126680:Mish"
+            },
+            {
+                "name": "Mutilator",
+                "href": "/artist/125568:Mutilator"
+            },
+            {
+                "name": "Omnya",
+                "href": "/artist/143064:Omnya"
+            },
+            {
+                "name": "Rebelion",
+                "href": "/artist/83696:Rebelion"
+            },
+            {
+                "name": "Regain",
+                "href": "/artist/76105:Regain"
+            },
+            {
+                "name": "Rejecta",
+                "href": "/artist/106148:Rejecta"
+            },
+            {
+                "name": "Releazer",
+                "href": "/artist/139392:Releazer"
+            },
+            {
+                "name": "Repeller",
+                "href": "/artist/73702:Repeller"
+            },
+            {
+                "name": "Resolute",
+                "href": "/artist/139974:Resolute"
+            },
+            {
+                "name": "Riot Shift",
+                "href": "/artist/98618:Riot-Shift"
+            },
+            {
+                "name": "Rooler",
+                "href": "/artist/90366:Rooler"
+            },
+            {
+                "name": "So Juice",
+                "href": "/artist/136747:So-Juice"
+            },
+            {
+                "name": "Spectre",
+                "href": "/artist/74102:Spectre"
+            },
+            {
+                "name": "Uncaged",
+                "href": "/artist/102522:Uncaged"
+            },
+            {
+                "name": "Unproven",
+                "href": "/artist/88754:Unproven"
+            },
+            {
+                "name": "Voidax",
+                "href": "/artist/84977:Voidax"
+            }
+        ]
+    },
+    {
+        "title": "Sundance · Let's pretend it's summer",
+        "url": "https://partyflock.nl/party/463550:Sundance",
+        "image": "https://partyflock.nl/images/party/463550_592x237_683959/Sundance.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T16:00:00+01:00",
+            "endDate": "2023-11-26T23:29:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MIKKA",
+                "href": "/artist/148669:MIKKA"
+            }
+        ]
+    },
+    {
+        "title": "Thuishaven · Filth on Acid",
+        "url": "https://partyflock.nl/party/462629:Thuishaven",
+        "image": "https://partyflock.nl/images/party/462629_361x452_683029/Thuishaven.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T14:00:00+01:00",
+            "endDate": "2023-11-26T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Thuishaven",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AERT",
+                "href": "/artist/86314:AERT"
+            },
+            {
+                "name": "Christian Smith",
+                "href": "/artist/84:Christian-Smith"
+            },
+            {
+                "name": "Kiki Solvej",
+                "href": "/artist/141590:Kiki-Solvej"
+            },
+            {
+                "name": "Mha Iri",
+                "href": "/artist/146103:Mha-Iri"
+            },
+            {
+                "name": "Noneoftheabove",
+                "href": "/artist/89808:Noneoftheabove"
+            },
+            {
+                "name": "Reinier Zonneveld",
+                "href": "/artist/70848:Reinier-Zonneveld"
+            },
+            {
+                "name": "Rush",
+                "href": "/artist/558:Rush"
+            },
+            {
+                "name": "VE/RA",
+                "href": "/artist/156833:VE-RA"
+            },
+            {
+                "name": "Zeltak",
+                "href": "/artist/156263:Zeltak"
+            }
+        ]
+    },
+    {
+        "title": "Tributeland",
+        "url": "https://partyflock.nl/party/444602:Tributeland",
+        "image": "https://partyflock.nl/images/party/444602_361x452_681317/Tributeland.jpg",
+        "startDate": {
+            "startDate": "2023-11-26T14:00:00+01:00",
+            "endDate": "2023-11-26T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Klokgebouw",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "@sheeran Tribute",
+                "href": "/artist/167541:asheeran-Tribute"
+            },
+            {
+                "name": "ABBA Revival",
+                "href": "/artist/165601:ABBA-Revival"
+            },
+            {
+                "name": "ACinDC",
+                "href": "/artist/120852:ACinDC"
+            },
+            {
+                "name": "Bad Medicine",
+                "href": "/artist/124338:Bad-Medicine"
+            },
+            {
+                "name": "Californicated",
+                "href": "/artist/158652:Californicated"
+            },
+            {
+                "name": "Coldplace",
+                "href": "/artist/168319:Coldplace"
+            },
+            {
+                "name": "Crazy Little Things",
+                "href": "/artist/114364:Crazy-Little-Things"
+            },
+            {
+                "name": "Delicious Surprise",
+                "href": "/artist/145252:Delicious-Surprise"
+            },
+            {
+                "name": "HELP!",
+                "href": "/artist/142127:HELP"
+            },
+            {
+                "name": "Imitallica",
+                "href": "/artist/110694:Imitallica"
+            },
+            {
+                "name": "In Your Honor",
+                "href": "/artist/124550:In-Your-Honor"
+            },
+            {
+                "name": "Inxs Xperience",
+                "href": "/artist/168318:Inxs-Xperience"
+            },
+            {
+                "name": "Just Like Elton",
+                "href": "/artist/159067:Just-Like-Elton"
+            },
+            {
+                "name": "Limp Business",
+                "href": "/artist/149740:Limp-Business"
+            },
+            {
+                "name": "Musest",
+                "href": "/artist/119824:Musest"
+            }
+        ]
+    }
+]
