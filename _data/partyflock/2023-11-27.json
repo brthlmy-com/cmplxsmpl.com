@@ -1,0 +1,127 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/462390:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/462390_404x404_681244/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-11-28T00:00:00+01:00",
+            "endDate": "2023-11-28T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "Digital",
+                "href": "/artist/98514:Digital"
+            },
+            {
+                "name": "Karimooo",
+                "href": "/artist/59433:Karimooo"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Nixus",
+                "href": "/artist/87414:Nixus"
+            }
+        ]
+    },
+    {
+        "title": "Hard Mondays",
+        "url": "https://partyflock.nl/party/462949:Hard-Mondays",
+        "image": "https://partyflock.nl/images/party/462949_449x363_682339/Hard-Mondays.png",
+        "startDate": {
+            "startDate": "2023-11-28T00:00:00+01:00",
+            "endDate": "2023-11-28T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "N01ELSE",
+                "href": "/artist/168487:N01ELSE"
+            }
+        ]
+    },
+    {
+        "title": "Jungle Fever",
+        "url": "https://partyflock.nl/party/388396:Jungle-Fever",
+        "image": "https://partyflock.nl/images/party/388396_495x330_545585/Jungle-Fever.jpg",
+        "startDate": {
+            "startDate": "2023-11-27T21:00:00+01:00",
+            "endDate": "2023-11-28T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Evenemententerrein KPJ Eede",
+            "city": "Eede",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Monday",
+        "url": "https://partyflock.nl/party/462728:Monday",
+        "image": "https://partyflock.nl/images/party/462728_404x404_601557/Monday.jpg",
+        "startDate": {
+            "startDate": "2023-11-27T23:00:00+01:00",
+            "endDate": "2023-11-28T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Monday Breakbeat Sessions",
+        "url": "https://partyflock.nl/party/463520:Monday-Breakbeat-Sessions",
+        "image": "https://partyflock.nl/images/party/463520_404x404_683864/Monday-Breakbeat-Sessions.png",
+        "startDate": {
+            "startDate": "2023-11-27T19:00:00+01:00",
+            "endDate": "2023-11-27T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Amsterdam Most Wanted Radio",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Etienne",
+                "href": "/artist/9466:Etienne"
+            },
+            {
+                "name": "Lie Dope",
+                "href": "/artist/114340:Lie-Dope"
+            }
+        ]
+    },
+    {
+        "title": "Mondays Are Epic",
+        "url": "https://partyflock.nl/party/462905:Mondays-Are-Epic",
+        "image": "https://partyflock.nl/images/party/462905_404x404_670347/Mondays-Are-Epic.jpg",
+        "startDate": {
+            "startDate": "2023-11-28T00:00:00+01:00",
+            "endDate": "2023-11-28T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
