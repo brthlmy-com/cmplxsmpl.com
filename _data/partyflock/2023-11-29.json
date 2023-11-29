@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Hotspot",
+        "url": "https://partyflock.nl/party/462909:Hotspot",
+        "image": "https://partyflock.nl/images/party/462909_540x302_647493/Hotspot.jpg",
+        "startDate": {
+            "startDate": "2023-11-30T00:00:00+01:00",
+            "endDate": "2023-11-30T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Matteo Myderwyk",
+        "url": "https://partyflock.nl/party/452088:Matteo-Myderwyk",
+        "image": "https://partyflock.nl/images/party/452088_560x291_657322/Matteo-Myderwyk.jpg",
+        "startDate": {
+            "startDate": "2023-11-29T20:30:00+01:00",
+            "endDate": "2023-11-29T23:29:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Matteo Myderwyk",
+                "href": "/artist/110079:Matteo-Myderwyk"
+            }
+        ]
+    },
+    {
+        "title": "Raving Charlie",
+        "url": "https://partyflock.nl/party/463112:Raving-Charlie",
+        "image": "https://partyflock.nl/images/party/463112_404x404_682719/Raving-Charlie.jpg",
+        "startDate": {
+            "startDate": "2023-11-30T00:00:00+01:00",
+            "endDate": "2023-11-30T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "The Opposites",
+        "url": "https://partyflock.nl/party/463461:The-Opposites",
+        "image": "https://partyflock.nl/images/party/463461_539x303_683639/The-Opposites.png",
+        "startDate": {
+            "startDate": "2023-11-29T20:00:00+01:00",
+            "endDate": "2023-11-29T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Annabel",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Opposites",
+                "href": "/artist/26201:The-Opposites"
+            }
+        ]
+    },
+    {
+        "title": "The Prodigy · Army of the Ants Tour",
+        "url": "https://partyflock.nl/party/456376:The-Prodigy",
+        "image": "https://partyflock.nl/images/party/456376_404x404_666329/The-Prodigy.jpg",
+        "startDate": {
+            "startDate": "2023-11-29T21:00:00+01:00",
+            "endDate": "2023-11-29T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Prodigy",
+                "href": "/artist/10325:The-Prodigy"
+            }
+        ]
+    }
+]
