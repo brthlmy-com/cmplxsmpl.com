@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/463913:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/463913_539x303_684953/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-12-05T00:00:00+01:00",
+            "endDate": "2023-12-05T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dieselboy",
+                "href": "/artist/1263:Dieselboy"
+            },
+            {
+                "name": "Iching",
+                "href": "/artist/140514:Iching"
+            },
+            {
+                "name": "INSOM",
+                "href": "/artist/66258:INSOM"
+            },
+            {
+                "name": "Majestic",
+                "href": "/artist/7772:Majestic"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "O.D.DnB",
+                "href": "/artist/169015:O-D-DnB"
+            },
+            {
+                "name": "Sinistah",
+                "href": "/artist/1278:Sinistah"
+            }
+        ]
+    },
+    {
+        "title": "Monday",
+        "url": "https://partyflock.nl/party/462729:Monday",
+        "image": "https://partyflock.nl/images/party/462729_404x404_601557/Monday.jpg",
+        "startDate": {
+            "startDate": "2023-12-04T23:00:00+01:00",
+            "endDate": "2023-12-05T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Stick To Your Guns · 10 Year Anniversary of Diamond",
+        "url": "https://partyflock.nl/party/456872:Stick-To-Your-Guns",
+        "image": "https://partyflock.nl/images/party/456872_560x291_665948/Stick-To-Your-Guns.jpg",
+        "startDate": {
+            "startDate": "2023-12-04T19:30:00+01:00",
+            "endDate": "2023-12-04T23:44:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Stick To Your Guns",
+                "href": "/artist/110937:Stick-To-Your-Guns"
+            }
+        ]
+    }
+]
