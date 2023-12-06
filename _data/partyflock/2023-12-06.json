@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Danny Vera",
+        "url": "https://partyflock.nl/party/457823:Danny-Vera",
+        "image": "https://partyflock.nl/images/party/457823_560x291_668567/Danny-Vera.jpg",
+        "startDate": {
+            "startDate": "2023-12-06T20:00:00+01:00",
+            "endDate": "2023-12-06T19:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Danny Vera",
+                "href": "/artist/94034:Danny-Vera"
+            }
+        ]
+    },
+    {
+        "title": "Raving Charlie",
+        "url": "https://partyflock.nl/party/463113:Raving-Charlie",
+        "image": "https://partyflock.nl/images/party/463113_404x404_682719/Raving-Charlie.jpg",
+        "startDate": {
+            "startDate": "2023-12-07T00:00:00+01:00",
+            "endDate": "2023-12-07T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
