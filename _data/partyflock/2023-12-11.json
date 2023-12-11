@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/463910:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/463910_539x303_684953/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2023-12-12T00:00:00+01:00",
+            "endDate": "2023-12-12T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "AMA",
+                "href": "/artist/134305:AMA"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Nixus",
+                "href": "/artist/87414:Nixus"
+            },
+            {
+                "name": "Yorobi",
+                "href": "/artist/23454:Yorobi"
+            }
+        ]
+    }
+]
