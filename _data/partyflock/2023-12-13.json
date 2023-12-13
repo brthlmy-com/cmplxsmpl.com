@@ -1,0 +1,136 @@
+[
+    {
+        "title": "blackwave",
+        "url": "https://partyflock.nl/party/458544:blackwave",
+        "image": "https://partyflock.nl/images/party/458544_558x292_670389/blackwave.jpg",
+        "startDate": {
+            "startDate": "2023-12-13T20:30:00+01:00",
+            "endDate": "2023-12-13T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Doornroosje",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "blackwave.",
+                "href": "/artist/109905:blackwave"
+            }
+        ]
+    },
+    {
+        "title": "Dark Disco · Gibbo B-Day Bash",
+        "url": "https://partyflock.nl/party/464388:Dark-Disco",
+        "image": "https://partyflock.nl/images/party/464388_412x396_686012/Dark-Disco.png",
+        "startDate": {
+            "startDate": "2023-12-14T00:00:00+01:00",
+            "endDate": "2023-12-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gibbo",
+                "href": "/artist/65258:Gibbo"
+            },
+            {
+                "name": "Shylodelic",
+                "href": "/artist/144729:Shylodelic"
+            }
+        ]
+    },
+    {
+        "title": "Fresku",
+        "url": "https://partyflock.nl/party/463931:Fresku",
+        "image": "https://partyflock.nl/images/party/463931_626x261_684993/Fresku.jpg",
+        "startDate": {
+            "startDate": "2023-12-13T20:30:00+01:00",
+            "endDate": "2023-12-13T20:29:59+01:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Fresku",
+                "href": "/artist/53057:Fresku"
+            }
+        ]
+    },
+    {
+        "title": "Hotspot",
+        "url": "https://partyflock.nl/party/464276:Hotspot",
+        "image": "https://partyflock.nl/images/party/464276_540x302_647493/Hotspot.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T00:00:00+01:00",
+            "endDate": "2023-12-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Racoon",
+        "url": "https://partyflock.nl/party/452085:Racoon",
+        "image": "https://partyflock.nl/images/party/452085_560x291_657319/Racoon.jpg",
+        "startDate": {
+            "startDate": "2023-12-13T21:15:00+01:00",
+            "endDate": "2023-12-13T23:29:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Racoon",
+                "href": "/artist/94656:Racoon"
+            }
+        ]
+    },
+    {
+        "title": "Raving Charlie",
+        "url": "https://partyflock.nl/party/463114:Raving-Charlie",
+        "image": "https://partyflock.nl/images/party/463114_404x404_682719/Raving-Charlie.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T00:00:00+01:00",
+            "endDate": "2023-12-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "The Opposites",
+        "url": "https://partyflock.nl/party/459559:The-Opposites",
+        "image": "https://partyflock.nl/images/party/459559_560x291_673301/The-Opposites.jpg",
+        "startDate": {
+            "startDate": "2023-12-13T20:00:00+01:00",
+            "endDate": "2023-12-13T23:29:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Opposites",
+                "href": "/artist/26201:The-Opposites"
+            }
+        ]
+    }
+]
