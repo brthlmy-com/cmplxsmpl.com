@@ -1,0 +1,457 @@
+[
+    {
+        "title": "Acda en de Munnik · De Reünie",
+        "url": "https://partyflock.nl/party/450537:Acda-en-de-Munnik",
+        "image": "https://partyflock.nl/images/party/450537_361x452_653876/Acda-en-de-Munnik.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T21:00:00+01:00",
+            "endDate": "2023-12-14T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Amsterdam Techno Sessions",
+        "url": "https://partyflock.nl/party/464389:Amsterdam-Techno-Sessions",
+        "image": "https://partyflock.nl/images/party/464389_404x404_686013/Amsterdam-Techno-Sessions.png",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Marco Ramos",
+                "href": "/artist/125617:Marco-Ramos"
+            }
+        ]
+    },
+    {
+        "title": "BAMBÚ",
+        "url": "https://partyflock.nl/party/464009:BAMBU",
+        "image": "https://partyflock.nl/images/party/464009_404x404_595705/BAMBU.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "EAST · Techno Collective",
+        "url": "https://partyflock.nl/party/464089:EAST",
+        "image": "https://partyflock.nl/images/party/464089_558x292_685345/EAST.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Anthity",
+                "href": "/artist/67485:Anthity"
+            },
+            {
+                "name": "Mindaniel",
+                "href": "/artist/169096:Mindaniel"
+            },
+            {
+                "name": "The Dutch New Yorker",
+                "href": "/artist/166192:The-Dutch-New-Yorker"
+            },
+            {
+                "name": "Vidya",
+                "href": "/artist/67486:Vidya"
+            }
+        ]
+    },
+    {
+        "title": "Edwin Evers band",
+        "url": "https://partyflock.nl/party/462346:Edwin-Evers-band",
+        "image": "https://partyflock.nl/images/party/462346_404x404_681163/Edwin-Evers-band.png",
+        "startDate": {
+            "startDate": "2023-12-14T21:30:00+01:00",
+            "endDate": "2023-12-14T21:29:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Edwin Evers Band",
+                "href": "/artist/80314:Edwin-Evers-Band"
+            }
+        ]
+    },
+    {
+        "title": "Freaky Thursday",
+        "url": "https://partyflock.nl/party/463593:Freaky-Thursday",
+        "image": "https://partyflock.nl/images/party/463593_495x330_654424/Freaky-Thursday.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/464453:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/464453_558x292_686160/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Werfkelder",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hitjesdag #99",
+        "url": "https://partyflock.nl/party/464285:Hitjesdag",
+        "image": "https://partyflock.nl/images/party/464285_404x404_685793/Hitjesdag.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T23:00:00+01:00",
+            "endDate": "2023-12-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Polly Maggoo",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Karsu",
+        "url": "https://partyflock.nl/party/448336:Karsu",
+        "image": "https://partyflock.nl/images/party/448336_560x291_648213/Karsu.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T20:00:00+01:00",
+            "endDate": "2023-12-14T23:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Karsu",
+                "href": "/artist/143576:Karsu"
+            }
+        ]
+    },
+    {
+        "title": "Latin Thursdays",
+        "url": "https://partyflock.nl/party/464250:Latin-Thursdays",
+        "image": "https://partyflock.nl/images/party/464250_558x292_680388/Latin-Thursdays.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T21:00:00+01:00",
+            "endDate": "2023-12-14T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Mavis",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Lizzy op Donderdag",
+        "url": "https://partyflock.nl/party/464056:Lizzy-op-Donderdag",
+        "image": "https://partyflock.nl/images/party/464056_320x320_685249/Lizzy-op-Donderdag.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-14T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Rolluik",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mimi",
+        "url": "https://partyflock.nl/party/463346:Mimi",
+        "image": "https://partyflock.nl/images/party/463346_404x404_630188/Mimi.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T23:00:00+01:00",
+            "endDate": "2023-12-15T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Chin Chin Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Mémoire",
+        "url": "https://partyflock.nl/party/463076:Memoire",
+        "image": "https://partyflock.nl/images/party/463076_361x452_682625/Memoire.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Jimmy Woo",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Pene Corrida",
+        "url": "https://partyflock.nl/party/457902:Pene-Corrida",
+        "image": "https://partyflock.nl/images/party/457902_404x404_668760/Pene-Corrida.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T21:00:00+01:00",
+            "endDate": "2023-12-14T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Fluor",
+            "city": "Amersfoort",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Pene Corrida",
+                "href": "/artist/111421:Pene-Corrida"
+            }
+        ]
+    },
+    {
+        "title": "Rolf Sanchez",
+        "url": "https://partyflock.nl/party/446259:Rolf-Sanchez",
+        "image": "https://partyflock.nl/images/party/446259_539x303_643594/Rolf-Sanchez.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T21:00:00+01:00",
+            "endDate": "2023-12-14T20:59:59+01:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Rolf Sanchez",
+                "href": "/artist/77186:Rolf-Sanchez"
+            }
+        ]
+    },
+    {
+        "title": "Soepeltjes",
+        "url": "https://partyflock.nl/party/464464:Soepeltjes",
+        "image": "https://partyflock.nl/images/party/464464_344x474_686171/Soepeltjes.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T23:00:00+01:00",
+            "endDate": "2023-12-15T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Ruig",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dolore",
+                "href": "/artist/128442:Dolore"
+            },
+            {
+                "name": "Maico Eloy",
+                "href": "/artist/93160:Maico-Eloy"
+            },
+            {
+                "name": "WeDamnz",
+                "href": "/artist/92349:WeDamnz"
+            }
+        ]
+    },
+    {
+        "title": "Soundwaves",
+        "url": "https://partyflock.nl/party/464299:Soundwaves",
+        "image": "https://partyflock.nl/images/party/464299_404x404_685823/Soundwaves.png",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Bitterzoet",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Sticks",
+        "url": "https://partyflock.nl/party/463460:Sticks",
+        "image": "https://partyflock.nl/images/party/463460_539x303_683638/Sticks.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T20:00:00+01:00",
+            "endDate": "2023-12-14T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Annabel",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sticks",
+                "href": "/artist/44738:Sticks"
+            }
+        ]
+    },
+    {
+        "title": "Super Social",
+        "url": "https://partyflock.nl/party/463647:Super-Social",
+        "startDate": {
+            "startDate": "2023-12-14T23:00:00+01:00",
+            "endDate": "2023-12-15T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Elexsandom",
+                "href": "/artist/168854:Elexsandom"
+            }
+        ]
+    },
+    {
+        "title": "Top2000 in Concert",
+        "url": "https://partyflock.nl/party/446391:Top2000-in-Concert",
+        "image": "https://partyflock.nl/images/party/446391_495x330_643801/Top2000-in-Concert.jpg",
+        "startDate": {
+            "startDate": "2023-12-14T20:15:00+01:00",
+            "endDate": "2023-12-15T01:29:59+01:00"
+        },
+        "place": {
+            "name": "Podium Victorie",
+            "city": "Alkmaar",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Twist On Thursday",
+        "url": "https://partyflock.nl/party/463374:Twist-On-Thursday",
+        "image": "https://partyflock.nl/images/party/463374_404x404_681416/Twist-On-Thursday.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:29:59+01:00"
+        },
+        "place": {
+            "name": "AIR",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Video",
+        "url": "https://partyflock.nl/party/464260:Video",
+        "image": "https://partyflock.nl/images/party/464260_404x404_628945/Video.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Djennah",
+                "href": "/artist/78502:Djennah"
+            },
+            {
+                "name": "Fella",
+                "href": "/artist/116155:Fella"
+            },
+            {
+                "name": "Lotte",
+                "href": "/artist/140258:Lotte"
+            },
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Otis Hajo",
+                "href": "/artist/154967:Otis-Hajo"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            },
+            {
+                "name": "Taquito y Tres",
+                "href": "/artist/86426:Taquito-y-Tres"
+            },
+            {
+                "name": "ThorMoss",
+                "href": "/artist/105084:ThorMoss"
+            }
+        ]
+    },
+    {
+        "title": "Young Rich & Balkan",
+        "url": "https://partyflock.nl/party/464177:Young-Rich-and-Balkan",
+        "image": "https://partyflock.nl/images/party/464177_339x481_685543/Young-Rich-and-Balkan.jpg",
+        "startDate": {
+            "startDate": "2023-12-15T00:00:00+01:00",
+            "endDate": "2023-12-15T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Villa Thalia",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dusi J",
+                "href": "/artist/169141:Dusi-J"
+            },
+            {
+                "name": "Josip",
+                "href": "/artist/33644:Josip"
+            },
+            {
+                "name": "Todor",
+                "href": "/artist/169140:Todor"
+            }
+        ]
+    }
+]
