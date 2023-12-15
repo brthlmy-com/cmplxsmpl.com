@@ -1,0 +1,1421 @@
+[
+    {
+        "title": "„Höhner Weihnacht 2023“",
+        "url": "/konzert/mundart/event/5f18599a3d65a16a7545874c.6333158f6e56da0cce2ab83f.hoehner-weihnacht-2023",
+        "startDate": {
+            "startDate": "2023-12-15T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Eurogress Aachen",
+        "categorySlugs": [
+            "konzert",
+            "mundart"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad6b84cf8a77d6cda47d5d9905548161.jpg?v=1"
+    },
+    {
+        "title": "„Musik zum Advent“",
+        "url": "/konzert/spirituelle-musik/event/634f19a434fd8c06a673b894.634f1a7fda427464c50ed2a3.musik-zum-advent",
+        "startDate": {
+            "startDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Großkölnstraße, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "spirituelle-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5f87905dde2f3ff11cc11b9a62ed027c.jpg?v=3"
+    },
+    {
+        "title": "Mostly Autumn",
+        "url": "/konzert/rock/event/5f1859993d65a16a754585e2.636f8c8d00ac8e1a343c90f2.mostly-autumn",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/082bb5930f7440fd0473d745844a93d0.jpeg?v=1"
+    },
+    {
+        "title": "Weihnachtskonzert",
+        "url": "/konzert/klassische-musik/event/5f18599e3d65a16a75458c35.6537d77fb06d2231a41691c3.weihnachtskonzert",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "De Kopermolen, Vaals",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/45519cbfdac802edf1b731e1239a5541.jpg?v=2"
+    },
+    {
+        "title": "Die Beatles, das Universum und der Rest",
+        "url": "/konzert/pop/event/5f1859a73d65a16a75459710.657044ed3eff6e1c8b065532.die-beatles-das-universum-und-der-rest",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "konzert",
+            "pop"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5524285f6ac87e9f0129a7853e336d6e.jpg?v=1"
+    },
+    {
+        "title": "„Studio 77“",
+        "url": "/party/tanzen/soul-und-rnb/event/5f18599b3d65a16a754588d3.63e786ff99ec9227186eaf34.studio-77",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Outbaix, Übach-Palenberg",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "soul-und-rnb"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db3b1045802332ffd55f067ce8707e0a.jpeg?v=1"
+    },
+    {
+        "title": "„Sound Schwestern Vol. 5“",
+        "url": "/party/tanzen/electro/event/5f1859a23d65a16a754590ba.64df244ecce143219e5c0722.sound-schwestern-vol-5",
+        "startDate": {
+            "startDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "electro"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac320c774fc5a5b27d6b1afc93c8f84b.jpeg?v=1"
+    },
+    {
+        "title": "„Die späte Lotte tanzt“",
+        "url": "/party/tanzen/house/event/5f1859a23d65a16a754590ba.655c9ff31816be09fb01b0f5.die-spaete-lotte-tanzt",
+        "startDate": {
+            "startDate": "2023-12-15T23:59:00.000Z",
+            "text": "Heute, 23:59 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "house"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2f1fa24d2e2e657d79e397bc8306199d.jpg?v=2"
+    },
+    {
+        "title": "„Dichter dran! Borderlines“",
+        "url": "/buehne/show/poetry-slam/event/5f1859a23d65a16a75459167.611111183d65a153053ebbea.dichter-dran-borderlines",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "poetry-slam"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/85e62f40e206050dde546bebcd63700e.jpg?v=1"
+    },
+    {
+        "title": "Jürgen B. Hausmann: „Oh weih…, oh weih…, oh Weihnachtszeit!“",
+        "url": "/buehne/kabarett-und-comedy/kabarett/event/5f1859a13d65a16a75458fca.6346b538005c2f0ff951ad86.juergen-b-hausmann-oh-weih-oh-weih-oh-weihnachtszeit",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Gymnasium Hückelhoven",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "kabarett"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b70aa4a31241bd6b3ae13c1abf76df84.jpg?v=1"
+    },
+    {
+        "title": "„Dichter dran!“",
+        "url": "/buehne/show/poetry-slam/event/5f1859a23d65a16a75459167.64088be558e717236e29ece5.dichter-dran",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "poetry-slam"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/aae153086ce37499c31471fa8892e4e5.jpg?v=0"
+    },
+    {
+        "title": "Aachener Weihnachtscircus: „Funtastisch“",
+        "url": "/buehne/show/zirkus/event/5f1859a73d65a16a75459707.652d571dd5167249333d7d92.aachener-weihnachtscircus-funtastisch",
+        "startDate": {
+            "startDate": "2023-12-15T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "zirkus"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84bb71eaee49db10baf4b2506e11f1b2.jpg?v=1"
+    },
+    {
+        "title": "„Vom Fischer und seiner Frau“",
+        "url": "/buehne/musiktheater/event/5f1859a43d65a16a754593e0.65304addea2d5c68727f5184.vom-fischer-und-seiner-frau",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/50469c5ea8ecb55cfce7e0ad28fca530.jfif?v=3"
+    },
+    {
+        "title": "„Die Burg der Assassinen“",
+        "url": "/buehne/theater/event/5f1859a43d65a16a754593e0.65304b3eea2d5c68727f5185.die-burg-der-assassinen",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7d1245c38ebb7400ac0320020248a8ac.jpg?v=2"
+    },
+    {
+        "title": "„Plötzlich Shakespeare“",
+        "url": "/buehne/theaterdinner/event/5f1859963d65a16a754582a3.6532560f2c01e16deb603973.ploetzlich-shakespeare",
+        "startDate": {
+            "startDate": "2023-12-15T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Gut Hebscheid, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theaterdinner"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/78592f0c9f95590bb7189f6faa1e7aa0.jpg?v=2"
+    },
+    {
+        "title": "„Die Goldfische“",
+        "url": "/buehne/theater/komoedie/event/5f1859a63d65a16a75459615.65325b44678a7833663c7127.die-goldfische",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Das Da Theater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5ee881fc4be839d2ea75eddd31fb3cfd.jpg?v=1"
+    },
+    {
+        "title": "Sascha Vogel: „Physik in Hollywood“",
+        "url": "/buehne/show/poetry-slam/event/5f18599f3d65a16a75458d80.654cfb0520b43e2c4a69b5a5.sascha-vogel-physik-in-hollywood",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "poetry-slam"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1d0a66ae4f3a344f7020935fb1a7a856.jpg?v=2"
+    },
+    {
+        "title": "„The Addams Family“",
+        "url": "/buehne/musiktheater/musical/event/5f18599e3d65a16a75458cda.655207aed29b930758483ae2.the-addams-family",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "musical"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/377ebcaff468445bc08684f893d8aff8.jpg?v=1"
+    },
+    {
+        "title": "„Beatles Double Feature“ (Abgesagt)",
+        "url": "/bildung/lesung/event/5f1859a73d65a16a75459710.654e52e9c069f6646a7a36b2.beatles-double-feature-abgesagt",
+        "startDate": {
+            "startDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f471f4c28881876f9b6669b604d53a71.jpg?v=1"
+    },
+    {
+        "title": "„Bräuche und Weihnachtsmärkte in Aachen, Burtscheid und der Euregio“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a43d65a16a75459355.655f343c8b904e73e12c8d88.braeuche-und-weihnachtsmaerkte-in-aachen-burtscheid-und-der-euregio",
+        "startDate": {
+            "startDate": "2023-12-15T18:15:00.000Z",
+            "text": "Heute, 18:15 Uhr"
+        },
+        "place": "Reha-Klinik Rosenquelle, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4a82a200d8b58e32f04c7ea1d641ce4d.jpg?v=1"
+    },
+    {
+        "title": "„Aachener Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/600575083d65a112dc26a9a3.618927e43d65a1406d7f0d99.aachener-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 11:00 - 21:00 Uhr"
+        },
+        "place": "Diverse Orte in Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bcd1a22cd06baa87ea7a4a24b4293963.jpg?v=1"
+    },
+    {
+        "title": "„Romantischer Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599a3d65a16a754587fe.618cce0c3d65a15aaf351874.romantischer-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T15:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 15:00 - 22:00 Uhr"
+        },
+        "place": "Schloss Merode, Langerwehe",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fb2b47e3efd24ba8ddd453bf06e677be.jpg?v=3"
+    },
+    {
+        "title": "„Heinsberger Weihnachts- und Wintermarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859a03d65a16a75458e95.618ccf7c3d65a15aaf351875.heinsberger-weihnachts--und-wintermarkt",
+        "startDate": {
+            "startDate": "2023-12-15T11:30:00.000Z",
+            "endDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 11:30 - 20:00 Uhr"
+        },
+        "place": "Markt, Heinsberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2350dc7f5e12ac509b79086050575eea.jpg?v=2"
+    },
+    {
+        "title": "„Magisches Maastricht“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599e3d65a16a75458cb3.618cd5b03d65a15f6b77cf42.magisches-maastricht",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "text": "Heute, 10:00 Uhr"
+        },
+        "place": "Vrijthof, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cf0c8f440e9af1c4eb6fb4cd3b68e0ef.jpg?v=3"
+    },
+    {
+        "title": "„Weihnachtsstadt Valkenburg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/618cd82b3d65a15f6e626ff2.618cda383d65a15bca3681e2.weihnachtsstadt-valkenburg",
+        "startDate": {
+            "startDate": "2023-12-15",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Valkenburg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„50. Eupener Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/600577873d65a125fd6da1f5.618cdf423d65a15f6b77cf44.50-eupener-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 14:00 - 21:00 Uhr"
+        },
+        "place": "Diverse Orte in Eupen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Romantische Hof-Weihnacht – Zu Gast bei Charles Dickens“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6554f0c5f3cd1939f044e423.619b86f43d65a12e305304c1.romantische-hof-weihnacht--zu-gast-bei-charles-dickens",
+        "startDate": {
+            "startDate": "2023-12-15T19:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 19:00 - 22:00 Uhr"
+        },
+        "place": "Historische Hofanlage, Heimbach",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b982eb6138fefd71e1047bef58a074a7.jpg?v=1"
+    },
+    {
+        "title": "„50. Jülicher Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859953d65a16a7545814d.619b895a3d65a12e305304c2.50-juelicher-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T10:30:00.000Z",
+            "endDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 10:30 - 20:00 Uhr"
+        },
+        "place": "Schlossplatz, Jülich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/347d12453ba4d05564ea0409d4727ae1.jpg?v=1"
+    },
+    {
+        "title": "„Adventsdorf Erkelenz“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6554f35693d0485084683db2.619b8e603d65a12e305304c3.adventsdorf-erkelenz",
+        "startDate": {
+            "startDate": "2023-12-15T11:30:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 11:30 - 22:00 Uhr"
+        },
+        "place": "Burgparkplatz, Erkelenz",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8bbeae982b0f8c709d68bee3694f0fa1.jpg?v=4"
+    },
+    {
+        "title": "„Hückelhoven weihnachtet“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6373b0e052958c69232efadc.619f49a33d65a15535187bc2.hueckelhoven-weihnachtet",
+        "startDate": {
+            "startDate": "2023-12-15T18:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 18:00 - 22:00 Uhr"
+        },
+        "place": "Rathausplatz, Hückelhoven",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3f9aca60d669cf5c9d44b948d860b01d.jpg?v=2"
+    },
+    {
+        "title": "„Weihnachtstreff auf dem Kaiserplatz“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599a3d65a16a7545874b.619f9a873d65a16bbf5ab33b.weihnachtstreff-auf-dem-kaiserplatz",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 12:00 - 21:00 Uhr"
+        },
+        "place": "Kaiserplatz, Stolberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Weihnachtsmarkt in Kisten“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599f3d65a16a75458d8f.634d3d3710edfd247b1fa9c8.weihnachtsmarkt-in-kisten",
+        "startDate": {
+            "startDate": "2023-12-15T15:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 15:00 - 18:00 Uhr"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8bbeae982b0f8c709d68bee3694f0fa1.jpg?v=4"
+    },
+    {
+        "title": "„Adventstreff“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859983d65a16a7545858d.634ec1b0da427464c50ed29a.adventstreff",
+        "startDate": {
+            "startDate": "2023-12-15T17:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 17:00 - 22:00 Uhr"
+        },
+        "place": "Rathausplatz Simmerath",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8bbeae982b0f8c709d68bee3694f0fa1.jpg?v=4"
+    },
+    {
+        "title": "„Brander Adventsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545830c.636bd1603e3b225bbf0a9109.brander-adventsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 14:00 - 22:00 Uhr"
+        },
+        "place": "Marktplatz, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Herzogenrather Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/600575fc3d65a11e7a29ed02.636e7614b8b5eb70895400a6.herzogenrather-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 14:00 - 21:00 Uhr"
+        },
+        "place": "Diverse Orte in Herzogenrath",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24360defb97abfee9ea154ae9b391f2c.jpg?v=2"
+    },
+    {
+        "title": "„Monschauer Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/600575933d65a112da211f43.63716f5eed9e210dcb7dfa12.monschauer-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 11:00 - 21:00 Uhr"
+        },
+        "place": "Diverse Orte in Monschau",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b1e46fc8115b27dfebb3e1fe0dc78f7a.jpg?v=3"
+    },
+    {
+        "title": "„Eschweiler Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859a43d65a16a75459357.637170f69024246d983f9d22.eschweiler-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T16:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 16:00 - 21:00 Uhr"
+        },
+        "place": "Markt, Eschweiler",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Winterzeit Heerlen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545827c.63723660d5777105b64dd99d.winterzeit-heerlen",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "text": "Heute, 10:00 Uhr"
+        },
+        "place": "Pancratiusplein, Heerlen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Winterland Hasselt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/637369805eaddf733c7a6e12.637369d15eaddf733c7a6e13.winterland-hasselt",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 11:00 - 22:00 Uhr"
+        },
+        "place": "Kolonel Dusartplein, Hasselt",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c8c21fd72bfd8182d45122f92c32db79.jpg?v=2"
+    },
+    {
+        "title": "„Das Weihnachtsdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6256d376fa09a93785397c12.637376a64fed046a9e1ff822.das-weihnachtsdorf",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Diverse Orte in Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Adventszauber in Wassenberg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/63739e2bc3e00a6e22467df5.63739effdb75e9583c1cb402.adventszauber-in-wassenberg",
+        "startDate": {
+            "startDate": "2023-12-15T17:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 17:00 - 22:00 Uhr"
+        },
+        "place": "Taverne am Gondelweiher, Wassenberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8bbeae982b0f8c709d68bee3694f0fa1.jpg?v=4"
+    },
+    {
+        "title": "„Wegberger Eisbahn im Winterdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6373aabe52958c69232efadb.6373aacedb75e9583c1cb404.wegberger-eisbahn-im-winterdorf",
+        "startDate": {
+            "startDate": "2023-12-15",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Rathausplatz, Wegberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24360defb97abfee9ea154ae9b391f2c.jpg?v=2"
+    },
+    {
+        "title": "„Freitagsmarkt“",
+        "url": "/markt-und-messe/markt/wochenmarkt/event/63c7cd351105ae2e8e212e92.63c7ce7b5df15711643c2242.freitagsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T09:00:00.000Z",
+            "endDate": "2023-12-15T15:00:00.000Z",
+            "text": "Heute, 09:00 - 15:00 Uhr"
+        },
+        "place": "Markt, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "wochenmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9730838f1262e6e9b3680e90e0d24c3c.jpg?v=2"
+    },
+    {
+        "title": "„49. Dürener Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859a83d65a16a7545990a.6548fdb7408b1d27da1e1116.49-duerener-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 11:00 - 21:00 Uhr"
+        },
+        "place": "Kaiserplatz, Düren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8974dd1e69b1910359a173bfc6128fc8.jpg?v=2"
+    },
+    {
+        "title": "„Weihnachtsdorf am Büchel“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/64137b913139626e5e0d75b3.6553932bd892790d1e030b85.weihnachtsdorf-am-buechel",
+        "startDate": {
+            "startDate": "2023-12-15T15:00:00.000Z",
+            "endDate": "2023-12-15T21:00:00.000Z",
+            "text": "Heute, 15:00 - 21:00 Uhr"
+        },
+        "place": "Platz für Demokratie, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b1e46fc8115b27dfebb3e1fe0dc78f7a.jpg?v=3"
+    },
+    {
+        "title": "„Weihnachtskirmes am Wirteltorplatz“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6554ff3993d0485084683db3.6554ff6881dc8315f75c66e7.weihnachtskirmes-am-wirteltorplatz",
+        "startDate": {
+            "startDate": "2023-12-15",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Wirteltorplatz, Düren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Geschichte Aachens – Stadt Karls des Großen“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599f3d65a16a75458d8d.604a4e083d65a15cca48d442.geschichte-aachens--stadt-karls-des-grossen",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a5c0c99779721b432ce0377a33551959.jpg?v=2"
+    },
+    {
+        "title": "„Bürgerliche Kunstkammer“",
+        "url": "/kunst/ausstellung/kunsthandwerk/event/5f1859933d65a16a75457fa5.604a4c443d65a145dd6ac393.buergerliche-kunstkammer",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "kunsthandwerk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8e963e8d638586959105b0ec65f57c59.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Töpfereimuseum Langerwehe",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fee.60a4ff013d65a1126a3b1242.dauerausstellung-im-toepfereimuseum-langerwehe",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1254d6bf530da1649d17292f7b2a193f.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Burgenmuseum Nideggen",
+        "url": "/kunst/ausstellung/historisch/event/5f63f8843d65a13d43653910.60545d983d65a168a04e2852.dauerausstellung-im-burgenmuseum-nideggen",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Burgenmuseum Nideggen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad94637e39a50a3097e3cacb357caacf.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Roten Haus",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a83d65a16a75459904.60b493713d65a13b5e7b0a62.dauerausstellung-im-roten-haus",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Rotes Haus, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d21bac1a79390ec1c2de4b66660228f0.jpg?v=1"
+    },
+    {
+        "title": "Emil Orlik",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587af.6045eb523d65a176a60adbe2.emil-orlik",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Büchel-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/339a738837c1a6d405e8703a2a7b5456.jpg?v=1"
+    },
+    {
+        "title": "„Von der Sonne zur Sonne“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859943d65a16a7545805b.604a49f43d65a145dd6ac392.von-der-sonne-zur-sonne",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Energeticon, Alsdorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c4a942dea49995af8b436d23a640907.jpg?v=3"
+    },
+    {
+        "title": "„Mobilität“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590b8.60d069533d65a17942592793.mobilitaet",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5c05382078d81a36e6d4e6fb40b7ee8a.jpeg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=1"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Schau zur Wohnkultur im 18. und 19. Jahrhundert“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590f1.60b612f03d65a17cbf4cd952.schau-zur-wohnkultur-im-18-und-19-jahrhundert",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0f63ae89b92cf02bb1627c5f21253b8.jpg?v=1"
+    },
+    {
+        "title": "29. Ausstellung „Krippen der Einen Welt“",
+        "url": "/kunst/ausstellung/event/5f1859a33d65a16a754591d1.619f7cee3d65a1673f747a02.29-ausstellung-krippen-der-einen-welt",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Weltweit am Dom, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/46f63c3ce8186f69bf21d341916adb7c.jpg?v=2"
+    },
+    {
+        "title": "„Ausstellung zur Benefizauktion des NAK“",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545934e.61adead53d65a131570728c2.ausstellung-zur-benefizauktion-des-nak",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 14:00 - 20:00 Uhr"
+        },
+        "place": "NAK – Neuer Aachener Kunstverein",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8a6396a4d70934584ab2324e1b5a4426.jpg?v=1"
+    },
+    {
+        "title": "„Eine Stadt im Aufbau“",
+        "url": "/kunst/ausstellung/industrie/event/5f1859963d65a16a754582e9.61f2ac9cf4f3010b3e2be3e7.eine-stadt-im-aufbau",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "industrie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3a84d8531f87abeec6bee4c6adb290d5.jpg?v=1"
+    },
+    {
+        "title": "Pferdesportausstellung",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859993d65a16a75458636.62275ea4acab38219667a0c9.pferdesportausstellung",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Chio-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f39930cc28af8e50358ca352fd91f64f.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Dokumentationszentrum Glanzstoff",
+        "url": "/kunst/ausstellung/fotografie/event/62557743fda5ca247256aeb6.6385ea86a2f1147cec1af07b.dauerausstellung-im-dokumentationszentrum-glanzstoff",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Dokumentationszentrum Glanzstoff, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fdf935418537c65861fd2cb672a01bbf.jpg?v=2"
+    },
+    {
+        "title": "„1100 - 1500 Leben, Handel, Seelenheil“ - Die Mittelalterabteilung",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fa5.63973727c99bb96f7107794e.1100---1500-leben-handel-seelenheil---die-mittelalterabteilung",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0301cfaffaa27cf56a9f4891cd64a121.jpg?v=1"
+    },
+    {
+        "title": "„Sammlung mit losen Enden 06: Drei Seiten des Bildes“",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a75458fb4.646356068255720cd4367915.sammlung-mit-losen-enden-06-drei-seiten-des-bildes",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Kunsthaus NRW, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f622bb33b4be50ff4350955b7ae34871.jpg?v=2"
+    },
+    {
+        "title": "Albert Sous zeigt skurrile Skulpturen im Forum Romanum",
+        "url": "/kunst/ausstellung/installation/event/649ab09e411d501dd5213013.649ab24a411d501dd5213015.albert-sous-zeigt-skurrile-skulpturen-im-forum-romanum",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Galerie am Holzgraben, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/eb142977562b215cdb82fc547c5954e5.jpg?v=2"
+    },
+    {
+        "title": "Junge Rebellen: Polke, Richter & Friends",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a03d65a16a75458f30.64d219673b21a21ad67e9643.junge-rebellen-polke-richter--friends",
+        "startDate": {
+            "startDate": "2023-12-15T11:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Deutsches Glasmalerei-Museum Linnich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/00253f1953df153d63bf27e7e93bd317.jpg?v=2"
+    },
+    {
+        "title": "Inge Morath: Fotografien 1944-1998",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859953d65a16a754581d1.64feeca97eb1c3395652dbd4.inge-morath-fotografien-1944-1998",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Aukloster, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/614d1bd713fcffab6e247ad6b5f7da40.jpg?v=1"
+    },
+    {
+        "title": "„World Trade Center. Gallery. Werbeanzeigen aus drei Jahrzehnten“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a754580e6.6503146617d74e6303713ea5.world-trade-center-gallery-werbeanzeigen-aus-drei-jahrzehnten",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Internationales Zeitungsmuseum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7b139bcb67522976d9646586044b29c7.jpg?v=1"
+    },
+    {
+        "title": "„Auch du gehörst dem Führer!?“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=1"
+    },
+    {
+        "title": "„Der Aachener Bushof im Fokus der Fotografie.“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a7545917a.651161d673acdc3b3e0d97d6.der-aachener-bushof-im-fokus-der-fotografie",
+        "startDate": {
+            "startDate": "2023-12-15T09:00:00.000Z",
+            "endDate": "2023-12-15T13:00:00.000Z",
+            "text": "Heute, 09:00 - 13:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d72ca1f7c7e0162da78fd6bcea60a8ab.jpg?v=1"
+    },
+    {
+        "title": "Bill Viola: \"Sculptor of Time\"",
+        "url": "/kunst/ausstellung/video/event/5f18599b3d65a16a75458891.6512d708a2748222436ebfa5.bill-viola-sculptor-of-time",
+        "startDate": {
+            "startDate": "2023-12-15",
+            "text": "Heute, ganztägig"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "video"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f0b7b4f3bfe521d4a55842e920c5d2ee.jpg?v=1"
+    },
+    {
+        "title": "„Wie alles begann. Die Schatzkammer in der Karlskapelle 1873-1881“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.651402d13d1dc366416d8a02.wie-alles-begann-die-schatzkammer-in-der-karlskapelle-1873-1881",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Domschatzkammer Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6cb92175ba21f172abf590d8be472ddc.jpg?v=1"
+    },
+    {
+        "title": "„Goodbye to Love: A conversation of all the whose lips are sealed“",
+        "url": "/kunst/ausstellung/installation/event/5f18599e3d65a16a75458c63.651d570858fac912153a0865.goodbye-to-love-a-conversation-of-all-the-whose-lips-are-sealed",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Marres, Huis voor Hedendaagse Cultuur, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e92ee8249fa914aabcb1a39287492933.jpg?v=2"
+    },
+    {
+        "title": "„Heimspiel. Flämische Malerei zu Hause in Aachen“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fa5.6523f183defa741cfa02f37e.heimspiel-flaemische-malerei-zu-hause-in-aachen",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b149e71fa47c74945e02d92daf73fe60.jpg?v=1"
+    },
+    {
+        "title": "„Kunst im Planbar“",
+        "url": "/kunst/ausstellung/malerei/event/60feb9ca3d65a172f1473753.65254c4390374a4489007d63.kunst-im-planbar",
+        "startDate": {
+            "startDate": "2023-12-15T15:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 15:00 - 18:00 Uhr"
+        },
+        "place": "Planbar, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dd60e3c60941ccad17e3240e7c5739b3.jpg?v=2"
+    },
+    {
+        "title": "Glanzstoff: Faszination Viskose",
+        "url": "/kunst/ausstellung/industrie/event/62557743fda5ca247256aeb6.65267f5d552d6663da4e3e92.glanzstoff-faszination-viskose",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Dokumentationszentrum Glanzstoff, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "industrie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8cb3927277d47673943bb0e6f9b53ef3.jpg?v=2"
+    },
+    {
+        "title": "„Atelierhaus“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a75459167.6526f45530ec613e3774d3b6.atelierhaus",
+        "startDate": {
+            "startDate": "2023-12-15T13:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/85e62f40e206050dde546bebcd63700e.jpg?v=1"
+    },
+    {
+        "title": "Manfred Sukrow: „Liquid skies – die Kunst des Teilens“",
+        "url": "/kunst/ausstellung/event/5f9a14133d65a1429f6a8992.652d34653307eb10206e49c9.manfred-sukrow-liquid-skies--die-kunst-des-teilens",
+        "startDate": {
+            "startDate": "2023-12-15T14:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Galerie Gundolf B., Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/215bd85987157436e2e0f7ff22ff6b87.jpg?v=1"
+    },
+    {
+        "title": "„Mit Feuer zu strafen! Hexenwerk und Teufelsbund im Aachener Raum“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599f3d65a16a75458d8d.65311981562ac16ff616f1c3.mit-feuer-zu-strafen-hexenwerk-und-teufelsbund-im-aachener-raum",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/aab2097ed080838e48dd9f1d60eb23f9.jpg?v=1"
+    },
+    {
+        "title": "Anneliese Schöfbeck",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587af.6537bab315d26810c44c4e98.anneliese-schoefbeck",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Büchel-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4d40ba376a1ea9254ad408183d58d50c.png?v=2"
+    },
+    {
+        "title": "Rainer Plum: Im Fluss der Linien",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a75458247.6543b2beea184249b729bc64.rainer-plum-im-fluss-der-linien",
+        "startDate": {
+            "startDate": "2023-12-15T12:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Raum für Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ad0b098859036bcab3e05ecdf696cb.jpg?v=2"
+    },
+    {
+        "title": "Jahresausstellung des Fotoclubs 2000 Aachen",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859993d65a16a754585c6.654cdbe087e23c017853a73b.jahresausstellung-des-fotoclubs-2000-aachen",
+        "startDate": {
+            "startDate": "2023-12-15T08:00:00.000Z",
+            "endDate": "2023-12-15T12:00:00.000Z",
+            "text": "Heute, 08:00 - 12:00 Uhr"
+        },
+        "place": "Finanzamt Aachen-Stadt",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b72ae5cb654be094d57d8d4a51738160.jpg?v=1"
+    },
+    {
+        "title": "Springende Hirsche - „katagami“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a75459645.654ce8db3678653bd72a2e95.springende-hirsche---katagami",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Papiermuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ebbac64d53842210e5f86d210567d37a.jpg?v=1"
+    },
+    {
+        "title": "Theo Richter: „Abstraktion trifft Landschaft“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d80.654cf6297e94306d6920d2f5.theo-richter-abstraktion-trifft-landschaft",
+        "startDate": {
+            "startDate": "2023-12-15T19:00:00.000Z",
+            "endDate": "2023-12-15T22:00:00.000Z",
+            "text": "Heute, 19:00 - 22:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/480a4fa1bd38b98ca04d0bd34d68d2de.jpg?v=1"
+    },
+    {
+        "title": "„Umwandlung der Akropolis von Athen in eine fränkische Burganlage“",
+        "url": "/kunst/ausstellung/historisch/event/5f2deb033d65a14f3400d012.655cc9242596ff03614a60a2.umwandlung-der-akropolis-von-athen-in-eine-fraenkische-burganlage",
+        "startDate": {
+            "startDate": "2023-12-15",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Gesellschaft für internationale Burgenkunde Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2548c8ab2360ab379bc9ebd8ff906f70.jpg?v=1"
+    },
+    {
+        "title": "„Stern Stall Schaf. Krippenkunst aus einer rheinischen Privatsammlung“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590f1.65661773814bfe5995649c34.stern-stall-schaf-krippenkunst-aus-einer-rheinischen-privatsammlung",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c412502ce02ed229cacd156ec8c13b38.jpg?v=2"
+    },
+    {
+        "title": "Ulrike Müller: „Monument to My Paper Body“",
+        "url": "/kunst/ausstellung/grafik/event/5f1859973d65a16a7545840f.656d970750a36a15bf0ade62.ulrike-mueller-monument-to-my-paper-body",
+        "startDate": {
+            "startDate": "2023-12-15T10:00:00.000Z",
+            "endDate": "2023-12-15T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e2c70a36272521ee5271a4910eab265d.jpg?v=1"
+    },
+    {
+        "title": "„KunstRaum - Inklusives Projekt“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a75458221.657881c73dad1861e2604f22.kunstraum---inklusives-projekt",
+        "startDate": {
+            "startDate": "2023-12-15T16:00:00.000Z",
+            "text": "Heute, 16:00 Uhr"
+        },
+        "place": "Katho – Katholische Hochschule Nordrhein-Westfalen am Standort Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f18a12be3213bed7827072394cde3244.jpg?v=1"
+    },
+    {
+        "title": "„Chromatic Choices“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599c3d65a16a754589f5.6578838151994b458d530a73.chromatic-choices",
+        "startDate": {
+            "startDate": "2023-12-15T13:00:00.000Z",
+            "endDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Artco Galerie, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cc9e3578aedb34bde8484143cc5378cf.jpg?v=1"
+    },
+    {
+        "title": "„Abendbummel“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f1859a63d65a16a754595f3.5fbf7f783d65a14b9029ae80.abendbummel",
+        "startDate": {
+            "startDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Tourist Info Elisenbrunnen, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/489d92d15bcff6f8ccb54108dab75c11.jpg?v=1"
+    },
+    {
+        "title": "„Mit dem 'Lühtemann' durch Aachen“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f1859a23d65a16a7545919c.5fbf7f823d65a14b9029b405.mit-dem-luehtemann-durch-aachen",
+        "startDate": {
+            "startDate": "2023-12-15T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Hotmannspief, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8548beef9b1c79726fec1f9aebdb9340.jpg?v=3"
+    },
+    {
+        "title": "\"1. Aachener Christmas Pride\"",
+        "url": "/verschiedenes/geselliges-und-treffen/event/6257f05c08f90c45697449dc.657aee160d4bf8491f0cafe2.1-aachener-christmas-pride",
+        "startDate": {
+            "startDate": "2023-12-15T15:00:00.000Z",
+            "endDate": "2023-12-15T20:00:00.000Z",
+            "text": "Heute, 15:00 - 20:00 Uhr"
+        },
+        "place": "Büchel, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a2ab1b2a046e4e73d63621c212242e6c.jpg?v=2"
+    }
+]
