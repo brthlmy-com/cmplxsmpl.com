@@ -1,0 +1,148 @@
+[
+    {
+        "title": "BLØF",
+        "url": "https://partyflock.nl/party/460423:BLOF",
+        "image": "https://partyflock.nl/images/party/460423_560x291_675830/BLOF.jpg",
+        "startDate": {
+            "startDate": "2023-12-19T20:00:00+01:00",
+            "endDate": "2023-12-19T19:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BLØF",
+                "href": "/artist/95023:BLOF"
+            }
+        ]
+    },
+    {
+        "title": "DIP",
+        "url": "https://partyflock.nl/party/462694:DIP",
+        "image": "https://partyflock.nl/images/party/462694_495x330_681892/DIP.jpg",
+        "startDate": {
+            "startDate": "2023-12-19T23:00:00+01:00",
+            "endDate": "2023-12-20T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Joe",
+        "url": "https://partyflock.nl/party/464396:Joe",
+        "image": "https://partyflock.nl/images/party/464396_399x409_686020/Joe.jpg",
+        "startDate": {
+            "startDate": "2023-12-19T19:30:00+01:00",
+            "endDate": "2023-12-19T23:59:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bobby V",
+                "href": "/artist/1049:Bobby-V"
+            },
+            {
+                "name": "Bobby V",
+                "href": "/artist/41668:Bobby-V"
+            }
+        ]
+    },
+    {
+        "title": "LIV",
+        "url": "https://partyflock.nl/party/464020:LIV",
+        "image": "https://partyflock.nl/images/party/464020_539x303_681586/LIV.png",
+        "startDate": {
+            "startDate": "2023-12-20T00:00:00+01:00",
+            "endDate": "2023-12-20T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "RMX",
+        "url": "https://partyflock.nl/party/464274:RMX",
+        "image": "https://partyflock.nl/images/party/464274_404x404_676013/RMX.jpg",
+        "startDate": {
+            "startDate": "2023-12-19T23:00:00+01:00",
+            "endDate": "2023-12-20T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "MADAX",
+                "href": "/artist/110059:MADAX"
+            },
+            {
+                "name": "Quinzo",
+                "href": "/artist/101011:Quinzo"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/463587:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/463587_403x405_684071/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2023-12-20T00:30:00+01:00",
+            "endDate": "2023-12-20T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AHIL",
+                "href": "/artist/158784:AHIL"
+            },
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "OZUM",
+                "href": "/artist/126859:OZUM"
+            }
+        ]
+    },
+    {
+        "title": "The Opposites",
+        "url": "https://partyflock.nl/party/459655:The-Opposites",
+        "image": "https://partyflock.nl/images/party/459655_361x452_673445/The-Opposites.jpg",
+        "startDate": {
+            "startDate": "2023-12-19T20:00:00+01:00",
+            "endDate": "2023-12-19T22:29:59+01:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Opposites",
+                "href": "/artist/26201:The-Opposites"
+            }
+        ]
+    }
+]
