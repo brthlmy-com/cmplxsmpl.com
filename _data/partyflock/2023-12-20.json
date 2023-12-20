@@ -1,0 +1,72 @@
+[
+    {
+        "title": "BLØF",
+        "url": "https://partyflock.nl/party/460424:BLOF",
+        "image": "https://partyflock.nl/images/party/460424_560x291_675830/BLOF.jpg",
+        "startDate": {
+            "startDate": "2023-12-20T20:00:00+01:00",
+            "endDate": "2023-12-20T19:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BLØF",
+                "href": "/artist/95023:BLOF"
+            }
+        ]
+    },
+    {
+        "title": "Dr Lektroluv",
+        "url": "https://partyflock.nl/party/463768:Dr-Lektroluv",
+        "image": "https://partyflock.nl/images/party/463768_497x328_684554/Dr-Lektroluv.jpg",
+        "startDate": {
+            "startDate": "2023-12-20T20:00:00+01:00",
+            "endDate": "2023-12-20T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Strijp-S",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dr. Lektroluv",
+                "href": "/artist/2871:Dr-Lektroluv"
+            }
+        ]
+    },
+    {
+        "title": "Hotspot",
+        "url": "https://partyflock.nl/party/464277:Hotspot",
+        "image": "https://partyflock.nl/images/party/464277_540x302_647493/Hotspot.jpg",
+        "startDate": {
+            "startDate": "2023-12-21T00:00:00+01:00",
+            "endDate": "2023-12-21T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Raving Charlie",
+        "url": "https://partyflock.nl/party/463115:Raving-Charlie",
+        "image": "https://partyflock.nl/images/party/463115_404x404_682719/Raving-Charlie.jpg",
+        "startDate": {
+            "startDate": "2023-12-21T00:00:00+01:00",
+            "endDate": "2023-12-21T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
