@@ -1,0 +1,277 @@
+[
+    {
+        "title": "„Club Ritz Afterhour“",
+        "url": "/party/tanzen/event/5f1859a23d65a16a75459196.5fbf7f7c3d65a14b9029b0ee.club-ritz-afterhour",
+        "startDate": {
+            "startDate": "2023-12-24T05:00:00.000Z",
+            "endDate": "2023-12-24T11:00:00.000Z",
+            "text": "Heute, 05:00 - 11:00 Uhr"
+        },
+        "place": "Nightlife, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac320c774fc5a5b27d6b1afc93c8f84b.jpeg?v=1"
+    },
+    {
+        "title": "„Heilig Abend im Nox“",
+        "url": "/party/tanzen/hip-hop/event/5f1859a93d65a16a7545995a.63724afdd5777105b64dd9a7.heilig-abend-im-nox",
+        "startDate": {
+            "startDate": "2023-12-24T23:00:00.000Z",
+            "endDate": "2023-12-24T17:00:00.000Z",
+            "text": "Heute, 23:00 - 17:00 Uhr"
+        },
+        "place": "Nox, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "hip-hop"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/48a41bab63f7145be09b49361279d092.jpeg?v=1"
+    },
+    {
+        "title": "„Heiligabend Kult-Party“",
+        "url": "/party/tanzen/event/5f1859a43d65a16a7545932f.6372562cd79a53387d4ba7b8.heiligabend-kult-party",
+        "startDate": {
+            "startDate": "2023-12-24T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Berks Dancing, Würselen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9be9d75018600cca0bbcad09e8f881ab.jpg?v=0"
+    },
+    {
+        "title": "„Dein Hotel Europa“",
+        "url": "/party/tanzen/house/event/5f1859a23d65a16a754590ba.655ca1429ccc12577225e453.dein-hotel-europa",
+        "startDate": {
+            "startDate": "2023-12-24T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "house"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc699943ba004af256ea87cf347c5c14.jpg?v=1"
+    },
+    {
+        "title": "„Magisches Maastricht“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599e3d65a16a75458cb3.618cd5b03d65a15f6b77cf42.magisches-maastricht",
+        "startDate": {
+            "startDate": "2023-12-24T10:00:00.000Z",
+            "endDate": "2023-12-24T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Vrijthof, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cf0c8f440e9af1c4eb6fb4cd3b68e0ef.jpg?v=3"
+    },
+    {
+        "title": "„Weihnachtsstadt Valkenburg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/618cd82b3d65a15f6e626ff2.618cda383d65a15bca3681e2.weihnachtsstadt-valkenburg",
+        "startDate": {
+            "startDate": "2023-12-24",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Valkenburg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "Marché de la Batte",
+        "url": "/markt-und-messe/markt/wochenmarkt/event/60548ab33d65a114b30803f2.6232064932359b175d3b7334.march-de-la-batte",
+        "startDate": {
+            "startDate": "2023-12-24T08:00:00.000Z",
+            "text": "Heute, 08:00 Uhr"
+        },
+        "place": "Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "wochenmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/469c4af2132fd3392e284b0aec3a7a71.jpg?v=1"
+    },
+    {
+        "title": "„Antiquitätenmarkt“",
+        "url": "/markt-und-messe/markt/antik/event/5f18599b3d65a16a754588bb.6232077cbad1c708a13bdddd.antiquitaetenmarkt",
+        "startDate": {
+            "startDate": "2023-12-24T07:00:00.000Z",
+            "text": "Heute, 07:00 Uhr"
+        },
+        "place": "Tongeren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "antik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84d7fb937beddcfa8a7de5ded1c8a76e.jpg?v=1"
+    },
+    {
+        "title": "„Brander Adventsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545830c.636bd1603e3b225bbf0a9109.brander-adventsmarkt",
+        "startDate": {
+            "startDate": "2023-12-24T10:00:00.000Z",
+            "endDate": "2023-12-24T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Marktplatz Brand, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Winterzeit Heerlen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545827c.63723660d5777105b64dd99d.winterzeit-heerlen",
+        "startDate": {
+            "startDate": "2023-12-24T10:00:00.000Z",
+            "endDate": "2023-12-24T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Pancratiusplein, Heerlen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Winterland Hasselt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/637369805eaddf733c7a6e12.637369d15eaddf733c7a6e13.winterland-hasselt",
+        "startDate": {
+            "startDate": "2023-12-24T11:00:00.000Z",
+            "endDate": "2023-12-24T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Kolonel Dusartplein, Hasselt",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c8c21fd72bfd8182d45122f92c32db79.jpg?v=2"
+    },
+    {
+        "title": "„Das Weihnachtsdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6256d376fa09a93785397c12.637376a64fed046a9e1ff822.das-weihnachtsdorf",
+        "startDate": {
+            "startDate": "2023-12-24T11:00:00.000Z",
+            "endDate": "2023-12-24T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Diverse Orte in Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Wegberger Eisbahn im Winterdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6373aabe52958c69232efadb.6373aacedb75e9583c1cb404.wegberger-eisbahn-im-winterdorf",
+        "startDate": {
+            "startDate": "2023-12-24",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Rathausplatz, Wegberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24360defb97abfee9ea154ae9b391f2c.jpg?v=2"
+    },
+    {
+        "title": "„49. Dürener Weihnachtsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859a83d65a16a7545990a.6548fdb7408b1d27da1e1116.49-duerener-weihnachtsmarkt",
+        "startDate": {
+            "startDate": "2023-12-24T11:00:00.000Z",
+            "endDate": "2023-12-24T14:00:00.000Z",
+            "text": "Heute, 11:00 - 14:00 Uhr"
+        },
+        "place": "Kaiserplatz, Düren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8974dd1e69b1910359a173bfc6128fc8.jpg?v=2"
+    },
+    {
+        "title": "„Weihnachtskirmes am Wirteltorplatz“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6554ff3993d0485084683db3.6554ff6881dc8315f75c66e7.weihnachtskirmes-am-wirteltorplatz",
+        "startDate": {
+            "startDate": "2023-12-24",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Wirteltorplatz, Düren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Rathausführung“",
+        "url": "/verschiedenes/event/5f1859a23d65a16a7545908e.5fbf7f7c3d65a14b9029b0d2.rathausfuehrung",
+        "startDate": {
+            "startDate": "2023-12-24T10:30:00.000Z",
+            "endDate": "2023-12-24T11:30:00.000Z",
+            "text": "Heute, 10:30 - 11:30 Uhr"
+        },
+        "place": "Aachener Rathaus",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3bcd0ac15f33da08360eff8402e6b27d.jpg?v=2"
+    },
+    {
+        "title": "Heiligabend „anders“ im Forum Jakob",
+        "url": "/verschiedenes/geselliges-und-treffen/event/5f18599e3d65a16a75458c84.61b215ad3d65a16bb5643447.heiligabend-anders-im-forum-jakob",
+        "startDate": {
+            "startDate": "2023-12-24T11:00:00.000Z",
+            "endDate": "2023-12-24T14:00:00.000Z",
+            "text": "Heute, 11:00 - 14:00 Uhr"
+        },
+        "place": "Jakobushaus, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8370dd2cbe806fcd59cb5cc79a846bc7.jpg?v=1"
+    },
+    {
+        "title": "Aachener Tierpark – Euregiozoo",
+        "url": "/verschiedenes/anderes/event/5f1859a83d65a16a754598f7.6581bf868799ff53152b17e7.aachener-tierpark--euregiozoo",
+        "startDate": {
+            "startDate": "2023-12-24T09:00:00.000Z",
+            "endDate": "2023-12-24T14:30:00.000Z",
+            "text": "Heute, 09:00 - 14:30 Uhr"
+        },
+        "place": "Aachener Tierpark – Euregiozoo",
+        "categorySlugs": [
+            "verschiedenes",
+            "anderes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f975ed8ccb94003d1936625f28602458.jpg?v=1"
+    }
+]
