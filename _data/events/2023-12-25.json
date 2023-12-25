@@ -1,0 +1,153 @@
+[
+    {
+        "title": "Tito Tequila",
+        "url": "/konzert/rock/event/5f18599b3d65a16a754588d3.62a32b9dfbdd2464056e0be8.tito-tequila",
+        "startDate": {
+            "startDate": "2023-12-25T21:00:00.000Z",
+            "text": "Heute, 21:00 Uhr"
+        },
+        "place": "Outbaix, Übach-Palenberg",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6b62a4024d33418124134cb441c49e63.jpeg?v=1"
+    },
+    {
+        "title": "„Tam Tam Renegades“",
+        "url": "/party/tanzen/house/event/5f1859a23d65a16a754590ba.6283aab48ee133360121c0dd.tam-tam-renegades",
+        "startDate": {
+            "startDate": "2023-12-25T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "house"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc699943ba004af256ea87cf347c5c14.jpg?v=1"
+    },
+    {
+        "title": "\"Homecoming\"",
+        "url": "/party/feiern/event/5f1859a23d65a16a754590ba.657af6d8ff79e859193e0f03.homecoming",
+        "startDate": {
+            "startDate": "2023-12-25T23:00:00.000Z",
+            "text": "Heute, 23:00 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc699943ba004af256ea87cf347c5c14.jpg?v=1"
+    },
+    {
+        "title": "„La Bohème“",
+        "url": "/buehne/musiktheater/oper/event/5f1859a43d65a16a754593e0.6412361c99a9ae65a61aa9ad.la-bohme",
+        "startDate": {
+            "startDate": "2023-12-25T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "oper"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e597089aff9c3678ede70e320b980cfb.jpg?v=1"
+    },
+    {
+        "title": "Aachener Weihnachtscircus: „Funtastisch“",
+        "url": "/buehne/show/zirkus/event/5f1859a73d65a16a75459707.652d571dd5167249333d7d92.aachener-weihnachtscircus-funtastisch",
+        "startDate": {
+            "startDate": "2023-12-25T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "zirkus"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84bb71eaee49db10baf4b2506e11f1b2.jpg?v=1"
+    },
+    {
+        "title": "„Magisches Maastricht“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599e3d65a16a75458cb3.618cd5b03d65a15f6b77cf42.magisches-maastricht",
+        "startDate": {
+            "startDate": "2023-12-25T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Vrijthof, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cf0c8f440e9af1c4eb6fb4cd3b68e0ef.jpg?v=3"
+    },
+    {
+        "title": "„Weihnachtsstadt Valkenburg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/618cd82b3d65a15f6e626ff2.618cda383d65a15bca3681e2.weihnachtsstadt-valkenburg",
+        "startDate": {
+            "startDate": "2023-12-25",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Valkenburg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Winterzeit Heerlen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545827c.63723660d5777105b64dd99d.winterzeit-heerlen",
+        "startDate": {
+            "startDate": "2023-12-25T12:00:00.000Z",
+            "endDate": "2023-12-25T21:00:00.000Z",
+            "text": "Heute, 12:00 - 21:00 Uhr"
+        },
+        "place": "Pancratiusplein, Heerlen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Winterland Hasselt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/637369805eaddf733c7a6e12.637369d15eaddf733c7a6e13.winterland-hasselt",
+        "startDate": {
+            "startDate": "2023-12-25T12:00:00.000Z",
+            "endDate": "2023-12-25T22:00:00.000Z",
+            "text": "Heute, 12:00 - 22:00 Uhr"
+        },
+        "place": "Kolonel Dusartplein, Hasselt",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c8c21fd72bfd8182d45122f92c32db79.jpg?v=2"
+    },
+    {
+        "title": "„Das Weihnachtsdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6256d376fa09a93785397c12.637376a64fed046a9e1ff822.das-weihnachtsdorf",
+        "startDate": {
+            "startDate": "2023-12-25T13:00:00.000Z",
+            "endDate": "2023-12-25T22:00:00.000Z",
+            "text": "Heute, 13:00 - 22:00 Uhr"
+        },
+        "place": "Diverse Orte in Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    }
+]
