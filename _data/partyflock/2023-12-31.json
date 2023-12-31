@@ -1,0 +1,4904 @@
+[
+    {
+        "title": "(G)oud & Nieuw",
+        "url": "https://partyflock.nl/party/463638:G-oud-and-Nieuw",
+        "image": "https://partyflock.nl/images/party/463638_610x268_684165/G-oud-and-Nieuw.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "NYX",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Abbyomg",
+                "href": "/artist/113353:Abbyomg"
+            },
+            {
+                "name": "Edward Meunier",
+                "href": "/artist/90058:Edward-Meunier"
+            },
+            {
+                "name": "Graaf Drankula",
+                "href": "/artist/149222:Graaf-Drankula"
+            },
+            {
+                "name": "Gsus Monroy",
+                "href": "/artist/156866:Gsus-Monroy"
+            },
+            {
+                "name": "Krioro",
+                "href": "/artist/113869:Krioro"
+            },
+            {
+                "name": "Lordesius",
+                "href": "/artist/141940:Lordesius"
+            },
+            {
+                "name": "Mrdnb",
+                "href": "/artist/168853:Mrdnb"
+            },
+            {
+                "name": "MXV",
+                "href": "/artist/141090:MXV"
+            },
+            {
+                "name": "The Heartbreaks",
+                "href": "/artist/100355:The-Heartbreaks"
+            },
+            {
+                "name": "Valatii",
+                "href": "/artist/127328:Valatii"
+            },
+            {
+                "name": "Valentijn",
+                "href": "/artist/68690:Valentijn"
+            }
+        ]
+    },
+    {
+        "title": "A Touch of Gold · NYE",
+        "url": "https://partyflock.nl/party/463334:A-Touch-of-Gold",
+        "image": "https://partyflock.nl/images/party/463334_664x246_683336/A-Touch-of-Gold.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Rex",
+            "city": "Hilversum",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "HVK",
+                "href": "/artist/126739:HVK"
+            },
+            {
+                "name": "Joey Keyz",
+                "href": "/artist/120259:Joey-Keyz"
+            },
+            {
+                "name": "Juvanice",
+                "href": "/artist/51054:Juvanice"
+            },
+            {
+                "name": "Nick White",
+                "href": "/artist/87359:Nick-White"
+            },
+            {
+                "name": "Team TNT",
+                "href": "/artist/87561:Team-TNT"
+            },
+            {
+                "name": "The Hoff",
+                "href": "/artist/115178:The-Hoff"
+            }
+        ]
+    },
+    {
+        "title": "Afro Latin Showparty · XXL",
+        "url": "https://partyflock.nl/party/459793:Afro-Latin-Showparty",
+        "image": "https://partyflock.nl/images/party/459793_539x303_678859/Afro-Latin-Showparty.png",
+        "startDate": {
+            "startDate": "2023-12-31T16:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "CanDance Studios",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Louis Moon",
+                "href": "/artist/142966:Louis-Moon"
+            },
+            {
+                "name": "Yudi Fox",
+                "href": "/artist/144476:Yudi-Fox"
+            }
+        ]
+    },
+    {
+        "title": "Amsterdam Nightlife · NYE Hotel Party & Dinner",
+        "url": "https://partyflock.nl/party/459479:Amsterdam-Nightlife",
+        "image": "https://partyflock.nl/images/party/459479_539x303_673135/Amsterdam-Nightlife.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T18:30:00+01:00",
+            "endDate": "2024-01-01T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Crowne Plaza",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gregory Shaggy",
+                "href": "/artist/129128:Gregory-Shaggy"
+            },
+            {
+                "name": "R!CHARDSON",
+                "href": "/artist/168361:R-CHARDSON"
+            }
+        ]
+    },
+    {
+        "title": "Amsterdam Nightlife · NYE Indoor & Outdoor Party",
+        "url": "https://partyflock.nl/party/462579:Amsterdam-Nightlife",
+        "image": "https://partyflock.nl/images/party/462579_539x303_681636/Amsterdam-Nightlife.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Eetcafé Oerknal",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Duane Franklin",
+                "href": "/artist/41791:Duane-Franklin"
+            }
+        ]
+    },
+    {
+        "title": "Amsterdam Nightlife · NYE Festival",
+        "url": "https://partyflock.nl/party/459474:Amsterdam-Nightlife",
+        "image": "https://partyflock.nl/images/party/459474_539x303_673129/Amsterdam-Nightlife.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Q-Factory",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Smash & Aries",
+                "href": "/artist/62130:Smash-and-Aries"
+            }
+        ]
+    },
+    {
+        "title": "Amsterdam Nightlife · NYE Party",
+        "url": "https://partyflock.nl/party/459480:Amsterdam-Nightlife",
+        "image": "https://partyflock.nl/images/party/459480_539x303_681639/Amsterdam-Nightlife.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Amsterdam Sail Ship Party · NYE",
+        "url": "https://partyflock.nl/party/441057:Amsterdam-Sail-Ship-Party",
+        "image": "https://partyflock.nl/images/party/441057_511x319_631086/Amsterdam-Sail-Ship-Party.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "unspecified boat",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Amsterdam Techno Sessions · NYE Special",
+        "url": "https://partyflock.nl/party/464393:Amsterdam-Techno-Sessions",
+        "image": "https://partyflock.nl/images/party/464393_404x404_686016/Amsterdam-Techno-Sessions.png",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Industrialyzer",
+                "href": "/artist/43047:Industrialyzer"
+            },
+            {
+                "name": "Marco Ramos",
+                "href": "/artist/125617:Marco-Ramos"
+            },
+            {
+                "name": "Ritzi Lee",
+                "href": "/artist/1946:Ritzi-Lee"
+            }
+        ]
+    },
+    {
+        "title": "Arabian Flavour · NYE",
+        "url": "https://partyflock.nl/party/464495:Arabian-Flavour",
+        "image": "https://partyflock.nl/images/party/464495_361x452_686221/Arabian-Flavour.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "The Shadow",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Awakenings · New Years",
+        "url": "https://partyflock.nl/party/461672:Awakenings",
+        "image": "https://partyflock.nl/images/party/461672_361x452_679029/Awakenings.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T08:59:59+01:00"
+        },
+        "place": {
+            "name": "Gashouder",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Blawan",
+                "href": "/artist/60628:Blawan"
+            },
+            {
+                "name": "Chris Liebing",
+                "href": "/artist/194:Chris-Liebing"
+            },
+            {
+                "name": "Helena Hauff",
+                "href": "/artist/73847:Helena-Hauff"
+            },
+            {
+                "name": "Ki/Ki",
+                "href": "/artist/106679:Ki-Ki"
+            },
+            {
+                "name": "Len Faki",
+                "href": "/artist/33900:Len-Faki"
+            },
+            {
+                "name": "Luke Slater",
+                "href": "/artist/277:Luke-Slater"
+            },
+            {
+                "name": "MARRØN",
+                "href": "/artist/84233:MARRON"
+            },
+            {
+                "name": "Selene",
+                "href": "/artist/133308:Selene"
+            }
+        ]
+    },
+    {
+        "title": "Baaps Bommen Tour",
+        "url": "https://partyflock.nl/party/462045:Baaps-Bommen-Tour",
+        "image": "https://partyflock.nl/images/party/462045_404x404_680298/Baaps-Bommen-Tour.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T08:29:59+01:00"
+        },
+        "place": {
+            "name": "Lucky",
+            "city": "Rijssen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DIKKE BAAP",
+                "href": "/artist/152511:DIKKE-BAAP"
+            },
+            {
+                "name": "EZG",
+                "href": "/artist/98481:EZG"
+            },
+            {
+                "name": "Klapperkebab",
+                "href": "/artist/156477:Klapperkebab"
+            },
+            {
+                "name": "Major Conspiracy",
+                "href": "/artist/110109:Major-Conspiracy"
+            },
+            {
+                "name": "Nat IJs",
+                "href": "/artist/167302:Nat-IJs"
+            },
+            {
+                "name": "Pombak",
+                "href": "/artist/155444:Pombak"
+            },
+            {
+                "name": "Pompstation",
+                "href": "/artist/116024:Pompstation"
+            },
+            {
+                "name": "Yung Petsi",
+                "href": "/artist/121333:Yung-Petsi"
+            }
+        ]
+    },
+    {
+        "title": "Back to the 80s/90s/00s · NYE Party",
+        "url": "https://partyflock.nl/party/462960:Back-to-the-80s-90s-00s",
+        "image": "https://partyflock.nl/images/party/462960_508x321_682357/Back-to-the-80s-90s-00s.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Kurhaus",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Fullscale",
+                "href": "/artist/35124:Fullscale"
+            },
+            {
+                "name": "La Vondèl",
+                "href": "/artist/64833:La-Vondel"
+            },
+            {
+                "name": "Miss Sugaware",
+                "href": "/artist/34940:Miss-Sugaware"
+            }
+        ]
+    },
+    {
+        "title": "Bakkana Owru Yari Festival",
+        "url": "https://partyflock.nl/party/464645:Bakkana-Owru-Yari-Festival",
+        "image": "https://partyflock.nl/images/party/464645_303x539_686597/Bakkana-Owru-Yari-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T16:00:00+01:00",
+            "endDate": "2023-12-31T22:29:59+01:00"
+        },
+        "place": {
+            "name": "Maassilo",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "2-Remember",
+                "href": "/artist/95748:2-Remember"
+            },
+            {
+                "name": "D-Jay",
+                "href": "/artist/46548:D-Jay"
+            },
+            {
+                "name": "Delany",
+                "href": "/artist/115495:Delany"
+            },
+            {
+                "name": "DYLVN",
+                "href": "/artist/89378:DYLVN"
+            },
+            {
+                "name": "Fasta",
+                "href": "/artist/35746:Fasta"
+            },
+            {
+                "name": "Jayh Martina",
+                "href": "/artist/99633:Jayh-Martina"
+            },
+            {
+                "name": "Jones Suave",
+                "href": "/artist/97626:Jones-Suave"
+            },
+            {
+                "name": "JP",
+                "href": "/artist/106428:JP"
+            },
+            {
+                "name": "La Fiesta",
+                "href": "/artist/25260:La-Fiesta"
+            },
+            {
+                "name": "Latu",
+                "href": "/artist/93758:Latu"
+            },
+            {
+                "name": "Meo_Mania",
+                "href": "/artist/40867:Meo_Mania"
+            },
+            {
+                "name": "Passion",
+                "href": "/artist/104465:Passion"
+            },
+            {
+                "name": "Poke",
+                "href": "/artist/91174:Poke"
+            },
+            {
+                "name": "R-Rewind",
+                "href": "/artist/99693:R-Rewind"
+            },
+            {
+                "name": "Robin Roxette",
+                "href": "/artist/98626:Robin-Roxette"
+            },
+            {
+                "name": "Senzy",
+                "href": "/artist/84386:Senzy"
+            },
+            {
+                "name": "SHANN",
+                "href": "/artist/95699:SHANN"
+            },
+            {
+                "name": "Shockman",
+                "href": "/artist/102668:Shockman"
+            },
+            {
+                "name": "Yxng Le",
+                "href": "/artist/122879:Yxng-Le"
+            }
+        ]
+    },
+    {
+        "title": "BASIS · NYE",
+        "url": "https://partyflock.nl/party/463188:BASIS",
+        "image": "https://partyflock.nl/images/party/463188_404x404_685642/BASIS.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "BASIS",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "François X",
+                "href": "/artist/80394:Francois-X"
+            },
+            {
+                "name": "Lobster",
+                "href": "/artist/99365:Lobster"
+            },
+            {
+                "name": "Sterac",
+                "href": "/artist/9814:Sterac"
+            }
+        ]
+    },
+    {
+        "title": "Bassmania",
+        "url": "https://partyflock.nl/party/460398:Bassmania",
+        "image": "https://partyflock.nl/images/party/460398_558x292_675778/Bassmania.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2023-12-31T22:59:59+01:00"
+        },
+        "place": {
+            "name": "Matrix",
+            "city": "Bochum",
+            "country": "Duitsland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Bitter Glitter · NYE",
+        "url": "https://partyflock.nl/party/464310:Bitter-Glitter",
+        "image": "https://partyflock.nl/images/party/464310_664x246_685843/Bitter-Glitter.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Bitterzoet",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Boiler Room × Blackworks · New Year Edition",
+        "url": "https://partyflock.nl/party/462450:Boiler-Room-x-Blackworks",
+        "image": "https://partyflock.nl/images/party/462450_361x452_681407/Boiler-Room-x-Blackworks.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T07:14:59+01:00"
+        },
+        "place": {
+            "name": "Cubierta de Leganés",
+            "city": "Madrid",
+            "country": "Spanje"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Bring It Back Now · Oud&Nieuw",
+        "url": "https://partyflock.nl/party/446886:Bring-It-Back-Now",
+        "image": "https://partyflock.nl/images/party/446886_495x330_644735/Bring-It-Back-Now.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Orangerie",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "90's Now",
+                "href": "/artist/61210:90s-Now"
+            },
+            {
+                "name": "Kidnap the DJ",
+                "href": "/artist/67427:Kidnap-the-DJ"
+            },
+            {
+                "name": "Rondje Doe Maar",
+                "href": "/artist/123060:Rondje-Doe-Maar"
+            },
+            {
+                "name": "Silent Disco Circus",
+                "href": "/artist/169206:Silent-Disco-Circus"
+            }
+        ]
+    },
+    {
+        "title": "Brutality · The Hardest NYE",
+        "url": "https://partyflock.nl/party/461499:Brutality",
+        "image": "https://partyflock.nl/images/party/461499_539x303_678504/Brutality.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Time Out",
+            "city": "Gemert",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Barber",
+                "href": "/artist/102191:Barber"
+            },
+            {
+                "name": "Bulletproof",
+                "href": "/artist/107241:Bulletproof"
+            },
+            {
+                "name": "D-Master",
+                "href": "/artist/34533:D-Master"
+            },
+            {
+                "name": "DRS",
+                "href": "/artist/80720:DRS"
+            },
+            {
+                "name": "F. NøIzE",
+                "href": "/artist/72681:F-NoIzE"
+            },
+            {
+                "name": "Hard Effectz",
+                "href": "/artist/97180:Hard-Effectz"
+            },
+            {
+                "name": "Hysta",
+                "href": "/artist/119464:Hysta"
+            },
+            {
+                "name": "Juliëx",
+                "href": "/artist/98195:Juliex"
+            },
+            {
+                "name": "Lunakorpz",
+                "href": "/artist/98780:Lunakorpz"
+            },
+            {
+                "name": "Major Conspiracy",
+                "href": "/artist/110109:Major-Conspiracy"
+            },
+            {
+                "name": "Manifest Destiny",
+                "href": "/artist/136182:Manifest-Destiny"
+            },
+            {
+                "name": "Røza",
+                "href": "/artist/143259:Roza"
+            },
+            {
+                "name": "S-Kill",
+                "href": "/artist/20220:S-Kill"
+            },
+            {
+                "name": "Samynator",
+                "href": "/artist/144535:Samynator"
+            },
+            {
+                "name": "Satirized",
+                "href": "/artist/140068:Satirized"
+            },
+            {
+                "name": "Soulblast",
+                "href": "/artist/115667:Soulblast"
+            },
+            {
+                "name": "Spitnoise",
+                "href": "/artist/77788:Spitnoise"
+            },
+            {
+                "name": "STV",
+                "href": "/artist/105391:STV"
+            },
+            {
+                "name": "Tha Watcher",
+                "href": "/artist/27464:Tha-Watcher"
+            },
+            {
+                "name": "Vandal!sm",
+                "href": "/artist/79156:Vandal-sm"
+            }
+        ]
+    },
+    {
+        "title": "Cache Royale Invites · Sperando Tiru",
+        "url": "https://partyflock.nl/party/461602:Cache-Royale-Invites",
+        "image": "https://partyflock.nl/images/party/461602_404x404_678765/Cache-Royale-Invites.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2023-12-31T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Villa Thalia",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cache Royale",
+                "href": "/artist/76829:Cache-Royale"
+            },
+            {
+                "name": "Echi I Su Grupo",
+                "href": "/artist/167714:Echi-I-Su-Grupo"
+            },
+            {
+                "name": "Jhonsen",
+                "href": "/artist/158466:Jhonsen"
+            },
+            {
+                "name": "Jowie",
+                "href": "/artist/158467:Jowie"
+            },
+            {
+                "name": "Rasta Le",
+                "href": "/artist/128321:Rasta-Le"
+            }
+        ]
+    },
+    {
+        "title": "Canvas NYE · Cloud 9",
+        "url": "https://partyflock.nl/party/464111:Canvas-NYE",
+        "image": "https://partyflock.nl/images/party/464111_539x303_685413/Canvas-NYE.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Canvas",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Cheers · New Years Eve",
+        "url": "https://partyflock.nl/party/462933:Cheers",
+        "image": "https://partyflock.nl/images/party/462933_404x404_682311/Cheers.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Plein",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Erick D'Main",
+                "href": "/artist/168484:Erick-DMain"
+            },
+            {
+                "name": "Kineaux",
+                "href": "/artist/86556:Kineaux"
+            },
+            {
+                "name": "Plein Residents",
+                "href": "/artist/168483:Plein-Residents"
+            }
+        ]
+    },
+    {
+        "title": "Chin Chin Club · NYE",
+        "url": "https://partyflock.nl/party/464039:Chin-Chin-Club",
+        "image": "https://partyflock.nl/images/party/464039_404x404_685237/Chin-Chin-Club.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Chin Chin Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Club Freya · NYE",
+        "url": "https://partyflock.nl/party/464047:Club-Freya",
+        "image": "https://partyflock.nl/images/party/464047_361x452_685246/Club-Freya.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:00:00+01:00",
+            "endDate": "2024-01-01T06:29:59+01:00"
+        },
+        "place": {
+            "name": "Rolluik",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Club Stëlz XXL · Oud & Nieuw",
+        "url": "https://partyflock.nl/party/463178:Club-Stelz-XXL",
+        "image": "https://partyflock.nl/images/party/463178_539x303_682887/Club-Stelz-XXL.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:00:00+01:00",
+            "endDate": "2024-01-01T06:29:59+01:00"
+        },
+        "place": {
+            "name": "Studio Tilburg",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dio",
+                "href": "/artist/39171:Dio"
+            },
+            {
+                "name": "Geza Weisz",
+                "href": "/artist/62265:Geza-Weisz"
+            },
+            {
+                "name": "Superlessy",
+                "href": "/artist/84157:Superlessy"
+            },
+            {
+                "name": "The Partysquad",
+                "href": "/artist/7405:The-Partysquad"
+            },
+            {
+                "name": "Yung Volwassen",
+                "href": "/artist/163321:Yung-Volwassen"
+            }
+        ]
+    },
+    {
+        "title": "Clubnight · New Years Eve",
+        "url": "https://partyflock.nl/party/462285:Clubnight",
+        "image": "https://partyflock.nl/images/party/462285_404x404_668075/Clubnight.png",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "On The Rocks",
+            "city": "Zoetermeer",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Countdown · New Year's Invasion",
+        "url": "https://partyflock.nl/party/456202:Countdown",
+        "image": "https://partyflock.nl/images/party/456202_558x292_678677/Countdown.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T18:00:00+01:00",
+            "endDate": "2023-12-31T17:59:59+01:00"
+        },
+        "place": {
+            "name": "National Orange Show Events Center",
+            "city": "Los Angeles",
+            "country": "Verenigde Staten"
+        },
+        "lineup": []
+    },
+    {
+        "title": "CUE · NYE",
+        "url": "https://partyflock.nl/party/462261:CUE",
+        "image": "https://partyflock.nl/images/party/462261_396x413_680863/CUE.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Cue",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mula B",
+                "href": "/artist/95008:Mula-B"
+            }
+        ]
+    },
+    {
+        "title": "Dagschotel · 2023, it's a wrap",
+        "url": "https://partyflock.nl/party/464191:Dagschotel",
+        "image": "https://partyflock.nl/images/party/464191_558x292_685590/Dagschotel.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "WillemEen",
+            "city": "Arnhem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Chefs de Partie",
+                "href": "/artist/91827:Chefs-de-Partie"
+            },
+            {
+                "name": "Klokpack6ix",
+                "href": "/artist/169147:Klokpack6ix"
+            },
+            {
+                "name": "Tentacles",
+                "href": "/artist/153569:Tentacles"
+            }
+        ]
+    },
+    {
+        "title": "Dance · New Years Eve",
+        "url": "https://partyflock.nl/party/462723:Dance",
+        "image": "https://partyflock.nl/images/party/462723_404x404_681936/Dance.png",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Supperclub Cruise",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Dance on Trance · New Years Eve",
+        "url": "https://partyflock.nl/party/447422:Dance-on-Trance",
+        "image": "https://partyflock.nl/images/party/447422_340x480_685968/Dance-on-Trance.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Rodenburg",
+            "city": "Beesd",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ashley Wallbridge",
+                "href": "/artist/50733:Ashley-Wallbridge"
+            },
+            {
+                "name": "Gui",
+                "href": "/artist/139226:Gui"
+            },
+            {
+                "name": "Maarten de Jong",
+                "href": "/artist/39969:Maarten-de-Jong"
+            },
+            {
+                "name": "Mark Sherry",
+                "href": "/artist/30755:Mark-Sherry"
+            },
+            {
+                "name": "Maus",
+                "href": "/artist/76338:Maus"
+            },
+            {
+                "name": "Midix",
+                "href": "/artist/63090:Midix"
+            },
+            {
+                "name": "Renji",
+                "href": "/artist/36974:Renji"
+            },
+            {
+                "name": "Rhun",
+                "href": "/artist/82156:Rhun"
+            },
+            {
+                "name": "Westerman & Oostink",
+                "href": "/artist/88857:Westerman-and-Oostink"
+            }
+        ]
+    },
+    {
+        "title": "De Brabantse Winter · Week 2",
+        "url": "https://partyflock.nl/party/462513:De-Brabantse-Winter",
+        "image": "https://partyflock.nl/images/party/462513_558x292_681524/De-Brabantse-Winter.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T12:00:00+01:00",
+            "endDate": "2023-12-31T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Brabanthallen",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Quiz",
+                "href": "/artist/134879:Quiz"
+            }
+        ]
+    },
+    {
+        "title": "De Kruik · New Year",
+        "url": "https://partyflock.nl/party/464161:De-Kruik",
+        "image": "https://partyflock.nl/images/party/464161_404x404_685511/De-Kruik.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:00:00+01:00",
+            "endDate": "2024-01-01T06:29:59+01:00"
+        },
+        "place": {
+            "name": "De Kruik",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "De Leven",
+        "url": "https://partyflock.nl/party/444786:De-Leven",
+        "image": "https://partyflock.nl/images/party/444786_539x303_639638/De-Leven.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Doornroosje",
+            "city": "Nijmegen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Koko Kelly",
+                "href": "/artist/87966:Koko-Kelly"
+            }
+        ]
+    },
+    {
+        "title": "De Nachthalte · Micro Festival NYE",
+        "url": "https://partyflock.nl/party/464306:De-Nachthalte",
+        "image": "https://partyflock.nl/images/party/464306_404x404_685836/De-Nachthalte.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:30:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "HAL 25",
+            "city": "Alkmaar",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Baz Reznik",
+                "href": "/artist/35556:Baz-Reznik"
+            },
+            {
+                "name": "Bliepbloep",
+                "href": "/artist/169198:Bliepbloep"
+            },
+            {
+                "name": "Boris Werner",
+                "href": "/artist/1276:Boris-Werner"
+            },
+            {
+                "name": "Boss Priester",
+                "href": "/artist/97555:Boss-Priester"
+            },
+            {
+                "name": "Crabs",
+                "href": "/artist/70983:Crabs"
+            },
+            {
+                "name": "Erv The Perv",
+                "href": "/artist/169196:Erv-The-Perv"
+            },
+            {
+                "name": "Herr Alt",
+                "href": "/artist/112717:Herr-Alt"
+            },
+            {
+                "name": "Ive Lovers",
+                "href": "/artist/147642:Ive-Lovers"
+            },
+            {
+                "name": "Jnsen",
+                "href": "/artist/97897:Jnsen"
+            },
+            {
+                "name": "Maurice Baas",
+                "href": "/artist/657:Maurice-Baas"
+            },
+            {
+                "name": "Maya Papaya",
+                "href": "/artist/168827:Maya-Papaya"
+            },
+            {
+                "name": "Monsieur Plastique",
+                "href": "/artist/66282:Monsieur-Plastique"
+            },
+            {
+                "name": "Rens With Benefits",
+                "href": "/artist/157507:Rens-With-Benefits"
+            },
+            {
+                "name": "Robby Sax",
+                "href": "/artist/169199:Robby-Sax"
+            },
+            {
+                "name": "Stefnitz",
+                "href": "/artist/101724:Stefnitz"
+            },
+            {
+                "name": "Testbeeld",
+                "href": "/artist/169197:Testbeeld"
+            }
+        ]
+    },
+    {
+        "title": "Defected · NYE",
+        "url": "https://partyflock.nl/party/461695:Defected",
+        "image": "https://partyflock.nl/images/party/461695_539x303_679097/Defected.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2024-01-01T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Wembley Arena",
+            "city": "London",
+            "country": "Verenigd Koninkrijk"
+        },
+        "lineup": [
+            {
+                "name": "Ferreck Dawn",
+                "href": "/artist/33370:Ferreck-Dawn"
+            },
+            {
+                "name": "Low Steppa",
+                "href": "/artist/79646:Low-Steppa"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "Prunk",
+                "href": "/artist/53923:Prunk"
+            },
+            {
+                "name": "Rio Tashan",
+                "href": "/artist/155207:Rio-Tashan"
+            },
+            {
+                "name": "Sam Divine",
+                "href": "/artist/64067:Sam-Divine"
+            }
+        ]
+    },
+    {
+        "title": "Disco Snolly · Happy New Year",
+        "url": "https://partyflock.nl/party/462809:Disco-Snolly",
+        "image": "https://partyflock.nl/images/party/462809_361x452_682082/Disco-Snolly.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Cul de Sac",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Disco-Train · New Year Party",
+        "url": "https://partyflock.nl/party/458599:Disco-Train",
+        "image": "https://partyflock.nl/images/party/458599_558x292_619756/Disco-Train.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2023-12-31T21:59:59+01:00"
+        },
+        "place": {
+            "name": "Bibelot",
+            "city": "Dordrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Disco-Train · New Year Party",
+        "url": "https://partyflock.nl/party/458600:Disco-Train",
+        "image": "https://partyflock.nl/images/party/458600_558x292_619756/Disco-Train.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2023-12-31T21:59:59+01:00"
+        },
+        "place": {
+            "name": "O'Learys Mall",
+            "city": "Leidschendam-Voorburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Dual Damage · NYE",
+        "url": "https://partyflock.nl/party/461006:Dual-Damage",
+        "image": "https://partyflock.nl/images/party/461006_370x441_677328/Dual-Damage.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T01:29:59+01:00"
+        },
+        "place": {
+            "name": "Oscars",
+            "city": "Raamsdonksveer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dual Damage",
+                "href": "/artist/147130:Dual-Damage"
+            }
+        ]
+    },
+    {
+        "title": "Encore · New Years Eve",
+        "url": "https://partyflock.nl/party/462603:Encore",
+        "image": "https://partyflock.nl/images/party/462603_558x292_686656/Encore.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Backyard",
+                "href": "/artist/156021:Backyard"
+            },
+            {
+                "name": "Baeman",
+                "href": "/artist/129364:Baeman"
+            },
+            {
+                "name": "Duane Franklin",
+                "href": "/artist/41791:Duane-Franklin"
+            },
+            {
+                "name": "ESSI",
+                "href": "/artist/126254:ESSI"
+            },
+            {
+                "name": "Fullscale",
+                "href": "/artist/35124:Fullscale"
+            },
+            {
+                "name": "Guerro",
+                "href": "/artist/126253:Guerro"
+            },
+            {
+                "name": "Jahwin",
+                "href": "/artist/94765:Jahwin"
+            },
+            {
+                "name": "Lee Millz",
+                "href": "/artist/105639:Lee-Millz"
+            },
+            {
+                "name": "Leeroy",
+                "href": "/artist/71773:Leeroy"
+            },
+            {
+                "name": "Mathiéux",
+                "href": "/artist/102743:Mathieux"
+            },
+            {
+                "name": "Miggson",
+                "href": "/artist/144016:Miggson"
+            },
+            {
+                "name": "Murk",
+                "href": "/artist/91689:Murk"
+            },
+            {
+                "name": "Nikky Adriana",
+                "href": "/artist/95920:Nikky-Adriana"
+            },
+            {
+                "name": "Prime",
+                "href": "/artist/67097:Prime"
+            },
+            {
+                "name": "Ray Escobar",
+                "href": "/artist/54267:Ray-Escobar"
+            },
+            {
+                "name": "Rum on the Rocks",
+                "href": "/artist/102131:Rum-on-the-Rocks"
+            },
+            {
+                "name": "SMP",
+                "href": "/artist/59699:SMP"
+            },
+            {
+                "name": "Wasserette",
+                "href": "/artist/111251:Wasserette"
+            }
+        ]
+    },
+    {
+        "title": "End of Year Special",
+        "url": "https://partyflock.nl/party/463283:End-of-Year-Special",
+        "image": "https://partyflock.nl/images/party/463283_404x404_685063/End-of-Year-Special.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T06:29:59+01:00"
+        },
+        "place": {
+            "name": "City Theater",
+            "city": "Schijndel",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "CRØQ",
+                "href": "/artist/155762:CROQ"
+            },
+            {
+                "name": "End of Year",
+                "href": "/artist/169030:End-of-Year"
+            },
+            {
+                "name": "Mats",
+                "href": "/artist/147381:Mats"
+            },
+            {
+                "name": "Satirized",
+                "href": "/artist/140068:Satirized"
+            },
+            {
+                "name": "Vasto",
+                "href": "/artist/99856:Vasto"
+            }
+        ]
+    },
+    {
+        "title": "Escape · New Year's Eve",
+        "url": "https://partyflock.nl/party/464272:Escape",
+        "image": "https://partyflock.nl/images/party/464272_664x246_685777/Escape.png",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Escape Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BAM BAM",
+                "href": "/artist/100584:BAM-BAM"
+            },
+            {
+                "name": "Cainam",
+                "href": "/artist/59743:Cainam"
+            },
+            {
+                "name": "Cathy",
+                "href": "/artist/111608:Cathy"
+            },
+            {
+                "name": "Damien",
+                "href": "/artist/169188:Damien"
+            },
+            {
+                "name": "Danney Canova",
+                "href": "/artist/30661:Danney-Canova"
+            },
+            {
+                "name": "Dion Sidney",
+                "href": "/artist/101956:Dion-Sidney"
+            },
+            {
+                "name": "Eclectic Twins",
+                "href": "/artist/169186:Eclectic-Twins"
+            },
+            {
+                "name": "Fresh B",
+                "href": "/artist/169187:Fresh-B"
+            },
+            {
+                "name": "Jake Tarry",
+                "href": "/artist/76607:Jake-Tarry"
+            },
+            {
+                "name": "Jennifer Cooke",
+                "href": "/artist/59560:Jennifer-Cooke"
+            },
+            {
+                "name": "Lukas Vane",
+                "href": "/artist/98840:Lukas-Vane"
+            },
+            {
+                "name": "Raymundo",
+                "href": "/artist/2629:Raymundo"
+            },
+            {
+                "name": "Vincent",
+                "href": "/artist/115769:Vincent"
+            },
+            {
+                "name": "Waylon Pereira",
+                "href": "/artist/55560:Waylon-Pereira"
+            },
+            {
+                "name": "Yannick",
+                "href": "/artist/105778:Yannick"
+            },
+            {
+                "name": "yaNto",
+                "href": "/artist/20740:yaNto"
+            }
+        ]
+    },
+    {
+        "title": "EXTRA · New Years Eve",
+        "url": "https://partyflock.nl/party/461609:EXTRA",
+        "image": "https://partyflock.nl/images/party/461609_558x292_678788/EXTRA.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Grenswerk",
+            "city": "Venlo",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Fabulous · New Years Eve",
+        "url": "https://partyflock.nl/party/464336:Fabulous",
+        "image": "https://partyflock.nl/images/party/464336_539x303_685882/Fabulous.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2023-12-31T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Maggy",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "FAME · New Years Eve",
+        "url": "https://partyflock.nl/party/464962:FAME",
+        "image": "https://partyflock.nl/images/party/464962_404x404_687412/FAME.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "OXY",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Glades",
+                "href": "/artist/105517:Glades"
+            },
+            {
+                "name": "IliassopdeBeat",
+                "href": "/artist/97011:IliassopdeBeat"
+            },
+            {
+                "name": "Izzy Bizzy",
+                "href": "/artist/76575:Izzy-Bizzy"
+            },
+            {
+                "name": "MIMI",
+                "href": "/artist/92083:MIMI"
+            },
+            {
+                "name": "Mojo",
+                "href": "/artist/124511:Mojo"
+            },
+            {
+                "name": "Mula B",
+                "href": "/artist/95008:Mula-B"
+            },
+            {
+                "name": "WEF",
+                "href": "/artist/86714:WEF"
+            }
+        ]
+    },
+    {
+        "title": "Fcknye Festival",
+        "url": "https://partyflock.nl/party/446731:Fcknye-Festival",
+        "image": "https://partyflock.nl/images/party/446731_610x268_677231/Fcknye-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Brussels expo",
+            "city": "Brussel",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Alignment",
+                "href": "/artist/124435:Alignment"
+            },
+            {
+                "name": "Amélie Lens",
+                "href": "/artist/90740:Amelie-Lens"
+            },
+            {
+                "name": "Anetha",
+                "href": "/artist/91344:Anetha"
+            },
+            {
+                "name": "Angerfist",
+                "href": "/artist/1779:Angerfist"
+            },
+            {
+                "name": "ascendant vierge",
+                "href": "/artist/142993:ascendant-vierge"
+            },
+            {
+                "name": "BillX",
+                "href": "/artist/50591:BillX"
+            },
+            {
+                "name": "Creeds",
+                "href": "/artist/107768:Creeds"
+            },
+            {
+                "name": "Dirtyphonics",
+                "href": "/artist/48705:Dirtyphonics"
+            },
+            {
+                "name": "Dr. Peacock",
+                "href": "/artist/42257:Dr-Peacock"
+            },
+            {
+                "name": "DYEN",
+                "href": "/artist/110483:DYEN"
+            },
+            {
+                "name": "El Desperado",
+                "href": "/artist/143000:El-Desperado"
+            },
+            {
+                "name": "Eptic",
+                "href": "/artist/62926:Eptic"
+            },
+            {
+                "name": "Hysta",
+                "href": "/artist/119464:Hysta"
+            },
+            {
+                "name": "Josman",
+                "href": "/artist/118857:Josman"
+            },
+            {
+                "name": "Lorenzo",
+                "href": "/artist/64210:Lorenzo"
+            },
+            {
+                "name": "Macky Gee",
+                "href": "/artist/75524:Macky-Gee"
+            },
+            {
+                "name": "Mandragora",
+                "href": "/artist/97318:Mandragora"
+            },
+            {
+                "name": "Nes",
+                "href": "/artist/159501:Nes"
+            },
+            {
+                "name": "Nico Moreno",
+                "href": "/artist/104293:Nico-Moreno"
+            },
+            {
+                "name": "PLK",
+                "href": "/artist/128573:PLK"
+            },
+            {
+                "name": "Rebelion",
+                "href": "/artist/83696:Rebelion"
+            },
+            {
+                "name": "Russian Village Boys",
+                "href": "/artist/113738:Russian-Village-Boys"
+            },
+            {
+                "name": "Sara Landry",
+                "href": "/artist/138894:Sara-Landry"
+            },
+            {
+                "name": "Sefa",
+                "href": "/artist/95254:Sefa"
+            },
+            {
+                "name": "Shlømo",
+                "href": "/artist/90259:Shlomo"
+            },
+            {
+                "name": "Sköne",
+                "href": "/artist/147115:Skone"
+            },
+            {
+                "name": "Trym",
+                "href": "/artist/107429:Trym"
+            },
+            {
+                "name": "Unlogix",
+                "href": "/artist/117698:Unlogix"
+            },
+            {
+                "name": "VCL",
+                "href": "/artist/130982:VCL"
+            },
+            {
+                "name": "Vini Vici",
+                "href": "/artist/91733:Vini-Vici"
+            },
+            {
+                "name": "Vladimir Cauchemar",
+                "href": "/artist/114226:Vladimir-Cauchemar"
+            },
+            {
+                "name": "VTSS",
+                "href": "/artist/116525:VTSS"
+            },
+            {
+                "name": "Winnterzuko",
+                "href": "/artist/164894:Winnterzuko"
+            }
+        ]
+    },
+    {
+        "title": "Fiesta Macumba · NYE",
+        "url": "https://partyflock.nl/party/462674:Fiesta-Macumba",
+        "image": "https://partyflock.nl/images/party/462674_558x292_681847/Fiesta-Macumba.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Amaze",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "FLEX werken · NYE Special",
+        "url": "https://partyflock.nl/party/463053:FLEX-werken",
+        "image": "https://partyflock.nl/images/party/463053_538x303_682592/FLEX-werken.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Amstelhaven",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Flow · NYE",
+        "url": "https://partyflock.nl/party/461794:Flow",
+        "image": "https://partyflock.nl/images/party/461794_539x303_679504/Flow.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Musis",
+            "city": "Arnhem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Franky Rizardo",
+                "href": "/artist/30284:Franky-Rizardo"
+            }
+        ]
+    },
+    {
+        "title": "Frank · NYE",
+        "url": "https://partyflock.nl/party/463872:Frank",
+        "image": "https://partyflock.nl/images/party/463872_361x452_684821/Frank.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2023-12-31T22:59:59+01:00"
+        },
+        "place": {
+            "name": "Cruise Terminal",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Free Your Mind · NYE Special",
+        "url": "https://partyflock.nl/party/459440:Free-Your-Mind",
+        "image": "https://partyflock.nl/images/party/459440_538x303_678093/Free-Your-Mind.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ammé",
+                "href": "/artist/155799:Amme"
+            },
+            {
+                "name": "Benny Rodrigues",
+                "href": "/artist/44:Benny-Rodrigues"
+            },
+            {
+                "name": "Dax J",
+                "href": "/artist/88839:Dax-J"
+            },
+            {
+                "name": "DYEN",
+                "href": "/artist/110483:DYEN"
+            },
+            {
+                "name": "Fatima Hajji",
+                "href": "/artist/58405:Fatima-Hajji"
+            },
+            {
+                "name": "Franky Rizardo",
+                "href": "/artist/30284:Franky-Rizardo"
+            },
+            {
+                "name": "Klangkuenstler",
+                "href": "/artist/71799:Klangkuenstler"
+            },
+            {
+                "name": "Kobosil",
+                "href": "/artist/82057:Kobosil"
+            },
+            {
+                "name": "Paula Temple",
+                "href": "/artist/78230:Paula-Temple"
+            },
+            {
+                "name": "SNTS",
+                "href": "/artist/90063:SNTS"
+            }
+        ]
+    },
+    {
+        "title": "Free Your Mind · NYE Special",
+        "url": "https://partyflock.nl/party/459441:Free-Your-Mind",
+        "image": "https://partyflock.nl/images/party/459441_539x303_678097/Free-Your-Mind.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Ahoy",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Amélie Lens",
+                "href": "/artist/90740:Amelie-Lens"
+            },
+            {
+                "name": "Dax J",
+                "href": "/artist/88839:Dax-J"
+            },
+            {
+                "name": "I Hate Models",
+                "href": "/artist/95926:I-Hate-Models"
+            },
+            {
+                "name": "Massimo Mephisto",
+                "href": "/artist/53478:Massimo-Mephisto"
+            },
+            {
+                "name": "Paula Temple",
+                "href": "/artist/78230:Paula-Temple"
+            },
+            {
+                "name": "Speedy J",
+                "href": "/artist/82:Speedy-J"
+            },
+            {
+                "name": "VTSS",
+                "href": "/artist/116525:VTSS"
+            }
+        ]
+    },
+    {
+        "title": "Full Moon · NYE",
+        "url": "https://partyflock.nl/party/463963:Full-Moon",
+        "image": "https://partyflock.nl/images/party/463963_404x404_685068/Full-Moon.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "De Nobel",
+            "city": "Leiden",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Happy Feelings Soundsystem",
+                "href": "/artist/94067:Happy-Feelings-Soundsystem"
+            },
+            {
+                "name": "Parrox",
+                "href": "/artist/169031:Parrox"
+            },
+            {
+                "name": "SANTØS",
+                "href": "/artist/162611:SANTOS"
+            },
+            {
+                "name": "SĘRTEC",
+                "href": "/artist/168138:SERTEC"
+            },
+            {
+                "name": "Technika",
+                "href": "/artist/158296:Technika"
+            },
+            {
+                "name": "Timo on Decks",
+                "href": "/artist/166132:Timo-on-Decks"
+            },
+            {
+                "name": "Torsten",
+                "href": "/artist/163421:Torsten"
+            },
+            {
+                "name": "Zwayne",
+                "href": "/artist/117719:Zwayne"
+            }
+        ]
+    },
+    {
+        "title": "Further · NYE",
+        "url": "https://partyflock.nl/party/463354:Further",
+        "image": "https://partyflock.nl/images/party/463354_361x452_683357/Further.png",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "RADION",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Azucy",
+                "href": "/artist/143388:Azucy"
+            },
+            {
+                "name": "Bone",
+                "href": "/artist/12986:Bone"
+            },
+            {
+                "name": "Djaro",
+                "href": "/artist/129397:Djaro"
+            },
+            {
+                "name": "Jack Fresia",
+                "href": "/artist/103158:Jack-Fresia"
+            },
+            {
+                "name": "Mr. Andy",
+                "href": "/artist/169342:Mr-Andy"
+            },
+            {
+                "name": "Tälor",
+                "href": "/artist/156728:Talor"
+            },
+            {
+                "name": "Toñio Flaco",
+                "href": "/artist/158620:Tonio-Flaco"
+            },
+            {
+                "name": "Yeti Mind Tricks",
+                "href": "/artist/167663:Yeti-Mind-Tricks"
+            }
+        ]
+    },
+    {
+        "title": "Geheimzinnig × Soulful Sessions · NYE",
+        "url": "https://partyflock.nl/party/462824:Geheimzinnig-x-Soulful-Sessions",
+        "image": "https://partyflock.nl/images/party/462824_361x452_682126/Geheimzinnig-x-Soulful-Sessions.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T09:29:59+01:00"
+        },
+        "place": {
+            "name": "Ampere",
+            "city": "Antwerpen",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Bibi Seck",
+                "href": "/artist/107649:Bibi-Seck"
+            },
+            {
+                "name": "David Vunk",
+                "href": "/artist/718:David-Vunk"
+            },
+            {
+                "name": "Geheimzinnig",
+                "href": "/artist/128863:Geheimzinnig"
+            },
+            {
+                "name": "Peugeot",
+                "href": "/artist/128597:Peugeot"
+            }
+        ]
+    },
+    {
+        "title": "Gemaskerd Bal · Het oud & nieuw feest",
+        "url": "https://partyflock.nl/party/461634:Gemaskerd-Bal",
+        "image": "https://partyflock.nl/images/party/461634_491x332_678863/Gemaskerd-Bal.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:29:59+01:00"
+        },
+        "place": {
+            "name": "Harbour Club",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ruben Vitalis",
+                "href": "/artist/42648:Ruben-Vitalis"
+            }
+        ]
+    },
+    {
+        "title": "Great Gatsby Club · NYE Party & Show",
+        "url": "https://partyflock.nl/party/462626:Great-Gatsby-Club",
+        "image": "https://partyflock.nl/images/party/462626_397x411_681756/Great-Gatsby-Club.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Nieuwe KHL",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Charley Rhythm",
+                "href": "/artist/67189:Charley-Rhythm"
+            },
+            {
+                "name": "The Maestro's",
+                "href": "/artist/168394:The-Maestros"
+            }
+        ]
+    },
+    {
+        "title": "Haarlems Vertier · Oud en Nieuw Special",
+        "url": "https://partyflock.nl/party/462320:Haarlems-Vertier",
+        "image": "https://partyflock.nl/images/party/462320_404x404_681035/Haarlems-Vertier.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "The Governor",
+            "city": "Haarlem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Brammez",
+                "href": "/artist/60691:Brammez"
+            },
+            {
+                "name": "Bustin & Jieber",
+                "href": "/artist/95670:Bustin-and-Jieber"
+            },
+            {
+                "name": "Tobias Camman",
+                "href": "/artist/66982:Tobias-Camman"
+            },
+            {
+                "name": "Tom Thomson",
+                "href": "/artist/86254:Tom-Thomson"
+            }
+        ]
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/460394:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/460394_538x303_680044/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Graanfabriek",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings · NYE",
+        "url": "https://partyflock.nl/party/461959:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/461959_558x292_680046/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "IJland",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings · NYE",
+        "url": "https://partyflock.nl/party/461960:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/461960_558x292_680048/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "De Avenue",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Happy Feelings · NYE",
+        "url": "https://partyflock.nl/party/461961:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/461961_558x292_680050/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "JACK",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hedon NYE",
+        "url": "https://partyflock.nl/party/463146:Hedon-NYE",
+        "image": "https://partyflock.nl/images/party/463146_539x303_682808/Hedon-NYE.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T01:29:59+01:00"
+        },
+        "place": {
+            "name": "Hedon",
+            "city": "Zwolle",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "De Sluwe Vos",
+                "href": "/artist/56631:De-Sluwe-Vos"
+            },
+            {
+                "name": "Perdu",
+                "href": "/artist/96266:Perdu"
+            },
+            {
+                "name": "Virato",
+                "href": "/artist/111665:Virato"
+            }
+        ]
+    },
+    {
+        "title": "Hello 2024 · New Years Eve",
+        "url": "https://partyflock.nl/party/462470:Hello-2024",
+        "image": "https://partyflock.nl/images/party/462470_404x404_685217/Hello-2024.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "AIR",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "HERRiE MET GERRiE · NYE Edition",
+        "url": "https://partyflock.nl/party/462534:HERRiE-MET-GERRiE",
+        "image": "https://partyflock.nl/images/party/462534_558x293_686495/HERRiE-MET-GERRiE.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:55:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Bold",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "HERRiE MET GERRiE · NYE Edition",
+        "url": "https://partyflock.nl/party/462533:HERRiE-MET-GERRiE",
+        "image": "https://partyflock.nl/images/party/462533_558x293_681550/HERRiE-MET-GERRiE.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Van Aken",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Het Goede Voornemen · NYE",
+        "url": "https://partyflock.nl/party/463203:Het-Goede-Voornemen",
+        "image": "https://partyflock.nl/images/party/463203_558x292_682992/Het-Goede-Voornemen.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Tolhuistuin",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Het Verzet · New Years Eve",
+        "url": "https://partyflock.nl/party/461148:Het-Verzet",
+        "image": "https://partyflock.nl/images/party/461148_664x246_686704/Het-Verzet.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Markant Theater Maashorst",
+            "city": "Uden",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Aap uit de Mouw",
+                "href": "/artist/84875:Aap-uit-de-Mouw"
+            },
+            {
+                "name": "Disco Snolly",
+                "href": "/artist/116245:Disco-Snolly"
+            },
+            {
+                "name": "Moschino",
+                "href": "/artist/93092:Moschino"
+            }
+        ]
+    },
+    {
+        "title": "Hitjesdag #220 · NYE Special",
+        "url": "https://partyflock.nl/party/464615:Hitjesdag",
+        "image": "https://partyflock.nl/images/party/464615_404x404_686543/Hitjesdag.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Nassau",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hitjesgolf · NYE Special",
+        "url": "https://partyflock.nl/party/463209:Hitjesgolf",
+        "image": "https://partyflock.nl/images/party/463209_558x292_683005/Hitjesgolf.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Westwood",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Hitmachine · New Years Eve Festival",
+        "url": "https://partyflock.nl/party/460911:Hitmachine",
+        "image": "https://partyflock.nl/images/party/460911_539x303_681731/Hitmachine.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:55:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "SilverDome",
+            "city": "Zoetermeer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cristian D",
+                "href": "/artist/143059:Cristian-D"
+            },
+            {
+                "name": "DYLVN",
+                "href": "/artist/89378:DYLVN"
+            },
+            {
+                "name": "Julien Romeo",
+                "href": "/artist/80195:Julien-Romeo"
+            },
+            {
+                "name": "Natte Visstick",
+                "href": "/artist/153745:Natte-Visstick"
+            },
+            {
+                "name": "Nick Averton",
+                "href": "/artist/96484:Nick-Averton"
+            },
+            {
+                "name": "P.E.A.K",
+                "href": "/artist/153984:P-E-A-K"
+            },
+            {
+                "name": "Smitmeister",
+                "href": "/artist/88189:Smitmeister"
+            }
+        ]
+    },
+    {
+        "title": "Hollywood Glamour · NYE",
+        "url": "https://partyflock.nl/party/464824:Hollywood-Glamour",
+        "image": "https://partyflock.nl/images/party/464824_545x299_687056/Hollywood-Glamour.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Palace",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Duguneh",
+                "href": "/artist/71462:Duguneh"
+            },
+            {
+                "name": "Reza",
+                "href": "/artist/104207:Reza"
+            }
+        ]
+    },
+    {
+        "title": "House of Ping · NYE Party",
+        "url": "https://partyflock.nl/party/459477:House-of-Ping",
+        "image": "https://partyflock.nl/images/party/459477_539x303_673131/House-of-Ping.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "PONG",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Thom Bold",
+                "href": "/artist/54461:Thom-Bold"
+            }
+        ]
+    },
+    {
+        "title": "Hush. · NYE",
+        "url": "https://partyflock.nl/party/463776:Hush",
+        "image": "https://partyflock.nl/images/party/463776_361x452_685560/Hush.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "iNN",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Belle Cortez",
+                "href": "/artist/166780:Belle-Cortez"
+            },
+            {
+                "name": "High On Spice",
+                "href": "/artist/156832:High-On-Spice"
+            },
+            {
+                "name": "Hris East",
+                "href": "/artist/166355:Hris-East"
+            },
+            {
+                "name": "Jøase",
+                "href": "/artist/154494:Joase"
+            },
+            {
+                "name": "Kreutziger",
+                "href": "/artist/109099:Kreutziger"
+            },
+            {
+                "name": "Lukas van Maanen",
+                "href": "/artist/158978:Lukas-van-Maanen"
+            },
+            {
+                "name": "Saar Kuus",
+                "href": "/artist/158689:Saar-Kuus"
+            },
+            {
+                "name": "Wouter S.",
+                "href": "/artist/54353:Wouter-S"
+            }
+        ]
+    },
+    {
+        "title": "Hush. · New Year's Eve",
+        "url": "https://partyflock.nl/party/461365:Hush",
+        "image": "https://partyflock.nl/images/party/461365_558x292_679542/Hush.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Poema",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Aat",
+                "href": "/artist/158582:Aat"
+            },
+            {
+                "name": "Lola Flores",
+                "href": "/artist/139980:Lola-Flores"
+            },
+            {
+                "name": "Mat Gusty",
+                "href": "/artist/157292:Mat-Gusty"
+            },
+            {
+                "name": "Mees Mattern",
+                "href": "/artist/147198:Mees-Mattern"
+            }
+        ]
+    },
+    {
+        "title": "IKON Urban Festival · New Years Eve",
+        "url": "https://partyflock.nl/party/462940:IKON-Urban-Festival",
+        "image": "https://partyflock.nl/images/party/462940_404x404_682327/IKON-Urban-Festival.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "IKON",
+            "city": "Antwerpen",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Afro Soul",
+                "href": "/artist/168485:Afro-Soul"
+            },
+            {
+                "name": "DYLVN",
+                "href": "/artist/89378:DYLVN"
+            },
+            {
+                "name": "JP",
+                "href": "/artist/106428:JP"
+            },
+            {
+                "name": "Lauw",
+                "href": "/artist/158601:Lauw"
+            },
+            {
+                "name": "Lirical",
+                "href": "/artist/85856:Lirical"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "Mystique",
+                "href": "/artist/31171:Mystique"
+            },
+            {
+                "name": "Saffou",
+                "href": "/artist/145968:Saffou"
+            }
+        ]
+    },
+    {
+        "title": "Into The Loop · NYE",
+        "url": "https://partyflock.nl/party/460831:Into-The-Loop",
+        "image": "https://partyflock.nl/images/party/460831_303x539_676857/Into-The-Loop.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Flanders Expo",
+            "city": "Gent",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "[KRTM]",
+                "href": "/artist/57178:KRTM"
+            },
+            {
+                "name": "Acidpach",
+                "href": "/artist/155748:Acidpach"
+            },
+            {
+                "name": "Bandikoot",
+                "href": "/artist/155747:Bandikoot"
+            },
+            {
+                "name": "Creeds",
+                "href": "/artist/107768:Creeds"
+            },
+            {
+                "name": "DXPE",
+                "href": "/artist/145915:DXPE"
+            },
+            {
+                "name": "EMILIJA",
+                "href": "/artist/149806:EMILIJA"
+            },
+            {
+                "name": "Enko",
+                "href": "/artist/107494:Enko"
+            },
+            {
+                "name": "Epidemie",
+                "href": "/artist/72859:Epidemie"
+            },
+            {
+                "name": "Helena",
+                "href": "/artist/128493:Helena"
+            },
+            {
+                "name": "IND",
+                "href": "/artist/112994:IND"
+            },
+            {
+                "name": "Jacid0rex",
+                "href": "/artist/83998:Jacid0rex"
+            },
+            {
+                "name": "Jan Vercauteren",
+                "href": "/artist/129413:Jan-Vercauteren"
+            },
+            {
+                "name": "Keyser",
+                "href": "/artist/159242:Keyser"
+            },
+            {
+                "name": "La Kajofol",
+                "href": "/artist/154420:La-Kajofol"
+            },
+            {
+                "name": "Lena de Roose",
+                "href": "/artist/157502:Lena-de-Roose"
+            },
+            {
+                "name": "Low E",
+                "href": "/artist/143414:Low-E"
+            },
+            {
+                "name": "Luche",
+                "href": "/artist/157390:Luche"
+            },
+            {
+                "name": "Moker",
+                "href": "/artist/66001:Moker"
+            },
+            {
+                "name": "Odymel",
+                "href": "/artist/168643:Odymel"
+            },
+            {
+                "name": "Pako Marckx",
+                "href": "/artist/157413:Pako-Marckx"
+            },
+            {
+                "name": "Pegassi",
+                "href": "/artist/87862:Pegassi"
+            },
+            {
+                "name": "Radze",
+                "href": "/artist/98737:Radze"
+            },
+            {
+                "name": "Sara Landry",
+                "href": "/artist/138894:Sara-Landry"
+            },
+            {
+                "name": "Sevenum Six",
+                "href": "/artist/66024:Sevenum-Six"
+            },
+            {
+                "name": "Stanislawa",
+                "href": "/artist/159938:Stanislawa"
+            },
+            {
+                "name": "Trillosta",
+                "href": "/artist/143413:Trillosta"
+            },
+            {
+                "name": "TWAN",
+                "href": "/artist/97447:TWAN"
+            },
+            {
+                "name": "VCL",
+                "href": "/artist/130982:VCL"
+            },
+            {
+                "name": "Wannes Lenaers",
+                "href": "/artist/157414:Wannes-Lenaers"
+            },
+            {
+                "name": "X&Trick",
+                "href": "/artist/23441:X-Trick"
+            }
+        ]
+    },
+    {
+        "title": "Jimmy Woo · NYE",
+        "url": "https://partyflock.nl/party/463079:Jimmy-Woo",
+        "image": "https://partyflock.nl/images/party/463079_404x404_682621/Jimmy-Woo.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Jimmy Woo",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Kattuhkwaed Festival",
+        "url": "https://partyflock.nl/party/462269:Kattuhkwaed-Festival",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "SKA Katwijk",
+            "city": "Katwijk",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Koepelkerk · NYE",
+        "url": "https://partyflock.nl/party/462813:Koepelkerk",
+        "image": "https://partyflock.nl/images/party/462813_558x292_682092/Koepelkerk.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Koepelkerk",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AIZY",
+                "href": "/artist/84206:AIZY"
+            },
+            {
+                "name": "Hendrikson",
+                "href": "/artist/116541:Hendrikson"
+            },
+            {
+                "name": "Joey Ferre",
+                "href": "/artist/75000:Joey-Ferre"
+            },
+            {
+                "name": "Praia del Sol",
+                "href": "/artist/28746:Praia-del-Sol"
+            },
+            {
+                "name": "Walter Looks",
+                "href": "/artist/57135:Walter-Looks"
+            }
+        ]
+    },
+    {
+        "title": "Kompass · NYE Special",
+        "url": "https://partyflock.nl/party/461893:Kompass",
+        "image": "https://partyflock.nl/images/party/461893_558x292_679811/Kompass.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T08:59:59+01:00"
+        },
+        "place": {
+            "name": "ICC Ghent",
+            "city": "Gent",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Anetha",
+                "href": "/artist/91344:Anetha"
+            },
+            {
+                "name": "Azra Tekuma",
+                "href": "/artist/160502:Azra-Tekuma"
+            },
+            {
+                "name": "Brennt",
+                "href": "/artist/159240:Brennt"
+            },
+            {
+                "name": "Cassie Raptor",
+                "href": "/artist/133993:Cassie-Raptor"
+            },
+            {
+                "name": "Jane Muss",
+                "href": "/artist/143410:Jane-Muss"
+            },
+            {
+                "name": "Johaze",
+                "href": "/artist/159277:Johaze"
+            },
+            {
+                "name": "Ki/Ki",
+                "href": "/artist/106679:Ki-Ki"
+            },
+            {
+                "name": "Klangkuenstler",
+                "href": "/artist/71799:Klangkuenstler"
+            },
+            {
+                "name": "Klaps",
+                "href": "/artist/88484:Klaps"
+            },
+            {
+                "name": "Lolalita",
+                "href": "/artist/129924:Lolalita"
+            },
+            {
+                "name": "Maharti",
+                "href": "/artist/127318:Maharti"
+            },
+            {
+                "name": "Man Outta Space",
+                "href": "/artist/80677:Man-Outta-Space"
+            },
+            {
+                "name": "Manon",
+                "href": "/artist/142264:Manon"
+            },
+            {
+                "name": "MARHU",
+                "href": "/artist/133100:MARHU"
+            },
+            {
+                "name": "Massimo Mephisto",
+                "href": "/artist/53478:Massimo-Mephisto"
+            },
+            {
+                "name": "MRD",
+                "href": "/artist/148164:MRD"
+            },
+            {
+                "name": "Noneoftheabove",
+                "href": "/artist/89808:Noneoftheabove"
+            },
+            {
+                "name": "NOVAH",
+                "href": "/artist/144124:NOVAH"
+            },
+            {
+                "name": "Pawlowski",
+                "href": "/artist/136452:Pawlowski"
+            },
+            {
+                "name": "Soya",
+                "href": "/artist/142020:Soya"
+            },
+            {
+                "name": "Trillosta",
+                "href": "/artist/143413:Trillosta"
+            },
+            {
+                "name": "Two/Three",
+                "href": "/artist/167950:Two-Three"
+            }
+        ]
+    },
+    {
+        "title": "KopjeK · New Years Eve",
+        "url": "https://partyflock.nl/party/461841:KopjeK",
+        "image": "https://partyflock.nl/images/party/461841_558x292_679659/KopjeK.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T08:59:59+01:00"
+        },
+        "place": {
+            "name": "Drafbaan Stadspark",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "La Cassette · NYE",
+        "url": "https://partyflock.nl/party/464400:La-Cassette",
+        "image": "https://partyflock.nl/images/party/464400_404x404_680152/La-Cassette.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:30:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Radio Radio",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "LeMaia × Partisan",
+        "url": "https://partyflock.nl/party/463106:LeMaia-x-Partisan",
+        "image": "https://partyflock.nl/images/party/463106_558x292_684217/LeMaia-x-Partisan.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T14:59:59+01:00"
+        },
+        "place": {
+            "name": "Shelter",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "alex Dima",
+                "href": "/artist/161945:alex-Dima"
+            },
+            {
+                "name": "Alexia Glensy",
+                "href": "/artist/139823:Alexia-Glensy"
+            },
+            {
+                "name": "Anthea",
+                "href": "/artist/54693:Anthea"
+            },
+            {
+                "name": "Astral Travel",
+                "href": "/artist/168042:Astral-Travel"
+            },
+            {
+                "name": "Binh",
+                "href": "/artist/43896:Binh"
+            },
+            {
+                "name": "Fonte",
+                "href": "/artist/168546:Fonte"
+            },
+            {
+                "name": "Francesco Farfa",
+                "href": "/artist/2363:Francesco-Farfa"
+            },
+            {
+                "name": "Freakenstein",
+                "href": "/artist/130889:Freakenstein"
+            },
+            {
+                "name": "Giammarco Orsini",
+                "href": "/artist/100733:Giammarco-Orsini"
+            },
+            {
+                "name": "Ma.to",
+                "href": "/artist/168861:Ma-to"
+            },
+            {
+                "name": "Nicolas Lutz",
+                "href": "/artist/59122:Nicolas-Lutz"
+            },
+            {
+                "name": "Oshana",
+                "href": "/artist/88273:Oshana"
+            },
+            {
+                "name": "Otis",
+                "href": "/artist/127161:Otis"
+            },
+            {
+                "name": "Paul Lution",
+                "href": "/artist/168860:Paul-Lution"
+            },
+            {
+                "name": "Sugar Free",
+                "href": "/artist/130892:Sugar-Free"
+            }
+        ]
+    },
+    {
+        "title": "Let's Go · To Space - New Years Special",
+        "url": "https://partyflock.nl/party/460346:Lets-Go",
+        "image": "https://partyflock.nl/images/party/460346_404x404_675601/Lets-Go.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Now&Wow",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Level Up · New Years Eve",
+        "url": "https://partyflock.nl/party/463578:Level-Up",
+        "image": "https://partyflock.nl/images/party/463578_558x292_684035/Level-Up.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Up",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Limbo Fuif · NYE",
+        "url": "https://partyflock.nl/party/464232:Limbo-Fuif",
+        "image": "https://partyflock.nl/images/party/464232_404x404_685727/Limbo-Fuif.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Lïmbo Club",
+            "city": "Emmen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Love Affair · NYE",
+        "url": "https://partyflock.nl/party/464255:Love-Affair",
+        "image": "https://partyflock.nl/images/party/464255_558x292_685763/Love-Affair.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "BIRD",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Lovumba · New Year Special",
+        "url": "https://partyflock.nl/party/463005:Lovumba",
+        "image": "https://partyflock.nl/images/party/463005_558x292_682466/Lovumba.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "MAAS",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Lovumba · New Year Special",
+        "url": "https://partyflock.nl/party/463006:Lovumba",
+        "image": "https://partyflock.nl/images/party/463006_558x292_682467/Lovumba.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Hofhouse",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Madam · NYE",
+        "url": "https://partyflock.nl/party/462423:Madam",
+        "image": "https://partyflock.nl/images/party/462423_415x393_686902/Madam.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:30:00+01:00",
+            "endDate": "2024-01-01T05:29:59+01:00"
+        },
+        "place": {
+            "name": "Madam",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dirk Schot",
+                "href": "/artist/96046:Dirk-Schot"
+            },
+            {
+                "name": "Frequency George",
+                "href": "/artist/167639:Frequency-George"
+            },
+            {
+                "name": "Niels Marieé",
+                "href": "/artist/8454:Niels-Mariee"
+            },
+            {
+                "name": "Tonno Disko",
+                "href": "/artist/89631:Tonno-Disko"
+            },
+            {
+                "name": "Vasko Parisis",
+                "href": "/artist/137010:Vasko-Parisis"
+            }
+        ]
+    },
+    {
+        "title": "Mambo's · New Years Eve",
+        "url": "https://partyflock.nl/party/464859:Mambos",
+        "image": "https://partyflock.nl/images/party/464859_539x303_687170/Mambos.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Mambo's",
+            "city": "Gemert",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Jimmy",
+                "href": "/artist/117264:Jimmy"
+            },
+            {
+                "name": "Lorentz",
+                "href": "/artist/88443:Lorentz"
+            },
+            {
+                "name": "Nicky Sombrero",
+                "href": "/artist/102729:Nicky-Sombrero"
+            },
+            {
+                "name": "Ricardo Moreno",
+                "href": "/artist/2461:Ricardo-Moreno"
+            },
+            {
+                "name": "The Underdogs",
+                "href": "/artist/93902:The-Underdogs"
+            }
+        ]
+    },
+    {
+        "title": "MEZZ · NYE",
+        "url": "https://partyflock.nl/party/460205:MEZZ",
+        "image": "https://partyflock.nl/images/party/460205_539x303_675271/MEZZ.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "MEZZ",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Munch · New Years Eve",
+        "url": "https://partyflock.nl/party/462858:Munch",
+        "image": "https://partyflock.nl/images/party/462858_558x292_682212/Munch.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "MUNCH",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "New Year... IsBurning",
+        "url": "https://partyflock.nl/party/463107:New-Year-IsBurning",
+        "image": "https://partyflock.nl/images/party/463107_361x452_682672/New-Year-IsBurning.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-02T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Club Atelier",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "New Years Eve",
+        "url": "https://partyflock.nl/party/463566:New-Years-Eve",
+        "image": "https://partyflock.nl/images/party/463566_404x404_683990/New-Years-Eve.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Mondial",
+            "city": "Beek",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "D-Masta",
+                "href": "/artist/41669:D-Masta"
+            },
+            {
+                "name": "Deej Fiber",
+                "href": "/artist/169452:Deej-Fiber"
+            },
+            {
+                "name": "Letrix",
+                "href": "/artist/148089:Letrix"
+            },
+            {
+                "name": "MAD",
+                "href": "/artist/166710:MAD"
+            },
+            {
+                "name": "Madbwoy",
+                "href": "/artist/73986:Madbwoy"
+            },
+            {
+                "name": "Richy Stylez",
+                "href": "/artist/59437:Richy-Stylez"
+            },
+            {
+                "name": "ZACARI",
+                "href": "/artist/128188:ZACARI"
+            }
+        ]
+    },
+    {
+        "title": "New Years Eve",
+        "url": "https://partyflock.nl/party/463605:New-Years-Eve",
+        "image": "https://partyflock.nl/images/party/463605_539x303_684107/New-Years-Eve.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Carré",
+            "city": "Willebroek",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "Guilini",
+                "href": "/artist/168747:Guilini"
+            },
+            {
+                "name": "Lennert Wolfs",
+                "href": "/artist/63005:Lennert-Wolfs"
+            },
+            {
+                "name": "Madelina",
+                "href": "/artist/128835:Madelina"
+            }
+        ]
+    },
+    {
+        "title": "New Years Eve",
+        "url": "https://partyflock.nl/party/463271:New-Years-Eve",
+        "image": "https://partyflock.nl/images/party/463271_404x404_361425/New-Years-Eve.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Perron",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "New Years Eve EHVE",
+        "url": "https://partyflock.nl/party/463129:New-Years-Eve-EHVE",
+        "image": "https://partyflock.nl/images/party/463129_361x452_682936/New-Years-Eve-EHVE.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T02:29:59+01:00"
+        },
+        "place": {
+            "name": "Lichttoren",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dansado & De Feestmeester",
+                "href": "/artist/90456:Dansado-and-De-Feestmeester"
+            },
+            {
+                "name": "Fresku",
+                "href": "/artist/53057:Fresku"
+            },
+            {
+                "name": "Joël Borelli",
+                "href": "/artist/81534:Joel-Borelli"
+            },
+            {
+                "name": "La Fuente",
+                "href": "/artist/40210:La-Fuente"
+            },
+            {
+                "name": "Rugged",
+                "href": "/artist/71358:Rugged"
+            },
+            {
+                "name": "Vuurwerk",
+                "href": "/artist/127131:Vuurwerk"
+            }
+        ]
+    },
+    {
+        "title": "Nova's New Year's Eve Special",
+        "url": "https://partyflock.nl/party/464876:Novas-New-Years-Eve-Special",
+        "image": "https://partyflock.nl/images/party/464876_404x404_687234/Novas-New-Years-Eve-Special.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Nova",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "NYE Affair",
+        "url": "https://partyflock.nl/party/462601:NYE-Affair",
+        "image": "https://partyflock.nl/images/party/462601_303x539_686488/NYE-Affair.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:00:00+01:00",
+            "endDate": "2024-01-01T06:29:59+01:00"
+        },
+        "place": {
+            "name": "De Graanbeurs",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Akkermanzz",
+                "href": "/artist/115139:Akkermanzz"
+            },
+            {
+                "name": "Cynthia Spiering",
+                "href": "/artist/96071:Cynthia-Spiering"
+            },
+            {
+                "name": "Fedya Hella",
+                "href": "/artist/157083:Fedya-Hella"
+            },
+            {
+                "name": "GIJS",
+                "href": "/artist/132047:GIJS"
+            },
+            {
+                "name": "Hitjesdag DJ team",
+                "href": "/artist/110055:Hitjesdag-DJ-team"
+            },
+            {
+                "name": "Jesse Maas",
+                "href": "/artist/102159:Jesse-Maas"
+            },
+            {
+                "name": "Ketting",
+                "href": "/artist/95572:Ketting"
+            },
+            {
+                "name": "Mmoan.Alisa",
+                "href": "/artist/158198:Mmoan-Alisa"
+            },
+            {
+                "name": "TJARDA",
+                "href": "/artist/127180:TJARDA"
+            }
+        ]
+    },
+    {
+        "title": "NYE Around The World",
+        "url": "https://partyflock.nl/party/463166:NYE-Around-The-World",
+        "image": "https://partyflock.nl/images/party/463166_361x452_684506/NYE-Around-The-World.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "WesterUnie",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Anil Aras",
+                "href": "/artist/55261:Anil-Aras"
+            },
+            {
+                "name": "Ballantine",
+                "href": "/artist/90161:Ballantine"
+            },
+            {
+                "name": "Bandi",
+                "href": "/artist/91032:Bandi"
+            },
+            {
+                "name": "Benjamin Berg",
+                "href": "/artist/126940:Benjamin-Berg"
+            },
+            {
+                "name": "Caya",
+                "href": "/artist/152526:Caya"
+            },
+            {
+                "name": "D Stone",
+                "href": "/artist/119346:D-Stone"
+            },
+            {
+                "name": "DANI",
+                "href": "/artist/105218:DANI"
+            },
+            {
+                "name": "De Ideale Schoonzonen",
+                "href": "/artist/124617:De-Ideale-Schoonzonen"
+            },
+            {
+                "name": "De Sluwe Vos",
+                "href": "/artist/56631:De-Sluwe-Vos"
+            },
+            {
+                "name": "Gideon Fierman",
+                "href": "/artist/80922:Gideon-Fierman"
+            },
+            {
+                "name": "Joëlla Jackson",
+                "href": "/artist/122069:Joella-Jackson"
+            },
+            {
+                "name": "Julien Simmons",
+                "href": "/artist/60146:Julien-Simmons"
+            },
+            {
+                "name": "Junior",
+                "href": "/artist/162652:Junior"
+            },
+            {
+                "name": "Kiki Rose",
+                "href": "/artist/140505:Kiki-Rose"
+            },
+            {
+                "name": "Luuk van Dijk",
+                "href": "/artist/79315:Luuk-van-Dijk"
+            },
+            {
+                "name": "Marcuss",
+                "href": "/artist/128542:Marcuss"
+            },
+            {
+                "name": "MBA",
+                "href": "/artist/14000:MBA"
+            },
+            {
+                "name": "Nayla",
+                "href": "/artist/111562:Nayla"
+            },
+            {
+                "name": "Niels Stunnenberg",
+                "href": "/artist/168921:Niels-Stunnenberg"
+            },
+            {
+                "name": "Pelsko",
+                "href": "/artist/130473:Pelsko"
+            },
+            {
+                "name": "Playfair",
+                "href": "/artist/72884:Playfair"
+            },
+            {
+                "name": "Ramon Rivé",
+                "href": "/artist/26366:Ramon-Rive"
+            },
+            {
+                "name": "Ritchyzegthet",
+                "href": "/artist/154716:Ritchyzegthet"
+            },
+            {
+                "name": "Tone",
+                "href": "/artist/24207:Tone"
+            }
+        ]
+    },
+    {
+        "title": "NYE onder de Erasmusbrug",
+        "url": "https://partyflock.nl/party/463413:NYE-onder-de-Erasmusbrug",
+        "image": "https://partyflock.nl/images/party/463413_361x452_686465/NYE-onder-de-Erasmusbrug.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T03:29:59+01:00"
+        },
+        "place": {
+            "name": "De Ameland",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Anderdox",
+                "href": "/artist/117302:Anderdox"
+            },
+            {
+                "name": "Kraak & Smaak",
+                "href": "/artist/13197:Kraak-and-Smaak"
+            },
+            {
+                "name": "ROOG",
+                "href": "/artist/43:ROOG"
+            }
+        ]
+    },
+    {
+        "title": "NYE Paradise",
+        "url": "https://partyflock.nl/party/463639:NYE-Paradise",
+        "image": "https://partyflock.nl/images/party/463639_404x404_684166/NYE-Paradise.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2023-12-31T21:59:59+01:00"
+        },
+        "place": {
+            "name": "Chicago Social Club",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Oerknal 2023 NYE",
+        "url": "https://partyflock.nl/party/459476:Oerknal-2023-NYE",
+        "image": "https://partyflock.nl/images/party/459476_539x303_673130/Oerknal-2023-NYE.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Science Park",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Olieboulen · NYE",
+        "url": "https://partyflock.nl/party/464373:Olieboulen",
+        "image": "https://partyflock.nl/images/party/464373_340x480_685978/Olieboulen.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T20:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Mooie Boules",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Olivier Weiter b2b Miss Melera · All Night Long",
+        "url": "https://partyflock.nl/party/461687:Olivier-Weiter-b2b-Miss-Melera",
+        "image": "https://partyflock.nl/images/party/461687_404x404_679078/Olivier-Weiter-b2b-Miss-Melera.png",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Het Sieraad",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Miss Melera",
+                "href": "/artist/7686:Miss-Melera"
+            },
+            {
+                "name": "Olivier Weiter",
+                "href": "/artist/32375:Olivier-Weiter"
+            }
+        ]
+    },
+    {
+        "title": "Oud & Nieuw Annabel",
+        "url": "https://partyflock.nl/party/463453:Oud-and-Nieuw-Annabel",
+        "image": "https://partyflock.nl/images/party/463453_539x303_683632/Oud-and-Nieuw-Annabel.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Annabel",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Oud & Nieuw Feest",
+        "url": "https://partyflock.nl/party/459810:Oud-and-Nieuw-Feest",
+        "image": "https://partyflock.nl/images/party/459810_558x292_674068/Oud-and-Nieuw-Feest.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Nadorst",
+            "city": "Blokker",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Murphy Martens",
+                "href": "/artist/145265:Murphy-Martens"
+            }
+        ]
+    },
+    {
+        "title": "Oud & Nieuw Feest",
+        "url": "https://partyflock.nl/party/459811:Oud-and-Nieuw-Feest",
+        "image": "https://partyflock.nl/images/party/459811_558x292_674070/Oud-and-Nieuw-Feest.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Bierfabriek",
+            "city": "Almere",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BB-Gold",
+                "href": "/artist/127696:BB-Gold"
+            }
+        ]
+    },
+    {
+        "title": "Oud & Nieuw Feest",
+        "url": "https://partyflock.nl/party/459812:Oud-and-Nieuw-Feest",
+        "image": "https://partyflock.nl/images/party/459812_558x292_674072/Oud-and-Nieuw-Feest.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Houtrust",
+            "city": "Hooglanderveen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Jan Lammers",
+                "href": "/artist/150796:Jan-Lammers"
+            }
+        ]
+    },
+    {
+        "title": "Palet · New Year's Eve",
+        "url": "https://partyflock.nl/party/463329:Palet",
+        "image": "https://partyflock.nl/images/party/463329_404x404_683331/Palet.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "LoFi",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BELLA",
+                "href": "/artist/99160:BELLA"
+            },
+            {
+                "name": "Berkan V8",
+                "href": "/artist/129879:Berkan-V8"
+            },
+            {
+                "name": "Bibi Seck",
+                "href": "/artist/107649:Bibi-Seck"
+            },
+            {
+                "name": "Boris Coelman",
+                "href": "/artist/81944:Boris-Coelman"
+            },
+            {
+                "name": "Doppelgang",
+                "href": "/artist/67334:Doppelgang"
+            },
+            {
+                "name": "Jungle By Night",
+                "href": "/artist/59424:Jungle-By-Night"
+            },
+            {
+                "name": "Kalle",
+                "href": "/artist/83318:Kalle"
+            },
+            {
+                "name": "Laura Meester",
+                "href": "/artist/157782:Laura-Meester"
+            },
+            {
+                "name": "Papa Nugs",
+                "href": "/artist/168024:Papa-Nugs"
+            },
+            {
+                "name": "S!RENE",
+                "href": "/artist/99396:S-RENE"
+            },
+            {
+                "name": "Sweet6teen",
+                "href": "/artist/138570:Sweet6teen"
+            },
+            {
+                "name": "Trippy Tins",
+                "href": "/artist/157970:Trippy-Tins"
+            }
+        ]
+    },
+    {
+        "title": "Parachute · NYE",
+        "url": "https://partyflock.nl/party/463257:Parachute",
+        "image": "https://partyflock.nl/images/party/463257_539x303_683135/Parachute.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Chamos",
+                "href": "/artist/106409:Chamos"
+            },
+            {
+                "name": "Dave Nunes",
+                "href": "/artist/109598:Dave-Nunes"
+            },
+            {
+                "name": "Diffsum",
+                "href": "/artist/148722:Diffsum"
+            },
+            {
+                "name": "Jolani Jhones",
+                "href": "/artist/129775:Jolani-Jhones"
+            },
+            {
+                "name": "Kurashi",
+                "href": "/artist/158029:Kurashi"
+            },
+            {
+                "name": "SIM–OJ",
+                "href": "/artist/150431:SIM-OJ"
+            },
+            {
+                "name": "The Flexican",
+                "href": "/artist/6800:The-Flexican"
+            }
+        ]
+    },
+    {
+        "title": "Patroon · NYE",
+        "url": "https://partyflock.nl/party/462815:Patroon",
+        "image": "https://partyflock.nl/images/party/462815_539x303_682100/Patroon.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Subbar",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Heat Raves",
+                "href": "/artist/119708:Heat-Raves"
+            },
+            {
+                "name": "Klein Kapitaal",
+                "href": "/artist/119707:Klein-Kapitaal"
+            },
+            {
+                "name": "Nomad",
+                "href": "/artist/167022:Nomad"
+            },
+            {
+                "name": "Patroon",
+                "href": "/artist/119709:Patroon"
+            },
+            {
+                "name": "Technicus",
+                "href": "/artist/166461:Technicus"
+            },
+            {
+                "name": "Timeless",
+                "href": "/artist/93130:Timeless"
+            },
+            {
+                "name": "Tr-Ralphy",
+                "href": "/artist/169298:Tr-Ralphy"
+            }
+        ]
+    },
+    {
+        "title": "PIP · NYE",
+        "url": "https://partyflock.nl/party/463959:PIP",
+        "image": "https://partyflock.nl/images/party/463959_361x452_685056/PIP.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T01:29:59+01:00"
+        },
+        "place": {
+            "name": "PIP",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Plan de Champagne",
+        "url": "https://partyflock.nl/party/463095:Plan-de-Champagne",
+        "image": "https://partyflock.nl/images/party/463095_303x539_682650/Plan-de-Champagne.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Donny Summer",
+                "href": "/artist/125103:Donny-Summer"
+            },
+            {
+                "name": "Rewind",
+                "href": "/artist/106476:Rewind"
+            }
+        ]
+    },
+    {
+        "title": "POING · New Years Edition",
+        "url": "https://partyflock.nl/party/463723:POING",
+        "image": "https://partyflock.nl/images/party/463723_361x452_684420/POING.png",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T10:59:59+01:00"
+        },
+        "place": {
+            "name": "POING",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "A Strange Wedding",
+                "href": "/artist/168005:A-Strange-Wedding"
+            },
+            {
+                "name": "Cryptofauna",
+                "href": "/artist/138734:Cryptofauna"
+            },
+            {
+                "name": "Faustin",
+                "href": "/artist/156734:Faustin"
+            },
+            {
+                "name": "Kessler",
+                "href": "/artist/142938:Kessler"
+            },
+            {
+                "name": "Kimmah",
+                "href": "/artist/141979:Kimmah"
+            },
+            {
+                "name": "Lis van Horssen",
+                "href": "/artist/168913:Lis-van-Horssen"
+            },
+            {
+                "name": "Nelly Dragon",
+                "href": "/artist/137854:Nelly-Dragon"
+            },
+            {
+                "name": "P. Truss",
+                "href": "/artist/153802:P-Truss"
+            },
+            {
+                "name": "Shahmaran",
+                "href": "/artist/138113:Shahmaran"
+            },
+            {
+                "name": "Slimfit",
+                "href": "/artist/109900:Slimfit"
+            },
+            {
+                "name": "Spacer Woman",
+                "href": "/artist/158033:Spacer-Woman"
+            },
+            {
+                "name": "Sweet6teen",
+                "href": "/artist/138570:Sweet6teen"
+            },
+            {
+                "name": "Twiena",
+                "href": "/artist/143804:Twiena"
+            },
+            {
+                "name": "Vel",
+                "href": "/artist/163038:Vel"
+            }
+        ]
+    },
+    {
+        "title": "Refresh · New Year's Eve Party",
+        "url": "https://partyflock.nl/party/463490:Refresh",
+        "image": "https://partyflock.nl/images/party/463490_361x452_687001/Refresh.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Club 5th Avenue",
+            "city": "Arnhem",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Reload",
+        "url": "https://partyflock.nl/party/464844:Reload",
+        "image": "https://partyflock.nl/images/party/464844_558x292_687134/Reload.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T07:29:59+01:00"
+        },
+        "place": {
+            "name": "De Helling",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Atactic",
+                "href": "/artist/61212:Atactic"
+            },
+            {
+                "name": "Brutuzz",
+                "href": "/artist/10190:Brutuzz"
+            },
+            {
+                "name": "Danny Scrilla",
+                "href": "/artist/74211:Danny-Scrilla"
+            },
+            {
+                "name": "Neffa-T",
+                "href": "/artist/157392:Neffa-T"
+            },
+            {
+                "name": "Puurvuur",
+                "href": "/artist/99333:Puurvuur"
+            },
+            {
+                "name": "Riz La Teef",
+                "href": "/artist/142447:Riz-La-Teef"
+            },
+            {
+                "name": "Soft Break",
+                "href": "/artist/131378:Soft-Break"
+            },
+            {
+                "name": "SparkUp",
+                "href": "/artist/76474:SparkUp"
+            },
+            {
+                "name": "Taro",
+                "href": "/artist/129127:Taro"
+            },
+            {
+                "name": "TMSV",
+                "href": "/artist/53760:TMSV"
+            }
+        ]
+    },
+    {
+        "title": "Stiletto Club · New Years Party",
+        "url": "https://partyflock.nl/party/460734:Stiletto-Club",
+        "image": "https://partyflock.nl/images/party/460734_303x539_676639/Stiletto-Club.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2023-12-31T21:59:59+01:00"
+        },
+        "place": {
+            "name": "De Heuvel Gallery",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Supper Club · New Years Eve",
+        "url": "https://partyflock.nl/party/462724:Supper-Club",
+        "image": "https://partyflock.nl/images/party/462724_558x292_686026/Supper-Club.png",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Supper",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Sylvester Party · Blingbling Edition",
+        "url": "https://partyflock.nl/party/463438:Sylvester-Party",
+        "image": "https://partyflock.nl/images/party/463438_340x481_683605/Sylvester-Party.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "Hoeve Galderzicht",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Miss Amy",
+                "href": "/artist/23522:Miss-Amy"
+            },
+            {
+                "name": "Ruben Vitalis",
+                "href": "/artist/42648:Ruben-Vitalis"
+            },
+            {
+                "name": "Vandalos",
+                "href": "/artist/106558:Vandalos"
+            }
+        ]
+    },
+    {
+        "title": "The Big NYE Countdown",
+        "url": "https://partyflock.nl/party/462540:The-Big-NYE-Countdown",
+        "image": "https://partyflock.nl/images/party/462540_404x404_681569/The-Big-NYE-Countdown.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Complex",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Brent New",
+                "href": "/artist/91420:Brent-New"
+            },
+            {
+                "name": "DJORA",
+                "href": "/artist/139921:DJORA"
+            },
+            {
+                "name": "Lucas & Steve",
+                "href": "/artist/68581:Lucas-and-Steve"
+            },
+            {
+                "name": "Mathëox",
+                "href": "/artist/143895:Matheox"
+            },
+            {
+                "name": "Mircowave",
+                "href": "/artist/103418:Mircowave"
+            },
+            {
+                "name": "Nosi",
+                "href": "/artist/156760:Nosi"
+            }
+        ]
+    },
+    {
+        "title": "The Bitter House Party",
+        "url": "https://partyflock.nl/party/462118:The-Bitter-House-Party",
+        "image": "https://partyflock.nl/images/party/462118_404x404_680516/The-Bitter-House-Party.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:59:59+01:00",
+            "endDate": "2024-01-01T12:59:59+01:00"
+        },
+        "place": {
+            "name": "BIT",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "The Last Dance · New Years Eve",
+        "url": "https://partyflock.nl/party/462067:The-Last-Dance",
+        "image": "https://partyflock.nl/images/party/462067_404x404_685520/The-Last-Dance.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "RED",
+            "city": "Leeuwarden",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "The Opposites",
+        "url": "https://partyflock.nl/party/461861:The-Opposites",
+        "image": "https://partyflock.nl/images/party/461861_495x330_679719/The-Opposites.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2023-12-31T18:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "The Opposites",
+                "href": "/artist/26201:The-Opposites"
+            }
+        ]
+    },
+    {
+        "title": "TIKTAK · New Years Eve",
+        "url": "https://partyflock.nl/party/460724:TIKTAK",
+        "image": "https://partyflock.nl/images/party/460724_796x205_682015/TIKTAK.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Maassilo",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "$hirak",
+                "href": "/artist/95516:Shirak"
+            },
+            {
+                "name": "Afro Bros",
+                "href": "/artist/48635:Afro-Bros"
+            },
+            {
+                "name": "Antoon",
+                "href": "/artist/137090:Antoon"
+            },
+            {
+                "name": "Christal Empire",
+                "href": "/artist/61192:Christal-Empire"
+            },
+            {
+                "name": "Diyar Alvaro",
+                "href": "/artist/168436:Diyar-Alvaro"
+            },
+            {
+                "name": "Ferdows",
+                "href": "/artist/72824:Ferdows"
+            },
+            {
+                "name": "Frenna",
+                "href": "/artist/90225:Frenna"
+            },
+            {
+                "name": "Irwan",
+                "href": "/artist/7286:Irwan"
+            },
+            {
+                "name": "Juvanice",
+                "href": "/artist/51054:Juvanice"
+            },
+            {
+                "name": "Lotte",
+                "href": "/artist/140258:Lotte"
+            },
+            {
+                "name": "Miguell Kaidel",
+                "href": "/artist/91434:Miguell-Kaidel"
+            },
+            {
+                "name": "Mixturess",
+                "href": "/artist/69489:Mixturess"
+            },
+            {
+                "name": "Nina Sanetti",
+                "href": "/artist/92347:Nina-Sanetti"
+            },
+            {
+                "name": "Noa",
+                "href": "/artist/137047:Noa"
+            },
+            {
+                "name": "Poke",
+                "href": "/artist/91174:Poke"
+            },
+            {
+                "name": "Reanny",
+                "href": "/artist/148099:Reanny"
+            },
+            {
+                "name": "Ronnie Flex",
+                "href": "/artist/68742:Ronnie-Flex"
+            },
+            {
+                "name": "The Partysquad",
+                "href": "/artist/7405:The-Partysquad"
+            },
+            {
+                "name": "Trobi",
+                "href": "/artist/93027:Trobi"
+            },
+            {
+                "name": "WEF",
+                "href": "/artist/86714:WEF"
+            }
+        ]
+    },
+    {
+        "title": "TIKTAK · New Years Eve",
+        "url": "https://partyflock.nl/party/460725:TIKTAK",
+        "image": "https://partyflock.nl/images/party/460725_796x205_682018/TIKTAK.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "$hirak",
+                "href": "/artist/95516:Shirak"
+            },
+            {
+                "name": "Afro Bros",
+                "href": "/artist/48635:Afro-Bros"
+            },
+            {
+                "name": "April Grey",
+                "href": "/artist/101037:April-Grey"
+            },
+            {
+                "name": "Bilal Wahib",
+                "href": "/artist/122639:Bilal-Wahib"
+            },
+            {
+                "name": "Bizzey",
+                "href": "/artist/46888:Bizzey"
+            },
+            {
+                "name": "DAIMS",
+                "href": "/artist/96154:DAIMS"
+            },
+            {
+                "name": "Dolore",
+                "href": "/artist/128442:Dolore"
+            },
+            {
+                "name": "FOUR",
+                "href": "/artist/123837:FOUR"
+            },
+            {
+                "name": "Frenna",
+                "href": "/artist/90225:Frenna"
+            },
+            {
+                "name": "Iceman",
+                "href": "/artist/26960:Iceman"
+            },
+            {
+                "name": "Idaly",
+                "href": "/artist/92259:Idaly"
+            },
+            {
+                "name": "James August",
+                "href": "/artist/109172:James-August"
+            },
+            {
+                "name": "Jay Dinestic",
+                "href": "/artist/106323:Jay-Dinestic"
+            },
+            {
+                "name": "Kevin",
+                "href": "/artist/98716:Kevin"
+            },
+            {
+                "name": "MIMI",
+                "href": "/artist/92083:MIMI"
+            },
+            {
+                "name": "Ronnie Flex",
+                "href": "/artist/68742:Ronnie-Flex"
+            },
+            {
+                "name": "Siggy & D1ns",
+                "href": "/artist/143211:Siggy-and-D1ns"
+            },
+            {
+                "name": "Trobi",
+                "href": "/artist/93027:Trobi"
+            }
+        ]
+    },
+    {
+        "title": "Time Is The New Year",
+        "url": "https://partyflock.nl/party/464864:Time-Is-The-New-Year",
+        "image": "https://partyflock.nl/images/party/464864_404x404_687201/Time-Is-The-New-Year.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Time Is The New Space",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "I-F",
+                "href": "/artist/1478:I-F"
+            },
+            {
+                "name": "Marsman",
+                "href": "/artist/78083:Marsman"
+            },
+            {
+                "name": "Mowgli",
+                "href": "/artist/113285:Mowgli"
+            }
+        ]
+    },
+    {
+        "title": "Toffler · 12HR Rave NYE",
+        "url": "https://partyflock.nl/party/462982:Toffler",
+        "image": "https://partyflock.nl/images/party/462982_404x404_682423/Toffler.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T13:59:59+01:00"
+        },
+        "place": {
+            "name": "Toffler",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Tramkade · Oud & Nieuw",
+        "url": "https://partyflock.nl/party/464485:Tramkade",
+        "image": "https://partyflock.nl/images/party/464485_558x293_686212/Tramkade.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:30:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Tramkade",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cees van Balen",
+                "href": "/artist/76971:Cees-van-Balen"
+            },
+            {
+                "name": "Gio",
+                "href": "/artist/169260:Gio"
+            },
+            {
+                "name": "Hidden Sound System",
+                "href": "/artist/53741:Hidden-Sound-System"
+            },
+            {
+                "name": "Kuif",
+                "href": "/artist/50949:Kuif"
+            },
+            {
+                "name": "Milio",
+                "href": "/artist/74465:Milio"
+            },
+            {
+                "name": "Osu Rhythms Collective",
+                "href": "/artist/169261:Osu-Rhythms-Collective"
+            },
+            {
+                "name": "Vinylfuifje",
+                "href": "/artist/157290:Vinylfuifje"
+            }
+        ]
+    },
+    {
+        "title": "Trilogy · NYE",
+        "url": "https://partyflock.nl/party/461227:Trilogy",
+        "image": "https://partyflock.nl/images/party/461227_404x404_687185/Trilogy.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradigm",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Flo Massé",
+                "href": "/artist/158527:Flo-Masse"
+            },
+            {
+                "name": "Gerrit de Boer",
+                "href": "/artist/87515:Gerrit-de-Boer"
+            },
+            {
+                "name": "Kwartz",
+                "href": "/artist/83899:Kwartz"
+            },
+            {
+                "name": "Lola Haro",
+                "href": "/artist/116696:Lola-Haro"
+            },
+            {
+                "name": "Lucius",
+                "href": "/artist/168462:Lucius"
+            },
+            {
+                "name": "Nørbak",
+                "href": "/artist/131266:Norbak"
+            },
+            {
+                "name": "ONID",
+                "href": "/artist/147748:ONID"
+            },
+            {
+                "name": "Pangaea",
+                "href": "/artist/45588:Pangaea"
+            },
+            {
+                "name": "Paramida",
+                "href": "/artist/82597:Paramida"
+            },
+            {
+                "name": "Polygonia",
+                "href": "/artist/147684:Polygonia"
+            },
+            {
+                "name": "Reflex Blue",
+                "href": "/artist/158218:Reflex-Blue"
+            },
+            {
+                "name": "SNU",
+                "href": "/artist/150776:SNU"
+            },
+            {
+                "name": "Tjizza",
+                "href": "/artist/143330:Tjizza"
+            },
+            {
+                "name": "Wata Igarashi",
+                "href": "/artist/93876:Wata-Igarashi"
+            }
+        ]
+    },
+    {
+        "title": "unreal · NYEve-Rave",
+        "url": "https://partyflock.nl/party/457852:unreal",
+        "image": "https://partyflock.nl/images/party/457852_558x292_668643/unreal.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T08:59:59+01:00"
+        },
+        "place": {
+            "name": "Carlswerk Victoria",
+            "city": "Keulen",
+            "country": "Duitsland"
+        },
+        "lineup": [
+            {
+                "name": "Adrián Mills",
+                "href": "/artist/155321:Adrian-Mills"
+            },
+            {
+                "name": "Blyss",
+                "href": "/artist/160449:Blyss"
+            },
+            {
+                "name": "Callush",
+                "href": "/artist/139855:Callush"
+            },
+            {
+                "name": "Cloudy",
+                "href": "/artist/152948:Cloudy"
+            },
+            {
+                "name": "DYEN",
+                "href": "/artist/110483:DYEN"
+            },
+            {
+                "name": "Johannes Schuster",
+                "href": "/artist/123846:Johannes-Schuster"
+            },
+            {
+                "name": "Kuko",
+                "href": "/artist/156129:Kuko"
+            },
+            {
+                "name": "Neon Graveyard",
+                "href": "/artist/147773:Neon-Graveyard"
+            },
+            {
+                "name": "SHDW & Obscure Shape",
+                "href": "/artist/101254:SHDW-and-Obscure-Shape"
+            }
+        ]
+    },
+    {
+        "title": "Uptempo VS Raw · Het Ultieme Oud- en Nieuw Feest",
+        "url": "https://partyflock.nl/party/462055:Uptempo-VS-Raw",
+        "image": "https://partyflock.nl/images/party/462055_361x452_682922/Uptempo-VS-Raw.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T07:29:59+01:00"
+        },
+        "place": {
+            "name": "PKHS",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "AestroBass",
+                "href": "/artist/166389:AestroBass"
+            },
+            {
+                "name": "Akimbo",
+                "href": "/artist/153075:Akimbo"
+            },
+            {
+                "name": "Angry'eve",
+                "href": "/artist/169476:Angryeve"
+            },
+            {
+                "name": "Bassline Madness",
+                "href": "/artist/163804:Bassline-Madness"
+            },
+            {
+                "name": "Collusion",
+                "href": "/artist/150765:Collusion"
+            },
+            {
+                "name": "Cryex",
+                "href": "/artist/101194:Cryex"
+            },
+            {
+                "name": "Dantec",
+                "href": "/artist/160029:Dantec"
+            },
+            {
+                "name": "Death Rage",
+                "href": "/artist/111858:Death-Rage"
+            },
+            {
+                "name": "DNN",
+                "href": "/artist/123079:DNN"
+            },
+            {
+                "name": "E-Motion",
+                "href": "/artist/42507:E-Motion"
+            },
+            {
+                "name": "Flux Overload",
+                "href": "/artist/140924:Flux-Overload"
+            },
+            {
+                "name": "Hard Destiny",
+                "href": "/artist/157854:Hard-Destiny"
+            },
+            {
+                "name": "Heavy Resistance",
+                "href": "/artist/136996:Heavy-Resistance"
+            },
+            {
+                "name": "Level One",
+                "href": "/artist/97850:Level-One"
+            },
+            {
+                "name": "Level Up",
+                "href": "/artist/136917:Level-Up"
+            },
+            {
+                "name": "Levenkhan",
+                "href": "/artist/122321:Levenkhan"
+            },
+            {
+                "name": "Luminite",
+                "href": "/artist/81162:Luminite"
+            },
+            {
+                "name": "Phantom",
+                "href": "/artist/116366:Phantom"
+            },
+            {
+                "name": "Reckless",
+                "href": "/artist/101850:Reckless"
+            },
+            {
+                "name": "Rizer",
+                "href": "/artist/111243:Rizer"
+            },
+            {
+                "name": "Rosbeek",
+                "href": "/artist/129677:Rosbeek"
+            },
+            {
+                "name": "Tenzin",
+                "href": "/artist/168811:Tenzin"
+            }
+        ]
+    },
+    {
+        "title": "VBX · NYE",
+        "url": "https://partyflock.nl/party/463901:VBX",
+        "image": "https://partyflock.nl/images/party/463901_404x404_684904/VBX.png",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Levenslang",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bruno Schmidt",
+                "href": "/artist/74037:Bruno-Schmidt"
+            },
+            {
+                "name": "Children of Valis",
+                "href": "/artist/112015:Children-of-Valis"
+            },
+            {
+                "name": "GABBS",
+                "href": "/artist/110504:GABBS"
+            },
+            {
+                "name": "Joiah",
+                "href": "/artist/163726:Joiah"
+            },
+            {
+                "name": "Voigtmann",
+                "href": "/artist/87353:Voigtmann"
+            }
+        ]
+    },
+    {
+        "title": "Verknipt · NYE Special",
+        "url": "https://partyflock.nl/party/458556:Verknipt",
+        "image": "https://partyflock.nl/images/party/458556_539x303_670416/Verknipt.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00+01:00",
+            "endDate": "2024-01-01T09:59:59+01:00"
+        },
+        "place": {
+            "name": "Klokgebouw",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Alignment",
+                "href": "/artist/124435:Alignment"
+            },
+            {
+                "name": "AnD",
+                "href": "/artist/78174:AnD"
+            },
+            {
+                "name": "APHØTIC",
+                "href": "/artist/150438:APHOTIC"
+            },
+            {
+                "name": "Basswell",
+                "href": "/artist/109351:Basswell"
+            },
+            {
+                "name": "BIIA",
+                "href": "/artist/141530:BIIA"
+            },
+            {
+                "name": "CLTX",
+                "href": "/artist/134420:CLTX"
+            },
+            {
+                "name": "Daniella Da Silva",
+                "href": "/artist/157708:Daniella-Da-Silva"
+            },
+            {
+                "name": "DIØN",
+                "href": "/artist/100175:DION"
+            },
+            {
+                "name": "Don Woezik",
+                "href": "/artist/138893:Don-Woezik"
+            },
+            {
+                "name": "Japau",
+                "href": "/artist/140528:Japau"
+            },
+            {
+                "name": "Karaxheller",
+                "href": "/artist/155302:Karaxheller"
+            },
+            {
+                "name": "Køzløv",
+                "href": "/artist/130433:Kozlov"
+            },
+            {
+                "name": "LESSSS",
+                "href": "/artist/141334:LESSSS"
+            },
+            {
+                "name": "Luca van Oss",
+                "href": "/artist/157284:Luca-van-Oss"
+            },
+            {
+                "name": "N00M1",
+                "href": "/artist/155424:N00M1"
+            },
+            {
+                "name": "NYCΘ",
+                "href": "/artist/150682:NYC"
+            },
+            {
+                "name": "Shlømo",
+                "href": "/artist/90259:Shlomo"
+            },
+            {
+                "name": "The Hunters",
+                "href": "/artist/155492:The-Hunters"
+            },
+            {
+                "name": "Vendex",
+                "href": "/artist/156896:Vendex"
+            },
+            {
+                "name": "VII Circle",
+                "href": "/artist/106105:VII-Circle"
+            }
+        ]
+    },
+    {
+        "title": "Vier oudejaarsavond op de Euromast",
+        "url": "https://partyflock.nl/party/464540:Vier-oudejaarsavond-op-de-Euromast",
+        "image": "https://partyflock.nl/images/party/464540_495x330_640316/Vier-oudejaarsavond-op-de-Euromast.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T19:00:00+01:00",
+            "endDate": "2024-01-01T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Euromast",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Villa Thalia · NYE",
+        "url": "https://partyflock.nl/party/462749:Villa-Thalia",
+        "image": "https://partyflock.nl/images/party/462749_339x481_683740/Villa-Thalia.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Villa Thalia",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Viva Oliva · NYE",
+        "url": "https://partyflock.nl/party/464007:Viva-Oliva",
+        "image": "https://partyflock.nl/images/party/464007_539x303_685214/Viva-Oliva.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T00:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Vriendendienst · New Years Eve",
+        "url": "https://partyflock.nl/party/463945:Vriendendienst",
+        "image": "https://partyflock.nl/images/party/463945_539x303_685014/Vriendendienst.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T02:00:00+01:00",
+            "endDate": "2024-01-01T07:59:59+01:00"
+        },
+        "place": {
+            "name": "On The Rocks",
+            "city": "Zoetermeer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Alex Vasi",
+                "href": "/artist/70227:Alex-Vasi"
+            },
+            {
+                "name": "JohnJoell",
+                "href": "/artist/77320:JohnJoell"
+            }
+        ]
+    },
+    {
+        "title": "Vrijmiboot · NYE Edition",
+        "url": "https://partyflock.nl/party/461699:Vrijmiboot",
+        "image": "https://partyflock.nl/images/party/461699_558x292_679105/Vrijmiboot.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T03:59:59+01:00"
+        },
+        "place": {
+            "name": "unspecified boat",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Addik",
+                "href": "/artist/47407:Addik"
+            },
+            {
+                "name": "Praia del Sol",
+                "href": "/artist/28746:Praia-del-Sol"
+            },
+            {
+                "name": "Sepehr",
+                "href": "/artist/132725:Sepehr"
+            }
+        ]
+    },
+    {
+        "title": "WAS · New Years Eve",
+        "url": "https://partyflock.nl/party/463226:WAS",
+        "image": "https://partyflock.nl/images/party/463226_404x404_683048/WAS.jpg",
+        "startDate": {
+            "startDate": "2024-01-01T01:00:00+01:00",
+            "endDate": "2024-01-01T07:29:59+01:00"
+        },
+        "place": {
+            "name": "WAS.",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "36framez",
+                "href": "/artist/168618:36framez"
+            },
+            {
+                "name": "Bastienne",
+                "href": "/artist/122835:Bastienne"
+            },
+            {
+                "name": "Hellie",
+                "href": "/artist/67455:Hellie"
+            },
+            {
+                "name": "Lola Edo",
+                "href": "/artist/128715:Lola-Edo"
+            },
+            {
+                "name": "Moody Mehran",
+                "href": "/artist/70786:Moody-Mehran"
+            },
+            {
+                "name": "Spacer Woman",
+                "href": "/artist/158033:Spacer-Woman"
+            },
+            {
+                "name": "Supergloss",
+                "href": "/artist/166647:Supergloss"
+            },
+            {
+                "name": "Tsepo",
+                "href": "/artist/79154:Tsepo"
+            }
+        ]
+    },
+    {
+        "title": "We All Love 80's 90's 00's 10's · NYE Cruise",
+        "url": "https://partyflock.nl/party/458669:We-All-Love-80s-90s-00s-10s",
+        "image": "https://partyflock.nl/images/party/458669_571x286_670722/We-All-Love-80s-90s-00s-10s.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Docks 1",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "We All Love 80's 90's 00's 10's · NYE",
+        "url": "https://partyflock.nl/party/458479:We-All-Love-80s-90s-00s-10s",
+        "image": "https://partyflock.nl/images/party/458479_571x286_670280/We-All-Love-80s-90s-00s-10s.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Effenaar",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "We All Love 80's 90's 00's 10's · NYE",
+        "url": "https://partyflock.nl/party/458666:We-All-Love-80s-90s-00s-10s",
+        "image": "https://partyflock.nl/images/party/458666_571x286_670716/We-All-Love-80s-90s-00s-10s.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Cornelis Bar & Kitchen",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "We All Love 80's 90's 00's 10's · NYE",
+        "url": "https://partyflock.nl/party/458667:We-All-Love-80s-90s-00s-10s",
+        "image": "https://partyflock.nl/images/party/458667_404x404_686705/We-All-Love-80s-90s-00s-10s.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Winkel van Sinkel",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "We All Love 80's 90's 00's 10's · NYE",
+        "url": "https://partyflock.nl/party/458668:We-All-Love-80s-90s-00s-10s",
+        "image": "https://partyflock.nl/images/party/458668_571x286_670720/We-All-Love-80s-90s-00s-10s.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Panama",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Welcome To Wonderland · NYE Festival",
+        "url": "https://partyflock.nl/party/461853:Welcome-To-Wonderland",
+        "image": "https://partyflock.nl/images/party/461853_539x303_679690/Welcome-To-Wonderland.jpg",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00+01:00",
+            "endDate": "2024-01-01T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Muziekgieterij",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "CAJA",
+                "href": "/artist/108799:CAJA"
+            },
+            {
+                "name": "Disco Tropicana",
+                "href": "/artist/124907:Disco-Tropicana"
+            },
+            {
+                "name": "G-Roam",
+                "href": "/artist/7685:G-Roam"
+            },
+            {
+                "name": "Groove Safari",
+                "href": "/artist/125805:Groove-Safari"
+            },
+            {
+                "name": "Nothing but Funk",
+                "href": "/artist/37995:Nothing-but-Funk"
+            },
+            {
+                "name": "Pim Umenzi",
+                "href": "/artist/111174:Pim-Umenzi"
+            },
+            {
+                "name": "Vico Valesco",
+                "href": "/artist/68061:Vico-Valesco"
+            },
+            {
+                "name": "Yoshua Jr.",
+                "href": "/artist/77971:Yoshua-Jr"
+            }
+        ]
+    }
+]
