@@ -1,0 +1,364 @@
+[
+    {
+        "title": "Orgelkonzert am Silvesterabend",
+        "url": "/konzert/instrumental/event/5f1859923d65a16a75457e6a.63a18d67edbd0e3b597a89f4.orgelkonzert-am-silvesterabend",
+        "startDate": {
+            "startDate": "2023-12-31T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Annakirche, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/96957e3206418694d7812b0a614f98b0.jpg?v=2"
+    },
+    {
+        "title": "Antje Rietz: „Musik liegt in der Luft“",
+        "url": "/konzert/jazz/event/5f1859a83d65a16a754598d0.655214da607e3b61f23590c8.antje-rietz-musik-liegt-in-der-luft",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00.000Z",
+            "text": "Heute, 21:00 Uhr"
+        },
+        "place": "Haus der Stadt, Düren",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/89aa72bcbef5ea484a593ffe01df3b0d.jpg?v=1"
+    },
+    {
+        "title": "„NYE Festival“",
+        "url": "/party/tanzen/house/event/5f1859a63d65a16a75459694.6376081b82ff3569ba1f8545.nye-festival",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Muziekgieterij, Maastricht",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "house"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0dfa37581f000d5107f7ffa103cbbdfd.jpeg?v=2"
+    },
+    {
+        "title": "„Silvester im Franz“ (Ausverkauft)",
+        "url": "/party/tanzen/80er-20er/event/617154aa3d65a108fa6877b2.654cf36220b43e2c4a69b5a2.silvester-im-franz-ausverkauft",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00.000Z",
+            "text": "Heute, 21:00 Uhr"
+        },
+        "place": "Franz, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "80er-20er"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac320c774fc5a5b27d6b1afc93c8f84b.jpeg?v=1"
+    },
+    {
+        "title": "„Silvester-Kult-Party“",
+        "url": "/party/tanzen/event/5f1859a43d65a16a7545932f.65522601cf681b575a5a5a77.silvester-kult-party",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Berks Dancing, Würselen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0dfa37581f000d5107f7ffa103cbbdfd.jpeg?v=2"
+    },
+    {
+        "title": "„Silvesterparty“",
+        "url": "/party/feiern/event/5f1859a43d65a16a754593e0.655233d9e828c7049f5b36c8.silvesterparty",
+        "startDate": {
+            "startDate": "2023-12-31T23:00:00.000Z",
+            "text": "Heute, 23:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/79cc70a5b32c13130a9f031fe60c8da9.jpg?v=1"
+    },
+    {
+        "title": "„A Soulful NYE Party“",
+        "url": "/party/tanzen/funk/event/5f1859a53d65a16a754594e3.655b31ec946a917b44346625.a-soulful-nye-party",
+        "startDate": {
+            "startDate": "2023-12-31T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Poppodium Nieuwe Nor, Heerlen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "funk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/244173eec012b2f2590bcc473d44de59.jpeg?v=1"
+    },
+    {
+        "title": "„Dein Hotel Europa – Silvestersause“",
+        "url": "/party/tanzen/electro/event/5f1859a23d65a16a754590ba.655ca2689ccc12577225e456.dein-hotel-europa--silvestersause",
+        "startDate": {
+            "startDate": "2023-12-31T21:00:00.000Z",
+            "text": "Heute, 21:00 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "electro"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc699943ba004af256ea87cf347c5c14.jpg?v=1"
+    },
+    {
+        "title": "„La Bohème“",
+        "url": "/buehne/musiktheater/oper/event/5f1859a43d65a16a754593e0.6412361c99a9ae65a61aa9ad.la-bohme",
+        "startDate": {
+            "startDate": "2023-12-31T20:30:00.000Z",
+            "text": "Heute, 20:30 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "oper"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e597089aff9c3678ede70e320b980cfb.jpg?v=1"
+    },
+    {
+        "title": "Aachener Weihnachtscircus: „Funtastisch“",
+        "url": "/buehne/show/zirkus/event/5f1859a73d65a16a75459707.652d571dd5167249333d7d92.aachener-weihnachtscircus-funtastisch",
+        "startDate": {
+            "startDate": "2023-12-31T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "zirkus"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84bb71eaee49db10baf4b2506e11f1b2.jpg?v=1"
+    },
+    {
+        "title": "„The Addams Family“",
+        "url": "/buehne/musiktheater/musical/event/5f18599e3d65a16a75458cda.655207aed29b930758483ae2.the-addams-family",
+        "startDate": {
+            "startDate": "2023-12-31T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "musical"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/377ebcaff468445bc08684f893d8aff8.jpg?v=1"
+    },
+    {
+        "title": "„Heinsberger Weihnachts- und Wintermarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859a03d65a16a75458e95.618ccf7c3d65a15aaf351875.heinsberger-weihnachts--und-wintermarkt",
+        "startDate": {
+            "startDate": "2023-12-31T11:30:00.000Z",
+            "endDate": "2023-12-31T20:00:00.000Z",
+            "text": "Heute, 11:30 - 20:00 Uhr"
+        },
+        "place": "Markt, Heinsberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2350dc7f5e12ac509b79086050575eea.jpg?v=2"
+    },
+    {
+        "title": "„Magisches Maastricht“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599e3d65a16a75458cb3.618cd5b03d65a15f6b77cf42.magisches-maastricht",
+        "startDate": {
+            "startDate": "2023-12-31T10:00:00.000Z",
+            "endDate": "2023-12-31T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Vrijthof, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cf0c8f440e9af1c4eb6fb4cd3b68e0ef.jpg?v=3"
+    },
+    {
+        "title": "„Weihnachtsstadt Valkenburg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/618cd82b3d65a15f6e626ff2.618cda383d65a15bca3681e2.weihnachtsstadt-valkenburg",
+        "startDate": {
+            "startDate": "2023-12-31",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Valkenburg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "Marché de la Batte",
+        "url": "/markt-und-messe/markt/wochenmarkt/event/60548ab33d65a114b30803f2.6232064932359b175d3b7334.march-de-la-batte",
+        "startDate": {
+            "startDate": "2023-12-31T08:00:00.000Z",
+            "text": "Heute, 08:00 Uhr"
+        },
+        "place": "Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "wochenmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/469c4af2132fd3392e284b0aec3a7a71.jpg?v=1"
+    },
+    {
+        "title": "„Antiquitätenmarkt“",
+        "url": "/markt-und-messe/markt/antik/event/5f18599b3d65a16a754588bb.6232077cbad1c708a13bdddd.antiquitaetenmarkt",
+        "startDate": {
+            "startDate": "2023-12-31T07:00:00.000Z",
+            "text": "Heute, 07:00 Uhr"
+        },
+        "place": "Tongeren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "antik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84d7fb937beddcfa8a7de5ded1c8a76e.jpg?v=1"
+    },
+    {
+        "title": "„Brander Adventsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545830c.636bd1603e3b225bbf0a9109.brander-adventsmarkt",
+        "startDate": {
+            "startDate": "2023-12-31T12:00:00.000Z",
+            "endDate": "2023-12-31T22:00:00.000Z",
+            "text": "Heute, 12:00 - 22:00 Uhr"
+        },
+        "place": "Marktplatz Brand, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Winterzeit Heerlen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545827c.63723660d5777105b64dd99d.winterzeit-heerlen",
+        "startDate": {
+            "startDate": "2023-12-31T10:00:00.000Z",
+            "endDate": "2023-12-31T19:00:00.000Z",
+            "text": "Heute, 10:00 - 19:00 Uhr"
+        },
+        "place": "Pancratiusplein, Heerlen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Winterland Hasselt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/637369805eaddf733c7a6e12.637369d15eaddf733c7a6e13.winterland-hasselt",
+        "startDate": {
+            "startDate": "2023-12-31T11:00:00.000Z",
+            "endDate": "2023-12-31T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Kolonel Dusartplein, Hasselt",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c8c21fd72bfd8182d45122f92c32db79.jpg?v=2"
+    },
+    {
+        "title": "„Wegberger Eisbahn im Winterdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6373aabe52958c69232efadb.6373aacedb75e9583c1cb404.wegberger-eisbahn-im-winterdorf",
+        "startDate": {
+            "startDate": "2023-12-31",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Rathausplatz, Wegberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24360defb97abfee9ea154ae9b391f2c.jpg?v=2"
+    },
+    {
+        "title": "„Öffentliche Führung“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/609e30363d65a14ad50eb942.61eec57ff4f3015a814db3b7.ffentliche-fuehrung",
+        "startDate": {
+            "startDate": "2023-12-31T11:00:00.000Z",
+            "endDate": "2023-12-31T12:00:00.000Z",
+            "text": "Heute, 11:00 - 12:00 Uhr"
+        },
+        "place": "Stadtmuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/96d7820f4e853672bf148a3b6d3face4.jpeg?v=1"
+    },
+    {
+        "title": "„Wie alles begann. Die Schatzkammer in der Karlskapelle 1873-1881“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.651402d13d1dc366416d8a02.wie-alles-begann-die-schatzkammer-in-der-karlskapelle-1873-1881",
+        "startDate": {
+            "startDate": "2023-12-31T10:00:00.000Z",
+            "endDate": "2023-12-31T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Domschatzkammer Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6cb92175ba21f172abf590d8be472ddc.jpg?v=1"
+    },
+    {
+        "title": "„Rathausführung“",
+        "url": "/verschiedenes/event/5f1859a23d65a16a7545908e.5fbf7f7c3d65a14b9029b0d2.rathausfuehrung",
+        "startDate": {
+            "startDate": "2023-12-31T10:30:00.000Z",
+            "endDate": "2023-12-31T11:30:00.000Z",
+            "text": "Heute, 10:30 - 11:30 Uhr"
+        },
+        "place": "Aachener Rathaus",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3bcd0ac15f33da08360eff8402e6b27d.jpg?v=2"
+    },
+    {
+        "title": "Aachener Tierpark – Euregiozoo",
+        "url": "/verschiedenes/anderes/event/5f1859a83d65a16a754598f7.6581bf868799ff53152b17e7.aachener-tierpark--euregiozoo",
+        "startDate": {
+            "startDate": "2023-12-31T09:00:00.000Z",
+            "endDate": "2023-12-31T14:30:00.000Z",
+            "text": "Heute, 09:00 - 14:30 Uhr"
+        },
+        "place": "Aachener Tierpark – Euregiozoo",
+        "categorySlugs": [
+            "verschiedenes",
+            "anderes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f975ed8ccb94003d1936625f28602458.jpg?v=1"
+    }
+]
