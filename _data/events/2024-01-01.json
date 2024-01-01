@@ -1,0 +1,166 @@
+[
+    {
+        "title": "Art'n Schutz Orchester",
+        "url": "/konzert/jazz/event/5f1859973d65a16a7545840f.618a56cc3d65a11a66371c62.artn-schutz-orchester",
+        "startDate": {
+            "startDate": "2024-01-01T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/08ef39fa77a3fd62a7d6e69e51e50546.jpg?v=2"
+    },
+    {
+        "title": "„Neujahrskonzert – Ode an die Freude“",
+        "url": "/konzert/klassische-musik/event/5f18599a3d65a16a7545874c.656f6e6c75505b2fb3217923.neujahrskonzert--ode-an-die-freude",
+        "startDate": {
+            "startDate": "2024-01-01T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Eurogress Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0f3b83dc2132ce53b0417cf436eaf21f.jpg?v=2"
+    },
+    {
+        "title": "Neujahrskonzert: Palm in Concert",
+        "url": "/konzert/klassische-musik/event/5f18599b3d65a16a75458844.6581a9c0b3a5c60ca7244d33.neujahrskonzert-palm-in-concert",
+        "startDate": {
+            "startDate": "2024-01-01T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Zitadelle Jülich",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b064ac479c72522de1beaed59c192f2a.jpg?v=1"
+    },
+    {
+        "title": "„Weihnachtsstadt Valkenburg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/618cd82b3d65a15f6e626ff2.618cda383d65a15bca3681e2.weihnachtsstadt-valkenburg",
+        "startDate": {
+            "startDate": "2024-01-01",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Valkenburg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Brander Adventsmarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545830c.636bd1603e3b225bbf0a9109.brander-adventsmarkt",
+        "startDate": {
+            "startDate": "2024-01-01T14:00:00.000Z",
+            "endDate": "2024-01-01T22:00:00.000Z",
+            "text": "Heute, 14:00 - 22:00 Uhr"
+        },
+        "place": "Marktplatz Brand, Aachen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1386adbd841dafed557327d0c0edf677.jpg?v=2"
+    },
+    {
+        "title": "„Winterzeit Heerlen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545827c.63723660d5777105b64dd99d.winterzeit-heerlen",
+        "startDate": {
+            "startDate": "2024-01-01T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Pancratiusplein, Heerlen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Winterland Hasselt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/637369805eaddf733c7a6e12.637369d15eaddf733c7a6e13.winterland-hasselt",
+        "startDate": {
+            "startDate": "2024-01-01T11:00:00.000Z",
+            "endDate": "2024-01-01T22:00:00.000Z",
+            "text": "Heute, 11:00 - 22:00 Uhr"
+        },
+        "place": "Kolonel Dusartplein, Hasselt",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c8c21fd72bfd8182d45122f92c32db79.jpg?v=2"
+    },
+    {
+        "title": "„Wegberger Eisbahn im Winterdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6373aabe52958c69232efadb.6373aacedb75e9583c1cb404.wegberger-eisbahn-im-winterdorf",
+        "startDate": {
+            "startDate": "2024-01-01",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Rathausplatz, Wegberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24360defb97abfee9ea154ae9b391f2c.jpg?v=2"
+    },
+    {
+        "title": "„Mit Feuer zu strafen! Hexenwerk und Teufelsbund im Aachener Raum“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599f3d65a16a75458d8d.65311981562ac16ff616f1c3.mit-feuer-zu-strafen-hexenwerk-und-teufelsbund-im-aachener-raum",
+        "startDate": {
+            "startDate": "2024-01-01T10:00:00.000Z",
+            "endDate": "2024-01-01T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/aab2097ed080838e48dd9f1d60eb23f9.jpg?v=1"
+    },
+    {
+        "title": "„Neujahrswanderung“",
+        "url": "/sport-und-bewegung/wanderung/event/61e9570ff4f3017efe0961fb.6579cb892eb04a08ca329b12.neujahrswanderung",
+        "startDate": {
+            "startDate": "2024-01-01T12:00:00.000Z",
+            "text": "Heute, 12:00 Uhr"
+        },
+        "place": "Parkplatz Abteigarten Kornelimünster, Aachen",
+        "categorySlugs": [
+            "sport-und-bewegung",
+            "wanderung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1b86b029196ad73bdd43883fc01d7f22.jpg?v=1"
+    },
+    {
+        "title": "„Kurpark, Stadtgarten, Farwickpark“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f18599a3d65a16a7545874c.61c9a0083d65a15fb166b672.kurpark-stadtgarten-farwickpark",
+        "startDate": {
+            "startDate": "2024-01-01T14:00:00.000Z",
+            "endDate": "2024-01-01T15:30:00.000Z",
+            "text": "Heute, 14:00 - 15:30 Uhr"
+        },
+        "place": "Eurogress Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bae3662bbf03cfe48326e8b28ed6c870.jpg?v=1"
+    }
+]
