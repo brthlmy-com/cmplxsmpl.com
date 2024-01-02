@@ -1,0 +1,45 @@
+[
+    {
+        "title": "De Brabantse Winter · Week 3",
+        "url": "https://partyflock.nl/party/462515:De-Brabantse-Winter",
+        "image": "https://partyflock.nl/images/party/462515_404x404_681523/De-Brabantse-Winter.jpg",
+        "startDate": {
+            "startDate": "2024-01-02T12:00:00+01:00",
+            "endDate": "2024-01-02T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Brabanthallen",
+            "city": "'s-Hertogenbosch",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/464426:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/464426_403x405_686096/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2024-01-03T00:30:00+01:00",
+            "endDate": "2024-01-03T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "JP",
+                "href": "/artist/92:JP"
+            },
+            {
+                "name": "Maream",
+                "href": "/artist/133097:Maream"
+            }
+        ]
+    }
+]
