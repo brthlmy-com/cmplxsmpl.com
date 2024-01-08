@@ -1,0 +1,216 @@
+[
+    {
+        "title": "Ronnie Romero",
+        "url": "/konzert/rock/event/5f1859993d65a16a754585e2.6571cf282d6e1947be55ff43.ronnie-romero",
+        "startDate": {
+            "startDate": "2024-01-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b96ccce432f7d98f44130626f8b61c85.jpeg?v=1"
+    },
+    {
+        "title": "The Grateful Aid",
+        "url": "/konzert/rock/event/5f1859993d65a16a754585f8.6579a8b7ad45be58b61c6876.the-grateful-aid",
+        "startDate": {
+            "startDate": "2024-01-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/082bb5930f7440fd0473d745844a93d0.jpeg?v=1"
+    },
+    {
+        "title": "„The Addams Family“",
+        "url": "/buehne/musiktheater/musical/event/5f18599e3d65a16a75458cda.655207aed29b930758483ae2.the-addams-family",
+        "startDate": {
+            "startDate": "2024-01-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "musical"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/377ebcaff468445bc08684f893d8aff8.jpg?v=1"
+    },
+    {
+        "title": "Malerei und Fotografie",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a754581e9.600ae66f3d65a1052879d392.malerei-und-fotografie",
+        "startDate": {
+            "startDate": "2024-01-08T08:00:00.000Z",
+            "endDate": "2024-01-08T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d0a95d34f3a1d6848ad02921397eb98.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-01-08T10:00:00.000Z",
+            "endDate": "2024-01-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-01-08T10:00:00.000Z",
+            "endDate": "2024-01-08T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-01-08T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-01-08T10:00:00.000Z",
+            "endDate": "2024-01-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Bill Viola: \"Sculptor of Time\"",
+        "url": "/kunst/ausstellung/video/event/5f18599b3d65a16a75458891.6512d708a2748222436ebfa5.bill-viola-sculptor-of-time",
+        "startDate": {
+            "startDate": "2024-01-08",
+            "text": "Heute, ganztägig"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "video"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f0b7b4f3bfe521d4a55842e920c5d2ee.jpg?v=1"
+    },
+    {
+        "title": "„Wie alles begann. Die Schatzkammer in der Karlskapelle 1873-1881“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.651402d13d1dc366416d8a02.wie-alles-begann-die-schatzkammer-in-der-karlskapelle-1873-1881",
+        "startDate": {
+            "startDate": "2024-01-08T10:00:00.000Z",
+            "endDate": "2024-01-08T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6cb92175ba21f172abf590d8be472ddc.jpg?v=1"
+    },
+    {
+        "title": "Jahresausstellung des Fotoclubs 2000 Aachen",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859993d65a16a754585c6.654cdbe087e23c017853a73b.jahresausstellung-des-fotoclubs-2000-aachen",
+        "startDate": {
+            "startDate": "2024-01-08T08:00:00.000Z",
+            "endDate": "2024-01-08T13:00:00.000Z",
+            "text": "Heute, 08:00 - 13:00 Uhr"
+        },
+        "place": "Finanzamt Aachen-Stadt",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b72ae5cb654be094d57d8d4a51738160.jpg?v=1"
+    },
+    {
+        "title": "„Umwandlung der Akropolis von Athen in eine fränkische Burganlage“",
+        "url": "/kunst/ausstellung/historisch/event/5f2deb033d65a14f3400d012.655cc9242596ff03614a60a2.umwandlung-der-akropolis-von-athen-in-eine-fraenkische-burganlage",
+        "startDate": {
+            "startDate": "2024-01-08",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Gesellschaft für internationale Burgenkunde Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2548c8ab2360ab379bc9ebd8ff906f70.jpg?v=1"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-01-08T10:00:00.000Z",
+            "endDate": "2024-01-08T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6d8c7cb2770c1bcdec92650d9c1129dc.jpg?v=1"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2024-01-08T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    }
+]
