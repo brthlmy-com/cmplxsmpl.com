@@ -1,0 +1,215 @@
+[
+    {
+        "title": "The Man Who",
+        "url": "/konzert/pop/event/5f1859993d65a16a754585f8.6138b40e3d65a119b4457d32.the-man-who",
+        "startDate": {
+            "startDate": "2024-01-22T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "pop"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e5d85f846dc32c159f4ad584094d4b98.jpg?v=1"
+    },
+    {
+        "title": "„The Addams Family“",
+        "url": "/buehne/musiktheater/musical/event/5f1859a43d65a16a75459396.655207aed29b930758483ae2.the-addams-family",
+        "startDate": {
+            "startDate": "2024-01-22T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Großer Kursaal, Schleiden",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "musical"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/377ebcaff468445bc08684f893d8aff8.jpg?v=1"
+    },
+    {
+        "title": "Florian Schroeder: „Schluss jetzt! – Der satirische Jahresrückblick“",
+        "url": "/buehne/kabarett-und-comedy/kabarett/event/5f18599a3d65a16a754587ad.6579984fad45be58b61c6873.florian-schroeder-schluss-jetzt--der-satirische-jahresrueckblick",
+        "startDate": {
+            "startDate": "2024-01-22T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Stadthalle Alsdorf",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "kabarett"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6596b79f1734767bd2c13bbe5c2de6ec.jpeg?v=1"
+    },
+    {
+        "title": "„Atomwaffenfrei trotz Krieg?“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f18599a3d65a16a754586d1.6593dc19c5fff325d06c41b2.atomwaffenfrei-trotz-krieg",
+        "startDate": {
+            "startDate": "2024-01-22T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Bischöfliche Akademie des Bistums Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3994b72dbb7627c497e7516576e83be5.jpeg?v=1"
+    },
+    {
+        "title": "Malerei und Fotografie",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a754581e9.600ae66f3d65a1052879d392.malerei-und-fotografie",
+        "startDate": {
+            "startDate": "2024-01-22T08:00:00.000Z",
+            "endDate": "2024-01-22T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d0a95d34f3a1d6848ad02921397eb98.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-01-22T10:00:00.000Z",
+            "endDate": "2024-01-22T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-01-22T10:00:00.000Z",
+            "endDate": "2024-01-22T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-01-22T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "90. Werkschau der Kunstakademie",
+        "url": "/kunst/ausstellung/malerei/event/60d4b7063d65a17adc6d77f2.645bae03214c3505df2dbf05.90-werkschau-der-kunstakademie",
+        "startDate": {
+            "startDate": "2024-01-22T10:00:00.000Z",
+            "endDate": "2024-01-22T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Internationale Kunstakademie Heimbach/Eifel",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b892bbc1c36e25c445d563563362ffb5.jpg?v=2"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-01-22T10:00:00.000Z",
+            "endDate": "2024-01-22T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Theo Richter: „Abstraktion trifft Landschaft“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d80.654cf6297e94306d6920d2f5.theo-richter-abstraktion-trifft-landschaft",
+        "startDate": {
+            "startDate": "2024-01-22T14:00:00.000Z",
+            "endDate": "2024-01-22T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/480a4fa1bd38b98ca04d0bd34d68d2de.jpg?v=1"
+    },
+    {
+        "title": "Vincent Solheid",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a75459167.656f830475505b2fb3217929.vincent-solheid",
+        "startDate": {
+            "startDate": "2024-01-22T13:00:00.000Z",
+            "endDate": "2024-01-22T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1b3a60768ef616fe7bc8ef5f22a9e6d0.jpg?v=1"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-01-22T10:00:00.000Z",
+            "endDate": "2024-01-22T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6d8c7cb2770c1bcdec92650d9c1129dc.jpg?v=1"
+    },
+    {
+        "title": "Närrische Ordensschau des Festausschuss Aachener Karneval",
+        "url": "/kunst/ausstellung/event/5f1859a33d65a16a75459239.65a935ad66dc115969243083.naerrische-ordensschau-des-festausschuss-aachener-karneval",
+        "startDate": {
+            "startDate": "2024-01-22T09:00:00.000Z",
+            "endDate": "2024-01-22T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "Aachener Bank, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    }
+]
