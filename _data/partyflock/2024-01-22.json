@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/464868:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/464868_404x404_677469/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2024-01-23T00:00:00+01:00",
+            "endDate": "2024-01-23T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Iching",
+                "href": "/artist/140514:Iching"
+            },
+            {
+                "name": "Loco",
+                "href": "/artist/28499:Loco"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Ripple",
+                "href": "/artist/112124:Ripple"
+            },
+            {
+                "name": "Roman",
+                "href": "/artist/167413:Roman"
+            },
+            {
+                "name": "Spud",
+                "href": "/artist/32559:Spud"
+            }
+        ]
+    },
+    {
+        "title": "Monday Breakbeat Sessions",
+        "url": "https://partyflock.nl/party/465341:Monday-Breakbeat-Sessions",
+        "image": "https://partyflock.nl/images/party/465341_404x404_688261/Monday-Breakbeat-Sessions.png",
+        "startDate": {
+            "startDate": "2024-01-22T19:00:00+01:00",
+            "endDate": "2024-01-22T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Amsterdam Most Wanted Radio",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "K-Teck",
+                "href": "/artist/79562:K-Teck"
+            }
+        ]
+    }
+]
