@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/464429:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/464429_403x405_686096/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2024-01-24T00:30:00+01:00",
+            "endDate": "2024-01-24T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Inez Akker",
+                "href": "/artist/118710:Inez-Akker"
+            },
+            {
+                "name": "Jayzo",
+                "href": "/artist/68137:Jayzo"
+            }
+        ]
+    },
+    {
+        "title": "Vrienden van Amstel Live",
+        "url": "https://partyflock.nl/party/447330:Vrienden-van-Amstel-Live",
+        "startDate": {
+            "startDate": "2024-01-23T21:00:00+01:00",
+            "endDate": "2024-01-23T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Ahoy",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
