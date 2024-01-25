@@ -1,0 +1,60 @@
+[
+    {
+        "title": "BAMBÚ",
+        "url": "https://partyflock.nl/party/464015:BAMBU",
+        "image": "https://partyflock.nl/images/party/464015_539x303_675890/BAMBU.png",
+        "startDate": {
+            "startDate": "2024-01-26T00:00:00+01:00",
+            "endDate": "2024-01-26T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Oliva",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "EAST",
+        "url": "https://partyflock.nl/party/465281:EAST",
+        "image": "https://partyflock.nl/images/party/465281_558x292_688148/EAST.png",
+        "startDate": {
+            "startDate": "2024-01-26T00:00:00+01:00",
+            "endDate": "2024-01-26T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Schülze",
+                "href": "/artist/168281:Schulze"
+            },
+            {
+                "name": "Sub_Under",
+                "href": "/artist/78073:Sub_Under"
+            },
+            {
+                "name": "Zelda",
+                "href": "/artist/123185:Zelda"
+            }
+        ]
+    },
+    {
+        "title": "Vrienden van Amstel Live",
+        "url": "https://partyflock.nl/party/447328:Vrienden-van-Amstel-Live",
+        "image": "https://partyflock.nl/images/party/447328_609x268_668695/Vrienden-van-Amstel-Live.jpg",
+        "startDate": {
+            "startDate": "2024-01-25T21:00:00+01:00",
+            "endDate": "2024-01-25T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Ahoy",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    }
+]
