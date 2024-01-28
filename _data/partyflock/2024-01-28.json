@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Audio Obscura · Weekender",
+        "url": "https://partyflock.nl/party/462590:Audio-Obscura",
+        "image": "https://partyflock.nl/images/party/462590_404x404_687113/Audio-Obscura.png",
+        "startDate": {
+            "startDate": "2024-01-28T16:00:00+01:00",
+            "endDate": "2024-01-28T23:59:59+01:00"
+        },
+        "place": {
+            "name": "A'dam The Loft",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dixon",
+                "href": "/artist/13328:Dixon"
+            },
+            {
+                "name": "Trikk",
+                "href": "/artist/75233:Trikk"
+            }
+        ]
+    },
+    {
+        "title": "Sera",
+        "url": "https://partyflock.nl/party/457985:Sera",
+        "image": "https://partyflock.nl/images/party/457985_558x292_669005/Sera.jpg",
+        "startDate": {
+            "startDate": "2024-01-28T21:00:00+01:00",
+            "endDate": "2024-01-28T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sera",
+                "href": "/artist/143527:Sera"
+            }
+        ]
+    },
+    {
+        "title": "Sunday Vibes · Engergize for the week to come!",
+        "url": "https://partyflock.nl/party/465681:Sunday-Vibes",
+        "image": "https://partyflock.nl/images/party/465681_404x404_688641/Sunday-Vibes.jpg",
+        "startDate": {
+            "startDate": "2024-01-28T21:00:00+01:00",
+            "endDate": "2024-01-29T02:59:59+01:00"
+        },
+        "place": {
+            "name": "The Fat One",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "DE//SIRE",
+                "href": "/artist/162707:DE-SIRE"
+            },
+            {
+                "name": "Iggy",
+                "href": "/artist/161026:Iggy"
+            },
+            {
+                "name": "Marin",
+                "href": "/artist/108650:Marin"
+            },
+            {
+                "name": "Samzo",
+                "href": "/artist/143842:Samzo"
+            }
+        ]
+    },
+    {
+        "title": "Waylon",
+        "url": "https://partyflock.nl/party/452575:Waylon",
+        "image": "https://partyflock.nl/images/party/452575_558x292_658523/Waylon.jpg",
+        "startDate": {
+            "startDate": "2024-01-28T21:15:00+01:00",
+            "endDate": "2024-01-28T21:14:59+01:00"
+        },
+        "place": {
+            "name": "Oosterpoort",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Waylon",
+                "href": "/artist/80014:Waylon"
+            }
+        ]
+    }
+]
