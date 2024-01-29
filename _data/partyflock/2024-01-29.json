@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/464869:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/464869_404x404_677469/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2024-01-30T00:00:00+01:00",
+            "endDate": "2024-01-30T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Nixus",
+                "href": "/artist/87414:Nixus"
+            },
+            {
+                "name": "Samurai Breaks",
+                "href": "/artist/169435:Samurai-Breaks"
+            },
+            {
+                "name": "Tradesman",
+                "href": "/artist/82326:Tradesman"
+            },
+            {
+                "name": "ZeroZero",
+                "href": "/artist/84029:ZeroZero"
+            }
+        ]
+    },
+    {
+        "title": "Dotan · 7 Layers - 10 Year Anniversary",
+        "url": "https://partyflock.nl/party/463783:Dotan",
+        "image": "https://partyflock.nl/images/party/463783_558x292_684600/Dotan.jpg",
+        "startDate": {
+            "startDate": "2024-01-29T19:00:00+01:00",
+            "endDate": "2024-01-29T23:29:59+01:00"
+        },
+        "place": {
+            "name": "Carré",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dotan",
+                "href": "/artist/90458:Dotan"
+            }
+        ]
+    },
+    {
+        "title": "Pre-Cheeky",
+        "url": "https://partyflock.nl/party/465637:Pre-Cheeky",
+        "image": "https://partyflock.nl/images/party/465637_452x361_688479/Pre-Cheeky.jpg",
+        "startDate": {
+            "startDate": "2024-01-29T20:00:00+01:00",
+            "endDate": "2024-01-29T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Havelaar",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "I-Ching",
+                "href": "/artist/140514:I-Ching"
+            },
+            {
+                "name": "Ingo",
+                "href": "/artist/169759:Ingo"
+            },
+            {
+                "name": "Majestic",
+                "href": "/artist/7772:Majestic"
+            },
+            {
+                "name": "The Flash",
+                "href": "/artist/169760:The-Flash"
+            }
+        ]
+    }
+]
