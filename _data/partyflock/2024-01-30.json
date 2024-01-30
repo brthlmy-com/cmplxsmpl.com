@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/464430:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/464430_554x295_686089/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2024-01-31T00:00:00+01:00",
+            "endDate": "2024-01-31T05:29:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Edit-Select",
+                "href": "/artist/55839:Edit-Select"
+            },
+            {
+                "name": "Sophie Bruin",
+                "href": "/artist/137327:Sophie-Bruin"
+            }
+        ]
+    }
+]
