@@ -1,0 +1,65 @@
+[
+    {
+        "title": "7LAYERS",
+        "url": "https://partyflock.nl/party/464322:7LAYERS",
+        "image": "https://partyflock.nl/images/party/464322_224x224_685861/7LAYERS.png",
+        "startDate": {
+            "startDate": "2024-02-04T21:00:00+01:00",
+            "endDate": "2024-02-04T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Bitterzoet",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Thé Dansant",
+        "url": "https://partyflock.nl/party/462975:The-Dansant",
+        "image": "https://partyflock.nl/images/party/462975_404x404_683779/The-Dansant.jpg",
+        "startDate": {
+            "startDate": "2024-02-04T13:00:00+01:00",
+            "endDate": "2024-02-04T22:59:59+01:00"
+        },
+        "place": {
+            "name": "be-MINE",
+            "city": "Beringen",
+            "country": "België"
+        },
+        "lineup": [
+            {
+                "name": "BDC",
+                "href": "/artist/142047:BDC"
+            },
+            {
+                "name": "Caspar",
+                "href": "/artist/62903:Caspar"
+            },
+            {
+                "name": "Don Cabron",
+                "href": "/artist/61331:Don-Cabron"
+            },
+            {
+                "name": "Harmonious",
+                "href": "/artist/166216:Harmonious"
+            },
+            {
+                "name": "IZIL",
+                "href": "/artist/168725:IZIL"
+            },
+            {
+                "name": "Muze",
+                "href": "/artist/111837:Muze"
+            },
+            {
+                "name": "Solina",
+                "href": "/artist/80699:Solina"
+            },
+            {
+                "name": "Thomas M.",
+                "href": "/artist/43884:Thomas-M"
+            }
+        ]
+    }
+]
