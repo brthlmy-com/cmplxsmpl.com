@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Cheeky Monday · Bish",
+        "url": "https://partyflock.nl/party/465713:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/465713_404x404_615951/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2024-02-06T00:00:00+01:00",
+            "endDate": "2024-02-06T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Arcturius",
+                "href": "/artist/166518:Arcturius"
+            },
+            {
+                "name": "Bish",
+                "href": "/artist/127385:Bish"
+            },
+            {
+                "name": "I-Ching",
+                "href": "/artist/140514:I-Ching"
+            },
+            {
+                "name": "Loco",
+                "href": "/artist/28499:Loco"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            }
+        ]
+    },
+    {
+        "title": "Simple Plan, State Champs, Mayday Parade",
+        "url": "https://partyflock.nl/party/458655:Simple-Plan-State-Champs-Mayday-Parade",
+        "image": "https://partyflock.nl/images/party/458655_303x539_670680/Simple-Plan-State-Champs-Mayday-Parade.jpg",
+        "startDate": {
+            "startDate": "2024-02-05T19:00:00+01:00",
+            "endDate": "2024-02-05T18:59:59+01:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mayday Parade",
+                "href": "/artist/160382:Mayday-Parade"
+            },
+            {
+                "name": "Simple Plan",
+                "href": "/artist/155368:Simple-Plan"
+            },
+            {
+                "name": "State Champs",
+                "href": "/artist/115675:State-Champs"
+            }
+        ]
+    }
+]
