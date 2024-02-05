@@ -1,0 +1,273 @@
+[
+    {
+        "title": "Aachen Big Band",
+        "url": "/konzert/instrumental/event/5f1859943d65a16a7545809c.62f62aabcecfa74ea2028542.aachen-big-band",
+        "startDate": {
+            "startDate": "2024-02-05T20:30:00.000Z",
+            "text": "Heute, 20:30 Uhr"
+        },
+        "place": "Mufab, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/46da6c237123dcb914c949520708c605.jpg?v=3"
+    },
+    {
+        "title": "Saitenhieb",
+        "url": "/konzert/event/5f1859993d65a16a754585f8.63c9bd60e8c7341a847092d3.saitenhieb",
+        "startDate": {
+            "startDate": "2024-02-05T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d1d62dc1c941e7d72bd859e38df7865.jpg?v=1"
+    },
+    {
+        "title": "„Singer-Songwriter-Night“",
+        "url": "/konzert/singer-songwriter/event/5f1859a63d65a16a75459694.642ad9266c1db23eef231c3d.singer-songwriter-night",
+        "startDate": {
+            "startDate": "2024-02-05T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Muziekgieterij, Maastricht",
+        "categorySlugs": [
+            "konzert",
+            "singer-songwriter"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db8b46f8a0d7d90bd58bbff52516ddd8.jpg?v=0"
+    },
+    {
+        "title": "„Achtsam morden“ (Ausverkauft)",
+        "url": "/buehne/theater/komoedie/event/5f18599e3d65a16a75458cda.6577350ddb71c200eb6d9932.achtsam-morden-ausverkauft",
+        "startDate": {
+            "startDate": "2024-02-05T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fbe98259ada69e47db8ba360fc2ff76c.jfif?v=1"
+    },
+    {
+        "title": "„Blue Monday - Die Rumba-Therapie“",
+        "url": "/film-und-bild/film/komoedie/event/5f1859a23d65a16a7545917e.6130c32d3d65a105d30411c2.blue-monday---die-rumba-therapie",
+        "startDate": {
+            "startDate": "2024-02-05T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/809c4cdaa6fb20b0a908f5f61bc68abc.jpg?v=1"
+    },
+    {
+        "title": "„Die Rumba-Therapie“",
+        "url": "/film-und-bild/film/komoedie/event/5f1859a23d65a16a7545917e.649043b5089b560bbe3df087.die-rumba-therapie",
+        "startDate": {
+            "startDate": "2024-02-05T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c453735caed19aa93bfaee2260714d5d.jpg?v=1"
+    },
+    {
+        "title": "„Monsieur Blake zu Diensten“",
+        "url": "/film-und-bild/film/tragikomoedie/event/5f1859a73d65a16a75459710.653248c480de1906bb282e53.monsieur-blake-zu-diensten",
+        "startDate": {
+            "startDate": "2024-02-05T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "tragikomoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a2f162ed6e9cb7977319e90ee1b58436.jpeg?v=1"
+    },
+    {
+        "title": "„Raus aus dem Teich“",
+        "url": "/film-und-bild/film/zeichentrick-und-animation/event/5f1859a73d65a16a75459710.65aa44aeb1d4156100522072.raus-aus-dem-teich",
+        "startDate": {
+            "startDate": "2024-02-05T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "zeichentrick-und-animation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c193187876ab5297a96578d51793c656.jpg?v=2"
+    },
+    {
+        "title": "„Der Tiber und die ewige Stadt“",
+        "url": "/bildung/vortrag-und-diskussion/event/65a521979d0e963f285c7e64.der-tiber-und-die-ewige-stadt",
+        "startDate": {
+            "startDate": "2024-02-05T19:30:00.000Z",
+            "endDate": "2024-02-05T21:00:00.000Z",
+            "text": "Heute, 19:30 - 21:00 Uhr"
+        },
+        "place": "",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad376fcce13fda891eaabc4a03b0a8ac.jpg?v=3"
+    },
+    {
+        "title": "Malerei und Fotografie",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a754581e9.600ae66f3d65a1052879d392.malerei-und-fotografie",
+        "startDate": {
+            "startDate": "2024-02-05T08:00:00.000Z",
+            "endDate": "2024-02-05T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d0a95d34f3a1d6848ad02921397eb98.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-02-05T10:00:00.000Z",
+            "endDate": "2024-02-05T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-02-05T10:00:00.000Z",
+            "endDate": "2024-02-05T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-02-05T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "90. Werkschau der Kunstakademie",
+        "url": "/kunst/ausstellung/malerei/event/60d4b7063d65a17adc6d77f2.645bae03214c3505df2dbf05.90-werkschau-der-kunstakademie",
+        "startDate": {
+            "startDate": "2024-02-05T10:00:00.000Z",
+            "endDate": "2024-02-05T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Internationale Kunstakademie Heimbach/Eifel",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b892bbc1c36e25c445d563563362ffb5.jpg?v=2"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-02-05T10:00:00.000Z",
+            "endDate": "2024-02-05T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-02-05T10:00:00.000Z",
+            "endDate": "2024-02-05T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6d8c7cb2770c1bcdec92650d9c1129dc.jpg?v=1"
+    },
+    {
+        "title": "Närrische Ordensschau des Festausschuss Aachener Karneval",
+        "url": "/kunst/ausstellung/event/5f1859a33d65a16a75459239.65a935ad66dc115969243083.naerrische-ordensschau-des-festausschuss-aachener-karneval",
+        "startDate": {
+            "startDate": "2024-02-05T09:00:00.000Z",
+            "endDate": "2024-02-05T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "Aachener Bank",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d521f2dc5bad5eb5ec4d9e964652b076.jpg?v=2"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2024-02-05T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    }
+]
