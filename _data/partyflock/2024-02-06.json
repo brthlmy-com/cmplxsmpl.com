@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/465057:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/465057_554x295_687675/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2024-02-07T00:00:00+01:00",
+            "endDate": "2024-02-07T05:29:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Fadar",
+                "href": "/artist/166353:Fadar"
+            },
+            {
+                "name": "Tyler Rouse",
+                "href": "/artist/96445:Tyler-Rouse"
+            }
+        ]
+    }
+]
