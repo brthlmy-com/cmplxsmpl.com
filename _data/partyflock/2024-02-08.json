@@ -1,0 +1,159 @@
+[
+    {
+        "title": "Another Life Release Party",
+        "url": "https://partyflock.nl/party/466014:Another-Life-Release-Party",
+        "image": "https://partyflock.nl/images/party/466014_361x452_689251/Another-Life-Release-Party.jpg",
+        "startDate": {
+            "startDate": "2024-02-08T21:00:00+01:00",
+            "endDate": "2024-02-09T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Time Is The New Space",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Alina Valentina",
+                "href": "/artist/162968:Alina-Valentina"
+            }
+        ]
+    },
+    {
+        "title": "De Vette Carnaval",
+        "url": "https://partyflock.nl/party/465700:De-Vette-Carnaval",
+        "image": "https://partyflock.nl/images/party/465700_482x339_688578/De-Vette-Carnaval.jpg",
+        "startDate": {
+            "startDate": "2024-02-08T17:00:00+01:00",
+            "endDate": "2024-02-09T04:59:59+01:00"
+        },
+        "place": {
+            "name": "The Fat One",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mo",
+                "href": "/artist/169744:Mo"
+            }
+        ]
+    },
+    {
+        "title": "Depeche Mode · Memento Mori World Tour",
+        "url": "https://partyflock.nl/party/458953:Depeche-Mode",
+        "image": "https://partyflock.nl/images/party/458953_539x303_671693/Depeche-Mode.jpg",
+        "startDate": {
+            "startDate": "2024-02-08T21:00:00+01:00",
+            "endDate": "2024-02-08T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Eagle-Eye Cherry",
+        "url": "https://partyflock.nl/party/458650:Eagle-Eye-Cherry",
+        "image": "https://partyflock.nl/images/party/458650_558x292_670664/Eagle-Eye-Cherry.jpg",
+        "startDate": {
+            "startDate": "2024-02-08T21:15:00+01:00",
+            "endDate": "2024-02-08T21:14:59+01:00"
+        },
+        "place": {
+            "name": "Luxor Live",
+            "city": "Arnhem",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Eagle Eye Cherry",
+                "href": "/artist/148064:Eagle-Eye-Cherry"
+            }
+        ]
+    },
+    {
+        "title": "EAST",
+        "url": "https://partyflock.nl/party/465414:EAST",
+        "image": "https://partyflock.nl/images/party/465414_558x292_688376/EAST.png",
+        "startDate": {
+            "startDate": "2024-02-09T00:00:00+01:00",
+            "endDate": "2024-02-09T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Roots",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Compound Rhythm",
+                "href": "/artist/166519:Compound-Rhythm"
+            },
+            {
+                "name": "Eddie Merced",
+                "href": "/artist/169677:Eddie-Merced"
+            },
+            {
+                "name": "KAAI",
+                "href": "/artist/167278:KAAI"
+            }
+        ]
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/465879:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/465879_558x292_688495/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2024-02-09T00:00:00+01:00",
+            "endDate": "2024-02-09T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Werfkelder",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Parachute",
+        "url": "https://partyflock.nl/party/465957:Parachute",
+        "image": "https://partyflock.nl/images/party/465957_320x320_689182/Parachute.jpg",
+        "startDate": {
+            "startDate": "2024-02-09T00:00:00+01:00",
+            "endDate": "2024-02-08T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "The Dean",
+        "url": "https://partyflock.nl/party/464243:The-Dean",
+        "image": "https://partyflock.nl/images/party/464243_495x330_685749/The-Dean.jpg",
+        "startDate": {
+            "startDate": "2024-02-08T20:30:00+01:00",
+            "endDate": "2024-02-08T22:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "De Makelaar",
+                "href": "/artist/155500:De-Makelaar"
+            },
+            {
+                "name": "The Dean",
+                "href": "/artist/143960:The-Dean"
+            }
+        ]
+    }
+]
