@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Tara Clerkin Trio + Raoul Eden",
+        "url": "/konzert/jazz/event/5f1859a13d65a16a75459062.65b266906b85111657411ee4.tara-clerkin-trio--raoul-eden",
+        "startDate": {
+            "startDate": "2024-02-12T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Galerie Vorn und Oben, Eupen",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ]
+    },
+    {
+        "title": "„Rosenmontagsparty“",
+        "url": "/party/tanzen/event/5f1859993d65a16a754585f8.5fbf7f873d65a14b9029b6ca.rosenmontagsparty",
+        "startDate": {
+            "startDate": "2024-02-12T12:00:00.000Z",
+            "text": "Heute, 12:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0dfa37581f000d5107f7ffa103cbbdfd.jpeg?v=2"
+    },
+    {
+        "title": "„Jeck in der Rockfabrik“",
+        "url": "/party/feiern/event/5f18599b3d65a16a75458871.65a121f7e3e2802a2d5795f6.jeck-in-der-rockfabrik",
+        "startDate": {
+            "startDate": "2024-02-12T12:00:00.000Z",
+            "text": "Heute, 12:00 Uhr"
+        },
+        "place": "Rockfabrik, Übach-Palenberg",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac320c774fc5a5b27d6b1afc93c8f84b.jpeg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-02-12T10:00:00.000Z",
+            "endDate": "2024-02-12T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Bill Viola: „Sculptor of Time“",
+        "url": "/kunst/ausstellung/video/event/5f18599b3d65a16a75458891.6512d708a2748222436ebfa5.bill-viola-sculptor-of-time",
+        "startDate": {
+            "startDate": "2024-02-12T10:00:00.000Z",
+            "endDate": "2024-02-12T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "video"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f0b7b4f3bfe521d4a55842e920c5d2ee.jpg?v=3"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-02-12T10:00:00.000Z",
+            "endDate": "2024-02-12T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6d8c7cb2770c1bcdec92650d9c1129dc.jpg?v=1"
+    },
+    {
+        "title": "Michael Krupp",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a7545878b.65b763a1eb5bad60e057bc62.michael-krupp",
+        "startDate": {
+            "startDate": "2024-02-12T14:00:00.000Z",
+            "endDate": "2024-02-12T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Raum für Gäste, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ]
+    }
+]
