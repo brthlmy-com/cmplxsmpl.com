@@ -1,0 +1,379 @@
+[
+    {
+        "title": "CarnaCore",
+        "url": "https://partyflock.nl/party/466113:CarnaCore",
+        "image": "https://partyflock.nl/images/party/466113_539x303_689506/CarnaCore.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T15:00:00+01:00",
+            "endDate": "2024-02-13T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Wilhelminaburg",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Braga",
+                "href": "/artist/155825:Braga"
+            },
+            {
+                "name": "Freeze",
+                "href": "/artist/6757:Freeze"
+            },
+            {
+                "name": "GrosVenor",
+                "href": "/artist/134765:GrosVenor"
+            },
+            {
+                "name": "L-Neon",
+                "href": "/artist/165039:L-Neon"
+            },
+            {
+                "name": "Marius Maximus",
+                "href": "/artist/136157:Marius-Maximus"
+            },
+            {
+                "name": "Mat Mushroom",
+                "href": "/artist/61046:Mat-Mushroom"
+            },
+            {
+                "name": "MESSI4H",
+                "href": "/artist/167718:MESSI4H"
+            },
+            {
+                "name": "Mindfxck",
+                "href": "/artist/159900:Mindfxck"
+            },
+            {
+                "name": "Noizemaker",
+                "href": "/artist/80629:Noizemaker"
+            },
+            {
+                "name": "Nyvek",
+                "href": "/artist/163616:Nyvek"
+            },
+            {
+                "name": "R.P.M.",
+                "href": "/artist/42756:R-P-M"
+            },
+            {
+                "name": "The Bassjunk",
+                "href": "/artist/117253:The-Bassjunk"
+            },
+            {
+                "name": "The Mad Scientist",
+                "href": "/artist/152742:The-Mad-Scientist"
+            },
+            {
+                "name": "Toxic Den",
+                "href": "/artist/77486:Toxic-Den"
+            }
+        ]
+    },
+    {
+        "title": "Carnaval · Kunningsbal",
+        "url": "https://partyflock.nl/party/464147:Carnaval",
+        "image": "https://partyflock.nl/images/party/464147_647x252_685479/Carnaval.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T14:00:00+01:00",
+            "endDate": "2024-02-12T13:59:59+01:00"
+        },
+        "place": {
+            "name": "Cantina La Bamba",
+            "city": "Boxmeer",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Carnaval",
+        "url": "https://partyflock.nl/party/465278:Carnaval",
+        "image": "https://partyflock.nl/images/party/465278_558x292_688107/Carnaval.png",
+        "startDate": {
+            "startDate": "2024-02-12T15:00:00+01:00",
+            "endDate": "2024-02-13T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Brabo's",
+            "city": "Boxtel",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Jan",
+                "href": "/artist/3527:Jan"
+            }
+        ]
+    },
+    {
+        "title": "CarNORval · Stille Maondig",
+        "url": "https://partyflock.nl/party/464621:CarNORval",
+        "image": "https://partyflock.nl/images/party/464621_558x292_686554/CarNORval.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T21:00:00+01:00",
+            "endDate": "2024-02-13T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Nieuwe Nor",
+            "city": "Heerlen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Cheeky Monday · Il Truth",
+        "url": "https://partyflock.nl/party/465714:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/465714_539x303_688675/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T00:00:00+01:00",
+            "endDate": "2024-02-13T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "Ill Truth",
+                "href": "/artist/127743:Ill-Truth"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Spud",
+                "href": "/artist/32559:Spud"
+            },
+            {
+                "name": "ZeroZero",
+                "href": "/artist/84029:ZeroZero"
+            }
+        ]
+    },
+    {
+        "title": "Classixs meets Freestyle · The Carnavals Edition",
+        "url": "https://partyflock.nl/party/465645:Classixs-meets-Freestyle",
+        "image": "https://partyflock.nl/images/party/465645_558x292_688489/Classixs-meets-Freestyle.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T22:00:00+01:00",
+            "endDate": "2024-02-13T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Willem van Oranje",
+            "city": "Veldhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "B-Four",
+                "href": "/artist/162892:B-Four"
+            },
+            {
+                "name": "Francois",
+                "href": "/artist/408:Francois"
+            },
+            {
+                "name": "Just Robert",
+                "href": "/artist/158664:Just-Robert"
+            },
+            {
+                "name": "Taa",
+                "href": "/artist/2439:Taa"
+            }
+        ]
+    },
+    {
+        "title": "Complex · Power Rave Day 3",
+        "url": "https://partyflock.nl/party/465864:Complex",
+        "image": "https://partyflock.nl/images/party/465864_558x292_689017/Complex.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T23:00:00+01:00",
+            "endDate": "2024-02-13T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Complex",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Clair",
+                "href": "/artist/169981:Clair"
+            },
+            {
+                "name": "LENA",
+                "href": "/artist/142927:LENA"
+            },
+            {
+                "name": "Myrthe Hoessels",
+                "href": "/artist/157187:Myrthe-Hoessels"
+            }
+        ]
+    },
+    {
+        "title": "De Vette Carnaval",
+        "url": "https://partyflock.nl/party/465704:De-Vette-Carnaval",
+        "image": "https://partyflock.nl/images/party/465704_482x339_688578/De-Vette-Carnaval.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T14:00:00+01:00",
+            "endDate": "2024-02-13T04:59:59+01:00"
+        },
+        "place": {
+            "name": "The Fat One",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Edwin Rene",
+                "href": "/artist/169750:Edwin-Rene"
+            },
+            {
+                "name": "Max Kneefel",
+                "href": "/artist/169751:Max-Kneefel"
+            },
+            {
+                "name": "Mir.I.Ami",
+                "href": "/artist/100405:Mir-I-Ami"
+            },
+            {
+                "name": "Mooikaap",
+                "href": "/artist/169756:Mooikaap"
+            },
+            {
+                "name": "Raywell",
+                "href": "/artist/66601:Raywell"
+            }
+        ]
+    },
+    {
+        "title": "Hospaleis",
+        "url": "https://partyflock.nl/party/459065:Hospaleis",
+        "image": "https://partyflock.nl/images/party/459065_659x248_672118/Hospaleis.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T15:00:00+01:00",
+            "endDate": "2024-02-12T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Centrum Haghorst",
+            "city": "Haghorst",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Karnaval Theatre",
+        "url": "https://partyflock.nl/party/464706:Karnaval-Theatre",
+        "image": "https://partyflock.nl/images/party/464706_538x303_686770/Karnaval-Theatre.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T23:00:00+01:00",
+            "endDate": "2024-02-12T22:59:59+01:00"
+        },
+        "place": {
+            "name": "City Theater",
+            "city": "Schijndel",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gezellige Uptempo",
+                "href": "/artist/158306:Gezellige-Uptempo"
+            }
+        ]
+    },
+    {
+        "title": "Knapp'n bi'j de Karke",
+        "url": "https://partyflock.nl/party/462804:Knappn-bij-de-Karke",
+        "image": "https://partyflock.nl/images/party/462804_404x404_682078/Knappn-bij-de-Karke.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T19:00:00+01:00",
+            "endDate": "2024-02-13T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Oude Calixtus",
+            "city": "Groenlo",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "De Bierbeukers",
+                "href": "/artist/157059:De-Bierbeukers"
+            },
+            {
+                "name": "Feest DJ Jeroen",
+                "href": "/artist/74823:Feest-DJ-Jeroen"
+            },
+            {
+                "name": "Feest DJ Maarten",
+                "href": "/artist/111856:Feest-DJ-Maarten"
+            },
+            {
+                "name": "P-Red",
+                "href": "/artist/122360:P-Red"
+            },
+            {
+                "name": "Roel Staarink",
+                "href": "/artist/62664:Roel-Staarink"
+            },
+            {
+                "name": "Rotjoch",
+                "href": "/artist/47206:Rotjoch"
+            }
+        ]
+    },
+    {
+        "title": "Stiefelen",
+        "url": "https://partyflock.nl/party/466031:Stiefelen",
+        "image": "https://partyflock.nl/images/party/466031_558x292_689275/Stiefelen.jpg",
+        "startDate": {
+            "startDate": "2024-02-12T16:00:00+01:00",
+            "endDate": "2024-02-13T00:54:59+01:00"
+        },
+        "place": {
+            "name": "Stadhuisplein",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bass Chaserz",
+                "href": "/artist/65720:Bass-Chaserz"
+            },
+            {
+                "name": "Daani",
+                "href": "/artist/69927:Daani"
+            },
+            {
+                "name": "Dansado & De Feestmeester",
+                "href": "/artist/90456:Dansado-and-De-Feestmeester"
+            },
+            {
+                "name": "Freddy Moreira",
+                "href": "/artist/61328:Freddy-Moreira"
+            },
+            {
+                "name": "Jim",
+                "href": "/artist/47284:Jim"
+            },
+            {
+                "name": "John West",
+                "href": "/artist/98484:John-West"
+            },
+            {
+                "name": "The Darkraver",
+                "href": "/artist/40:The-Darkraver"
+            },
+            {
+                "name": "Zany",
+                "href": "/artist/459:Zany"
+            }
+        ]
+    }
+]
