@@ -1,0 +1,236 @@
+[
+    {
+        "title": "Carnaval · Familiedag",
+        "url": "https://partyflock.nl/party/464148:Carnaval",
+        "image": "https://partyflock.nl/images/party/464148_647x252_685479/Carnaval.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T12:00:00+01:00",
+            "endDate": "2024-02-13T11:59:59+01:00"
+        },
+        "place": {
+            "name": "Cantina La Bamba",
+            "city": "Boxmeer",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Het Feestteam",
+                "href": "/artist/78193:Het-Feestteam"
+            },
+            {
+                "name": "Pascal",
+                "href": "/artist/97182:Pascal"
+            }
+        ]
+    },
+    {
+        "title": "Carnaval",
+        "url": "https://partyflock.nl/party/465279:Carnaval",
+        "image": "https://partyflock.nl/images/party/465279_558x292_688107/Carnaval.png",
+        "startDate": {
+            "startDate": "2024-02-13T15:00:00+01:00",
+            "endDate": "2024-02-14T00:59:59+01:00"
+        },
+        "place": {
+            "name": "Brabo's",
+            "city": "Boxtel",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "CarNORval · Warehouse Rave",
+        "url": "https://partyflock.nl/party/464623:CarNORval",
+        "image": "https://partyflock.nl/images/party/464623_558x292_687255/CarNORval.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T23:00:00+01:00",
+            "endDate": "2024-02-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Nieuwe Nor",
+            "city": "Heerlen",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Complex · Power Rave Day 4",
+        "url": "https://partyflock.nl/party/465865:Complex",
+        "image": "https://partyflock.nl/images/party/465865_558x292_689017/Complex.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T23:00:00+01:00",
+            "endDate": "2024-02-14T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Complex",
+            "city": "Maastricht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "ASID",
+                "href": "/artist/141336:ASID"
+            },
+            {
+                "name": "Hush & Sleep",
+                "href": "/artist/88188:Hush-and-Sleep"
+            },
+            {
+                "name": "SLVL",
+                "href": "/artist/156264:SLVL"
+            },
+            {
+                "name": "Technika",
+                "href": "/artist/158296:Technika"
+            },
+            {
+                "name": "X&Trick",
+                "href": "/artist/23441:X-Trick"
+            }
+        ]
+    },
+    {
+        "title": "De Vette Carnaval",
+        "url": "https://partyflock.nl/party/465710:De-Vette-Carnaval",
+        "image": "https://partyflock.nl/images/party/465710_482x339_688578/De-Vette-Carnaval.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T14:00:00+01:00",
+            "endDate": "2024-02-14T02:59:59+01:00"
+        },
+        "place": {
+            "name": "The Fat One",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mo",
+                "href": "/artist/169744:Mo"
+            },
+            {
+                "name": "Mooikaap",
+                "href": "/artist/169756:Mooikaap"
+            },
+            {
+                "name": "Raywell",
+                "href": "/artist/66601:Raywell"
+            },
+            {
+                "name": "Venance",
+                "href": "/artist/26839:Venance"
+            },
+            {
+                "name": "Vince Hunt",
+                "href": "/artist/169746:Vince-Hunt"
+            }
+        ]
+    },
+    {
+        "title": "LOUDER! · Hossen Editie",
+        "url": "https://partyflock.nl/party/465119:LOUDER",
+        "image": "https://partyflock.nl/images/party/465119_404x404_687781/LOUDER.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T21:00:00+01:00",
+            "endDate": "2024-02-14T04:59:59+01:00"
+        },
+        "place": {
+            "name": "The Silent",
+            "city": "Breda",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Activate",
+                "href": "/artist/113280:Activate"
+            },
+            {
+                "name": "Adaro",
+                "href": "/artist/20432:Adaro"
+            },
+            {
+                "name": "Distress",
+                "href": "/artist/160691:Distress"
+            },
+            {
+                "name": "Flux Overload",
+                "href": "/artist/140924:Flux-Overload"
+            },
+            {
+                "name": "Mutilator",
+                "href": "/artist/125568:Mutilator"
+            },
+            {
+                "name": "Qriminal",
+                "href": "/artist/98036:Qriminal"
+            },
+            {
+                "name": "STTRBSTN",
+                "href": "/artist/66480:STTRBSTN"
+            },
+            {
+                "name": "The Saints",
+                "href": "/artist/140591:The-Saints"
+            },
+            {
+                "name": "Uncaged",
+                "href": "/artist/102522:Uncaged"
+            }
+        ]
+    },
+    {
+        "title": "Techno Feestje #8",
+        "url": "https://partyflock.nl/party/465906:Techno-Feestje",
+        "image": "https://partyflock.nl/images/party/465906_558x292_689108/Techno-Feestje.jpg",
+        "startDate": {
+            "startDate": "2024-02-13T21:00:00+01:00",
+            "endDate": "2024-02-14T02:59:59+01:00"
+        },
+        "place": {
+            "name": "The Jack",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Berner Sennheiser",
+                "href": "/artist/169805:Berner-Sennheiser"
+            },
+            {
+                "name": "Eddy Heshvan",
+                "href": "/artist/162708:Eddy-Heshvan"
+            },
+            {
+                "name": "Poon & Relou",
+                "href": "/artist/75489:Poon-and-Relou"
+            },
+            {
+                "name": "Surreal Visuals",
+                "href": "/artist/109875:Surreal-Visuals"
+            }
+        ]
+    },
+    {
+        "title": "Techno Tuesday",
+        "url": "https://partyflock.nl/party/465058:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/465058_403x405_687676/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2024-02-14T00:30:00+01:00",
+            "endDate": "2024-02-14T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dauphin Åka",
+                "href": "/artist/34845:Dauphin-Aka"
+            },
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            }
+        ]
+    }
+]
