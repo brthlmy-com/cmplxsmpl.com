@@ -1,0 +1,22 @@
+[
+    {
+        "title": "OMD",
+        "url": "https://partyflock.nl/party/461418:OMD",
+        "image": "https://partyflock.nl/images/party/461418_404x404_678335/OMD.jpg",
+        "startDate": {
+            "startDate": "2024-02-14T21:00:00+01:00",
+            "endDate": "2024-02-14T20:59:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "OMD",
+                "href": "/artist/144954:OMD"
+            }
+        ]
+    }
+]
