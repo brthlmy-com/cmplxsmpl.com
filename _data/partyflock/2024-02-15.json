@@ -1,0 +1,119 @@
+[
+    {
+        "title": "EAST",
+        "url": "https://partyflock.nl/party/465419:EAST",
+        "image": "https://partyflock.nl/images/party/465419_558x292_688384/EAST.png",
+        "startDate": {
+            "startDate": "2024-02-16T00:00:00+01:00",
+            "endDate": "2024-02-16T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Up",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Francesco Andolina",
+                "href": "/artist/167273:Francesco-Andolina"
+            },
+            {
+                "name": "I Am Steve",
+                "href": "/artist/137603:I-Am-Steve"
+            },
+            {
+                "name": "Jayzo",
+                "href": "/artist/68137:Jayzo"
+            }
+        ]
+    },
+    {
+        "title": "Happy Feelings",
+        "url": "https://partyflock.nl/party/465880:Happy-Feelings",
+        "image": "https://partyflock.nl/images/party/465880_558x292_688495/Happy-Feelings.jpg",
+        "startDate": {
+            "startDate": "2024-02-16T00:00:00+01:00",
+            "endDate": "2024-02-16T04:29:59+01:00"
+        },
+        "place": {
+            "name": "Werfkelder",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Parachute",
+        "url": "https://partyflock.nl/party/465958:Parachute",
+        "image": "https://partyflock.nl/images/party/465958_320x320_689182/Parachute.jpg",
+        "startDate": {
+            "startDate": "2024-02-16T00:00:00+01:00",
+            "endDate": "2024-02-15T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Tae111",
+        "url": "https://partyflock.nl/party/465844:Tae111",
+        "image": "https://partyflock.nl/images/party/465844_559x292_688997/Tae111.jpg",
+        "startDate": {
+            "startDate": "2024-02-15T20:30:00+01:00",
+            "endDate": "2024-02-15T20:29:59+01:00"
+        },
+        "place": {
+            "name": "Nobel",
+            "city": "Ballum",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Tae111",
+                "href": "/artist/169850:Tae111"
+            }
+        ]
+    },
+    {
+        "title": "The Dean",
+        "url": "https://partyflock.nl/party/463464:The-Dean",
+        "image": "https://partyflock.nl/images/party/463464_404x404_683643/The-Dean.jpg",
+        "startDate": {
+            "startDate": "2024-02-15T20:00:00+01:00",
+            "endDate": "2024-02-15T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Annabel",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "De Makelaar",
+                "href": "/artist/155500:De-Makelaar"
+            },
+            {
+                "name": "The Dean",
+                "href": "/artist/143960:The-Dean"
+            }
+        ]
+    },
+    {
+        "title": "UNTOLD Dubai",
+        "url": "https://partyflock.nl/party/461532:UNTOLD-Dubai",
+        "image": "https://partyflock.nl/images/party/461532_406x402_678573/UNTOLD-Dubai.jpg",
+        "startDate": {
+            "startDate": "2024-02-15T18:00:00+01:00",
+            "endDate": "2024-02-19T07:59:59+01:00"
+        },
+        "place": {
+            "name": "Expo City",
+            "city": "Dubai",
+            "country": "Verenigde Arabische Emiraten"
+        },
+        "lineup": []
+    }
+]
