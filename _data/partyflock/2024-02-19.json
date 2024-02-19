@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Cheeky Monday · Transforma",
+        "url": "https://partyflock.nl/party/465715:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/465715_404x404_615951/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2024-02-20T00:00:00+01:00",
+            "endDate": "2024-02-20T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Gibbo",
+                "href": "/artist/65258:Gibbo"
+            },
+            {
+                "name": "Ingo",
+                "href": "/artist/169759:Ingo"
+            },
+            {
+                "name": "Karimooo",
+                "href": "/artist/59433:Karimooo"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Sinistah",
+                "href": "/artist/1278:Sinistah"
+            },
+            {
+                "name": "Transforma",
+                "href": "/artist/103747:Transforma"
+            }
+        ]
+    }
+]
