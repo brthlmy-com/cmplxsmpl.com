@@ -1,0 +1,379 @@
+[
+    {
+        "title": "Foxl",
+        "url": "/konzert/experimentell/event/5f1859993d65a16a754585f8.63c92938c51f5465280acb33.foxl",
+        "startDate": {
+            "startDate": "2024-02-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "experimentell"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b46ded7ce3ff6e1cd979c1ffbc594d86.jpg?v=1"
+    },
+    {
+        "title": "„Achtsam morden“",
+        "url": "/buehne/theater/komoedie/event/5f18599e3d65a16a75458cda.6577350ddb71c200eb6d9932.achtsam-morden",
+        "startDate": {
+            "startDate": "2024-02-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0fb9d4d6579907bbe26438704cca7af5.jpg?v=1"
+    },
+    {
+        "title": "Far From the Norm/Botis Seva: „Until We Sleep“",
+        "url": "/buehne/tanz/streetdance/event/60c9d2ce3d65a1072c3f90a2.653f9092b6f1250f8b6d8683.far-from-the-normbotis-seva-until-we-sleep",
+        "startDate": {
+            "startDate": "2024-02-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Theater Kerkrade, Kerkrade",
+        "categorySlugs": [
+            "buehne",
+            "tanz",
+            "streetdance"
+        ]
+    },
+    {
+        "title": "Far From The Norm & Botis Seva: „Until We Sleep”",
+        "url": "/buehne/tanz/zeitgenoessischer-tanz/event/60c9d2ce3d65a1072c3f90a2.659d813092f1d27e947d73a4.far-from-the-norm--botis-seva-until-we-sleep",
+        "startDate": {
+            "startDate": "2024-02-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Theater Kerkrade, Kerkrade",
+        "categorySlugs": [
+            "buehne",
+            "tanz",
+            "zeitgenoessischer-tanz"
+        ]
+    },
+    {
+        "title": "„Dancing Pina“",
+        "url": "/film-und-bild/film/dokumentation/event/5f1859a53d65a16a754594e0.63ee18ad4bc3b17702411319.dancing-pina",
+        "startDate": {
+            "startDate": "2024-02-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Filmhuis De Spiegel, Heerlen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "dokumentation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d4dc159bbc68a54b3437cf954fc1a9f9.jpeg?v=2"
+    },
+    {
+        "title": "„791 km“",
+        "url": "/film-und-bild/film/drama/event/5f1859a73d65a16a75459710.65aa49e9a19be76eb4276d83.791-km",
+        "startDate": {
+            "startDate": "2024-02-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d3e4ea1e785879436cf113a7da72a09e.jpg?v=2"
+    },
+    {
+        "title": "Cellarmovies: „Not Your Average Dance Movie Theatre“",
+        "url": "/film-und-bild/film/musik-und-tanz/event/659e7f78263f9d16c501c743.659e8049dae3a0489173fe62.cellarmovies-not-your-average-dance-movie-theatre",
+        "startDate": {
+            "startDate": "2024-02-26T12:00:00.000Z",
+            "endDate": "2024-02-26T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Boekhandel Van der Velden Van Dam, Heerlen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "musik-und-tanz"
+        ]
+    },
+    {
+        "title": "„Die Klimakrise – das Ende des Normalen“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a23d65a16a7545917a.65a51c42672e5b3306039006.die-klimakrise--das-ende-des-normalen",
+        "startDate": {
+            "startDate": "2024-02-26T19:30:00.000Z",
+            "endDate": "2024-02-26T20:30:00.000Z",
+            "text": "Heute, 19:30 - 20:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "Jülicher Gesundheitsstunde",
+        "url": "/bildung/informationsveranstaltung/event/637f673311e49c70f53b1512.65b26c44fc267e21a273e4d7.juelicher-gesundheitsstunde",
+        "startDate": {
+            "startDate": "2024-02-26T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Krankenhaus Jülich",
+        "categorySlugs": [
+            "bildung",
+            "informationsveranstaltung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d9eb8fbb820be7da87516a731f32ae5e.jpeg?v=2"
+    },
+    {
+        "title": "„Wie die Polizei Aachen schwere Unfälle aufnimmt“ („Freundeskreis“-exklusiv)",
+        "url": "/bildung/vortrag-und-diskussion/event/65d89f45a099be29ae2b3783.wie-die-polizei-aachen-schwere-unfaelle-aufnimmt-freundeskreis-exklusiv",
+        "startDate": {
+            "startDate": "2024-02-26T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4289acbbb2279f108f709cf8f8daac21.jpg?v=1"
+    },
+    {
+        "title": "„Malerei + Fotografie“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a754581e9.600ae66f3d65a1052879d392.malerei--fotografie",
+        "startDate": {
+            "startDate": "2024-02-26T08:00:00.000Z",
+            "endDate": "2024-02-26T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d0a95d34f3a1d6848ad02921397eb98.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-02-26T10:00:00.000Z",
+            "endDate": "2024-02-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-02-26T10:00:00.000Z",
+            "endDate": "2024-02-26T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-02-26T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-02-26T10:00:00.000Z",
+            "endDate": "2024-02-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Bill Viola: „Sculptor of Time“",
+        "url": "/kunst/ausstellung/video/event/5f18599b3d65a16a75458891.6512d708a2748222436ebfa5.bill-viola-sculptor-of-time",
+        "startDate": {
+            "startDate": "2024-02-26T10:00:00.000Z",
+            "endDate": "2024-02-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "video"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f0b7b4f3bfe521d4a55842e920c5d2ee.jpg?v=3"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-02-26T10:00:00.000Z",
+            "endDate": "2024-02-26T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6d8c7cb2770c1bcdec92650d9c1129dc.jpg?v=1"
+    },
+    {
+        "title": "Stephen Shropshire „Transitioning Space“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859983d65a16a7545851b.659e819f8dfbb00de60ef723.stephen-shropshire-transitioning-space",
+        "startDate": {
+            "startDate": "2024-02-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Theater Heerlen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d81cf3ca0fc9d0698dd3e4da4b4e89ae.jpg?v=1"
+    },
+    {
+        "title": "Karin Odendahl & Oliver Dohr",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a75459167.659fe17c3d2fe1039810cdb2.karin-odendahl--oliver-dohr",
+        "startDate": {
+            "startDate": "2024-02-26T13:00:00.000Z",
+            "endDate": "2024-02-26T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e1b75065b504d95b8984e3f7a79a0381.jpg?v=2"
+    },
+    {
+        "title": "„Kalkül der Form“",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545934e.65c4e29ee425a40d4c59088c.kalkuel-der-form",
+        "startDate": {
+            "startDate": "2024-02-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "NAK – Neuer Aachener Kunstverein",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8a6396a4d70934584ab2324e1b5a4426.jpg?v=1"
+    },
+    {
+        "title": "Albert Borchardt: „Jenseits von Arkadien“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859933d65a16a75457fc5.65cb619f13ca5b243667e563.albert-borchardt-jenseits-von-arkadien",
+        "startDate": {
+            "startDate": "2024-02-26T15:30:00.000Z",
+            "endDate": "2024-02-26T18:00:00.000Z",
+            "text": "Heute, 15:30 - 18:00 Uhr"
+        },
+        "place": "Galerie Nova, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7a16a2454ab4bcbcf42454fadfc90137.jpg?v=1"
+    },
+    {
+        "title": "„Memento Mori“",
+        "url": "/kunst/ausstellung/installation/event/603662083d65a132fc62eba3.65cb86d33d2b9849a654c965.memento-mori",
+        "startDate": {
+            "startDate": "2024-02-26T10:00:00.000Z",
+            "endDate": "2024-02-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Grabes- und Auferstehungskirche St. Cyriakus, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/063b102386b41855dda96d73f123b1af.jpg?v=2"
+    },
+    {
+        "title": "Aljoscha: „Schwebend im Äther des Unwirklichen“",
+        "url": "/kunst/ausstellung/event/5f1859a03d65a16a75458eb1.65cca94f1b10b802f6039874.aljoscha-schwebend-im-ther-des-unwirklichen",
+        "startDate": {
+            "startDate": "2024-02-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Dreieinigkeitskirche, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ce481880828f9e84103bfd1f3adf17.jpg?v=1"
+    },
+    {
+        "title": "„Unsere Welt ist bunt“",
+        "url": "/kunst/ausstellung/malerei/event/5f8a34043d65a15e2e3e7373.65ce235c7e73c55e5b7479e2.unsere-welt-ist-bunt",
+        "startDate": {
+            "startDate": "2024-02-26T08:30:00.000Z",
+            "endDate": "2024-02-26T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c5fea66fc7c4b2193dc3afada7b27e80.png?v=1"
+    },
+    {
+        "title": "„Das Hohe Venn“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a43d65a16a75459417.65d5cf259697c72bd951bca4.das-hohe-venn",
+        "startDate": {
+            "startDate": "2024-02-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Nell-Breuning-Haus, Herzogenrath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/49d5a76616bea41b1034eaed5899905c.jpg?v=1"
+    }
+]
