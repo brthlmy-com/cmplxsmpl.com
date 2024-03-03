@@ -1,0 +1,225 @@
+[
+    {
+        "title": "Daycare",
+        "url": "https://partyflock.nl/party/466210:Daycare",
+        "image": "https://partyflock.nl/images/party/466210_404x404_689691/Daycare.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T19:00:00+01:00",
+            "endDate": "2024-03-04T05:59:59+01:00"
+        },
+        "place": {
+            "name": "BRET",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Bastienne",
+                "href": "/artist/122835:Bastienne"
+            },
+            {
+                "name": "Mahabe137",
+                "href": "/artist/107285:Mahabe137"
+            },
+            {
+                "name": "Mauro Moreno",
+                "href": "/artist/74805:Mauro-Moreno"
+            },
+            {
+                "name": "Mystery Guest",
+                "href": "/artist/58686:Mystery-Guest"
+            },
+            {
+                "name": "Sterac",
+                "href": "/artist/9814:Sterac"
+            },
+            {
+                "name": "Virginia",
+                "href": "/artist/38501:Virginia"
+            }
+        ]
+    },
+    {
+        "title": "Kosheen",
+        "url": "https://partyflock.nl/party/463933:Kosheen",
+        "image": "https://partyflock.nl/images/party/463933_558x292_684995/Kosheen.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T21:00:00+01:00",
+            "endDate": "2024-03-03T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Kosheen",
+                "href": "/artist/6743:Kosheen"
+            }
+        ]
+    },
+    {
+        "title": "Kraantje Pappie",
+        "url": "https://partyflock.nl/party/465962:Kraantje-Pappie",
+        "image": "https://partyflock.nl/images/party/465962_404x404_681853/Kraantje-Pappie.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T20:00:00+01:00",
+            "endDate": "2024-03-03T19:59:59+01:00"
+        },
+        "place": {
+            "name": "Oosterpoort",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Kraantje Pappie",
+                "href": "/artist/54161:Kraantje-Pappie"
+            }
+        ]
+    },
+    {
+        "title": "Ne-Yo · Champagne & Roses",
+        "url": "https://partyflock.nl/party/463853:Ne-Yo",
+        "image": "https://partyflock.nl/images/party/463853_539x303_684781/Ne-Yo.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T20:00:00+01:00",
+            "endDate": "2024-03-03T23:59:59+01:00"
+        },
+        "place": {
+            "name": "013",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Ne-Yo",
+                "href": "/artist/158343:Ne-Yo"
+            }
+        ]
+    },
+    {
+        "title": "Paradigm · Sunday After Collective",
+        "url": "https://partyflock.nl/party/465735:Paradigm",
+        "image": "https://partyflock.nl/images/party/465735_558x292_688750/Paradigm.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T16:00:00+01:00",
+            "endDate": "2024-03-03T15:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradigm",
+            "city": "Groningen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Andreas Bergmann",
+                "href": "/artist/37082:Andreas-Bergmann"
+            },
+            {
+                "name": "Camiel Daamen",
+                "href": "/artist/46479:Camiel-Daamen"
+            },
+            {
+                "name": "Christian Thomas",
+                "href": "/artist/82425:Christian-Thomas"
+            },
+            {
+                "name": "Eversines",
+                "href": "/artist/74413:Eversines"
+            },
+            {
+                "name": "Gerrit de Boer",
+                "href": "/artist/87515:Gerrit-de-Boer"
+            },
+            {
+                "name": "Hesz",
+                "href": "/artist/19568:Hesz"
+            },
+            {
+                "name": "Hi-Tom",
+                "href": "/artist/86886:Hi-Tom"
+            },
+            {
+                "name": "Jos Lok",
+                "href": "/artist/113441:Jos-Lok"
+            },
+            {
+                "name": "Laurine",
+                "href": "/artist/96305:Laurine"
+            },
+            {
+                "name": "Marie K",
+                "href": "/artist/147993:Marie-K"
+            },
+            {
+                "name": "Mathijs Smit",
+                "href": "/artist/80032:Mathijs-Smit"
+            },
+            {
+                "name": "Miss Mana",
+                "href": "/artist/23766:Miss-Mana"
+            },
+            {
+                "name": "Nathan Homan",
+                "href": "/artist/87524:Nathan-Homan"
+            },
+            {
+                "name": "Neo Young",
+                "href": "/artist/35177:Neo-Young"
+            },
+            {
+                "name": "Nuno dos Santos",
+                "href": "/artist/355:Nuno-dos-Santos"
+            },
+            {
+                "name": "Snu",
+                "href": "/artist/150776:Snu"
+            },
+            {
+                "name": "Ven",
+                "href": "/artist/403:Ven"
+            },
+            {
+                "name": "ZugZwang",
+                "href": "/artist/170274:ZugZwang"
+            }
+        ]
+    },
+    {
+        "title": "Sophie Ellis-Bextor",
+        "url": "https://partyflock.nl/party/462663:Sophie-Ellis-Bextor",
+        "image": "https://partyflock.nl/images/party/462663_560x291_681831/Sophie-Ellis-Bextor.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T20:00:00+01:00",
+            "endDate": "2024-03-03T23:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Sophie Ellis Bextor",
+                "href": "/artist/83925:Sophie-Ellis-Bextor"
+            }
+        ]
+    },
+    {
+        "title": "Subculture Helipad",
+        "url": "https://partyflock.nl/party/463168:Subculture-Helipad",
+        "image": "https://partyflock.nl/images/party/463168_340x480_682868/Subculture-Helipad.jpg",
+        "startDate": {
+            "startDate": "2024-03-03T15:00:00+01:00",
+            "endDate": "2024-03-03T22:59:59+01:00"
+        },
+        "place": {
+            "name": "onbekende locatie",
+            "city": "Bangkok",
+            "country": "Thailand"
+        },
+        "lineup": []
+    }
+]
