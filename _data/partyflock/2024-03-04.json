@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Pre-Cheeky",
+        "url": "https://partyflock.nl/party/466429:Pre-Cheeky",
+        "image": "https://partyflock.nl/images/party/466429_452x361_690182/Pre-Cheeky.jpg",
+        "startDate": {
+            "startDate": "2024-03-04T18:00:00+01:00",
+            "endDate": "2024-03-04T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Havelaar",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "I-Ching",
+                "href": "/artist/140514:I-Ching"
+            },
+            {
+                "name": "Ingo",
+                "href": "/artist/169759:Ingo"
+            },
+            {
+                "name": "Karimooo",
+                "href": "/artist/59433:Karimooo"
+            },
+            {
+                "name": "Sinistah",
+                "href": "/artist/1278:Sinistah"
+            }
+        ]
+    }
+]
