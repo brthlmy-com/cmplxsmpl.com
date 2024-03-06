@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Editors · AFAS Live, Amsterdam",
+        "url": "https://partyflock.nl/party/463754:Editors",
+        "image": "https://partyflock.nl/images/party/463754_404x404_684527/Editors.jpg",
+        "startDate": {
+            "startDate": "2024-03-06T21:00:00+01:00",
+            "endDate": "2024-03-06T23:59:59+01:00"
+        },
+        "place": {
+            "name": "AFAS Live",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Editors",
+                "href": "/artist/93583:Editors"
+            }
+        ]
+    },
+    {
+        "title": "Raveland · Hard Techno Rave",
+        "url": "https://partyflock.nl/party/466748:Raveland",
+        "image": "https://partyflock.nl/images/party/466748_404x404_691292/Raveland.jpg",
+        "startDate": {
+            "startDate": "2024-03-07T00:00:00+01:00",
+            "endDate": "2024-03-06T23:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "TRANZ",
+                "href": "/artist/162872:TRANZ"
+            },
+            {
+                "name": "Tyotya Lida",
+                "href": "/artist/169762:Tyotya-Lida"
+            }
+        ]
+    }
+]
