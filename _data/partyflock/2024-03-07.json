@@ -1,0 +1,149 @@
+[
+    {
+        "title": "Amsterdam Techno Sessions",
+        "url": "https://partyflock.nl/party/466678:Amsterdam-Techno-Sessions",
+        "startDate": {
+            "startDate": "2024-03-08T00:00:00+01:00",
+            "endDate": "2024-03-08T04:59:59+01:00"
+        },
+        "place": {
+            "name": "John Doe",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Marco Ramos",
+                "href": "/artist/125617:Marco-Ramos"
+            },
+            {
+                "name": "Surgeles",
+                "href": "/artist/13277:Surgeles"
+            }
+        ]
+    },
+    {
+        "title": "EAST Techno Collective",
+        "url": "https://partyflock.nl/party/466733:EAST-Techno-Collective",
+        "image": "https://partyflock.nl/images/party/466733_404x404_691520/EAST-Techno-Collective.jpg",
+        "startDate": {
+            "startDate": "2024-03-08T00:00:00+01:00",
+            "endDate": "2024-03-08T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Up",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Compound Rhythm",
+                "href": "/artist/166519:Compound-Rhythm"
+            },
+            {
+                "name": "Jayzo",
+                "href": "/artist/68137:Jayzo"
+            },
+            {
+                "name": "Zelda",
+                "href": "/artist/123185:Zelda"
+            }
+        ]
+    },
+    {
+        "title": "Jiri11",
+        "url": "https://partyflock.nl/party/464582:Jiri11",
+        "image": "https://partyflock.nl/images/party/464582_539x303_686432/Jiri11.jpg",
+        "startDate": {
+            "startDate": "2024-03-07T20:00:00+01:00",
+            "endDate": "2024-03-07T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Hall of Fame",
+            "city": "Tilburg",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Jiri11",
+                "href": "/artist/114686:Jiri11"
+            }
+        ]
+    },
+    {
+        "title": "Parachute",
+        "url": "https://partyflock.nl/party/466801:Parachute",
+        "image": "https://partyflock.nl/images/party/466801_404x404_683137/Parachute.png",
+        "startDate": {
+            "startDate": "2024-03-08T00:00:00+01:00",
+            "endDate": "2024-03-08T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Chance di Finesse",
+                "href": "/artist/129764:Chance-di-Finesse"
+            },
+            {
+                "name": "Godsendo",
+                "href": "/artist/115239:Godsendo"
+            },
+            {
+                "name": "Solange AB",
+                "href": "/artist/122988:Solange-AB"
+            }
+        ]
+    },
+    {
+        "title": "Radio Radio",
+        "url": "https://partyflock.nl/party/466560:Radio-Radio",
+        "image": "https://partyflock.nl/images/party/466560_539x303_690821/Radio-Radio.png",
+        "startDate": {
+            "startDate": "2024-03-07T23:00:00+01:00",
+            "endDate": "2024-03-08T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Radio Radio",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "BiX",
+                "href": "/artist/170238:BiX"
+            },
+            {
+                "name": "Festen",
+                "href": "/artist/170236:Festen"
+            },
+            {
+                "name": "Neo",
+                "href": "/artist/170237:Neo"
+            }
+        ]
+    },
+    {
+        "title": "Rowwen Hèze · Blieve Loepe Clubtour",
+        "url": "https://partyflock.nl/party/460706:Rowwen-Heze",
+        "image": "https://partyflock.nl/images/party/460706_558x292_676563/Rowwen-Heze.jpg",
+        "startDate": {
+            "startDate": "2024-03-07T21:00:00+01:00",
+            "endDate": "2024-03-07T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Grenswerk",
+            "city": "Venlo",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Rowwen Hèze",
+                "href": "/artist/107735:Rowwen-Heze"
+            }
+        ]
+    }
+]
