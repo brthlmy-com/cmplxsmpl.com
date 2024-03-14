@@ -1,0 +1,196 @@
+[
+    {
+        "title": "EAST Techno Collective",
+        "url": "https://partyflock.nl/party/466898:EAST-Techno-Collective",
+        "image": "https://partyflock.nl/images/party/466898_558x292_691733/EAST-Techno-Collective.png",
+        "startDate": {
+            "startDate": "2024-03-15T00:00:00+01:00",
+            "endDate": "2024-03-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Up",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Mágafas",
+                "href": "/artist/170431:Magafas"
+            },
+            {
+                "name": "Mascotte",
+                "href": "/artist/111596:Mascotte"
+            },
+            {
+                "name": "ØGNA",
+                "href": "/artist/130335:OGNA"
+            }
+        ]
+    },
+    {
+        "title": "Night Academy",
+        "url": "https://partyflock.nl/party/466587:Night-Academy",
+        "image": "https://partyflock.nl/images/party/466587_361x452_691191/Night-Academy.jpg",
+        "startDate": {
+            "startDate": "2024-03-14T21:00:00+01:00",
+            "endDate": "2024-03-14T23:59:59+01:00"
+        },
+        "place": {
+            "name": "BAR",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Parachute",
+        "url": "https://partyflock.nl/party/466802:Parachute",
+        "image": "https://partyflock.nl/images/party/466802_404x404_683137/Parachute.png",
+        "startDate": {
+            "startDate": "2024-03-15T00:00:00+01:00",
+            "endDate": "2024-03-15T04:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "GUERRO",
+                "href": "/artist/165083:GUERRO"
+            },
+            {
+                "name": "Mowgli",
+                "href": "/artist/113285:Mowgli"
+            },
+            {
+                "name": "Noëall",
+                "href": "/artist/93667:Noeall"
+            }
+        ]
+    },
+    {
+        "title": "Perron",
+        "url": "https://partyflock.nl/party/466923:Perron",
+        "image": "https://partyflock.nl/images/party/466923_404x404_691766/Perron.jpg",
+        "startDate": {
+            "startDate": "2024-03-15T01:00:00+01:00",
+            "endDate": "2024-03-15T06:59:59+01:00"
+        },
+        "place": {
+            "name": "Perron",
+            "city": "Rotterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Cera Khin",
+                "href": "/artist/119453:Cera-Khin"
+            },
+            {
+                "name": "Falhaber",
+                "href": "/artist/95925:Falhaber"
+            },
+            {
+                "name": "HyperLili",
+                "href": "/artist/154367:HyperLili"
+            }
+        ]
+    },
+    {
+        "title": "RONDÉ",
+        "url": "https://partyflock.nl/party/461862:RONDE",
+        "image": "https://partyflock.nl/images/party/461862_539x303_679721/RONDE.jpg",
+        "startDate": {
+            "startDate": "2024-03-14T20:00:00+01:00",
+            "endDate": "2024-03-14T19:59:59+01:00"
+        },
+        "place": {
+            "name": "Paradiso",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "RONDÉ",
+                "href": "/artist/98271:RONDE"
+            }
+        ]
+    },
+    {
+        "title": "Rowwen Hèze",
+        "url": "https://partyflock.nl/party/460768:Rowwen-Heze",
+        "image": "https://partyflock.nl/images/party/460768_303x539_676715/Rowwen-Heze.jpg",
+        "startDate": {
+            "startDate": "2024-03-14T20:30:00+01:00",
+            "endDate": "2024-03-14T20:29:59+01:00"
+        },
+        "place": {
+            "name": "Effenaar",
+            "city": "Eindhoven",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Rowwen Hèze",
+                "href": "/artist/107735:Rowwen-Heze"
+            }
+        ]
+    },
+    {
+        "title": "Santé",
+        "url": "https://partyflock.nl/party/466784:Sante",
+        "image": "https://partyflock.nl/images/party/466784_538x303_691446/Sante.jpg",
+        "startDate": {
+            "startDate": "2024-03-15T00:00:00+01:00",
+            "endDate": "2024-03-14T23:59:59+01:00"
+        },
+        "place": {
+            "name": "TivoliVredenburg",
+            "city": "Utrecht",
+            "country": "Nederland"
+        },
+        "lineup": []
+    },
+    {
+        "title": "Underworld",
+        "url": "https://partyflock.nl/party/459482:Underworld",
+        "image": "https://partyflock.nl/images/party/459482_404x404_673137/Underworld.jpg",
+        "startDate": {
+            "startDate": "2024-03-14T21:00:00+01:00",
+            "endDate": "2024-03-14T20:59:59+01:00"
+        },
+        "place": {
+            "name": "Gashouder",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Underworld",
+                "href": "/artist/1806:Underworld"
+            }
+        ]
+    },
+    {
+        "title": "Willem",
+        "url": "https://partyflock.nl/party/463935:Willem",
+        "image": "https://partyflock.nl/images/party/463935_558x292_684997/Willem.jpg",
+        "startDate": {
+            "startDate": "2024-03-14T20:30:00+01:00",
+            "endDate": "2024-03-14T22:59:59+01:00"
+        },
+        "place": {
+            "name": "Paard",
+            "city": "Den Haag",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Willem",
+                "href": "/artist/61896:Willem"
+            }
+        ]
+    }
+]
