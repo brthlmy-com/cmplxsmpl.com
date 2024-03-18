@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Cheeky Monday",
+        "url": "https://partyflock.nl/party/466798:Cheeky-Monday",
+        "image": "https://partyflock.nl/images/party/466798_539x303_691474/Cheeky-Monday.jpg",
+        "startDate": {
+            "startDate": "2024-03-19T00:00:00+01:00",
+            "endDate": "2024-03-19T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Adi-j",
+                "href": "/artist/1279:Adi-j"
+            },
+            {
+                "name": "M.G.A",
+                "href": "/artist/64104:M-G-A"
+            },
+            {
+                "name": "Multiplex",
+                "href": "/artist/78996:Multiplex"
+            },
+            {
+                "name": "Trafic",
+                "href": "/artist/157831:Trafic"
+            },
+            {
+                "name": "Will Perez",
+                "href": "/artist/170370:Will-Perez"
+            }
+        ]
+    },
+    {
+        "title": "Tomorrowland Winter",
+        "url": "https://partyflock.nl/party/463706:Tomorrowland-Winter",
+        "image": "https://partyflock.nl/images/party/463706_404x404_602654/Tomorrowland-Winter.jpg",
+        "startDate": {
+            "startDate": "2024-03-18T13:00:00+01:00",
+            "endDate": "2024-03-19T00:59:59+01:00"
+        },
+        "place": {
+            "name": "Alpe d'Huez",
+            "city": "Huez",
+            "country": "Frankrijk"
+        },
+        "lineup": [
+            {
+                "name": "3 Many Disco",
+                "href": "/artist/170077:3-Many-Disco"
+            },
+            {
+                "name": "Afrojack",
+                "href": "/artist/34851:Afrojack"
+            },
+            {
+                "name": "Afshin Momadi",
+                "href": "/artist/168903:Afshin-Momadi"
+            },
+            {
+                "name": "Agents of Time",
+                "href": "/artist/165147:Agents-of-Time"
+            },
+            {
+                "name": "B Jones",
+                "href": "/artist/101758:B-Jones"
+            },
+            {
+                "name": "Chico Rose",
+                "href": "/artist/115746:Chico-Rose"
+            },
+            {
+                "name": "Chris Avantgarde",
+                "href": "/artist/89240:Chris-Avantgarde"
+            },
+            {
+                "name": "Delafino",
+                "href": "/artist/45998:Delafino"
+            },
+            {
+                "name": "Funkhauser",
+                "href": "/artist/106844:Funkhauser"
+            },
+            {
+                "name": "Galluxy",
+                "href": "/artist/118999:Galluxy"
+            },
+            {
+                "name": "Gil Glaze",
+                "href": "/artist/100567:Gil-Glaze"
+            },
+            {
+                "name": "Goodboys",
+                "href": "/artist/144964:Goodboys"
+            },
+            {
+                "name": "HUGEL",
+                "href": "/artist/92191:HUGEL"
+            },
+            {
+                "name": "Isabelle Bonnet",
+                "href": "/artist/170076:Isabelle-Bonnet"
+            },
+            {
+                "name": "Jerrooo",
+                "href": "/artist/80358:Jerrooo"
+            },
+            {
+                "name": "Laidback Luke",
+                "href": "/artist/196:Laidback-Luke"
+            },
+            {
+                "name": "Lou8",
+                "href": "/artist/131971:Lou8"
+            },
+            {
+                "name": "Mind Against",
+                "href": "/artist/71349:Mind-Against"
+            },
+            {
+                "name": "Olympe",
+                "href": "/artist/147737:Olympe"
+            },
+            {
+                "name": "Regi",
+                "href": "/artist/25503:Regi"
+            },
+            {
+                "name": "Soulv",
+                "href": "/artist/170075:Soulv"
+            },
+            {
+                "name": "Yves V",
+                "href": "/artist/42633:Yves-V"
+            }
+        ]
+    }
+]
