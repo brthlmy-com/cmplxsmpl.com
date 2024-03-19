@@ -1,0 +1,194 @@
+[
+    {
+        "title": "Techno Tuesday · 15 Year Anniversary",
+        "url": "https://partyflock.nl/party/465768:Techno-Tuesday",
+        "image": "https://partyflock.nl/images/party/465768_403x405_688806/Techno-Tuesday.jpg",
+        "startDate": {
+            "startDate": "2024-03-20T00:30:00+01:00",
+            "endDate": "2024-03-20T05:59:59+01:00"
+        },
+        "place": {
+            "name": "Melkweg",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Dexon",
+                "href": "/artist/1626:Dexon"
+            },
+            {
+                "name": "Mary Yuzovskaya",
+                "href": "/artist/154464:Mary-Yuzovskaya"
+            },
+            {
+                "name": "Stefano Richetta",
+                "href": "/artist/4578:Stefano-Richetta"
+            }
+        ]
+    },
+    {
+        "title": "Tomorrowland Winter",
+        "url": "https://partyflock.nl/party/463707:Tomorrowland-Winter",
+        "image": "https://partyflock.nl/images/party/463707_404x404_602654/Tomorrowland-Winter.jpg",
+        "startDate": {
+            "startDate": "2024-03-19T13:00:00+01:00",
+            "endDate": "2024-03-20T01:59:59+01:00"
+        },
+        "place": {
+            "name": "Alpe d'Huez",
+            "city": "Huez",
+            "country": "Frankrijk"
+        },
+        "lineup": [
+            {
+                "name": "Adrielle Free",
+                "href": "/artist/170079:Adrielle-Free"
+            },
+            {
+                "name": "Alesso",
+                "href": "/artist/65994:Alesso"
+            },
+            {
+                "name": "Ariati",
+                "href": "/artist/170311:Ariati"
+            },
+            {
+                "name": "Armin van Buuren",
+                "href": "/artist/161:Armin-van-Buuren"
+            },
+            {
+                "name": "Axel Haube",
+                "href": "/artist/76546:Axel-Haube"
+            },
+            {
+                "name": "B Jones",
+                "href": "/artist/101758:B-Jones"
+            },
+            {
+                "name": "Blasterjaxx",
+                "href": "/artist/58380:Blasterjaxx"
+            },
+            {
+                "name": "Brina Knauss",
+                "href": "/artist/115062:Brina-Knauss"
+            },
+            {
+                "name": "Chris Avantgarde",
+                "href": "/artist/89240:Chris-Avantgarde"
+            },
+            {
+                "name": "Da Tweekaz",
+                "href": "/artist/49737:Da-Tweekaz"
+            },
+            {
+                "name": "Funkhauser",
+                "href": "/artist/106844:Funkhauser"
+            },
+            {
+                "name": "Gian Varela",
+                "href": "/artist/130409:Gian-Varela"
+            },
+            {
+                "name": "Henri PFR",
+                "href": "/artist/86592:Henri-PFR"
+            },
+            {
+                "name": "Jeroen Visser",
+                "href": "/artist/156765:Jeroen-Visser"
+            },
+            {
+                "name": "Kevin de Vries",
+                "href": "/artist/78209:Kevin-de-Vries"
+            },
+            {
+                "name": "Kölsch",
+                "href": "/artist/66739:Kolsch"
+            },
+            {
+                "name": "Laidback Luke",
+                "href": "/artist/196:Laidback-Luke"
+            },
+            {
+                "name": "Licious",
+                "href": "/artist/48697:Licious"
+            },
+            {
+                "name": "Loic Lac",
+                "href": "/artist/170080:Loic-Lac"
+            },
+            {
+                "name": "LouLou Players",
+                "href": "/artist/53045:LouLou-Players"
+            },
+            {
+                "name": "Malaa",
+                "href": "/artist/90788:Malaa"
+            },
+            {
+                "name": "Manuals",
+                "href": "/artist/128799:Manuals"
+            },
+            {
+                "name": "Mathadis",
+                "href": "/artist/140751:Mathadis"
+            },
+            {
+                "name": "Mind Against",
+                "href": "/artist/71349:Mind-Against"
+            },
+            {
+                "name": "Otto Knows",
+                "href": "/artist/67078:Otto-Knows"
+            },
+            {
+                "name": "Portex",
+                "href": "/artist/158265:Portex"
+            },
+            {
+                "name": "Sem Thomasson",
+                "href": "/artist/61190:Sem-Thomasson"
+            },
+            {
+                "name": "Sunnery James & Ryan Marciano",
+                "href": "/artist/81460:Sunnery-James-and-Ryan-Marciano"
+            },
+            {
+                "name": "Tchami",
+                "href": "/artist/77768:Tchami"
+            },
+            {
+                "name": "Tony Romera",
+                "href": "/artist/90768:Tony-Romera"
+            },
+            {
+                "name": "Vintage Culture",
+                "href": "/artist/89291:Vintage-Culture"
+            },
+            {
+                "name": "Yulia Niko",
+                "href": "/artist/112250:Yulia-Niko"
+            }
+        ]
+    },
+    {
+        "title": "World of Hans Zimmer · A New Dimension",
+        "url": "https://partyflock.nl/party/452503:World-of-Hans-Zimmer",
+        "image": "https://partyflock.nl/images/party/452503_558x292_658319/World-of-Hans-Zimmer.jpg",
+        "startDate": {
+            "startDate": "2024-03-19T19:30:00+01:00",
+            "endDate": "2024-03-19T23:59:59+01:00"
+        },
+        "place": {
+            "name": "Ziggo Dome",
+            "city": "Amsterdam",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "Hans Zimmer",
+                "href": "/artist/151002:Hans-Zimmer"
+            }
+        ]
+    }
+]
