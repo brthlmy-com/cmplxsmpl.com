@@ -1,0 +1,250 @@
+[
+    {
+        "title": "Paasvee",
+        "url": "https://partyflock.nl/party/466158:Paasvee",
+        "image": "https://partyflock.nl/images/party/466158_539x303_689552/Paasvee.jpg",
+        "startDate": {
+            "startDate": "2024-03-20T16:00:00+01:00",
+            "endDate": "2024-03-21T00:59:59+01:00"
+        },
+        "place": {
+            "name": "Alpha",
+            "city": "Schagen",
+            "country": "Nederland"
+        },
+        "lineup": [
+            {
+                "name": "B-LINQ",
+                "href": "/artist/66978:B-LINQ"
+            },
+            {
+                "name": "Bakero",
+                "href": "/artist/61897:Bakero"
+            },
+            {
+                "name": "Bouncing Ball",
+                "href": "/artist/72368:Bouncing-Ball"
+            },
+            {
+                "name": "Dirtybeatsz",
+                "href": "/artist/72199:Dirtybeatsz"
+            },
+            {
+                "name": "ECK",
+                "href": "/artist/132149:ECK"
+            },
+            {
+                "name": "EVADO",
+                "href": "/artist/168813:EVADO"
+            },
+            {
+                "name": "Experion",
+                "href": "/artist/157784:Experion"
+            },
+            {
+                "name": "Jaxx Noveira",
+                "href": "/artist/143979:Jaxx-Noveira"
+            },
+            {
+                "name": "Livid",
+                "href": "/artist/71476:Livid"
+            },
+            {
+                "name": "Natte Visstick",
+                "href": "/artist/153745:Natte-Visstick"
+            },
+            {
+                "name": "Nrgyzer",
+                "href": "/artist/157785:Nrgyzer"
+            },
+            {
+                "name": "PYTR",
+                "href": "/artist/148372:PYTR"
+            },
+            {
+                "name": "REBØTA",
+                "href": "/artist/157316:REBOTA"
+            },
+            {
+                "name": "Team Rush Hour",
+                "href": "/artist/63126:Team-Rush-Hour"
+            },
+            {
+                "name": "The Pacifier",
+                "href": "/artist/48556:The-Pacifier"
+            }
+        ]
+    },
+    {
+        "title": "Tomorrowland Winter",
+        "url": "https://partyflock.nl/party/463708:Tomorrowland-Winter",
+        "image": "https://partyflock.nl/images/party/463708_404x404_602654/Tomorrowland-Winter.jpg",
+        "startDate": {
+            "startDate": "2024-03-20T13:00:00+01:00",
+            "endDate": "2024-03-21T02:59:59+01:00"
+        },
+        "place": {
+            "name": "Alpe d'Huez",
+            "city": "Huez",
+            "country": "Frankrijk"
+        },
+        "lineup": [
+            {
+                "name": "3 Are Legend",
+                "href": "/artist/81545:3-Are-Legend"
+            },
+            {
+                "name": "Adam K",
+                "href": "/artist/12241:Adam-K"
+            },
+            {
+                "name": "AnionX",
+                "href": "/artist/143680:AnionX"
+            },
+            {
+                "name": "ANNA",
+                "href": "/artist/86365:ANNA"
+            },
+            {
+                "name": "Armin van Buuren",
+                "href": "/artist/161:Armin-van-Buuren"
+            },
+            {
+                "name": "Axel Blanc",
+                "href": "/artist/170083:Axel-Blanc"
+            },
+            {
+                "name": "Bobbi Antonni",
+                "href": "/artist/170082:Bobbi-Antonni"
+            },
+            {
+                "name": "Brialmont",
+                "href": "/artist/125727:Brialmont"
+            },
+            {
+                "name": "Chris McCann",
+                "href": "/artist/143679:Chris-McCann"
+            },
+            {
+                "name": "Cici",
+                "href": "/artist/154947:Cici"
+            },
+            {
+                "name": "Delafino",
+                "href": "/artist/45998:Delafino"
+            },
+            {
+                "name": "Dominico",
+                "href": "/artist/39438:Dominico"
+            },
+            {
+                "name": "Felix Jaehn",
+                "href": "/artist/86648:Felix-Jaehn"
+            },
+            {
+                "name": "Goldfox",
+                "href": "/artist/41109:Goldfox"
+            },
+            {
+                "name": "Habstrakt",
+                "href": "/artist/66778:Habstrakt"
+            },
+            {
+                "name": "Henri PFR",
+                "href": "/artist/86592:Henri-PFR"
+            },
+            {
+                "name": "Jaguar",
+                "href": "/artist/128646:Jaguar"
+            },
+            {
+                "name": "Jan V",
+                "href": "/artist/130437:Jan-V"
+            },
+            {
+                "name": "Jelle DK",
+                "href": "/artist/84554:Jelle-DK"
+            },
+            {
+                "name": "Jeroen Visser",
+                "href": "/artist/156765:Jeroen-Visser"
+            },
+            {
+                "name": "Joel Corry",
+                "href": "/artist/127312:Joel-Corry"
+            },
+            {
+                "name": "Jordy",
+                "href": "/artist/81318:Jordy"
+            },
+            {
+                "name": "Kevin de Vries",
+                "href": "/artist/78209:Kevin-de-Vries"
+            },
+            {
+                "name": "Konstantin Sibold",
+                "href": "/artist/73201:Konstantin-Sibold"
+            },
+            {
+                "name": "Lennert Wolfs",
+                "href": "/artist/63005:Lennert-Wolfs"
+            },
+            {
+                "name": "Lost Frequencies",
+                "href": "/artist/86487:Lost-Frequencies"
+            },
+            {
+                "name": "Manuals",
+                "href": "/artist/128799:Manuals"
+            },
+            {
+                "name": "MATTN",
+                "href": "/artist/91710:MATTN"
+            },
+            {
+                "name": "Nina Kraviz",
+                "href": "/artist/40011:Nina-Kraviz"
+            },
+            {
+                "name": "Ocsav",
+                "href": "/artist/141802:Ocsav"
+            },
+            {
+                "name": "Protex",
+                "href": "/artist/83561:Protex"
+            },
+            {
+                "name": "Regi",
+                "href": "/artist/25503:Regi"
+            },
+            {
+                "name": "Sebastian Ingrosso",
+                "href": "/artist/21502:Sebastian-Ingrosso"
+            },
+            {
+                "name": "Sheridan",
+                "href": "/artist/68531:Sheridan"
+            },
+            {
+                "name": "Sub Zero Project",
+                "href": "/artist/74816:Sub-Zero-Project"
+            },
+            {
+                "name": "Tony Romera",
+                "href": "/artist/90768:Tony-Romera"
+            },
+            {
+                "name": "Topic",
+                "href": "/artist/94718:Topic"
+            },
+            {
+                "name": "VIDO",
+                "href": "/artist/170084:VIDO"
+            },
+            {
+                "name": "Vintage Culture",
+                "href": "/artist/89291:Vintage-Culture"
+            }
+        ]
+    }
+]
