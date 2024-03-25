@@ -1,0 +1,424 @@
+[
+    {
+        "title": "Gandho Sylla & Band",
+        "url": "/konzert/reggae/event/5f1859993d65a16a754585f8.6412fdfbd519a27f9b0b1827.gandho-sylla--band",
+        "startDate": {
+            "startDate": "2024-03-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "reggae"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/77bbea3e6fa40a9d0c77f0194d59fa67.jpg?v=1"
+    },
+    {
+        "title": "The Devils",
+        "url": "/konzert/rock/event/5f18599a3d65a16a75458747.65d4d8d3a2f8131cce59438a.the-devils",
+        "startDate": {
+            "startDate": "2024-03-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Musikbunker, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1740c000707fe20a3a2dbadf63e341fa.jpeg?v=1"
+    },
+    {
+        "title": "„Gandho Sylla & Allstars Band“",
+        "url": "/konzert/reggae/event/5f1859993d65a16a754585f8.65fd8778c131f23b7825ffe6.gandho-sylla--allstars-band",
+        "startDate": {
+            "startDate": "2024-03-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "reggae"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e972ed9fe7acfa125c3e81ad47ebcf59.jpg?v=1"
+    },
+    {
+        "title": "„Eingeschlossene Gesellschaft“",
+        "url": "/buehne/theater/komoedie/event/5f18599e3d65a16a75458cda.65d3424ce584ac5be13170a3.eingeschlossene-gesellschaft",
+        "startDate": {
+            "startDate": "2024-03-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/faabaa356e2cd4d0771a39f691cc434a.jpg?v=1"
+    },
+    {
+        "title": "„Butterfly Tale – Ein Abenteuer liegt in der Luft“",
+        "url": "/film-und-bild/film/zeichentrick-und-animation/event/5f1859a73d65a16a75459710.65d346e9d4ba6d4a62520348.butterfly-tale--ein-abenteuer-liegt-in-der-luft",
+        "startDate": {
+            "startDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "zeichentrick-und-animation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b9135ffe8415988f0ed0d973ee6f12ec.jfif?v=2"
+    },
+    {
+        "title": "„A Great Place to Call Home“",
+        "url": "/film-und-bild/film/komoedie/event/5f1859a73d65a16a75459710.65d3476be584ac5be13170a5.a-great-place-to-call-home",
+        "startDate": {
+            "startDate": "2024-03-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7f2b32e63898202e35499a8c8db3b57c.jfif?v=2"
+    },
+    {
+        "title": "„Der Mordfall Oppenhoff“",
+        "url": "/film-und-bild/film/dokumentation/event/5f1859a63d65a16a7545959a.65fa993a7e6669725163c812.der-mordfall-oppenhoff",
+        "startDate": {
+            "startDate": "2024-03-25T18:00:00.000Z",
+            "endDate": "2024-03-25T20:30:00.000Z",
+            "text": "Heute, 18:00 - 20:30 Uhr"
+        },
+        "place": "Apollo Kino und Bar, Aachen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "dokumentation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8d51ff508725b72ef5ebbe1944168d0b.jfif?v=2"
+    },
+    {
+        "title": "Jülicher Gesundheitsstunde",
+        "url": "/bildung/informationsveranstaltung/event/637f673311e49c70f53b1512.65b26c44fc267e21a273e4d7.juelicher-gesundheitsstunde",
+        "startDate": {
+            "startDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Krankenhaus Jülich",
+        "categorySlugs": [
+            "bildung",
+            "informationsveranstaltung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d9eb8fbb820be7da87516a731f32ae5e.jpeg?v=2"
+    },
+    {
+        "title": "Fredy Schumacher: „Mensch, was bist du für ein Schlingel“",
+        "url": "/bildung/lesung/event/5f18599c3d65a16a754589fd.65c620188f56886b9f3e3e52.fredy-schumacher-mensch-was-bist-du-fuer-ein-schlingel",
+        "startDate": {
+            "startDate": "2024-03-25T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturzentrum Jünglingshaus, Eupen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e37fb12ab64d50aed9c7e5700cda8ee.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-03-25T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Memento Mori“",
+        "url": "/kunst/ausstellung/installation/event/603662083d65a132fc62eba3.65cb86d33d2b9849a654c965.memento-mori",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Grabes- und Auferstehungskirche St. Cyriakus, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/063b102386b41855dda96d73f123b1af.jpg?v=2"
+    },
+    {
+        "title": "Aljoscha: „Schwebend im Äther des Unwirklichen“",
+        "url": "/kunst/ausstellung/event/5f1859a03d65a16a75458eb1.65cca94f1b10b802f6039874.aljoscha-schwebend-im-ther-des-unwirklichen",
+        "startDate": {
+            "startDate": "2024-03-25",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Dreieinigkeitskirche, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ce481880828f9e84103bfd1f3adf17.jpg?v=1"
+    },
+    {
+        "title": "„Die Dienstagsmaler*innen“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d80.65ce0fe663feb30a7462cd99.die-dienstagsmalerinnen",
+        "startDate": {
+            "startDate": "2024-03-25T14:00:00.000Z",
+            "endDate": "2024-03-25T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b9ee708888c46a5ba879a3a06d3549b4.jfif?v=2"
+    },
+    {
+        "title": "„Der Kunst verschrieben - Mixed Media und Kalligraphie“",
+        "url": "/kunst/ausstellung/grafik/event/637f5f5c7681b63be73e60f4.65d4a2b4ab6be9396d35a3d6.der-kunst-verschrieben---mixed-media-und-kalligraphie",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b8638db96794b9a110df1947ae3526eb.jpg?v=2"
+    },
+    {
+        "title": "„Das Hohe Venn“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a43d65a16a75459417.65d5cf259697c72bd951bca4.das-hohe-venn",
+        "startDate": {
+            "startDate": "2024-03-25",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Nell-Breuning-Haus, Herzogenrath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/49d5a76616bea41b1034eaed5899905c.jpg?v=1"
+    },
+    {
+        "title": "Ulrich Rückriem zeichnet.",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545933c.65e5b5806915b17e7913f184.ulrich-rueckriem-zeichnet",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Leopold-Hoesch-Museum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7e53ae90f07e80e948b47015a5b49a97.jpg?v=2"
+    },
+    {
+        "title": "„Der besondere Blick: Die Fotografin Ann Münchow und der Aachener Domschatz“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e41.65f84df7554a612bef61b144.der-besondere-blick-die-fotografin-ann-muenchow-und-der-aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29fb91e5913f8fd2a2b46ca719ad7883.jpg?v=1"
+    },
+    {
+        "title": "„Bunte Vielfalt“",
+        "url": "/kunst/ausstellung/malerei/event/5f8a34043d65a15e2e3e7373.65faf84b87f0d51f95139f33.bunte-vielfalt",
+        "startDate": {
+            "startDate": "2024-03-25T08:30:00.000Z",
+            "endDate": "2024-03-25T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/035adf4631e89ae76f71dc651aa75824.jpg?v=1"
+    },
+    {
+        "title": "\"Engel\"",
+        "url": "/kunst/event/5f18599e3d65a16a75458c9e.65fd7b2ec131f23b7825ffe5.engel",
+        "startDate": {
+            "startDate": "2024-03-25T11:00:00.000Z",
+            "endDate": "2024-03-25T13:00:00.000Z",
+            "text": "Heute, 11:00 - 13:00 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9dc84e4a9251c8beae17e547dfd00c04.jpg?v=1"
+    },
+    {
+        "title": "„Tanjanische Hängung“",
+        "url": "/kunst/ausstellung/installation/event/5f18599b3d65a16a754589a3.65fd885a4ddf7a098202b9e4.tanjanische-haengung",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T18:30:00.000Z",
+            "text": "Heute, 10:00 - 18:30 Uhr"
+        },
+        "place": "Galerie Ramrath, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0b3dae66dcfc91bc7a1dab0f78aeaca6.jpg?v=1"
+    },
+    {
+        "title": "Sportliche Ferienspiele im Gillesbachtal",
+        "url": "/sport-und-bewegung/sport/mitmachen/event/65f98112f2e64a395e655eb3.65f9842aa6b02b38a343c434.sportliche-ferienspiele-im-gillesbachtal",
+        "startDate": {
+            "startDate": "2024-03-25T10:00:00.000Z",
+            "endDate": "2024-03-25T13:00:00.000Z",
+            "text": "Heute, 10:00 - 13:00 Uhr"
+        },
+        "place": "Sportplatz Gillesbachtal, Aachen",
+        "categorySlugs": [
+            "sport-und-bewegung",
+            "sport",
+            "mitmachen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/17ed49b9433cff169c177b49f000230a.jpg?v=2"
+    },
+    {
+        "title": "„Ostergarten - Die Bibel mit allen Sinnen erleben“",
+        "url": "/verschiedenes/anderes/event/5f1859a73d65a16a75459759.65cf6cf853f7f4778b66ab04.ostergarten---die-bibel-mit-allen-sinnen-erleben",
+        "startDate": {
+            "startDate": "2024-03-25",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Freie evangelische Gemeinde, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "anderes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/56e3d6a39d43b4c09c208caf60a94667.jpeg?v=2"
+    },
+    {
+        "title": "„Panorama-Blicke und Schleichwege im historischen Stolberg“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f1859a23d65a16a754590b8.65eafbcac358a6607f5c99c2.panorama-blicke-und-schleichwege-im-historischen-stolberg",
+        "startDate": {
+            "startDate": "2024-03-25T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fa5e65d710a3c8a5672b0364acfc194b.jpg?v=1"
+    },
+    {
+        "title": "„KI – Verstehen und Erleben“",
+        "url": "/verschiedenes/event/605db1563d65a10cb6158e72.65f05a6b8763c84774177f14.ki--verstehen-und-erleben",
+        "startDate": {
+            "startDate": "2024-03-25T11:00:00.000Z",
+            "endDate": "2024-03-25T19:00:00.000Z",
+            "text": "Heute, 11:00 - 19:00 Uhr"
+        },
+        "place": "Oecher Lab, Aachen",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6fc8d904674a51db47ed2bdb80d27249.jpg?v=2"
+    }
+]
