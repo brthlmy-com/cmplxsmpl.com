@@ -1,0 +1,1074 @@
+[
+    {
+        "title": "Ed Hunters",
+        "url": "/konzert/metal/event/5f1859993d65a16a754585e2.625425478b874337fe314249.ed-hunters",
+        "startDate": {
+            "startDate": "2024-03-30T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "metal"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e555d1ae57709204dfff4c6de61c465.jpeg?v=1"
+    },
+    {
+        "title": "Minusheart",
+        "url": "/konzert/elektronische-musik/event/5f1859a73d65a16a754596e6.64187a683aaf0421690c79b4.minusheart",
+        "startDate": {
+            "startDate": "2024-03-30T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Wild Rover, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "elektronische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/87bff34c388e91d0a414b14f89d2b4f4.jpg?v=1"
+    },
+    {
+        "title": "„Prog Meeting“",
+        "url": "/konzert/rock/event/5f18599b3d65a16a75458871.65c63fa17bad942fca2c8484.prog-meeting",
+        "startDate": {
+            "startDate": "2024-03-30T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Rockfabrik, Übach-Palenberg",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/69aa3a5d589302b13009e62ab463075a.jpg?v=1"
+    },
+    {
+        "title": "Achterlicht + Haufen",
+        "url": "/konzert/punk/event/5f18599a3d65a16a75458747.65e5c1c56915b17e7913f185.achterlicht--haufen",
+        "startDate": {
+            "startDate": "2024-03-30T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Musikbunker, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "punk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6b62a4024d33418124134cb441c49e63.jpeg?v=1"
+    },
+    {
+        "title": "„Datscha“",
+        "url": "/party/tanzen/80er-20er/event/5f1859a43d65a16a7545932f.6321dd858a1fd85c621cc3ea.datscha",
+        "startDate": {
+            "startDate": "2024-03-30T21:00:00.000Z",
+            "text": "Heute, 21:00 Uhr"
+        },
+        "place": "Berks Dancing, Würselen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "80er-20er"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9be9d75018600cca0bbcad09e8f881ab.jpg?v=0"
+    },
+    {
+        "title": "„Zimmer 99,1“",
+        "url": "/party/tanzen/event/5f1859a23d65a16a754590ba.63c552aad8ead16dcc74d6f3.zimmer-991",
+        "startDate": {
+            "startDate": "2024-03-30T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Hotel Europa, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc699943ba004af256ea87cf347c5c14.jpg?v=1"
+    },
+    {
+        "title": "„Dicke Eier Party“",
+        "url": "/party/tanzen/event/5f18599b3d65a16a75458871.65c640739dc86861832f9895.dicke-eier-party",
+        "startDate": {
+            "startDate": "2024-03-30T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Rockfabrik, Übach-Palenberg",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0dfa37581f000d5107f7ffa103cbbdfd.jpeg?v=2"
+    },
+    {
+        "title": "„House of Trash“",
+        "url": "/party/tanzen/event/5f1859a63d65a16a7545959a.65ce1441f57c1f29a1251b18.house-of-trash",
+        "startDate": {
+            "startDate": "2024-03-30T23:00:00.000Z",
+            "text": "Heute, 23:00 Uhr"
+        },
+        "place": "Apollo Kino und Bar, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8fe71c82b93163bfd102bdcadcf731ff.jpeg?v=1"
+    },
+    {
+        "title": "„First Bass“",
+        "url": "/party/tanzen/house/event/5f1859a53d65a16a754594e3.65d37eeae584ac5be13170ae.first-bass",
+        "startDate": {
+            "startDate": "2024-03-30T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Poppodium Nieuwe Nor, Heerlen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "house"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9dd303bd4eecc6c607290c5042fbb74d.jpeg?v=2"
+    },
+    {
+        "title": "„Das lustige Küken“",
+        "url": "/buehne/theater/figurentheater/event/61828bf83d65a14c863fc7c9.5fbf7f833d65a14b9029b433.das-lustige-kueken",
+        "startDate": {
+            "startDate": "2024-03-30T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Die kleine Theaterfabrik, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "figurentheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f635f9f23fa6ca82772e011596af0fa6.jpg?v=1"
+    },
+    {
+        "title": "„House of Karls“",
+        "url": "/buehne/musiktheater/event/5f1859a43d65a16a754593e0.65d33fdbd4ba6d4a62520345.house-of-karls",
+        "startDate": {
+            "startDate": "2024-03-30T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21590f3392ceb5b1810e48424b4f9799.jpg?v=2"
+    },
+    {
+        "title": "Shift: „One Touch“",
+        "url": "/buehne/performance/event/5f1859983d65a16a7545851b.65d5ed50c76e071a1b4f115a.shift-one-touch",
+        "startDate": {
+            "startDate": "2024-03-30T20:30:00.000Z",
+            "text": "Heute, 20:30 Uhr"
+        },
+        "place": "Theater Heerlen",
+        "categorySlugs": [
+            "buehne",
+            "performance"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/74731d797844251fc019d7da54dbe28b.jpeg?v=1"
+    },
+    {
+        "title": "„Ponyherz“",
+        "url": "/film-und-bild/film/abenteuer/event/5f1859a23d65a16a7545917e.65ca2f1acfbcd5478b19fa4e.ponyherz",
+        "startDate": {
+            "startDate": "2024-03-30T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "abenteuer"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/589a75dc2f32d9379327f087e6c6a25c.jfif?v=2"
+    },
+    {
+        "title": "„Jahrmarkt anno dazumal“",
+        "url": "/markt-und-messe/markt/jahrmarkt/event/5f1859993d65a16a75458659.624ea012929ba84a222a2f33.jahrmarkt-anno-dazumal",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "jahrmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/967f9241a9dee80c2637ce124fc4af00.jpg?v=1"
+    },
+    {
+        "title": "„'AprilApril' XIV“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a53d65a16a754594fc.5fbf7f803d65a14b9029b2f3.aprilapril-xiv",
+        "startDate": {
+            "startDate": "2024-03-30T17:00:00.000Z",
+            "endDate": "2024-03-30T19:00:00.000Z",
+            "text": "Heute, 17:00 - 19:00 Uhr"
+        },
+        "place": "Produzentengalerie Artikel 5, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/30b40c3013415e8e3bc20202b683b887.jfif?v=2"
+    },
+    {
+        "title": "„Geschichte Aachens – Stadt Karls des Großen“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599f3d65a16a75458d8d.604a4e083d65a15cca48d442.geschichte-aachens--stadt-karls-des-grossen",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a5c0c99779721b432ce0377a33551959.jpg?v=2"
+    },
+    {
+        "title": "„Bürgerliche Kunstkammer“",
+        "url": "/kunst/ausstellung/kunsthandwerk/event/5f1859933d65a16a75457fa5.604a4c443d65a145dd6ac393.buergerliche-kunstkammer",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "kunsthandwerk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8e963e8d638586959105b0ec65f57c59.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Töpfereimuseum Langerwehe",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fee.60a4ff013d65a1126a3b1242.dauerausstellung-im-toepfereimuseum-langerwehe",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1254d6bf530da1649d17292f7b2a193f.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Burgenmuseum Nideggen",
+        "url": "/kunst/ausstellung/historisch/event/5f63f8843d65a13d43653910.60545d983d65a168a04e2852.dauerausstellung-im-burgenmuseum-nideggen",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Burgenmuseum Nideggen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad94637e39a50a3097e3cacb357caacf.jpg?v=1"
+    },
+    {
+        "title": "Emil Orlik",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587af.6045eb523d65a176a60adbe2.emil-orlik",
+        "startDate": {
+            "startDate": "2024-03-30T12:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Büchel-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/339a738837c1a6d405e8703a2a7b5456.jpg?v=1"
+    },
+    {
+        "title": "„Von der Sonne zur Sonne“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859943d65a16a7545805b.604a49f43d65a145dd6ac392.von-der-sonne-zur-sonne",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Energeticon, Alsdorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c4a942dea49995af8b436d23a640907.jpg?v=3"
+    },
+    {
+        "title": "Dauerausstellung im Begas Haus",
+        "url": "/kunst/ausstellung/malerei/event/5f1859933d65a16a75457ec5.60b4925f3d65a12c544392f2.dauerausstellung-im-begas-haus",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Begas Haus, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7e1aced7979a7728723b0059ddc2e613.jpg?v=1"
+    },
+    {
+        "title": "„Mobilität“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590b8.60d069533d65a17942592793.mobilitaet",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5c05382078d81a36e6d4e6fb40b7ee8a.jpeg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Schau zur Wohnkultur im 18. und 19. Jahrhundert“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590f1.60b612f03d65a17cbf4cd952.schau-zur-wohnkultur-im-18-und-19-jahrhundert",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0f63ae89b92cf02bb1627c5f21253b8.jpg?v=1"
+    },
+    {
+        "title": "„Hoesch Talents 2024“",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545933c.61a897583d65a11d802edb74.hoesch-talents-2024",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Leopold-Hoesch-Museum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5bb81cef0afbe72835b4985582cada58.jfif?v=2"
+    },
+    {
+        "title": "„Mythos Charlemagne“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/5f18599f3d65a16a75458d8d.61a8a2c83d65a1203b66feb5.mythos-charlemagne",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5c284bcb5437094c5f8fa05d270cc709.jpg?v=2"
+    },
+    {
+        "title": "„Du hast wohl nicht mehr alle Tassen im Schrank: Eine andere Führung durch das Couven Haus“",
+        "url": "/kunst/ausstellungsfuehrung/event/5f1859a23d65a16a754590f1.62fdfa67b0039d56e6705eb8.du-hast-wohl-nicht-mehr-alle-tassen-im-schrank-eine-andere-fuehrung-durch-das-couven-haus",
+        "startDate": {
+            "startDate": "2024-03-30T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2553328ccdc5755d3b1dcbd96d402b25.jpg?v=2"
+    },
+    {
+        "title": "„Das Grashaus – Im Wandel der Zeiten“",
+        "url": "/kunst/ausstellungsfuehrung/event/5f18599f3d65a16a75458d8d.637b901465f14231bc4a7657.das-grashaus--im-wandel-der-zeiten",
+        "startDate": {
+            "startDate": "2024-03-30T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a6afe8e336cc7f0bce506a6c916b4019.jpeg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Dokumentationszentrum Glanzstoff",
+        "url": "/kunst/ausstellung/fotografie/event/62557743fda5ca247256aeb6.6385ea86a2f1147cec1af07b.dauerausstellung-im-dokumentationszentrum-glanzstoff",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Dokumentationszentrum Glanzstoff, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fdf935418537c65861fd2cb672a01bbf.jpg?v=2"
+    },
+    {
+        "title": "„1100 – 1500 Leben, Handel, Seelenheil“",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75457fa5.63973727c99bb96f7107794e.1100--1500-leben-handel-seelenheil",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0301cfaffaa27cf56a9f4891cd64a121.jpg?v=3"
+    },
+    {
+        "title": "„Sammlung mit losen Enden 06: Drei Seiten des Bildes“",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a75458fb4.646356068255720cd4367915.sammlung-mit-losen-enden-06-drei-seiten-des-bildes",
+        "startDate": {
+            "startDate": "2024-03-30T12:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Kunsthaus NRW, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f622bb33b4be50ff4350955b7ae34871.jpg?v=2"
+    },
+    {
+        "title": "„Junge Rebellen: Polke, Richter & Friends“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a03d65a16a75458f30.64d219673b21a21ad67e9643.junge-rebellen-polke-richter--friends",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Deutsches Glasmalerei-Museum Linnich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/00253f1953df153d63bf27e7e93bd317.jpg?v=2"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Bill Viola. Sculptor of Time“",
+        "url": "/kunst/ausstellung/video/event/5f18599b3d65a16a75458891.6512d708a2748222436ebfa5.bill-viola-sculptor-of-time",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "video"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1a3bf297ebced6409ce4f6b2937e65e9.jpg?v=2"
+    },
+    {
+        "title": "„Heimspiel. Flämische Malerei zu Hause in Aachen“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fa5.6523f183defa741cfa02f37e.heimspiel-flaemische-malerei-zu-hause-in-aachen",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7595777890c317706591485c0a20efb7.jpg?v=2"
+    },
+    {
+        "title": "„Faszination Viskose“",
+        "url": "/kunst/ausstellung/industrie/event/62557743fda5ca247256aeb6.65267f5d552d6663da4e3e92.faszination-viskose",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Dokumentationszentrum Glanzstoff, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "industrie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8cb3927277d47673943bb0e6f9b53ef3.jpg?v=3"
+    },
+    {
+        "title": "Anneliese Schöfbeck",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a754587af.6537bab315d26810c44c4e98.anneliese-schoefbeck",
+        "startDate": {
+            "startDate": "2024-03-30T12:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 12:00 - 18:00 Uhr"
+        },
+        "place": "Büchel-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4d40ba376a1ea9254ad408183d58d50c.png?v=2"
+    },
+    {
+        "title": "„Springende Hirsche. katagami – Japanische Papierschablonen zur Textilfärbung“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a75459645.654ce8db3678653bd72a2e95.springende-hirsche-katagami--japanische-papierschablonen-zur-textilfaerbung",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Papiermuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/011b74bcc8f81dc6532096f364f8dca2.jpg?v=4"
+    },
+    {
+        "title": "Ulrike Müller: „Monument to My Paper Body“",
+        "url": "/kunst/ausstellung/grafik/event/5f1859973d65a16a7545840f.656d970750a36a15bf0ade62.ulrike-mueller-monument-to-my-paper-body",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/719dca57e977e2f4a4faa70dcca33dc8.jpg?v=3"
+    },
+    {
+        "title": "„Jülich – StadtRäume zwischen den Kriegen“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a13d65a16a7545900c.656dee8b7eec0801a11f5765.juelich--stadtraeume-zwischen-den-kriegen",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Museum Zitadelle, Jülich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b1ed7450d0909ceff63460b11bb9e977.jpg?v=2"
+    },
+    {
+        "title": "„Revolution Erde“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.658052ce57753d172474c062.revolution-erde",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6dbfd15d4a51db0136c5fe5d9e4c4047.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Internationalen Zeitungsmuseum",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a754580e6.65957d5ebecfba2d3a35ef72.dauerausstellung-im-internationalen-zeitungsmuseum",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Internationales Zeitungsmuseum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/551637466231e2366d6a8115aedf8dae.jfif?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "Shinkichi Tajiri: „The Restless Wanderer“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a63d65a16a754596b0.65b24f24fc267e21a273e4d4.shinkichi-tajiri-the-restless-wanderer",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc95a3f5e4e454614362e7e4aa2e86d3.jpg?v=2"
+    },
+    {
+        "title": "Barbara Esser und Wolfgang Horn: „Textile Welten IIIII“",
+        "url": "/kunst/ausstellung/installation/event/5f1859933d65a16a75457ec5.65cb8019c75cc105d53de242.barbara-esser-und-wolfgang-horn-textile-welten-iiiii",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Begas Haus, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3fb42f5b4fd68daa717a6e86f8e1a89e.jpg?v=2"
+    },
+    {
+        "title": "„Memento Mori“",
+        "url": "/kunst/ausstellung/installation/event/603662083d65a132fc62eba3.65cb86d33d2b9849a654c965.memento-mori",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Grabes- und Auferstehungskirche St. Cyriakus, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/063b102386b41855dda96d73f123b1af.jpg?v=2"
+    },
+    {
+        "title": "„Wir Eifeler sind ja  schließlich auch wer“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a754590b8.65cb90507c5ad50a215d14b2.wir-eifeler-sind-ja--schliesslich-auch-wer",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/119c78a0cc1fbb10376f6ace28179d6f.jfif?v=2"
+    },
+    {
+        "title": "Henri Deparade: „Mythos Modern“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a73d65a16a75459749.65cca0d8b6d9524f193f4506.henri-deparade-mythos-modern",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Galerie Art Engert, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bfda9dd09ca96527a0634e082d7d0e12.jpg?v=4"
+    },
+    {
+        "title": "Aljoscha: „Schwebend im Äther des Unwirklichen“",
+        "url": "/kunst/ausstellung/event/5f1859a03d65a16a75458eb1.65cca94f1b10b802f6039874.aljoscha-schwebend-im-ther-des-unwirklichen",
+        "startDate": {
+            "startDate": "2024-03-30",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Dreieinigkeitskirche, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ce481880828f9e84103bfd1f3adf17.jpg?v=1"
+    },
+    {
+        "title": "„Wieder-Entdeckt. Fotografie der 1930er Jahre“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a7545854b.65ccb2991b10b802f6039877.wieder-entdeckt-fotografie-der-1930er-jahre",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Fotografie-Forum der Städteregion Aachen, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2262ddb1c12629416471612417166497.jpg?v=1"
+    },
+    {
+        "title": "„Form - Fläche - Struktur“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859933d65a16a75457fee.65ccd59aa6f967686a53a1f2.form---flaeche---struktur",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34113c7b2f16e1ad6cd04716a5073053.jfif?v=1"
+    },
+    {
+        "title": "„Die Dienstagsmaler*innen“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d80.65ce0fe663feb30a7462cd99.die-dienstagsmalerinnen",
+        "startDate": {
+            "startDate": "2024-03-30T19:00:00.000Z",
+            "endDate": "2024-03-30T22:00:00.000Z",
+            "text": "Heute, 19:00 - 22:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b9ee708888c46a5ba879a3a06d3549b4.jfif?v=2"
+    },
+    {
+        "title": "„Throwback: 25 Jahre Raum für Kunst“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a75458247.65ce263b7e73c55e5b7479e3.throwback-25-jahre-raum-fuer-kunst",
+        "startDate": {
+            "startDate": "2024-03-30T12:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 12:00 - 17:00 Uhr"
+        },
+        "place": "Raum für Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/90ad4c0c2a888947ba156e473bf76b23.jfif?v=3"
+    },
+    {
+        "title": "„Der Kunst verschrieben – Mixed Media und Kalligraphie“",
+        "url": "/kunst/ausstellung/grafik/event/637f5f5c7681b63be73e60f4.65d4a2b4ab6be9396d35a3d6.der-kunst-verschrieben--mixed-media-und-kalligraphie",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b8638db96794b9a110df1947ae3526eb.jpg?v=2"
+    },
+    {
+        "title": "Klaus Kaufmann: „Neue Besen kehren gut“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/65d4aae9b08e4c18ec5956f6.65d4ab77a2f8131cce594382.klaus-kaufmann-neue-besen-kehren-gut",
+        "startDate": {
+            "startDate": "2024-03-30T16:00:00.000Z",
+            "endDate": "2024-03-30T19:00:00.000Z",
+            "text": "Heute, 16:00 - 19:00 Uhr"
+        },
+        "place": "De Breuling, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/09574c4e3123d945cba4f296552579ef.jpg?v=2"
+    },
+    {
+        "title": "„Ulrich Rückriem zeichnet.“",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545933c.65e5b5806915b17e7913f184.ulrich-rueckriem-zeichnet",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Leopold-Hoesch-Museum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c61a4b5e383a69164d9615679fc07e4e.jfif?v=2"
+    },
+    {
+        "title": "„Volker Hermes. Auge und Zeit“",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75457fa5.65e6eedccd6c2e26540c5f64.volker-hermes-auge-und-zeit",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/099097b2da7fd8b12af9fe224de69429.jpg?v=3"
+    },
+    {
+        "title": "„Fragmente einer Wirklichkeit, die einmal war“",
+        "url": "/kunst/ausstellung/event/5f1859973d65a16a7545840f.65e9c68fcd75926ff7512712.fragmente-einer-wirklichkeit-die-einmal-war",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1dee7cf42775ccdfc03d25521c8ab268.jfif?v=1"
+    },
+    {
+        "title": "„Künstler des Atelier 21“",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a75458f7c.65f1ebe23adce249826c0544.kuenstler-des-atelier-21",
+        "startDate": {
+            "startDate": "2024-03-30T16:00:00.000Z",
+            "endDate": "2024-03-30T19:00:00.000Z",
+            "text": "Heute, 16:00 - 19:00 Uhr"
+        },
+        "place": "Atelier 21, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4576adf6672404ecd80d3f670e2bd44c.jpeg?v=1"
+    },
+    {
+        "title": "„Der besondere Blick: Die Fotografin Ann Münchow und der Aachener Domschatz“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e41.65f84df7554a612bef61b144.der-besondere-blick-die-fotografin-ann-muenchow-und-der-aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29fb91e5913f8fd2a2b46ca719ad7883.jpg?v=1"
+    },
+    {
+        "title": "„Tanjanische Hängung“",
+        "url": "/kunst/ausstellung/installation/event/5f18599b3d65a16a754589a3.65fd885a4ddf7a098202b9e4.tanjanische-haengung",
+        "startDate": {
+            "startDate": "2024-03-30T10:00:00.000Z",
+            "endDate": "2024-03-30T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Galerie Ramrath, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24641ecfd88e12b148bbc74485fa1678.jfif?v=2"
+    },
+    {
+        "title": "Ela Schwartz: „Verbunden“",
+        "url": "/kunst/ausstellung/installation/event/5f18599f3d65a16a75458d8f.6602cc94df6c326dd75d8388.ela-schwartz-verbunden",
+        "startDate": {
+            "startDate": "2024-03-30T14:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fa248675144e1b039ce5ad299b2c74f3.jfif?v=2"
+    },
+    {
+        "title": "„Echte menschliche Körper“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a03d65a16a75458f2e.6602da6c7fbfda0bad1a0c23.echte-menschliche-koerper",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "endDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Halle 60, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7965137f277a8ba55005eebee239a693.jpg?v=1"
+    },
+    {
+        "title": "„Altstadtführung“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f1859a63d65a16a754595f3.5fbf7f7f3d65a14b9029b27f.altstadtfuehrung",
+        "startDate": {
+            "startDate": "2024-03-30T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Tourist Info Elisenbrunnen, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cd1c65660f0f78616602ff195f44f62e.jpg?v=1"
+    },
+    {
+        "title": "„Rathausführung“",
+        "url": "/verschiedenes/event/5f1859a23d65a16a7545908e.5fbf7f7c3d65a14b9029b0d2.rathausfuehrung",
+        "startDate": {
+            "startDate": "2024-03-30T10:30:00.000Z",
+            "endDate": "2024-03-30T11:30:00.000Z",
+            "text": "Heute, 10:30 - 11:30 Uhr"
+        },
+        "place": "Aachener Rathaus",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3bcd0ac15f33da08360eff8402e6b27d.jpg?v=2"
+    },
+    {
+        "title": "„Öcher Bend“",
+        "url": "/verschiedenes/geselliges-und-treffen/kirmes-und-jahrmarkt/event/5f1859a73d65a16a75459707.6221f0596de56e45f9433996.cher-bend",
+        "startDate": {
+            "startDate": "2024-03-30T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "kirmes-und-jahrmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db1943664cbd434b8fe6e149bf7a7bdb.jpg?v=1"
+    },
+    {
+        "title": "„Fünf vor zwölf – Zeit für Demokratie“",
+        "url": "/verschiedenes/kundgebung/event/5f1859a83d65a16a7545990a.65cc900bb6d9524f193f4503.fuenf-vor-zwoelf--zeit-fuer-demokratie",
+        "startDate": {
+            "startDate": "2024-03-30T11:55:00.000Z",
+            "text": "Heute, 11:55 Uhr"
+        },
+        "place": "Kaiserplatz, Düren",
+        "categorySlugs": [
+            "verschiedenes",
+            "kundgebung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e8c2e589cf1f282cf0433700b31743f8.jfif?v=2"
+    },
+    {
+        "title": "„Ostergarten - Die Bibel mit allen Sinnen erleben“",
+        "url": "/verschiedenes/anderes/event/5f1859a73d65a16a75459759.65cf6cf853f7f4778b66ab04.ostergarten---die-bibel-mit-allen-sinnen-erleben",
+        "startDate": {
+            "startDate": "2024-03-30",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Freie evangelische Gemeinde, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "anderes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/56e3d6a39d43b4c09c208caf60a94667.jpeg?v=2"
+    }
+]
