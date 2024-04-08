@@ -1,0 +1,435 @@
+[
+    {
+        "title": "King King",
+        "url": "/konzert/blues/event/5f1859993d65a16a754585e2.62f6449e01c2c77ed96d27d1.king-king",
+        "startDate": {
+            "startDate": "2024-04-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "blues"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f98bb2e0da76fe4c990caf74d08ecc9e.jpg?v=1"
+    },
+    {
+        "title": "„Playground Art Jam“",
+        "url": "/konzert/event/5f1859a63d65a16a75459694.65d35768e584ac5be13170a7.playground-art-jam",
+        "startDate": {
+            "startDate": "2024-04-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Muziekgieterij, Maastricht",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/082bb5930f7440fd0473d745844a93d0.jpeg?v=1"
+    },
+    {
+        "title": "Til Schneider Band: „Bohemian Blues“",
+        "url": "/konzert/blues/event/5f1859993d65a16a754585f8.65eeeabb3101be4e5e288466.til-schneider-band-bohemian-blues",
+        "startDate": {
+            "startDate": "2024-04-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "blues"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8cb65d2094b03ccf9ca922e002a0af7d.jpg?v=1"
+    },
+    {
+        "title": "„Krabbelkonzert – Summ summ summ ...“",
+        "url": "/konzert/klassische-musik/event/5f1859a43d65a16a754593e0.65f34ee130d7117d9019df72.krabbelkonzert--summ-summ-summ-",
+        "startDate": {
+            "startDate": "2024-04-08T09:30:00.000Z",
+            "text": "Heute, 09:30 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f3d4502de84e2953248a0243810b9193.jpg?v=1"
+    },
+    {
+        "title": "Lordi",
+        "url": "/konzert/metal/event/5f1859a53d65a16a754594e3.65f43a54e6960e24d67f2697.lordi",
+        "startDate": {
+            "startDate": "2024-04-08T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Poppodium Nieuwe Nor, Heerlen",
+        "categorySlugs": [
+            "konzert",
+            "metal"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2c4c8eb42c6557d64641a92dfdda6c65.jpg?v=1"
+    },
+    {
+        "title": "Joel Frahm Trio",
+        "url": "/konzert/jazz/event/5f1859a53d65a16a7545958a.65f45e854eff5d1ae83f0232.joel-frahm-trio",
+        "startDate": {
+            "startDate": "2024-04-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Dumont, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e555d1ae57709204dfff4c6de61c465.jpeg?v=1"
+    },
+    {
+        "title": "„Eingeschlossene Gesellschaft“",
+        "url": "/buehne/theater/komoedie/event/5f18599e3d65a16a75458cda.65d3424ce584ac5be13170a3.eingeschlossene-gesellschaft",
+        "startDate": {
+            "startDate": "2024-04-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/faabaa356e2cd4d0771a39f691cc434a.jpg?v=1"
+    },
+    {
+        "title": "„Neeweißnicht und Rosenrot“",
+        "url": "/buehne/theater/kindertheater/event/5f1859a23d65a16a75459167.65eb12e98c44287fdd42fe22.neeweissnicht-und-rosenrot",
+        "startDate": {
+            "startDate": "2024-04-08T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "kindertheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8bba08e5c99e77aeda3a3a19b58469b1.png?v=1"
+    },
+    {
+        "title": "„Ehrenamtliche Betreuung nach der Betreuungsrechtsreform 2022“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a23d65a16a7545917a.64183c4cc1364041d74ccdb6.ehrenamtliche-betreuung-nach-der-betreuungsrechtsreform-2022",
+        "startDate": {
+            "startDate": "2024-04-08T18:30:00.000Z",
+            "endDate": "2024-04-08T20:00:00.000Z",
+            "text": "Heute, 18:30 - 20:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/18f1d30a1c13af5ef9aced8eb4473c69.jpeg?v=1"
+    },
+    {
+        "title": "Rockchor 60+",
+        "url": "/bildung/workshop-und-seminar/event/5f18599c3d65a16a75458a51.64f5cc4b2d556b56df4010c3.rockchor-60",
+        "startDate": {
+            "startDate": "2024-04-08T19:00:00.000Z",
+            "endDate": "2024-04-08T21:00:00.000Z",
+            "text": "Heute, 19:00 - 21:00 Uhr"
+        },
+        "place": "Music Academy Aachen",
+        "categorySlugs": [
+            "bildung",
+            "workshop-und-seminar"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/64363a8068d0df534017a487c5a976b8.jfif?v=2"
+    },
+    {
+        "title": "„Klima-Wende-Zeit“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a23d65a16a7545917a.65e1bd09f4e71967421f61d4.klima-wende-zeit",
+        "startDate": {
+            "startDate": "2024-04-08T19:00:00.000Z",
+            "endDate": "2024-04-08T20:30:00.000Z",
+            "text": "Heute, 19:00 - 20:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "„1948. Der erste arabisch-israelische Krieg\"",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a03d65a16a75458f21.66018ff5dacfe3596e4f88f2.1948-der-erste-arabisch-israelische-krieg",
+        "startDate": {
+            "startDate": "2024-04-08T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Burg Frankenberg, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/37111563ce06392bb3668e66c98b494f.jpg?v=3"
+    },
+    {
+        "title": "„So minimieren Sie Risiken durch freilaufende Hunde“ („Freundeskreis“-exklusiv)",
+        "url": "/bildung/vortrag-und-diskussion/event/660bda8c5542b70af735b274.so-minimieren-sie-risiken-durch-freilaufende-hunde-freundeskreis-exklusiv",
+        "startDate": {
+            "startDate": "2024-04-08T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/35bbd7c045f664143e031f2d1123b0fb.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-04-08T10:00:00.000Z",
+            "endDate": "2024-04-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-04-08T10:00:00.000Z",
+            "endDate": "2024-04-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-04-08T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-04-08T10:00:00.000Z",
+            "endDate": "2024-04-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Aljoscha: „Schwebend im Äther des Unwirklichen“",
+        "url": "/kunst/ausstellung/event/5f1859a03d65a16a75458eb1.65cca94f1b10b802f6039874.aljoscha-schwebend-im-ther-des-unwirklichen",
+        "startDate": {
+            "startDate": "2024-04-08",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Dreieinigkeitskirche, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ce481880828f9e84103bfd1f3adf17.jpg?v=1"
+    },
+    {
+        "title": "„Die Dienstagsmaler*innen“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d80.65ce0fe663feb30a7462cd99.die-dienstagsmalerinnen",
+        "startDate": {
+            "startDate": "2024-04-08T14:00:00.000Z",
+            "endDate": "2024-04-08T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b9ee708888c46a5ba879a3a06d3549b4.jfif?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-04-08T09:00:00.000Z",
+            "endDate": "2024-04-08T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Der Kunst verschrieben – Mixed Media und Kalligraphie“",
+        "url": "/kunst/ausstellung/grafik/event/637f5f5c7681b63be73e60f4.65d4a2b4ab6be9396d35a3d6.der-kunst-verschrieben--mixed-media-und-kalligraphie",
+        "startDate": {
+            "startDate": "2024-04-08T10:00:00.000Z",
+            "endDate": "2024-04-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b8638db96794b9a110df1947ae3526eb.jpg?v=2"
+    },
+    {
+        "title": "„Der besondere Blick: Die Fotografin Ann Münchow und der Aachener Domschatz“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e41.65f84df7554a612bef61b144.der-besondere-blick-die-fotografin-ann-muenchow-und-der-aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-04-08T10:00:00.000Z",
+            "endDate": "2024-04-08T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29fb91e5913f8fd2a2b46ca719ad7883.jpg?v=1"
+    },
+    {
+        "title": "„Bunte Vielfalt“",
+        "url": "/kunst/ausstellung/malerei/event/5f8a34043d65a15e2e3e7373.65faf84b87f0d51f95139f33.bunte-vielfalt",
+        "startDate": {
+            "startDate": "2024-04-08T08:30:00.000Z",
+            "endDate": "2024-04-08T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/035adf4631e89ae76f71dc651aa75824.jpg?v=1"
+    },
+    {
+        "title": "Hedi Frankenne: „Engel“",
+        "url": "/kunst/ausstellung/event/5f18599e3d65a16a75458c9e.65fd7b2ec131f23b7825ffe5.hedi-frankenne-engel",
+        "startDate": {
+            "startDate": "2024-04-08T11:00:00.000Z",
+            "endDate": "2024-04-08T13:00:00.000Z",
+            "text": "Heute, 11:00 - 13:00 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9dc84e4a9251c8beae17e547dfd00c04.jpg?v=1"
+    },
+    {
+        "title": "„Tanjanische Hängung“",
+        "url": "/kunst/ausstellung/installation/event/5f18599b3d65a16a754589a3.65fd885a4ddf7a098202b9e4.tanjanische-haengung",
+        "startDate": {
+            "startDate": "2024-04-08T10:00:00.000Z",
+            "endDate": "2024-04-08T18:30:00.000Z",
+            "text": "Heute, 10:00 - 18:30 Uhr"
+        },
+        "place": "Galerie Ramrath, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24641ecfd88e12b148bbc74485fa1678.jfif?v=2"
+    },
+    {
+        "title": "„Vielfalt im Garten“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859993d65a16a754585cf.6602cee614fb1e1c580cc566.vielfalt-im-garten",
+        "startDate": {
+            "startDate": "2024-04-08T17:30:00.000Z",
+            "text": "Heute, 17:30 Uhr"
+        },
+        "place": "Rathaus Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7314e5e2a4ce91c550b09b109e20cf59.jpg?v=1"
+    },
+    {
+        "title": "„Öcher Bend“",
+        "url": "/verschiedenes/geselliges-und-treffen/kirmes-und-jahrmarkt/event/5f1859a73d65a16a75459707.6221f0596de56e45f9433996.cher-bend",
+        "startDate": {
+            "startDate": "2024-04-08T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "kirmes-und-jahrmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/db1943664cbd434b8fe6e149bf7a7bdb.jpg?v=1"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2024-04-08T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    },
+    {
+        "title": "„KI – Verstehen und Erleben“",
+        "url": "/verschiedenes/event/605db1563d65a10cb6158e72.65f05a6b8763c84774177f14.ki--verstehen-und-erleben",
+        "startDate": {
+            "startDate": "2024-04-08T11:00:00.000Z",
+            "endDate": "2024-04-08T19:00:00.000Z",
+            "text": "Heute, 11:00 - 19:00 Uhr"
+        },
+        "place": "Oecher Lab, Aachen",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6fc8d904674a51db47ed2bdb80d27249.jpg?v=2"
+    }
+]
