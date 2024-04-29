@@ -1,0 +1,395 @@
+[
+    {
+        "title": "Carl Verheyen Band",
+        "url": "/konzert/rock/event/5f1859993d65a16a754585e2.631f0e8a0684671bfc125e45.carl-verheyen-band",
+        "startDate": {
+            "startDate": "2024-04-29T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e555d1ae57709204dfff4c6de61c465.jpeg?v=1"
+    },
+    {
+        "title": "Desperados",
+        "url": "/konzert/jazz/event/5f1859993d65a16a754585f8.65eef7126b4a266a11089287.desperados",
+        "startDate": {
+            "startDate": "2024-04-29T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b96ccce432f7d98f44130626f8b61c85.jpeg?v=1"
+    },
+    {
+        "title": "Andantino: „Landmusik in der Ferne“",
+        "url": "/konzert/klassische-musik/event/5f1859a03d65a16a75458e2c.661e9641f0d22369135ec802.andantino-landmusik-in-der-ferne",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "text": "Heute, 10:00 Uhr"
+        },
+        "place": "Schloss Burgau, Düren",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34df680950d6789b815d6b3268774ba6.jpg?v=1"
+    },
+    {
+        "title": "Bob Marley: One Love",
+        "url": "/film-und-bild/film/dokumentation/event/5f1859a73d65a16a75459710.662264f7bd48b03aed20f1e4.bob-marley-one-love",
+        "startDate": {
+            "startDate": "2024-04-29T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "dokumentation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/92bb78ecb7164aa576a867355aa31acb.jpg?v=2"
+    },
+    {
+        "title": "„Griechische Tänze zum Welttanztag“",
+        "url": "/bildung/workshop-und-seminar/event/5f18599e3d65a16a75458c24.65f0764f8763c84774177f17.griechische-taenze-zum-welttanztag",
+        "startDate": {
+            "startDate": "2024-04-29T17:00:00.000Z",
+            "endDate": "2024-04-29T19:00:00.000Z",
+            "text": "Heute, 17:00 - 19:00 Uhr"
+        },
+        "place": "Elisenbrunnen, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "workshop-und-seminar"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac9962b079e77a175bf8977efbddefb8.jpg?v=1"
+    },
+    {
+        "title": "Markus Krings: „Asterix een Botsched“",
+        "url": "/bildung/lesung/event/5f1859a13d65a16a75458fe7.6602aa8edf6c326dd75d8383.markus-krings-asterix-een-botsched",
+        "startDate": {
+            "startDate": "2024-04-29T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Buchhandlung Das Worthaus, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5b8e14b3990a26a0d28808add786e95f.jpg?v=1"
+    },
+    {
+        "title": "„Maastricht Debate“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f18599a3d65a16a7545876f.661557599dd0da3a4e7f2634.maastricht-debate",
+        "startDate": {
+            "startDate": "2024-04-29T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Capitol Kino, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3994b72dbb7627c497e7516576e83be5.jpeg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=1"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-04-29T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Aljoscha: „Schwebend im Äther des Unwirklichen“",
+        "url": "/kunst/ausstellung/event/5f1859a03d65a16a75458eb1.65cca94f1b10b802f6039874.aljoscha-schwebend-im-ther-des-unwirklichen",
+        "startDate": {
+            "startDate": "2024-04-29",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Dreieinigkeitskirche, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ce481880828f9e84103bfd1f3adf17.jpg?v=1"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-04-29T09:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Der Kunst verschrieben – Mixed Media und Kalligraphie“",
+        "url": "/kunst/ausstellung/grafik/event/637f5f5c7681b63be73e60f4.65d4a2b4ab6be9396d35a3d6.der-kunst-verschrieben--mixed-media-und-kalligraphie",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b8638db96794b9a110df1947ae3526eb.jpg?v=2"
+    },
+    {
+        "title": "Dieter Kaspari: „Das Hohe Venn“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a7545917a.65d5cf259697c72bd951bca4.dieter-kaspari-das-hohe-venn",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/49d5a76616bea41b1034eaed5899905c.jpg?v=1"
+    },
+    {
+        "title": "„ArtGOK Luzino goes Ostbelgien“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a75459167.65eb14c4c358a6607f5c99c7.artgok-luzino-goes-ostbelgien",
+        "startDate": {
+            "startDate": "2024-04-29T13:00:00.000Z",
+            "endDate": "2024-04-29T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/85e62f40e206050dde546bebcd63700e.jpg?v=1"
+    },
+    {
+        "title": "„Der besondere Blick: Die Fotografin Ann Münchow und der Aachener Domschatz“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e41.65f84df7554a612bef61b144.der-besondere-blick-die-fotografin-ann-muenchow-und-der-aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29fb91e5913f8fd2a2b46ca719ad7883.jpg?v=1"
+    },
+    {
+        "title": "„Bunte Vielfalt“",
+        "url": "/kunst/ausstellung/malerei/event/5f8a34043d65a15e2e3e7373.65faf84b87f0d51f95139f33.bunte-vielfalt",
+        "startDate": {
+            "startDate": "2024-04-29T08:30:00.000Z",
+            "endDate": "2024-04-29T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/035adf4631e89ae76f71dc651aa75824.jpg?v=1"
+    },
+    {
+        "title": "„Tanjanische Hängung“",
+        "url": "/kunst/ausstellung/installation/event/5f18599b3d65a16a754589a3.65fd885a4ddf7a098202b9e4.tanjanische-haengung",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T18:30:00.000Z",
+            "text": "Heute, 10:00 - 18:30 Uhr"
+        },
+        "place": "Galerie Ramrath, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24641ecfd88e12b148bbc74485fa1678.jfif?v=2"
+    },
+    {
+        "title": "Gruppenausstellung",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75457fc5.661508173b402e219f019242.gruppenausstellung",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T20:00:00.000Z",
+            "text": "Heute, 10:00 - 20:00 Uhr"
+        },
+        "place": "Galerie Nova, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/eae1e3969872ed92f85d917185cbd256.jpg?v=1"
+    },
+    {
+        "title": "Bettina Flitner: „Hexenwahn“",
+        "url": "/kunst/ausstellung/fotografie/event/6617bd6478f7e212f36b8263.6617bf2278f7e212f36b8264.bettina-flitner-hexenwahn",
+        "startDate": {
+            "startDate": "2024-04-29T09:00:00.000Z",
+            "endDate": "2024-04-29T16:00:00.000Z",
+            "text": "Heute, 09:00 - 16:00 Uhr"
+        },
+        "place": "Missio Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fbfdf899235afb826da3b29f78e7d457.jpg?v=1"
+    },
+    {
+        "title": "„Frieden“",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75458006.6619328505e4b377a6341bc5.frieden",
+        "startDate": {
+            "startDate": "2024-04-29",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Stadtbad Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a7e342e1ec8c488d8535803e535943ca.jpg?v=1"
+    },
+    {
+        "title": "„Die Siedlung Preuswald erforscht“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a75458221.66193397971d732c6410b092.die-siedlung-preuswald-erforscht",
+        "startDate": {
+            "startDate": "2024-04-29T10:00:00.000Z",
+            "endDate": "2024-04-29T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Katho – Katholische Hochschule Nordrhein-Westfalen am Standort Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c2ac1d4a1ebce32d0c1209fbf73e4a64.jpg?v=1"
+    },
+    {
+        "title": "Irina Garshina: „Das ist meine Welt“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d80.6620f0b309abd2560f051b26.irina-garshina-das-ist-meine-welt",
+        "startDate": {
+            "startDate": "2024-04-29T14:00:00.000Z",
+            "endDate": "2024-04-29T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/27bf0a039f02773d4fbcd663c58650d8.png?v=2"
+    },
+    {
+        "title": "Zwischenspiel mit Ankerplatz",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a75458fb4.66225d83e14b6413294de347.zwischenspiel-mit-ankerplatz",
+        "startDate": {
+            "startDate": "2024-04-29",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Kunsthaus NRW, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/82673633c6f8a4512fb0a689b0847dc1.jpg?v=1"
+    },
+    {
+        "title": "„KI – Verstehen und Erleben“",
+        "url": "/verschiedenes/event/605db1563d65a10cb6158e72.65f05a6b8763c84774177f14.ki--verstehen-und-erleben",
+        "startDate": {
+            "startDate": "2024-04-29T11:00:00.000Z",
+            "endDate": "2024-04-29T19:00:00.000Z",
+            "text": "Heute, 11:00 - 19:00 Uhr"
+        },
+        "place": "Oecher Lab, Aachen",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6fc8d904674a51db47ed2bdb80d27249.jpg?v=2"
+    }
+]
