@@ -1,0 +1,606 @@
+[
+    {
+        "title": "„Montagskonzert der Musikschule“",
+        "url": "/konzert/instrumental/event/5f1859a83d65a16a754598d0.61eea636f4f3016b043ea363.montagskonzert-der-musikschule",
+        "startDate": {
+            "startDate": "2024-06-10T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Haus der Stadt, Düren",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6c78cb85ba19c1ea4efa3c3884ad3568.jpg?v=1"
+    },
+    {
+        "title": "„4. Kammerkonzert“",
+        "url": "/konzert/klassische-musik/event/5f1859a43d65a16a754593e0.6284d7999b515162b712de43.4-kammerkonzert",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "konzert",
+            "klassische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0f3b83dc2132ce53b0417cf436eaf21f.jpg?v=2"
+    },
+    {
+        "title": "Dom Martin Trio",
+        "url": "/konzert/blues/event/5f1859993d65a16a754585e2.64d4c74e5c0c13173757b2e3.dom-martin-trio",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "blues"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e8d8844338f91aa8721c6c01a63aad3.jpg?v=2"
+    },
+    {
+        "title": "Ars Cantandi: „Chormusik der Zuversicht“",
+        "url": "/konzert/chor/event/5f1859a93d65a16a7545994f.665db2ef117f5f2b2f423302.ars-cantandi-chormusik-der-zuversicht",
+        "startDate": {
+            "startDate": "2024-06-10T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "St. Johann Baptist, Aachen, Burtscheid",
+        "categorySlugs": [
+            "konzert",
+            "chor"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e5d7c8f867ea2005c495f754e84ee36f.jpg?v=2"
+    },
+    {
+        "title": "Status Quo",
+        "url": "/konzert/rock/event/5f18599e3d65a16a75458c91.6662c123107b8325616696f6.status-quo",
+        "startDate": {
+            "startDate": "2024-06-10T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Tanzbrunnen, Köln",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6b62a4024d33418124134cb441c49e63.jpeg?v=1"
+    },
+    {
+        "title": "Cameron Carpenter",
+        "url": "/konzert/instrumental/event/5f1859993d65a16a75458613.6662c1d530534a1353499923.cameron-carpenter",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kölner Philharmonie",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e555d1ae57709204dfff4c6de61c465.jpeg?v=1"
+    },
+    {
+        "title": "DJ Premier",
+        "url": "/konzert/hip-hop/event/5f1859933d65a16a75457f4d.6662c236107b8325616696f7.dj-premier",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Essigfabrik, Köln",
+        "categorySlugs": [
+            "konzert",
+            "hip-hop"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f88391ecd68fdcbdc60999d79fe0770a.jpeg?v=1"
+    },
+    {
+        "title": "„Hammond Organ Grooves“",
+        "url": "/konzert/jazz/event/6662e01fd586801eac097465.6662e0433d32af4ac4122db2.hammond-organ-grooves",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Salon de Jazz, Köln",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/082bb5930f7440fd0473d745844a93d0.jpeg?v=1"
+    },
+    {
+        "title": "Cherry Glazerr",
+        "url": "/konzert/rock/event/5f1859a93d65a16a75459944.6662c2d1f0058429007240b2.cherry-glazerr",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "MTC, Köln",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ]
+    },
+    {
+        "title": "Barry Adamson",
+        "url": "/konzert/rock/event/5f1859a63d65a16a754595e7.6662d045f0058429007240b9.barry-adamson",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Zakk, Düsseldorf",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ]
+    },
+    {
+        "title": "Marius Lamm's The World We Used to Know",
+        "url": "/konzert/jazz/event/6662df2fd586801eac097464.6662debad586801eac097462.marius-lamms-the-world-we-used-to-know",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Heimathirsch, Köln",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ]
+    },
+    {
+        "title": "Jürgen Becker: „Die Ursache liegt in der Zukunft!“",
+        "url": "/buehne/kabarett-und-comedy/kabarett/event/5f1859973d65a16a754583f1.6375363eb2343c6759220d56.juergen-becker-die-ursache-liegt-in-der-zukunft",
+        "startDate": {
+            "startDate": "2024-06-10T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Senftöpfchen Theater, Köln",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "kabarett"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dcaacfd11f185ce21bced654a1fb5475.jpg?v=1"
+    },
+    {
+        "title": "„Home­office“",
+        "url": "/buehne/theater/event/5f1859983d65a16a7545858f.6664d539a9ebca36d14b5785.homeoffice",
+        "startDate": {
+            "startDate": "2024-06-10T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Düsseldorfer Schauspielhaus",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ce9023337e74409001caffb4d4655932.jpeg?v=1"
+    },
+    {
+        "title": "\"Tod eines Handlungs­reisenden\"",
+        "url": "/buehne/theater/drama/event/5f1859983d65a16a7545858f.6664d622ff58e7521e3c2af3.tod-eines-handlungsreisenden",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Düsseldorfer Schauspielhaus",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ce9023337e74409001caffb4d4655932.jpeg?v=1"
+    },
+    {
+        "title": "„Bundesligatrainer Peter Neururer – Schweigen ist feige“",
+        "url": "/buehne/show/event/6662d266f0058429007240bb.6662d2a9f0058429007240bc.bundesligatrainer-peter-neururer--schweigen-ist-feige",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Volksbühne am Rudolfplatz, Köln",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ]
+    },
+    {
+        "title": "„WDR 5 Radioshow“",
+        "url": "/buehne/kabarett-und-comedy/event/5f1859a53d65a16a7545949c.6662fa7527d55f043938d833.wdr-5-radioshow",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Savoy Theater, Düsseldorf",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy"
+        ]
+    },
+    {
+        "title": "„Ein ganzes Leben“",
+        "url": "/film-und-bild/film/drama/event/5f1859a23d65a16a7545917e.66210d0cee00ba08f66bad17.ein-ganzes-leben",
+        "startDate": {
+            "startDate": "2024-06-10T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d49afc5ba2ebbb17136c989aec3d17c.jpeg?v=2"
+    },
+    {
+        "title": "„Back to Black“",
+        "url": "/film-und-bild/film/biopic/event/5f1859a73d65a16a75459710.663b5c118e69fd782e01d052.back-to-black",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "biopic"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7425a98379944847817f184a539b8117.jpg?v=2"
+    },
+    {
+        "title": "„Bauwende, Heizungsgesetz, Sanierungszwang – Einschätzungen zur Transformation“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a23d65a16a7545917a.66435e272298327a835bc885.bauwende-heizungsgesetz-sanierungszwang--einschaetzungen-zur-transformation",
+        "startDate": {
+            "startDate": "2024-06-10T19:00:00.000Z",
+            "endDate": "2024-06-10T20:30:00.000Z",
+            "text": "Heute, 19:00 - 20:30 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/31862036a15a2984168fd86b93a0ee00.jpeg?v=1"
+    },
+    {
+        "title": "„Was unsere Demokratie bedroht – Joachim Gauck im Gespräch“ (Ausverkauft)",
+        "url": "/bildung/vortrag-und-diskussion/event/5f18599b3d65a16a75458892.664e08b1c8add873f356bd8a.was-unsere-demokratie-bedroht--joachim-gauck-im-gespraech-ausverkauft",
+        "startDate": {
+            "startDate": "2024-06-10T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Mayersche Buchhandlung, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/62e541b1c238a297a8ed9dfcec7c984c.jpg?v=1"
+    },
+    {
+        "title": "Ulrike Draesner & Andreas Kossert: „Flucht, Vertreibung, Heimat“",
+        "url": "/bildung/vortrag-und-diskussion/event/5f1859a43d65a16a75459384.6662e9566ac46728477de092.ulrike-draesner--andreas-kossert-flucht-vertreibung-heimat",
+        "startDate": {
+            "startDate": "2024-06-10T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Literaturhaus, Köln",
+        "categorySlugs": [
+            "bildung",
+            "vortrag-und-diskussion"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d9eb8fbb820be7da87516a731f32ae5e.jpeg?v=2"
+    },
+    {
+        "title": "Tara-Louise Wittwer: „Sorry, aber ...“",
+        "url": "/bildung/lesung/event/6662ea19a7634a4e193a30a2.6662ea386ac46728477de094.tara-louise-wittwer-sorry-aber-",
+        "startDate": {
+            "startDate": "2024-06-10T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Orangerie-Theater, Köln",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0055766162625737956cb1d2cd5f753.jpg?v=2"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-06-10T10:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-06-10T10:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=3"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-06-10T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-06-10T10:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "Aljoscha: „Schwebend im Äther des Unwirklichen“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859a03d65a16a75458eb1.65cca94f1b10b802f6039874.aljoscha-schwebend-im-ther-des-unwirklichen",
+        "startDate": {
+            "startDate": "2024-06-10",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Dreieinigkeitskirche, Eschweiler",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d6ce481880828f9e84103bfd1f3adf17.jpg?v=1"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-06-10T09:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Der Kunst verschrieben – Mixed Media und Kalligraphie“",
+        "url": "/kunst/ausstellung/grafik/event/637f5f5c7681b63be73e60f4.65d4a2b4ab6be9396d35a3d6.der-kunst-verschrieben--mixed-media-und-kalligraphie",
+        "startDate": {
+            "startDate": "2024-06-10T10:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b8638db96794b9a110df1947ae3526eb.jpg?v=2"
+    },
+    {
+        "title": "„KI – Verstehen und Erleben“",
+        "url": "/kunst/ausstellung/technisch/event/605db1563d65a10cb6158e72.65f05a6b8763c84774177f14.ki--verstehen-und-erleben",
+        "startDate": {
+            "startDate": "2024-06-10T11:00:00.000Z",
+            "endDate": "2024-06-10T19:00:00.000Z",
+            "text": "Heute, 11:00 - 19:00 Uhr"
+        },
+        "place": "Oecher Lab, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "technisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6fc8d904674a51db47ed2bdb80d27249.jpg?v=2"
+    },
+    {
+        "title": "„Der besondere Blick: Die Fotografin Ann Münchow und der Aachener Domschatz“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e41.65f84df7554a612bef61b144.der-besondere-blick-die-fotografin-ann-muenchow-und-der-aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-06-10T10:00:00.000Z",
+            "endDate": "2024-06-10T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29fb91e5913f8fd2a2b46ca719ad7883.jpg?v=1"
+    },
+    {
+        "title": "Angelika Krämer",
+        "url": "/kunst/ausstellung/malerei/event/5f1859953d65a16a754581e9.66167dc6d96088478617d0b2.angelika-kraemer",
+        "startDate": {
+            "startDate": "2024-06-10T08:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e6de770acee350149fc6c58b24b588b2.jpg?v=1"
+    },
+    {
+        "title": "„Expo Bull’Dingue“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859a23d65a16a75459167.6638ce19c412dc122e38e997.expo-bulldingue",
+        "startDate": {
+            "startDate": "2024-06-10T13:00:00.000Z",
+            "endDate": "2024-06-10T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/85e62f40e206050dde546bebcd63700e.jpg?v=1"
+    },
+    {
+        "title": "„Rhapsody in Blue“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a83d65a16a75459805.664200d57208373e3d1afaf5.rhapsody-in-blue",
+        "startDate": {
+            "startDate": "2024-06-10T10:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Hochschule für Musik und Tanz Köln, Standort Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2b257fac48a812c31c790a28ea6aeb79.jpeg?v=1"
+    },
+    {
+        "title": "„Beyond the Borders: Europe from Different Perspectives“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a7545917a.664354ad49a927204d34af92.beyond-the-borders-europe-from-different-perspectives",
+        "startDate": {
+            "startDate": "2024-06-10T09:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "Peter Wergen: „Rückblicke – analoge s/w-Fotos“",
+        "url": "/kunst/ausstellung/fotografie/event/5f8a34043d65a15e2e3e7373.66473542e6ed9b7ac16b3212.peter-wergen-rueckblicke--analoge-sw-fotos",
+        "startDate": {
+            "startDate": "2024-06-10T08:30:00.000Z",
+            "endDate": "2024-06-10T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0c42e569e6ccf61440379b75e773787b.jpeg?v=2"
+    },
+    {
+        "title": "„Inception 2.0 – Schmerz und Neubeginn“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599e3d65a16a75458c9e.665db7fbf1372b33513d06b8.inception-20--schmerz-und-neubeginn",
+        "startDate": {
+            "startDate": "2024-06-10T11:00:00.000Z",
+            "endDate": "2024-06-10T13:00:00.000Z",
+            "text": "Heute, 11:00 - 13:00 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9dc84e4a9251c8beae17e547dfd00c04.jpg?v=1"
+    },
+    {
+        "title": "„GFU – Gott, Freiheit und Unsterblichkeit“",
+        "url": "/kunst/ausstellung/fotografie/event/6581690b610b391d4309b8e2.6660756d3a69c0105e08ccc3.gfu--gott-freiheit-und-unsterblichkeit",
+        "startDate": {
+            "startDate": "2024-06-10",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Ateliergemeinschaft K36, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/516e8093735cb6ab75c6143a0477d2a1.jpg?v=2"
+    },
+    {
+        "title": "„Leap of Faith: Transmediale Fotografie“",
+        "url": "/kunst/ausstellung/fotografie/event/6664ce0623c3c55d00527412.6664cdafa9ebca36d14b5782.leap-of-faith-transmediale-fotografie",
+        "startDate": {
+            "startDate": "2024-06-10",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Nordrhein-Westfälische Akademie der Wissenschaften und der Künste, Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ]
+    },
+    {
+        "title": "„Retrospektiv!“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599e3d65a16a75458c92.6664d0a1ff58e7521e3c2af2.retrospektiv",
+        "startDate": {
+            "startDate": "2024-06-10T11:00:00.000Z",
+            "endDate": "2024-06-10T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Schloss Benrath, Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ]
+    },
+    {
+        "title": "„EmotionAir“",
+        "url": "/kunst/ausstellung/event/6664d300a9ebca36d14b5784.6664d2d5a9ebca36d14b5783.emotionair",
+        "startDate": {
+            "startDate": "2024-06-10T11:00:00.000Z",
+            "endDate": "2024-06-10T19:30:00.000Z",
+            "text": "Heute, 11:00 - 19:30 Uhr"
+        },
+        "place": "Balloon Museum, Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    }
+]
