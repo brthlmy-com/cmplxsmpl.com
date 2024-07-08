@@ -1,0 +1,699 @@
+[
+    {
+        "title": "Robert Jon & the Wreck (Ausverkauft)",
+        "url": "/konzert/rock/event/5f1859993d65a16a754585e2.63c4176ca40aa0507c36c26b.robert-jon--the-wreck-ausverkauft",
+        "startDate": {
+            "startDate": "2024-07-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/67e73a7b4024dfcf888657bea6cd7dc1.jpg?v=2"
+    },
+    {
+        "title": "Matti Klessascheck",
+        "url": "/konzert/jazz/event/5f1859943d65a16a7545801d.6687de92d3f7f67829707be2.matti-klessascheck",
+        "startDate": {
+            "startDate": "2024-07-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Loft, Köln",
+        "categorySlugs": [
+            "konzert",
+            "jazz"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0e555d1ae57709204dfff4c6de61c465.jpeg?v=1"
+    },
+    {
+        "title": "Speedway + Xiao",
+        "url": "/konzert/hardcore/event/5f1859a73d65a16a754597c2.6687e1e6d3f7f67829707be3.speedway--xiao",
+        "startDate": {
+            "startDate": "2024-07-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Tsunami Club, Köln",
+        "categorySlugs": [
+            "konzert",
+            "hardcore"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1740c000707fe20a3a2dbadf63e341fa.jpeg?v=1"
+    },
+    {
+        "title": "Sarah Bouwers",
+        "url": "/konzert/event/6662f5366ac46728477de095.6687e6415d11e869a65141c3.sarah-bouwers",
+        "startDate": {
+            "startDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Stadtstrand, Düsseldorf",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/082bb5930f7440fd0473d745844a93d0.jpeg?v=1"
+    },
+    {
+        "title": "„Kunst gegen Bares“",
+        "url": "/buehne/show/event/666c2d4873d526730b261432.666c2d78c338c54bcb5fdb04.kunst-gegen-bares",
+        "startDate": {
+            "startDate": "2024-07-08T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Artheater, Köln",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ce9023337e74409001caffb4d4655932.jpeg?v=1"
+    },
+    {
+        "title": "„Spiel der Könige“",
+        "url": "/buehne/theater/event/5f1859a53d65a16a7545948c.6687e289a1a1721a8a49fb12.spiel-der-koenige",
+        "startDate": {
+            "startDate": "2024-07-08T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Comedia Theater, Köln",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/74731d797844251fc019d7da54dbe28b.jpeg?v=1"
+    },
+    {
+        "title": "„Teamspirit – Der Poetry-Slam“",
+        "url": "/buehne/show/poetry-slam/event/5f1859983d65a16a7545858f.6687e3e95d11e869a65141c2.teamspirit--der-poetry-slam",
+        "startDate": {
+            "startDate": "2024-07-08T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Düsseldorfer Schauspielhaus",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "poetry-slam"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2887b356e5d1eeec25624136373ff5a.jpeg?v=2"
+    },
+    {
+        "title": "„May December“",
+        "url": "/film-und-bild/film/tragikomoedie/event/5f1859a73d65a16a75459710.6687fa95150b0a4e5f5e75d2.may-december",
+        "startDate": {
+            "startDate": "2024-07-08T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "tragikomoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1aaacb7e49be647e2938837cf2033c37.jpg?v=2"
+    },
+    {
+        "title": "„Comic- & Manga-Zeichenkurs“",
+        "url": "/bildung/workshop-und-seminar/event/5f1859a23d65a16a75459167.6666e23e6ad3b50fc63704a5.comic---manga-zeichenkurs",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T12:00:00.000Z",
+            "text": "Heute, 09:00 - 12:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "bildung",
+            "workshop-und-seminar"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/85e62f40e206050dde546bebcd63700e.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=3"
+    },
+    {
+        "title": "„Sommergalerie 2024“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a754595bd.62abb706a2e5ae359e7b5916.sommergalerie-2024",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Logoi, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2918809270eb053bc40601030ce6ab5.jpg?v=2"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-07-08T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Revolution Erde“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.658052ce57753d172474c062.revolution-erde",
+        "startDate": {
+            "startDate": "2024-07-08T11:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e5087b056f7ee7384200953d11706728.jpg?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Der Kunst verschrieben – Mixed Media und Kalligraphie“",
+        "url": "/kunst/ausstellung/grafik/event/637f5f5c7681b63be73e60f4.65d4a2b4ab6be9396d35a3d6.der-kunst-verschrieben--mixed-media-und-kalligraphie",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b8638db96794b9a110df1947ae3526eb.jpg?v=2"
+    },
+    {
+        "title": "Michaela Lawtoo: „Icones“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859923d65a16a75457dd8.65e74b4d06804249794324cd.michaela-lawtoo-icones",
+        "startDate": {
+            "startDate": "2024-07-08T08:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 08:00 - 18:00 Uhr"
+        },
+        "place": "AVT Soft Matter Process Engineering, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8d8008a8d5f7e31376e2b57b728e3799.jpg?v=2"
+    },
+    {
+        "title": "„Der besondere Blick: Die Fotografin Ann Münchow und der Aachener Domschatz“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a03d65a16a75458e41.65f84df7554a612bef61b144.der-besondere-blick-die-fotografin-ann-muenchow-und-der-aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a2a3387fa77d13290f1f0219fd0d0ad0.jfif?v=2"
+    },
+    {
+        "title": "„Rhapsody in Blue“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a83d65a16a75459805.664200d57208373e3d1afaf5.rhapsody-in-blue",
+        "startDate": {
+            "startDate": "2024-07-08T08:00:00.000Z",
+            "endDate": "2024-07-08T21:30:00.000Z",
+            "text": "Heute, 08:00 - 21:30 Uhr"
+        },
+        "place": "Hochschule für Musik und Tanz Köln, Standort Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2b257fac48a812c31c790a28ea6aeb79.jpeg?v=1"
+    },
+    {
+        "title": "„Beyond the Borders: Europe from Different Perspectives“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a7545917a.664354ad49a927204d34af92.beyond-the-borders-europe-from-different-perspectives",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "VHS Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/29192395ae604a404cb55ccfedda7e19.jpg?v=1"
+    },
+    {
+        "title": "„Leap of Faith: Transmediale Fotografie“",
+        "url": "/kunst/ausstellung/fotografie/event/6664ce0623c3c55d00527412.6664cdafa9ebca36d14b5782.leap-of-faith-transmediale-fotografie",
+        "startDate": {
+            "startDate": "2024-07-08",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Nordrhein-Westfälische Akademie der Wissenschaften und der Künste, Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2d60ebdec6fcb6d589ff24059880f718.jpeg?v=1"
+    },
+    {
+        "title": "„Retrospektiv!“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599e3d65a16a75458c92.6664d0a1ff58e7521e3c2af2.retrospektiv",
+        "startDate": {
+            "startDate": "2024-07-08T11:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Schloss Benrath, Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dba46170c8dbafd5f90ca5901eae3d88.jfif?v=2"
+    },
+    {
+        "title": "„Aachener Domschatz“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.6668373cac464408fe4a5fb3.aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/704fa08680533fca512d1b4bb43123c5.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Discovery Museum",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.667015abe104fb5be3176ce5.dauerausstellung-im-discovery-museum",
+        "startDate": {
+            "startDate": "2024-07-08T11:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3a84d8531f87abeec6bee4c6adb290d5.jpg?v=1"
+    },
+    {
+        "title": "Alison Jackson: „Truth Is Dead“",
+        "url": "/kunst/ausstellung/fotografie/event/5f63f8833d65a13d4365390c.66701645e104fb5be3176ce6.alison-jackson-truth-is-dead",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Fotomuseum aan het Vrijthof, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/72edfe43b01ae27f2e3b298971838319.jpg?v=3"
+    },
+    {
+        "title": "Alevtina Kakhidze: „Fenster, Zeichen des Friedens“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a75458251.66701d23e104fb5be3176ceb.alevtina-kakhidze-fenster-zeichen-des-friedens",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Schunck, Heerlen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0368608a82c8844b0905b9a44f15907d.jpg?v=1"
+    },
+    {
+        "title": "„Kunstdepot Ausstellung“",
+        "url": "/kunst/ausstellung/event/5f1859953d65a16a75458251.66701dac85f5d5296c382dd3.kunstdepot-ausstellung",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 09:00 - 17:00 Uhr"
+        },
+        "place": "Schunck, Heerlen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/20c06ae155ab916414ca9c766d7700ef.jpg?v=2"
+    },
+    {
+        "title": "Roger Nyssen: „Die lange Suche“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f18599a3d65a16a754586c5.6670233a85f5d5296c382dd6.roger-nyssen-die-lange-suche",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T19:00:00.000Z",
+            "text": "Heute, 09:00 - 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/89947c6e3b867160592c14c0e78c001a.jpg?v=4"
+    },
+    {
+        "title": "„Nie wieder!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859923d65a16a75457e79.6670329985f5d5296c382dda.nie-wieder",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3a251ee8e5385618ed02b6ce45a8a245.jpg?v=1"
+    },
+    {
+        "title": "„Kunst – Musik – Frieden“",
+        "url": "/kunst/ausstellung/event/5f18599a3d65a16a754586c5.6672d2aedc53647461604887.kunst--musik--frieden",
+        "startDate": {
+            "startDate": "2024-07-08T09:00:00.000Z",
+            "endDate": "2024-07-08T19:00:00.000Z",
+            "text": "Heute, 09:00 - 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3e5fb1f274196c73787e756ec259230a.jpg?v=1"
+    },
+    {
+        "title": "Elliott Erwitt",
+        "url": "/kunst/ausstellung/fotografie/event/6675a9afcc53b114a80dc887.6675aa3ccc53b114a80dc888.elliott-erwitt",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T19:00:00.000Z",
+            "text": "Heute, 10:00 - 19:00 Uhr"
+        },
+        "place": "Leica Galerie Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b206337bc0c810893f2a34ff2aca0376.jpg?v=2"
+    },
+    {
+        "title": "„Weltsprache Kunst“",
+        "url": "/kunst/ausstellung/event/60d4b7063d65a17adc6d77f2.667bfb6d39e9113a650d9173.weltsprache-kunst",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Internationale Kunstakademie Heimbach/Eifel",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b892bbc1c36e25c445d563563362ffb5.jpg?v=2"
+    },
+    {
+        "title": "„Eine Gemeinde – Impressionen aus den 60er Jahren“",
+        "url": "/kunst/ausstellung/historisch/event/5f8a34043d65a15e2e3e7373.6683d020bafbd414b7754d34.eine-gemeinde--impressionen-aus-den-60er-jahren",
+        "startDate": {
+            "startDate": "2024-07-08T08:30:00.000Z",
+            "endDate": "2024-07-08T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7d305937c2b099b3f23ed309672119fa.jfif?v=2"
+    },
+    {
+        "title": "„Buntes Miteinander“",
+        "url": "/kunst/ausstellung/event/5f18599f3d65a16a75458d80.6687f798d3f7f67829707be4.buntes-miteinander",
+        "startDate": {
+            "startDate": "2024-07-08T14:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "Komm Kulturzentrum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/480a4fa1bd38b98ca04d0bd34d68d2de.jpg?v=1"
+    },
+    {
+        "title": "„EmotionAir“",
+        "url": "/kunst/ausstellung/event/6664d300a9ebca36d14b5784.6664d2d5a9ebca36d14b5783.emotionair",
+        "startDate": {
+            "startDate": "2024-07-08T11:00:00.000Z",
+            "endDate": "2024-07-08T19:30:00.000Z",
+            "text": "Heute, 11:00 - 19:30 Uhr"
+        },
+        "place": "Balloon Museum, Düsseldorf",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    },
+    {
+        "title": "Dauerausstellung im Grand Curtius",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.6670026eba061d7045042db3.dauerausstellung-im-grand-curtius",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    },
+    {
+        "title": "„Espace César Franck“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a7545802e.66700437ba061d7045042db4.espace-csar-franck",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ]
+    },
+    {
+        "title": "„Yeziden, unbesiegte Sonne – Zehn Jahre nach dem Genozid“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859923d65a16a75457e79.667030122ed12044745ae9f9.yeziden-unbesiegte-sonne--zehn-jahre-nach-dem-genozid",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ]
+    },
+    {
+        "title": "„Im Kampf. Geschichten der Emanzipation“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859923d65a16a75457e79.667031ab2ed12044745ae9fb.im-kampf-geschichten-der-emanzipation",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ]
+    },
+    {
+        "title": "„The Matrix Has You …“",
+        "url": "/kunst/ausstellung/malerei/event/667e920172227801a0476842.667e929672227801a0476843.the-matrix-has-you-",
+        "startDate": {
+            "startDate": "2024-07-08T15:00:00.000Z",
+            "endDate": "2024-07-08T17:00:00.000Z",
+            "text": "Heute, 15:00 - 17:00 Uhr"
+        },
+        "place": "Cöln Comic Haus, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ]
+    },
+    {
+        "title": "Alberta Whittle: „…Moving Beyond the Time of Salt“",
+        "url": "/kunst/ausstellung/audio/event/667e944b5a86ab7051201654.667e94b05a86ab7051201655.alberta-whittle-moving-beyond-the-time-of-salt",
+        "startDate": {
+            "startDate": "2024-07-08T12:00:00.000Z",
+            "endDate": "2024-07-08T19:00:00.000Z",
+            "text": "Heute, 12:00 - 19:00 Uhr"
+        },
+        "place": "Temporary Gallery, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "audio"
+        ]
+    },
+    {
+        "title": "„Kunstwerke aus vier Ländern“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859953d65a16a754581d1.66865a85eb221106d63ce6d2.kunstwerke-aus-vier-laendern",
+        "startDate": {
+            "startDate": "2024-07-08T11:00:00.000Z",
+            "endDate": "2024-07-08T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Aukloster, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ]
+    },
+    {
+        "title": "„Archimedischer Sandkasten“",
+        "url": "/verschiedenes/event/5f18599e3d65a16a75458c54.5fbf7f873d65a14b9029b631.archimedischer-sandkasten",
+        "startDate": {
+            "startDate": "2024-07-08",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Katschhof, Aachen",
+        "categorySlugs": [
+            "verschiedenes"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a8f0c4a1ecdb238b32e353b7d50d3e5a.jpg?v=2"
+    },
+    {
+        "title": "„Roskirmes“",
+        "url": "/verschiedenes/geselliges-und-treffen/kirmes-und-jahrmarkt/event/5f1859a43d65a16a7545933f.64a2b6f708152f2e745e7313.roskirmes",
+        "startDate": {
+            "startDate": "2024-07-08T10:00:00.000Z",
+            "text": "Heute, 10:00 Uhr"
+        },
+        "place": "Roskapellchen, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "kirmes-und-jahrmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c99e3a453f805cf01cc7656bc3df02df.jpg?v=1"
+    },
+    {
+        "title": "„Internationaler Flaggentag“",
+        "url": "/verschiedenes/geselliges-und-treffen/versammlung/event/5f1859933d65a16a75457ee1.6687ff49150b0a4e5f5e75d3.internationaler-flaggentag",
+        "startDate": {
+            "startDate": "2024-07-08T16:00:00.000Z",
+            "text": "Heute, 16:00 Uhr"
+        },
+        "place": "Markt, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "versammlung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c7cb6da02d27c4108a643d01efdfd71f.jpg?v=1"
+    }
+]
