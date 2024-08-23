@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const ytdl = require('ytdl-core');
-const ytpl = require('ytpl');
+const ytdl = require('@distube/ytdl-core');
+const ytpl = require('@distube/ytpl');
 const fs = require('fs');
 const _ = require('lodash');
 
