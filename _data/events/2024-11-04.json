@@ -1,0 +1,710 @@
+[
+    {
+        "title": "Naama Guggenheim",
+        "url": "/konzert/singer-songwriter/event/5f1859993d65a16a754585f8.63eb7580e0d38157ab1c475b.naama-guggenheim",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "singer-songwriter"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8cb3f041ace0c8a5ef658fc8afb3d550.jpg?v=2"
+    },
+    {
+        "title": "Say Yes Dog",
+        "url": "/konzert/elektronische-musik/event/5f18599a3d65a16a75458747.6706838cf3423c3f971c5c82.say-yes-dog",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Musikbunker, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "elektronische-musik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f88391ecd68fdcbdc60999d79fe0770a.jpeg?v=1"
+    },
+    {
+        "title": "„Where the Truer Beauties Lie“",
+        "url": "/konzert/event/5f1859a43d65a16a754593e0.6707a86a1f6fe50bf2292c97.where-the-truer-beauties-lie",
+        "startDate": {
+            "startDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/79cc70a5b32c13130a9f031fe60c8da9.jpg?v=1"
+    },
+    {
+        "title": "„Poetic Sounds for Peace“",
+        "url": "/konzert/event/5f18599f3d65a16a75458d1b.670e809a9434482d7a7be752.poetic-sounds-for-peace",
+        "startDate": {
+            "startDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Städtisches Gymnasium Herzogenrath",
+        "categorySlugs": [
+            "konzert"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/317a6ecab5e3539cc5968c43531f1c7b.jpg?v=1"
+    },
+    {
+        "title": "Aachen Bigband: „Festival de Ritmo“",
+        "url": "/konzert/instrumental/event/5f1859943d65a16a7545809c.6718ebf43e96f94ede2c70b2.aachen-bigband-festival-de-ritmo",
+        "startDate": {
+            "startDate": "2024-11-04T20:30:00.000Z",
+            "text": "Heute, 20:30 Uhr"
+        },
+        "place": "Mufab, Aachen",
+        "categorySlugs": [
+            "konzert",
+            "instrumental"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/46da6c237123dcb914c949520708c605.jpg?v=7"
+    },
+    {
+        "title": "Stephen Wilson Jr.",
+        "url": "/konzert/singer-songwriter/event/671b9247c180846fdb354b6d.67221a130692d60d653795a4.stephen-wilson-jr",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Club Volta, Köln",
+        "categorySlugs": [
+            "konzert",
+            "singer-songwriter"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0c7878411b83178d6cbd1a3d1fef3308.jpg?v=1"
+    },
+    {
+        "title": "Jürgen B. Hausmann: „Dat is e Ding“",
+        "url": "/buehne/kabarett-und-comedy/kabarett/event/5f18599a3d65a16a754587ad.661d2b104df27875ca32df53.juergen-b-hausmann-dat-is-e-ding",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Stadthalle Alsdorf",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "kabarett"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/785144e7966d9044111d7a8c774d1025.jpg?v=1"
+    },
+    {
+        "title": "„Kunst gegen Bares“",
+        "url": "/buehne/show/event/666c2d4873d526730b261432.666c2d78c338c54bcb5fdb04.kunst-gegen-bares",
+        "startDate": {
+            "startDate": "2024-11-04T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Artheater, Köln",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ce9023337e74409001caffb4d4655932.jpeg?v=1"
+    },
+    {
+        "title": "„Du bist meine Mutter“",
+        "url": "/buehne/theater/event/5f18599e3d65a16a75458cda.66b0b682dcc86f33aa06b0e3.du-bist-meine-mutter",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4752426e2e87c961ccb7f6e1993c27c8.jpg?v=2"
+    },
+    {
+        "title": "„Die Comedy-Werkstatt Düsseldorf“",
+        "url": "/buehne/kabarett-und-comedy/comedy/event/6692d10f8b34202b0a2109b6.66ffcbed93d94f5fe6137f43.die-comedy-werkstatt-duesseldorf",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Pitcher, Düsseldorf",
+        "categorySlugs": [
+            "buehne",
+            "kabarett-und-comedy",
+            "comedy"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24434b0b1dcfb95e6dd0c4d5ba80cee0.jpeg?v=1"
+    },
+    {
+        "title": "RWTH Freedom Late Night",
+        "url": "/buehne/show/event/5f1859973d65a16a7545840f.6720e33b2a90d236bf24d582.rwth-freedom-late-night",
+        "startDate": {
+            "startDate": "2024-11-04T18:30:00.000Z",
+            "endDate": "2024-11-04T23:15:00.000Z",
+            "text": "Heute, 18:30 - 23:15 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e2c70a36272521ee5271a4910eab265d.jpg?v=1"
+    },
+    {
+        "title": "„European Outdoor Film Tour“",
+        "url": "/film-und-bild/film/dokumentation/event/5f18599a3d65a16a7545874c.6523d75668fcfc01aa43c387.european-outdoor-film-tour",
+        "startDate": {
+            "startDate": "2024-11-04T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Eurogress Aachen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "dokumentation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e3b5e8ffb9ef8538ae51d3e82a75c479.jpg?v=1"
+    },
+    {
+        "title": "„Es sind die kleinen Dinge“",
+        "url": "/film-und-bild/film/komoedie/event/5f1859a23d65a16a7545917e.668d335fed4b89481964e286.es-sind-die-kleinen-dinge",
+        "startDate": {
+            "startDate": "2024-11-04T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Metropolis Filmtheater, Würselen",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d4dc159bbc68a54b3437cf954fc1a9f9.jpeg?v=2"
+    },
+    {
+        "title": "„Die Fotografin“",
+        "url": "/film-und-bild/film/drama/event/5f1859a73d65a16a75459710.671812af4d736d7f653ac7b6.die-fotografin",
+        "startDate": {
+            "startDate": "2024-11-04T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "film-und-bild",
+            "film",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3d49afc5ba2ebbb17136c989aec3d17c.jpeg?v=2"
+    },
+    {
+        "title": "Rockchor 60+",
+        "url": "/bildung/workshop-und-seminar/event/5f18599c3d65a16a75458a51.64f5cc4b2d556b56df4010c3.rockchor-60",
+        "startDate": {
+            "startDate": "2024-11-04T19:00:00.000Z",
+            "endDate": "2024-11-04T21:00:00.000Z",
+            "text": "Heute, 19:00 - 21:00 Uhr"
+        },
+        "place": "Music Academy Aachen",
+        "categorySlugs": [
+            "bildung",
+            "workshop-und-seminar"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/64363a8068d0df534017a487c5a976b8.jfif?v=2"
+    },
+    {
+        "title": "Sylvie Schenk: „Maman“",
+        "url": "/bildung/lesung/event/67224c9efc9aa40e3c1a5792.646a8b3654858d38916e6e1d.sylvie-schenk-maman",
+        "startDate": {
+            "startDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Rosfabrik, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3c56944fa5e1797097e05d0b11020d49.jpg?v=3"
+    },
+    {
+        "title": "Die Krimi-Cops: „Zahltag“ (Ausverkauft)",
+        "url": "/bildung/lesung/event/5f1859a63d65a16a7545963e.650b7ce20fd992085152231e.die-krimi-cops-zahltag-ausverkauft",
+        "startDate": {
+            "startDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Polizeipräsidium Aachen",
+        "categorySlugs": [
+            "bildung",
+            "lesung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fdd43a05c1d54e9e4ab88ebb523fef3f.jpeg?v=1"
+    },
+    {
+        "title": "„Cybersicherheit für Unternehmen“",
+        "url": "/bildung/informationsveranstaltung/event/5f1859a03d65a16a75458ed4.6708e108f120464a12786e93.cybersicherheit-fuer-unternehmen",
+        "startDate": {
+            "startDate": "2024-11-04T15:00:00.000Z",
+            "endDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 15:00 - 19:00 Uhr"
+        },
+        "place": "IHK Aachen",
+        "categorySlugs": [
+            "bildung",
+            "informationsveranstaltung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bd73645e3bd66e249fa56e715050e276.jpg?v=1"
+    },
+    {
+        "title": "„Building Ukraine's Future: Recovery and Anticorruption in Ukraine and the Role of the EU“",
+        "url": "/bildung/informationsveranstaltung/event/5f1859953d65a16a75458194.671fa99fa14570291e25aa73.building-ukraines-future-recovery-and-anticorruption-in-ukraine-and-the-role-of-the-eu",
+        "startDate": {
+            "startDate": "2024-11-04T13:30:00.000Z",
+            "endDate": "2024-11-04T14:30:00.000Z",
+            "text": "Heute, 13:30 - 14:30 Uhr"
+        },
+        "place": "Grashaus, Aachen",
+        "categorySlugs": [
+            "bildung",
+            "informationsveranstaltung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c7b5da99329da58583f2ee2dab5fb38a.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=3"
+    },
+    {
+        "title": "„Ruf doch mal an!“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a53d65a16a754594b8.6329d51793d23b21304ea9b4.ruf-doch-mal-an",
+        "startDate": {
+            "startDate": "2024-11-04T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Fernmeldemuseum Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8eb85b72c8f4d93f62fde4166e383a2b.jpg?v=1"
+    },
+    {
+        "title": "Werkschau der Kunstakademie",
+        "url": "/kunst/ausstellung/malerei/event/60d4b7063d65a17adc6d77f2.645bae03214c3505df2dbf05.werkschau-der-kunstakademie",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Internationale Kunstakademie Heimbach/Eifel",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b892bbc1c36e25c445d563563362ffb5.jpg?v=2"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Aachener Domschatz“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.6668373cac464408fe4a5fb3.aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T14:00:00.000Z",
+            "text": "Heute, 10:00 - 14:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6bc4cca645b81c289af338d7aa8b0551.jfif?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Grand Curtius",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.6670026eba061d7045042db3.dauerausstellung-im-grand-curtius",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1a1cc4a6d9fa8e81404f78854fe1da66.jpg?v=1"
+    },
+    {
+        "title": "„Espace César Franck“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a7545802e.66700437ba061d7045042db4.espace-csar-franck",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e2ca0b15b786dbcb9370c1e95ecf3663.jpg?v=1"
+    },
+    {
+        "title": "„The Matrix Has You …“",
+        "url": "/kunst/ausstellung/event/667e920172227801a0476842.667e929672227801a0476843.the-matrix-has-you-",
+        "startDate": {
+            "startDate": "2024-11-04T15:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 15:00 - 17:00 Uhr"
+        },
+        "place": "Cöln Comic Haus, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9786c8ef1bea78541559279ef7fa80a4.jpg?v=1"
+    },
+    {
+        "title": "Alberta Whittle: „… Moving Beyond the Time of Salt“",
+        "url": "/kunst/ausstellung/audio/event/667e944b5a86ab7051201654.667e94b05a86ab7051201655.alberta-whittle--moving-beyond-the-time-of-salt",
+        "startDate": {
+            "startDate": "2024-11-04T12:00:00.000Z",
+            "endDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 12:00 - 19:00 Uhr"
+        },
+        "place": "Temporary Gallery, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "audio"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a8ba5e1236acc7555b7226d06bd84a0d.jfif?v=1"
+    },
+    {
+        "title": "„Wink mit dem Zaunpfahl – offenSichtlich geht es um Gärten“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.6698588ab6704a49b455b0a3.wink-mit-dem-zaunpfahl--offensichtlich-geht-es-um-gaerten",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ebcacd73f8355cc7092b599d8985ade1.jpg?v=1"
+    },
+    {
+        "title": "„Grässliche Glückseligkeit. Faszination Kitsch“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.66985bf9b6704a49b455b0a4.graessliche-glueckseligkeit-faszination-kitsch",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/be25876deb327fa2f2d4629fde0454c7.jfif?v=2"
+    },
+    {
+        "title": "Julien Gilliam: „Fukuoka – Tokyo“",
+        "url": "/kunst/ausstellung/grafik/event/5f1859923d65a16a75457dd8.66ab8bb2313314259a226583.julien-gilliam-fukuoka--tokyo",
+        "startDate": {
+            "startDate": "2024-11-04T08:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 08:00 - 18:00 Uhr"
+        },
+        "place": "AVT – Aachener Verfahrenstechnik",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fa5f916ca4b08a4c48100a9410c605b9.jfif?v=2"
+    },
+    {
+        "title": "Pierre Kroll: „Kroll lance des bouteilles à la mer“",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.66c487899fc5e1271c04b404.pierre-kroll-kroll-lance-des-bouteilles--la-mer",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/59aacba1665e0ed06508a20d7f55c0d1.jpg?v=3"
+    },
+    {
+        "title": "Joseph Rodriguez: „We’re All People“",
+        "url": "/kunst/ausstellung/fotografie/event/5f63f8833d65a13d4365390c.66c4b56820c474282d77a38b.joseph-rodriguez-were-all-people",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Fotomuseum aan het Vrijthof, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f017985d7f85670e86ae280211c23090.jfif?v=1"
+    },
+    {
+        "title": "Stefanie Kirschbaum: „Das Leben ist ein Fluss“",
+        "url": "/kunst/ausstellung/malerei/event/637f5f5c7681b63be73e60f4.66c7106a0b546111180ae262.stefanie-kirschbaum-das-leben-ist-ein-fluss",
+        "startDate": {
+            "startDate": "2024-11-04T10:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b3261b0ae1b16dfed23ae0e6a066aadf.jpg?v=2"
+    },
+    {
+        "title": "Marion Baruch: „Widerstandsgeist“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859a43d65a16a7545934e.66eaaa368beb463b583bd7b2.marion-baruch-widerstandsgeist",
+        "startDate": {
+            "startDate": "2024-11-04T14:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 14:00 - 18:00 Uhr"
+        },
+        "place": "NAK – Neuer Aachener Kunstverein",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8f940129cef22ce068a684ce4bf72ff6.jfif?v=3"
+    },
+    {
+        "title": "„Naturschutzkonzept Indesee“ & „Fairpachten“",
+        "url": "/kunst/ausstellung/fotografie/event/6707d9b944f3fc4cdc265b0e.6707dba21f6fe50bf2292ca2.naturschutzkonzept-indesee--fairpachten",
+        "startDate": {
+            "startDate": "2024-11-04T11:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Kirche St. Barbara Schophoven, Inden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/797c8c400706a665905eff11692f167d.jpg?v=2"
+    },
+    {
+        "title": "Nicolaas Twint: „#*Umbruch zeiten/01*#“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599b3d65a16a754588fe.670d21322deb82650038d7f4.nicolaas-twint-umbruch-zeiten01",
+        "startDate": {
+            "startDate": "2024-11-04T11:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Becker & Funck: Fabrik für Kultur und Stadtteil, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7d0f02b9e1581b541a696b825e559ad7.jfif?v=2"
+    },
+    {
+        "title": "„Avila, eine Pilgerreise zu ihrer einzigartigen Wehrkathedrale“",
+        "url": "/kunst/ausstellung/historisch/event/5f2deb033d65a14f3400d012.670d2b50192f6025e84e96d2.avila-eine-pilgerreise-zu-ihrer-einzigartigen-wehrkathedrale",
+        "startDate": {
+            "startDate": "2024-11-04",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Gesellschaft für internationale Burgenkunde Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0543089d3ff2ab6d546de5f2ffc1aadf.jpg?v=3"
+    },
+    {
+        "title": "„European Archive of Voices“",
+        "url": "/kunst/ausstellung/fotografie/event/5f18599c3d65a16a754589c4.67162d1c996a3f72a8237163.european-archive-of-voices",
+        "startDate": {
+            "startDate": "2024-11-04",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Hörsaalzentrum C.A.R.L., Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3c4c6d6e335b2c4ae2a0c74fe50bffa4.jfif?v=1"
+    },
+    {
+        "title": "„Kreuz Findung“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599e3d65a16a75458c9e.6716509c5b9b44064b4b00b2.kreuz-findung",
+        "startDate": {
+            "startDate": "2024-11-04T11:00:00.000Z",
+            "endDate": "2024-11-04T13:00:00.000Z",
+            "text": "Heute, 11:00 - 13:00 Uhr"
+        },
+        "place": "Genezareth-Kirche, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/716b1426d0da7a301fe25d54c154bcf8.jpg?v=2"
+    },
+    {
+        "title": "„Von der Skizze zum Glanz: Kristalunie Maastricht“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859963d65a16a754582e9.671655335b9b44064b4b00b3.von-der-skizze-zum-glanz-kristalunie-maastricht",
+        "startDate": {
+            "startDate": "2024-11-04T11:00:00.000Z",
+            "endDate": "2024-11-04T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9e31924ae8003418548a9f1467bcecb3.jpg?v=1"
+    },
+    {
+        "title": "„Gesichter und Schicksale. Jüdische Aachenerinnen und Aachener – verfolgt und ermordet“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599a3d65a16a754586c5.67178c53c36032324d1e2d0c.gesichter-und-schicksale-juedische-aachenerinnen-und-aachener--verfolgt-und-ermordet",
+        "startDate": {
+            "startDate": "2024-11-04T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Citykirche St. Nikolaus, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/929261f34ca1bf4e647b65c3c024d715.jpg?v=2"
+    },
+    {
+        "title": "Agata Siwek",
+        "url": "/kunst/ausstellung/event/5f4d8f033d65a167410c3342.6718c047c74be168397ab298.agata-siwek",
+        "startDate": {
+            "startDate": "2024-11-04T13:00:00.000Z",
+            "endDate": "2024-11-04T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "HuB Kerkrade, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    },
+    {
+        "title": "„Herbstlichter im Park“",
+        "url": "/verschiedenes/aktionstag/event/5f1859a53d65a16a7545949b.6219388a3417f7272c343233.herbstlichter-im-park",
+        "startDate": {
+            "startDate": "2024-11-04T18:30:00.000Z",
+            "endDate": "2024-11-04T22:00:00.000Z",
+            "text": "Heute, 18:30 - 22:00 Uhr"
+        },
+        "place": "Brückenkopf-Park, Jülich",
+        "categorySlugs": [
+            "verschiedenes",
+            "aktionstag"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9a55d76c892575d72c310c9b4d612128.jpg?v=1"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2024-11-04T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    }
+]
