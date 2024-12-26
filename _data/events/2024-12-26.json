@@ -1,0 +1,955 @@
+[
+    {
+        "title": "Be Floyd",
+        "url": "/konzert/rock/event/5f1859993d65a16a754585e2.636f901c00ac8e1a343c90f3.be-floyd",
+        "startDate": {
+            "startDate": "2024-12-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Spirit of 66, Verviers",
+        "categorySlugs": [
+            "konzert",
+            "rock"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/178ba06e876da1471e5c174b370fea1b.jpg?v=1"
+    },
+    {
+        "title": "„Silent Disco X-Mas Edition“",
+        "url": "/party/tanzen/hip-hop/event/5f1859a53d65a16a754594e3.6376163682481927d769557b.silent-disco-x-mas-edition",
+        "startDate": {
+            "startDate": "2024-12-26T22:00:00.000Z",
+            "text": "Heute, 22:00 Uhr"
+        },
+        "place": "Poppodium Nieuwe Nor, Heerlen",
+        "categorySlugs": [
+            "party",
+            "tanzen",
+            "hip-hop"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0dfa37581f000d5107f7ffa103cbbdfd.jpeg?v=2"
+    },
+    {
+        "title": "„Alle unter eine Tanne“",
+        "url": "/buehne/theater/komoedie/event/5f18599e3d65a16a75458cda.67096181f1d25123906b2c47.alle-unter-eine-tanne",
+        "startDate": {
+            "startDate": "2024-12-26T20:00:00.000Z",
+            "text": "Heute, 20:00 Uhr"
+        },
+        "place": "Grenzlandtheater, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "komoedie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad14a652726c96352ba9b4bec88a5a25.jpg?v=2"
+    },
+    {
+        "title": "Aachener Weihnachtscircus: „Einfach himmlisch“",
+        "url": "/buehne/show/zirkus/event/5f1859a73d65a16a75459707.671776c8a06d69099e34c994.aachener-weihnachtscircus-einfach-himmlisch",
+        "startDate": {
+            "startDate": "2024-12-26T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Bendplatz, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "show",
+            "zirkus"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/151f8bc69f290cb27b95683b7d1b84e4.jfif?v=1"
+    },
+    {
+        "title": "„Die Zauberflöte“",
+        "url": "/buehne/musiktheater/oper/event/5f1859a43d65a16a754593e0.6734cd804ffdeb47724a9d84.die-zauberfloete",
+        "startDate": {
+            "startDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "oper"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cb2516bb15a6f6e5195dd5050f1caa0e.jpg?v=2"
+    },
+    {
+        "title": "„Eine Weihnachtsgeschichte“",
+        "url": "/buehne/theater/event/5f1859a83d65a16a75459891.673cdd229e7d25415259a46c.eine-weihnachtsgeschichte",
+        "startDate": {
+            "startDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Theater 99, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f58e8951a2eef54322f22842e74e238e.jpg?v=1"
+    },
+    {
+        "title": "„Heinsberger Weihnachts- und Wintermarkt“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859a03d65a16a75458e95.618ccf7c3d65a15aaf351875.heinsberger-weihnachts--und-wintermarkt",
+        "startDate": {
+            "startDate": "2024-12-26T11:30:00.000Z",
+            "endDate": "2024-12-26T20:00:00.000Z",
+            "text": "Heute, 11:30 - 20:00 Uhr"
+        },
+        "place": "Markt, Heinsberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2350dc7f5e12ac509b79086050575eea.jpg?v=2"
+    },
+    {
+        "title": "„Magisches Maastricht“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f18599e3d65a16a75458cb3.618cd5b03d65a15f6b77cf42.magisches-maastricht",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T23:59:00.000Z",
+            "text": "Heute, 11:00 - 23:59 Uhr"
+        },
+        "place": "Vrijthof, Maastricht",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c5b2800044be08c38e12d1733be00d56.jfif?v=1"
+    },
+    {
+        "title": "„Weihnachtsstadt Valkenburg“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/618cd82b3d65a15f6e626ff2.618cda383d65a15bca3681e2.weihnachtsstadt-valkenburg",
+        "startDate": {
+            "startDate": "2024-12-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Valkenburg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/eca466a21f5d866d9362e60ad8f16fe1.jfif?v=1"
+    },
+    {
+        "title": "„Winterzeit Heerlen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/5f1859963d65a16a7545827c.63723660d5777105b64dd99d.winterzeit-heerlen",
+        "startDate": {
+            "startDate": "2024-12-26T12:00:00.000Z",
+            "endDate": "2024-12-26T22:30:00.000Z",
+            "text": "Heute, 12:00 - 22:30 Uhr"
+        },
+        "place": "Pancratiusplein, Heerlen",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Sittarder Weihnachtsstraßen“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6372405dd5777105b64dd9a2.63724095d5777105b64dd9a3.sittarder-weihnachtsstrassen",
+        "startDate": {
+            "startDate": "2024-12-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Diverse Orte in Sittard",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3f9d604245aa7a412d300cd4c2965960.jpg?v=1"
+    },
+    {
+        "title": "„Das Weihnachtsdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6256d376fa09a93785397c12.637376a64fed046a9e1ff822.das-weihnachtsdorf",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T23:59:00.000Z",
+            "text": "Heute, 11:00 - 23:59 Uhr"
+        },
+        "place": "Diverse Orte in Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f2ac54fc5208ad7933ed4d3cbf2536d9.jpg?v=2"
+    },
+    {
+        "title": "„Wegberger Eisbahn im Winterdorf“",
+        "url": "/markt-und-messe/markt/weihnachtsmarkt/event/6373aabe52958c69232efadb.6373aacedb75e9583c1cb404.wegberger-eisbahn-im-winterdorf",
+        "startDate": {
+            "startDate": "2024-12-26T14:00:00.000Z",
+            "endDate": "2024-12-26T20:00:00.000Z",
+            "text": "Heute, 14:00 - 20:00 Uhr"
+        },
+        "place": "Rathausplatz, Wegberg",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "weihnachtsmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/24360defb97abfee9ea154ae9b391f2c.jpg?v=2"
+    },
+    {
+        "title": "„Geschichte Aachens – Stadt Karls des Großen“",
+        "url": "/kunst/ausstellung/historisch/event/5f18599f3d65a16a75458d8d.604a4e083d65a15cca48d442.geschichte-aachens--stadt-karls-des-grossen",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a5c0c99779721b432ce0377a33551959.jpg?v=2"
+    },
+    {
+        "title": "„Bürgerliche Kunstkammer“",
+        "url": "/kunst/ausstellung/kunsthandwerk/event/5f1859933d65a16a75457fa5.604a4c443d65a145dd6ac393.buergerliche-kunstkammer",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "kunsthandwerk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8e963e8d638586959105b0ec65f57c59.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Burgenmuseum Nideggen",
+        "url": "/kunst/ausstellung/historisch/event/5f63f8843d65a13d43653910.60545d983d65a168a04e2852.dauerausstellung-im-burgenmuseum-nideggen",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Burgenmuseum Nideggen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad94637e39a50a3097e3cacb357caacf.jpg?v=1"
+    },
+    {
+        "title": "„Schau zur Wohnkultur im 18. und 19. Jahrhundert“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590f1.60b612f03d65a17cbf4cd952.schau-zur-wohnkultur-im-18-und-19-jahrhundert",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c0f63ae89b92cf02bb1627c5f21253b8.jpg?v=1"
+    },
+    {
+        "title": "„Leben, Handel, Seelenheil 1101-1500“",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75457fa5.63973727c99bb96f7107794e.leben-handel-seelenheil-1101-1500",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0301cfaffaa27cf56a9f4891cd64a121.jpg?v=3"
+    },
+    {
+        "title": "Dauerausstellung im Internationalen Zeitungsmuseum",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a754580e6.65957d5ebecfba2d3a35ef72.dauerausstellung-im-internationalen-zeitungsmuseum",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Internationales Zeitungsmuseum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/551637466231e2366d6a8115aedf8dae.jfif?v=2"
+    },
+    {
+        "title": "„Fragmente einer Wirklichkeit, die einmal war“",
+        "url": "/kunst/ausstellung/event/5f1859973d65a16a7545840f.65e9c68fcd75926ff7512712.fragmente-einer-wirklichkeit-die-einmal-war",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1dee7cf42775ccdfc03d25521c8ab268.jfif?v=1"
+    },
+    {
+        "title": "„Seelenräume“",
+        "url": "/kunst/ausstellung/event/6149ab9b3d65a1166b404e53.6634d3b917b3373cfc79e124.seelenraeume",
+        "startDate": {
+            "startDate": "2024-12-26T14:30:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 14:30 - 17:00 Uhr"
+        },
+        "place": "LVR-Klinik Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c47e9e848d0849017c080de955f7a314.jpg?v=2"
+    },
+    {
+        "title": "„Sammlerträume – Sternstunden niederländischer Barockkunst“",
+        "url": "/kunst/ausstellung/malerei/event/6662c82af0058429007240b5.6662c979107b8325616696fa.sammlertraeume--sternstunden-niederlaendischer-barockkunst",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Wallraf-Richartz-Museum, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/235b8830d891075e8e51b9e58119f7ba.jpg?v=2"
+    },
+    {
+        "title": "„I Miss You – Über das Vermissen, Zurückgeben und Erinnern“",
+        "url": "/kunst/ausstellung/kunsthandwerk/event/6662cd13f0058429007240b7.6662cf60f0058429007240b8.i-miss-you--ber-das-vermissen-zurueckgeben-und-erinnern",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T20:00:00.000Z",
+            "text": "Heute, 10:00 - 20:00 Uhr"
+        },
+        "place": "Rautenstrauch-Joest-Museum, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "kunsthandwerk"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6ca19b0c40a79fd31de88cac9ecae12b.jpg?v=2"
+    },
+    {
+        "title": "„Aachener Domschatz“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a03d65a16a75458e41.6668373cac464408fe4a5fb3.aachener-domschatz",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Domschatzkammer, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6bc4cca645b81c289af338d7aa8b0551.jfif?v=1"
+    },
+    {
+        "title": "„Terrestrische Perspektiven“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859973d65a16a7545840f.66683f6bf7c0353650031f45.terrestrische-perspektiven",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d21365d171c4a0ee7ab4ddfefa950081.jfif?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Grand Curtius",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.6670026eba061d7045042db3.dauerausstellung-im-grand-curtius",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1a1cc4a6d9fa8e81404f78854fe1da66.jpg?v=1"
+    },
+    {
+        "title": "„Espace César Franck“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a7545802e.66700437ba061d7045042db4.espace-csar-franck",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e2ca0b15b786dbcb9370c1e95ecf3663.jpg?v=1"
+    },
+    {
+        "title": "„The Studio #9: Sara Bachour: Presents for the Future“",
+        "url": "/kunst/ausstellung/installation/event/5f1859a63d65a16a754596b0.66700ecae104fb5be3176ce3.the-studio-9-sara-bachour-presents-for-the-future",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc95a3f5e4e454614362e7e4aa2e86d3.jpg?v=2"
+    },
+    {
+        "title": "Malgorzata Mirga-Tas: „This Is Not the End of the World“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a754596b0.66700f99e104fb5be3176ce4.malgorzata-mirga-tas-this-is-not-the-end-of-the-world",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c2b181ff67b061e387e44c30fbe2884b.jfif?v=2"
+    },
+    {
+        "title": "„Dream On“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a754596b0.667010f320ef7f1ef76beac5.dream-on",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/90b4b1c29b2ebf61eb1a29b9bc6e2dc9.jfif?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Museum Vieille Montagne",
+        "url": "/kunst/ausstellung/industrie/event/5f1859983d65a16a7545854c.66702df42ed12044745ae9f7.dauerausstellung-im-museum-vieille-montagne",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Museum Vieille Montagne, Kelmis",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "industrie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f12b1b7dcd4a8b0e9729dcecc537fd8f.jfif?v=3"
+    },
+    {
+        "title": "„Auf dem Vulkan“",
+        "url": "/kunst/ausstellung/event/5f1859973d65a16a7545840f.6686a67961add37f82130252.auf-dem-vulkan",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c68a17e5d503f408bd8ae50acecbba20.jfif?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Papiermuseum Düren",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a75459645.6697e9d22800850ed6472504.dauerausstellung-im-papiermuseum-dueren",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Papiermuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8c1ebb11f6795cec6e744dae277f3e6d.jpg?v=2"
+    },
+    {
+        "title": "„Wink mit dem Zaunpfahl – offenSichtlich geht es um Gärten“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.6698588ab6704a49b455b0a3.wink-mit-dem-zaunpfahl--offensichtlich-geht-es-um-gaerten",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T16:00:00.000Z",
+            "text": "Heute, 11:00 - 16:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ebcacd73f8355cc7092b599d8985ade1.jpg?v=1"
+    },
+    {
+        "title": "„Grässliche Glückseligkeit. Faszination Kitsch“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.66985bf9b6704a49b455b0a4.graessliche-glueckseligkeit-faszination-kitsch",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T16:00:00.000Z",
+            "text": "Heute, 11:00 - 16:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/be25876deb327fa2f2d4629fde0454c7.jfif?v=2"
+    },
+    {
+        "title": "„Günther-Peill-Stiftung: Jana Euler, Silvia Martes, Andrzej Steinbach“",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545933c.66c47b469fc5e1271c04b402.guenther-peill-stiftung-jana-euler-silvia-martes-andrzej-steinbach",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Leopold-Hoesch-Museum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7f3cab743a664899976077cc72e9c350.jfif?v=2"
+    },
+    {
+        "title": "Pierre Kroll: „Kroll lance des bouteilles à la mer“",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.66c487899fc5e1271c04b404.pierre-kroll-kroll-lance-des-bouteilles--la-mer",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/59aacba1665e0ed06508a20d7f55c0d1.jpg?v=3"
+    },
+    {
+        "title": "„Maintaining Its Spirit: Collection Marlies & Jo Eyck at Bonnefanten“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a754596b0.66c488a83b9bef08d26e3aa2.maintaining-its-spirit-collection-marlies--jo-eyck-at-bonnefanten",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/62894893b4fd0fff924894dc7467db42.jfif?v=2"
+    },
+    {
+        "title": "Miriam Sentler: „Mining Myths“",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75457ed5.66c4ad3320c474282d77a389.miriam-sentler-mining-myths",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Het Nieuwe Domein (Standort für Kulturerbe), Sittard",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3e4e91a6191425224a9aca35ea006533.jpg?v=1"
+    },
+    {
+        "title": "Joseph Rodriguez: „We’re All People“",
+        "url": "/kunst/ausstellung/fotografie/event/5f63f8833d65a13d4365390c.66c4b56820c474282d77a38b.joseph-rodriguez-were-all-people",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Fotomuseum aan het Vrijthof, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f017985d7f85670e86ae280211c23090.jfif?v=1"
+    },
+    {
+        "title": "Stefanie Kirschbaum: „Das Leben ist ein Fluss“",
+        "url": "/kunst/ausstellung/malerei/event/637f5f5c7681b63be73e60f4.66c7106a0b546111180ae262.stefanie-kirschbaum-das-leben-ist-ein-fluss",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "St. Augustinus-Krankenhaus Lendersdorf, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b3261b0ae1b16dfed23ae0e6a066aadf.jpg?v=2"
+    },
+    {
+        "title": "„Earth, Moon, Sun: Restaurierungslabor Nam June Paik“",
+        "url": "/kunst/ausstellung/installation/event/5f1859973d65a16a7545840f.66eaa3212589a7685048f9f3.earth-moon-sun-restaurierungslabor-nam-june-paik",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e2c70a36272521ee5271a4910eab265d.jpg?v=1"
+    },
+    {
+        "title": "„Rune Mields. Der unendliche Raum – dehnt sich aus“",
+        "url": "/kunst/ausstellung/event/5f1859973d65a16a7545840f.66eaa8a23768be03f24ced22.rune-mields-der-unendliche-raum--dehnt-sich-aus",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Ludwig Forum für Internationale Kunst, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f19c55d0f0371126c8309ce388e31f01.jfif?v=2"
+    },
+    {
+        "title": "„Ansichtssachen – Alte Schätze neu betrachtet“",
+        "url": "/kunst/ausstellung/event/5f1859933d65a16a75457fa5.66eaad2d8beb463b583bd7b3.ansichtssachen--alte-schaetze-neu-betrachtet",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/df5bff3309561f6547731ed2d3364770.jpg?v=2"
+    },
+    {
+        "title": "„Paul Delvaux' Welten“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599b3d65a16a75458891.66ead007c46d8068ce3ecba2.paul-delvaux-welten",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5d8d825101a674f7717bb29550ce60ef.jfif?v=3"
+    },
+    {
+        "title": "„Teile und herrsche – die Demokratie der Fläche“",
+        "url": "/kunst/ausstellung/installation/event/5f9a14133d65a1429f6a8992.67064ba0e27fab38ed6e56a9.teile-und-herrsche--die-demokratie-der-flaeche",
+        "startDate": {
+            "startDate": "2024-12-26T16:00:00.000Z",
+            "endDate": "2024-12-26T19:00:00.000Z",
+            "text": "Heute, 16:00 - 19:00 Uhr"
+        },
+        "place": "Galerie Gundolf B., Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "installation"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/8a0a06ca6948ea54a0d92249d8b0431f.jpg?v=2"
+    },
+    {
+        "title": "„Tatort Heimat! True Crime aus der Region“",
+        "url": "/kunst/ausstellung/event/5f18599f3d65a16a75458d8d.670a76e53112d931ec75bcc2.tatort-heimat-true-crime-aus-der-region",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Centre Charlemagne, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/66546434d0d03e057b2fc1f55fff6b2c.jpg?v=2"
+    },
+    {
+        "title": "„Triennale de Gravure“",
+        "url": "/kunst/ausstellung/event/5f18599b3d65a16a75458891.670ad06cc6b6fa6d2c7388b4.triennale-de-gravure",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/907f422ab63388fa62203a0eb3838bbe.jpeg?v=1"
+    },
+    {
+        "title": "„Truly Wicked: The Seven Deadly Sins Visualised“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a754596b0.670b001cb4c8dc67d719d5e2.truly-wicked-the-seven-deadly-sins-visualised",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Bonnefantenmuseum, Maastricht",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc95a3f5e4e454614362e7e4aa2e86d3.jpg?v=2"
+    },
+    {
+        "title": "„Vrijheid“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457e37.670bf836704c56541e589326.vrijheid",
+        "startDate": {
+            "startDate": "2024-12-26T13:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 13:00 - 17:00 Uhr"
+        },
+        "place": "Museum Valkenburg, Valkenburg aan de Geul",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/2fe1d9dcbf3a2a065bd98f46f5c32ab3.jpg?v=2"
+    },
+    {
+        "title": "„Künstlerische Nachbarschaft“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859933d65a16a75457fa5.67378d8c75a8c339f41ba7d3.kuenstlerische-nachbarschaft",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Suermondt-Ludwig-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/113ecc64d1eeb3a5c65da290993c9c3b.jpg?v=1"
+    },
+    {
+        "title": "„Winterleuchten. Ein Museum zeigt, was in ihm steckt!“",
+        "url": "/kunst/ausstellung/event/5f1859a23d65a16a754590f1.67378fa05b15d729d120cc53.winterleuchten-ein-museum-zeigt-was-in-ihm-steckt",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Couven-Museum, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9c13de72154bc67456d458d4ca34e6a6.jpg?v=2"
+    },
+    {
+        "title": "„Jahresgaben des Museumsvereins 2024“",
+        "url": "/kunst/ausstellung/event/5f1859a43d65a16a7545933c.6737df438fc4c856eb425fc2.jahresgaben-des-museumsvereins-2024",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Leopold-Hoesch-Museum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7e53ae90f07e80e948b47015a5b49a97.jpg?v=2"
+    },
+    {
+        "title": "„Glanz und Glitter. Luxuspapiere aus der Sammlung“",
+        "url": "/kunst/ausstellung/event/5f1859a63d65a16a75459645.6737e14a9ad3b353b267bb72.glanz-und-glitter-luxuspapiere-aus-der-sammlung",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Papiermuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/70c3be2c070b64eccd67f7bf9c0e450c.jpg?v=1"
+    },
+    {
+        "title": "„Ai: the Expo“",
+        "url": "/kunst/ausstellung/event/5f1859963d65a16a754582e9.6737eeea8fc4c856eb425fc3.ai-the-expo",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c72797e381c14d2057979f7e98042d6a.jpg?v=2"
+    },
+    {
+        "title": "„Collectie Jeu en Netty van Sint Fiet“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457e37.6737f2f2521b2d18d022f003.collectie-jeu-en-netty-van-sint-fiet",
+        "startDate": {
+            "startDate": "2024-12-26T13:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 13:00 - 17:00 Uhr"
+        },
+        "place": "Museum Valkenburg, Valkenburg aan de Geul",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a68f13604ee5bac59437371bfd7f58bd.jpg?v=2"
+    },
+    {
+        "title": "„Kunst im Karlsgarten“",
+        "url": "/kunst/ausstellung/event/64df825e0e01bf52e44bc225.673d2e0a710f8b766a6f31b5.kunst-im-karlsgarten",
+        "startDate": {
+            "startDate": "2024-12-26",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Karlsgarten, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/413e9ef1441692e3facab6254655eae2.png?v=1"
+    },
+    {
+        "title": "Emi Garroy: „Räume für junge Künstler“",
+        "url": "/kunst/ausstellung/event/5f18599b3d65a16a75458891.675a10c3888849232d12a4d3.emi-garroy-raeume-fuer-junge-kuenstler",
+        "startDate": {
+            "startDate": "2024-12-26T10:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/907f422ab63388fa62203a0eb3838bbe.jpeg?v=1"
+    },
+    {
+        "title": "Louis Bosny: „Pour une architecture sobre et créative“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457e79.675a17a0888849232d12a4d5.louis-bosny-pour-une-architecture-sobre-et-crative",
+        "startDate": {
+            "startDate": "2024-12-26T09:00:00.000Z",
+            "endDate": "2024-12-26T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/36520c3a6f036ba03e0446c902f8e938.jfif?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Discovery Museum",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.6762f2304879fb5688049ae4.dauerausstellung-im-discovery-museum",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5fc80bd082250011241518e607a4d69e.jfif?v=2"
+    },
+    {
+        "title": "„Von der Skizze zum Glanz: Kristalunie Maastricht“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859963d65a16a754582e9.6762f3614879fb5688049ae5.von-der-skizze-zum-glanz-kristalunie-maastricht",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9e31924ae8003418548a9f1467bcecb3.jpg?v=1"
+    },
+    {
+        "title": "„Revolution Erde“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.6762f3faa269216cc57e8a74.revolution-erde",
+        "startDate": {
+            "startDate": "2024-12-26T11:00:00.000Z",
+            "endDate": "2024-12-26T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6dbfd15d4a51db0136c5fe5d9e4c4047.jpg?v=2"
+    }
+]
