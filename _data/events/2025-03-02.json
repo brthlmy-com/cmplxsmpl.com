@@ -1,0 +1,919 @@
+[
+    {
+        "title": "Wanheda + Distant Dream",
+        "url": "/konzert/metal/event/5f18599b3d65a16a75458871.67acd8800749ce46c8290fd2.wanheda--distant-dream",
+        "startDate": {
+            "startDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Rockfabrik, Übach-Palenberg",
+        "categorySlugs": [
+            "konzert",
+            "metal"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1bd62e088c0a2b2782bf1dc5fbd4b0a2.jpg?v=1"
+    },
+    {
+        "title": "„Club Ritz Afterhour“",
+        "url": "/party/tanzen/event/5f1859a23d65a16a75459196.5fbf7f7c3d65a14b9029b0ee.club-ritz-afterhour",
+        "startDate": {
+            "startDate": "2025-03-02T05:00:00.000Z",
+            "endDate": "2025-03-02T11:00:00.000Z",
+            "text": "Heute, 05:00 - 11:00 Uhr"
+        },
+        "place": "Nightlife, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac320c774fc5a5b27d6b1afc93c8f84b.jpeg?v=1"
+    },
+    {
+        "title": "„Ulk-Party“",
+        "url": "/party/feiern/event/5f1859a73d65a16a75459710.63c3fe2645849d3ddd28dcc4.ulk-party",
+        "startDate": {
+            "startDate": "2025-03-02T16:00:00.000Z",
+            "text": "Heute, 16:00 Uhr"
+        },
+        "place": "Kulturbahnhof Jülich",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c193187876ab5297a96578d51793c656.jpg?v=2"
+    },
+    {
+        "title": "„After-Zoch-Party“",
+        "url": "/party/feiern/event/5f1859a43d65a16a7545932f.63c55ceb20419316ed3d1c7e.after-zoch-party",
+        "startDate": {
+            "startDate": "2025-03-02T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Berks Dancing, Würselen",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1f753b1a09856901eb6d374c63b34cad.jpg?v=1"
+    },
+    {
+        "title": "„Karneval im Nox“",
+        "url": "/party/tanzen/event/5f1859a93d65a16a7545995a.67af349d6c56c42e2b68d488.karneval-im-nox",
+        "startDate": {
+            "startDate": "2025-03-02T23:00:00.000Z",
+            "text": "Heute, 23:00 Uhr"
+        },
+        "place": "Nox, Aachen",
+        "categorySlugs": [
+            "party",
+            "tanzen"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/244173eec012b2f2590bcc473d44de59.jpeg?v=1"
+    },
+    {
+        "title": "„Zoch Party“",
+        "url": "/party/feiern/event/67b335cc574da9544d4b1187.67b3366d539afc130e192454.zoch-party",
+        "startDate": {
+            "startDate": "2025-03-02T14:00:00.000Z",
+            "endDate": "2025-03-02T22:00:00.000Z",
+            "text": "Heute, 14:00 - 22:00 Uhr"
+        },
+        "place": "Schwan, Jülich",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ef2834533b7c74fba3ab0e1097fdfb54.jpeg?v=1"
+    },
+    {
+        "title": "„Der gestiefelte Kater“",
+        "url": "/buehne/theater/figurentheater/event/61828bf83d65a14c863fc7c9.613b40473d65a159c531efd2.der-gestiefelte-kater",
+        "startDate": {
+            "startDate": "2025-03-02T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Die kleine Theaterfabrik, Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "figurentheater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/25f2d59c1b88337ae1970e2164b72692.jpg?v=1"
+    },
+    {
+        "title": "„Gleichzeitig“",
+        "url": "/buehne/theater/drama/event/5f1859933d65a16a75458006.67335bbbb1e62f7b1e517014.gleichzeitig",
+        "startDate": {
+            "startDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 17:00 Uhr"
+        },
+        "place": "Stadtbad Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater",
+            "drama"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/488d3bf2dbccf8378268ff9325d3b034.jfif?v=2"
+    },
+    {
+        "title": "„Unser Deutschlandmärchen“",
+        "url": "/buehne/theater/event/5f1859a43d65a16a754593e0.67588b1ea54c4b5d9d1a1547.unser-deutschlandmaerchen",
+        "startDate": {
+            "startDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9c8931b2584390815777b40d5b79dc1b.jfif?v=2"
+    },
+    {
+        "title": "„Orphée aux enfers“",
+        "url": "/buehne/musiktheater/oper/event/5f1859a43d65a16a754593e0.677e9c557f5efd6530531322.orphe-aux-enfers",
+        "startDate": {
+            "startDate": "2025-03-02T19:00:00.000Z",
+            "text": "Heute, 19:00 Uhr"
+        },
+        "place": "Theater Aachen",
+        "categorySlugs": [
+            "buehne",
+            "musiktheater",
+            "oper"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6edd725a9af832c8850ca8c41896602c.jpg?v=2"
+    },
+    {
+        "title": "„Arbeit und Struktur“",
+        "url": "/buehne/theater/event/5f1859983d65a16a7545858f.67a60140dc3457318d381a09.arbeit-und-struktur",
+        "startDate": {
+            "startDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Düsseldorfer Schauspielhaus",
+        "categorySlugs": [
+            "buehne",
+            "theater"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d575ec56c6cc12fded25b3d798e28dbb.jpg?v=2"
+    },
+    {
+        "title": "„Marché de la Batte“",
+        "url": "/markt-und-messe/markt/wochenmarkt/event/60548ab33d65a114b30803f2.6232064932359b175d3b7334.march-de-la-batte",
+        "startDate": {
+            "startDate": "2025-03-02T08:00:00.000Z",
+            "text": "Heute, 08:00 Uhr"
+        },
+        "place": "Lüttich",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "wochenmarkt"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ad6cd8c260e6d088bb78dfd2c3ac7873.jpg?v=2"
+    },
+    {
+        "title": "„Antiquitätenmarkt“",
+        "url": "/markt-und-messe/markt/antik/event/5f18599b3d65a16a754588bb.6232077cbad1c708a13bdddd.antiquitaetenmarkt",
+        "startDate": {
+            "startDate": "2025-03-02T07:00:00.000Z",
+            "text": "Heute, 07:00 Uhr"
+        },
+        "place": "Tongeren",
+        "categorySlugs": [
+            "markt-und-messe",
+            "markt",
+            "antik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/84d7fb937beddcfa8a7de5ded1c8a76e.jpg?v=1"
+    },
+    {
+        "title": "„Öffentliche Führung“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/5f1859a63d65a16a75459645.5fbf7f7e3d65a14b9029b1fc.ffentliche-fuehrung",
+        "startDate": {
+            "startDate": "2025-03-02T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Papiermuseum Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4165d8985d115479d0a08c57a7e56926.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Töpfereimuseum Langerwehe",
+        "url": "/kunst/ausstellung/historisch/event/5f1859933d65a16a75457fee.60a4ff013d65a1126a3b1242.dauerausstellung-im-toepfereimuseum-langerwehe",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1254d6bf530da1649d17292f7b2a193f.jpg?v=1"
+    },
+    {
+        "title": "„Mobilität“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a23d65a16a754590b8.60d069533d65a17942592793.mobilitaet",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5c05382078d81a36e6d4e6fb40b7ee8a.jpeg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=3"
+    },
+    {
+        "title": "Dauerausstellung im LVR-Kulturhaus Landsynagoge Rödingen",
+        "url": "/kunst/ausstellung/historisch/event/60aff6fa3d65a1397b4f50e2.60aff6813d65a1396031f492.dauerausstellung-im-lvr-kulturhaus-landsynagoge-roedingen",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "LVR-Kulturhaus Landsynagoge Rödingen, Titz",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/91207778c36044181af31d9ac7de28a3.jfif?v=2"
+    },
+    {
+        "title": "„Öffentliche Führung“",
+        "url": "/kunst/ausstellungsfuehrung/event/5f1859a43d65a16a7545933c.6124f7c23d65a11fab2ef622.ffentliche-fuehrung",
+        "startDate": {
+            "startDate": "2025-03-02T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Leopold-Hoesch-Museum, Düren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7e53ae90f07e80e948b47015a5b49a97.jpg?v=2"
+    },
+    {
+        "title": "„Führung im Zollmuseum“",
+        "url": "/kunst/ausstellungsfuehrung/historisch/event/5f1859a13d65a16a75459042.61bb22663d65a117c30c3024.fuehrung-im-zollmuseum",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "text": "Heute, 11:00 Uhr"
+        },
+        "place": "Zollmuseum Friedrichs, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellungsfuehrung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/34489e1c07a8ae6d0b74cacade7f0d69.jpeg?v=1"
+    },
+    {
+        "title": "„Open Art Sunday“",
+        "url": "/kunst/ausstellung/event/600575083d65a112dc26a9a3.634d39237b99645fab4d1c2e.open-art-sunday",
+        "startDate": {
+            "startDate": "2025-03-02T13:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 13:00 - 17:00 Uhr"
+        },
+        "place": "Diverse Orte in Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/99192433e292152c9dadee69f433cf5d.jpg?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Dokumentationszentrum Glanzstoff",
+        "url": "/kunst/ausstellung/fotografie/event/62557743fda5ca247256aeb6.6385ea86a2f1147cec1af07b.dauerausstellung-im-dokumentationszentrum-glanzstoff",
+        "startDate": {
+            "startDate": "2025-03-02T14:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 14:00 - 17:00 Uhr"
+        },
+        "place": "Dokumentationszentrum Glanzstoff, Heinsberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/fdf935418537c65861fd2cb672a01bbf.jpg?v=2"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Jülich – StadtRäume zwischen den Kriegen“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859a13d65a16a7545900c.656dee8b7eec0801a11f5765.juelich--stadtraeume-zwischen-den-kriegen",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Museum Zitadelle, Jülich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b1ed7450d0909ceff63460b11bb9e977.jpg?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "„Sammlerträume – Sternstunden niederländischer Barockkunst“",
+        "url": "/kunst/ausstellung/malerei/event/6662c82af0058429007240b5.6662c979107b8325616696fa.sammlertraeume--sternstunden-niederlaendischer-barockkunst",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Wallraf-Richartz-Museum, Köln",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/235b8830d891075e8e51b9e58119f7ba.jpg?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Grand Curtius",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.6670026eba061d7045042db3.dauerausstellung-im-grand-curtius",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1a1cc4a6d9fa8e81404f78854fe1da66.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Töpfereimuseum Raeren",
+        "url": "/kunst/ausstellung/historisch/event/5f1859943d65a16a7545803e.66700776ba061d7045042db5.dauerausstellung-im-toepfereimuseum-raeren",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Töpfereimuseum Raeren",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/41ee7e0bf6f25f75048b9316a87746bb.jpg?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Museum Vieille Montagne",
+        "url": "/kunst/ausstellung/industrie/event/5f1859983d65a16a7545854c.66702df42ed12044745ae9f7.dauerausstellung-im-museum-vieille-montagne",
+        "startDate": {
+            "startDate": "2025-03-02T11:30:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:30 - 17:00 Uhr"
+        },
+        "place": "Museum Vieille Montagne, Kelmis",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "industrie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f12b1b7dcd4a8b0e9729dcecc537fd8f.jfif?v=3"
+    },
+    {
+        "title": "„Wink mit dem Zaunpfahl – offenSichtlich geht es um Gärten“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.6698588ab6704a49b455b0a3.wink-mit-dem-zaunpfahl--offensichtlich-geht-es-um-gaerten",
+        "startDate": {
+            "startDate": "2025-03-02T09:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ebcacd73f8355cc7092b599d8985ade1.jpg?v=1"
+    },
+    {
+        "title": "„Grässliche Glückseligkeit. Faszination Kitsch“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.66985bf9b6704a49b455b0a4.graessliche-glueckseligkeit-faszination-kitsch",
+        "startDate": {
+            "startDate": "2025-03-02T09:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/be25876deb327fa2f2d4629fde0454c7.jfif?v=2"
+    },
+    {
+        "title": "„Paul Delvaux' Welten“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599b3d65a16a75458891.66ead007c46d8068ce3ecba2.paul-delvaux-welten",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5d8d825101a674f7717bb29550ce60ef.jfif?v=3"
+    },
+    {
+        "title": "„Visionen der Macht: Neue Einblicke in die Architektur der NS-Ordensburg Vogelsang“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.66fbda76085f8742731a9d32.visionen-der-macht-neue-einblicke-in-die-architektur-der-ns-ordensburg-vogelsang",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/38fb956d7b73f0d28d0b03d3dcfc6424.jpg?v=1"
+    },
+    {
+        "title": "„Comic Art @MVM“",
+        "url": "/kunst/ausstellung/grafik/event/5f1859983d65a16a7545854c.67078bdd44f3fc4cdc265af3.comic-art-mvm",
+        "startDate": {
+            "startDate": "2025-03-02T11:30:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:30 - 17:00 Uhr"
+        },
+        "place": "Museum Vieille Montagne, Kelmis",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "grafik"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bbc9e9aa5341ba971614f2b126dc1d6e.jpg?v=1"
+    },
+    {
+        "title": "„Triennale de Gravure“",
+        "url": "/kunst/ausstellung/event/5f18599b3d65a16a75458891.670ad06cc6b6fa6d2c7388b4.triennale-de-gravure",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/f72ef0a62b9cfaf16f1971018b18c80b.jpeg?v=1"
+    },
+    {
+        "title": "„Ai: the Expo“",
+        "url": "/kunst/ausstellung/event/5f1859963d65a16a754582e9.6737eeea8fc4c856eb425fc3.ai-the-expo",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/c72797e381c14d2057979f7e98042d6a.jpg?v=2"
+    },
+    {
+        "title": "„Kunst im Karlsgarten“",
+        "url": "/kunst/ausstellung/event/64df825e0e01bf52e44bc225.673d2e0a710f8b766a6f31b5.kunst-im-karlsgarten",
+        "startDate": {
+            "startDate": "2025-03-02",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Karlsgarten, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/413e9ef1441692e3facab6254655eae2.png?v=1"
+    },
+    {
+        "title": "Christian Odzuck: „Unendliche Bibliothek“",
+        "url": "/kunst/ausstellung/event/5f1859a53d65a16a754594cb.675a0ed52e98395ecf7a39a2.christian-odzuck-unendliche-bibliothek",
+        "startDate": {
+            "startDate": "2025-03-02T13:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Ikob – Museum für zeitgenössische Kunst, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/dc536634c88fd1e1264a5c6632601f6e.jpg?v=1"
+    },
+    {
+        "title": "Dauerausstellung im Discovery Museum",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.6762f2304879fb5688049ae4.dauerausstellung-im-discovery-museum",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/5fc80bd082250011241518e607a4d69e.jfif?v=2"
+    },
+    {
+        "title": "„Von der Skizze zum Glanz: Kristalunie Maastricht“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859963d65a16a754582e9.6762f3614879fb5688049ae5.von-der-skizze-zum-glanz-kristalunie-maastricht",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/9e31924ae8003418548a9f1467bcecb3.jpg?v=1"
+    },
+    {
+        "title": "„Revolution Erde“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859963d65a16a754582e9.6762f3faa269216cc57e8a74.revolution-erde",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Discovery Museum, Kerkrade",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/6dbfd15d4a51db0136c5fe5d9e4c4047.jpg?v=2"
+    },
+    {
+        "title": "Katrin Heller: „Natürliche Transformationen“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458d8f.677e79f588053d2dfc543829.katrin-heller-natuerliche-transformationen",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Kukuk, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bc3c2450737a5029373e755eb09d8262.jpg?v=1"
+    },
+    {
+        "title": "„Werner Eick, Malerei“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599b3d65a16a754588c4.678110047477c95b710b0423.werner-eick-malerei",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Schloss Zweibrüggen, Übach-Palenberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/05bf059fcd723f65dc19640048964f7b.jpg?v=3"
+    },
+    {
+        "title": "Marian Reguli",
+        "url": "/kunst/ausstellung/malerei/event/5f18599a3d65a16a7545880c.67865279631a0a1da84e4ed3.marian-reguli",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T11:45:00.000Z",
+            "text": "Heute, 11:00 - 11:45 Uhr"
+        },
+        "place": "St. Jakob, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/44769d86d27720d135ebfe0964479a29.jpg?v=1"
+    },
+    {
+        "title": "„Die von drüben. Kunst aus Ostbelgien“",
+        "url": "/kunst/ausstellung/event/5f1859a13d65a16a7545905c.678a6e5ec33b6a7fb40c3013.die-von-drueben-kunst-aus-ostbelgien",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Atelierhaus Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/bbbe6a08bcd10ac8eb61e6248cef84f6.png?v=2"
+    },
+    {
+        "title": "Anna Kühn: „Liebe bleibt“",
+        "url": "/kunst/ausstellung/malerei/event/5f18599f3d65a16a75458da3.678a74a9c33b6a7fb40c3014.anna-kuehn-liebe-bleibt",
+        "startDate": {
+            "startDate": "2025-03-02",
+            "text": "Heute, ganztägig"
+        },
+        "place": "In Memoriam, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a154971a9759e22364d18b78dd289234.jpg?v=2"
+    },
+    {
+        "title": "Manfred Kistermann: „Auf Kunst geschaut“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a23d65a16a754590b8.678d650f2919bd670f291e62.manfred-kistermann-auf-kunst-geschaut",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Zinkhütter Hof, Stolberg",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/3cb5355bc087748c9d772fb14365edc3.jpeg?v=1"
+    },
+    {
+        "title": "„About Eve“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a7545854b.678d6717c140200d400b3da2.about-eve",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Fotografie-Forum der Städteregion Aachen, Monschau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/a3a4bdd9d0ef2b40eda0ed286d37afc4.jfif?v=2"
+    },
+    {
+        "title": "„Picturing the Invisible“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859923d65a16a75457e79.678d8b6bfc373631f8768983.picturing-the-invisible",
+        "startDate": {
+            "startDate": "2025-03-02T13:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/36520c3a6f036ba03e0446c902f8e938.jfif?v=2"
+    },
+    {
+        "title": "„Cordons“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457e79.678d8bd137bd1f0b9b6b8cf3.cordons",
+        "startDate": {
+            "startDate": "2025-03-02T13:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 13:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/36520c3a6f036ba03e0446c902f8e938.jfif?v=2"
+    },
+    {
+        "title": "„WirRheinländer“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859993d65a16a75458659.678e52ea09d0471dd1422816.wirrheinlaender",
+        "startDate": {
+            "startDate": "2025-03-02T09:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/297c26326e2db6ece34b87124742666e.jfif?v=2"
+    },
+    {
+        "title": "„RAL 9001-9018“",
+        "url": "/kunst/ausstellung/fotografie/event/6731fac57ebdae682901d496.67a5ec559388e44a8d14ca74.ral-9001-9018",
+        "startDate": {
+            "startDate": "2025-03-02T15:00:00.000Z",
+            "endDate": "2025-03-02T19:00:00.000Z",
+            "text": "Heute, 15:00 - 19:00 Uhr"
+        },
+        "place": "Viti Galerie, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b4e20eb492c567d80308729024ae064b.jpeg?v=3"
+    },
+    {
+        "title": "„Zu zweit“",
+        "url": "/kunst/ausstellung/malerei/event/5f1859933d65a16a75457fee.67aa174b1cfbb264d0744a43.zu-zweit",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 11:00 - 18:00 Uhr"
+        },
+        "place": "Töpfereimuseum Langerwehe",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "malerei"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/e13476a492db7e778a56edd220d4fd51.jpg?v=2"
+    },
+    {
+        "title": "Henriëtte van Gasteren: „Pre Fire Sale“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a13d65a16a75459062.67b28a36b4f2bb2f4e317d06.henritte-van-gasteren-pre-fire-sale",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T22:00:00.000Z",
+            "text": "Heute, 10:00 - 22:00 Uhr"
+        },
+        "place": "Galerie Vorn und Oben, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0c42e569e6ccf61440379b75e773787b.jpeg?v=2"
+    },
+    {
+        "title": "Benjamin Hollebeke: „Räume für junge Künstler“",
+        "url": "/kunst/ausstellung/event/5f18599b3d65a16a75458891.67b28da48cf0b8706e456704.benjamin-hollebeke-raeume-fuer-junge-kuenstler",
+        "startDate": {
+            "startDate": "2025-03-02T10:00:00.000Z",
+            "endDate": "2025-03-02T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "La Boverie, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/907f422ab63388fa62203a0eb3838bbe.jpeg?v=1"
+    },
+    {
+        "title": "Daniel Dewar & Grégory Gicquel: „The Wet Wing“",
+        "url": "/kunst/ausstellung/objekt-skulptur/event/5f1859963d65a16a7545831e.67b301ba0b83be21236c0f15.daniel-dewar--grgory-gicquel-the-wet-wing",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Z33 – House for Contemporary Art, Design & Architecture, Hasselt",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "objekt-skulptur"
+        ]
+    },
+    {
+        "title": "„Modelling Life“",
+        "url": "/kunst/ausstellung/event/5f1859963d65a16a7545831e.67b3027753956f23e11f7982.modelling-life",
+        "startDate": {
+            "startDate": "2025-03-02T11:00:00.000Z",
+            "endDate": "2025-03-02T17:00:00.000Z",
+            "text": "Heute, 11:00 - 17:00 Uhr"
+        },
+        "place": "Z33 – House for Contemporary Art, Design & Architecture, Hasselt",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ]
+    },
+    {
+        "title": "„Altstadtführung“",
+        "url": "/verschiedenes/stadtfuehrung/event/5f1859a63d65a16a754595f3.5fbf7f7f3d65a14b9029b27f.altstadtfuehrung",
+        "startDate": {
+            "startDate": "2025-03-02T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Tourist Info Elisenbrunnen, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "stadtfuehrung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/cd1c65660f0f78616602ff195f44f62e.jpg?v=1"
+    },
+    {
+        "title": "„Kinderkostümzug“",
+        "url": "/verschiedenes/umzug/event/5ffecae43d65a1480f5ebe23.5fbf7f803d65a14b9029b2c3.kinderkostuemzug",
+        "startDate": {
+            "startDate": "2025-03-02T11:11:00.000Z",
+            "text": "Heute, 11:11 Uhr"
+        },
+        "place": "Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "umzug"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/04ea0f3d7c8cc28c7c28951784cbfdec.jpeg?v=1"
+    }
+]
