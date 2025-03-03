@@ -1,0 +1,319 @@
+[
+    {
+        "title": "„Rosenmontagsparty“",
+        "url": "/party/feiern/event/5f1859993d65a16a754585f8.63c9be60ad37ca6fbe103716.rosenmontagsparty",
+        "startDate": {
+            "startDate": "2025-03-03T13:00:00.000Z",
+            "text": "Heute, 13:00 Uhr"
+        },
+        "place": "Domkeller, Aachen",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/58137b9e64fe2f20e159a49eee948ff9.jpg?v=2"
+    },
+    {
+        "title": "„Alles muss rein!“",
+        "url": "/party/feiern/event/617154aa3d65a108fa6877b2.65aa7d7b2cd6605a2c2a3c73.alles-muss-rein",
+        "startDate": {
+            "startDate": "2025-03-03T15:00:00.000Z",
+            "text": "Heute, 15:00 Uhr"
+        },
+        "place": "Franz, Aachen",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ac320c774fc5a5b27d6b1afc93c8f84b.jpeg?v=1"
+    },
+    {
+        "title": "„Rosenmontag im Alten Schlachthof“",
+        "url": "/party/feiern/event/5f1859a23d65a16a75459167.67b46a95433e875cce03dd7b.rosenmontag-im-alten-schlachthof",
+        "startDate": {
+            "startDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 18:00 Uhr"
+        },
+        "place": "Alter Schlachthof, Eupen",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1f753b1a09856901eb6d374c63b34cad.jpg?v=1"
+    },
+    {
+        "title": "„Karneval im Festzelt“",
+        "url": "/party/feiern/event/5f18599b3d65a16a754588d3.67b4ecb2ae745e090303fed3.karneval-im-festzelt",
+        "startDate": {
+            "startDate": "2025-03-03T14:00:00.000Z",
+            "text": "Heute, 14:00 Uhr"
+        },
+        "place": "Outbaix, Übach-Palenberg",
+        "categorySlugs": [
+            "party",
+            "feiern"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/04ea0f3d7c8cc28c7c28951784cbfdec.jpeg?v=1"
+    },
+    {
+        "title": "„Kunst gegen Bares“",
+        "url": "/buehne/show/event/666c2d4873d526730b261432.666c2d78c338c54bcb5fdb04.kunst-gegen-bares",
+        "startDate": {
+            "startDate": "2025-03-03T19:30:00.000Z",
+            "text": "Heute, 19:30 Uhr"
+        },
+        "place": "Artheater, Köln",
+        "categorySlugs": [
+            "buehne",
+            "show"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ce9023337e74409001caffb4d4655932.jpeg?v=1"
+    },
+    {
+        "title": "„Malerei + Fotografie“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859953d65a16a754581e9.600ae66f3d65a1052879d392.malerei--fotografie",
+        "startDate": {
+            "startDate": "2025-03-03T08:00:00.000Z",
+            "endDate": "2025-03-03T17:00:00.000Z",
+            "text": "Heute, 08:00 - 17:00 Uhr"
+        },
+        "place": "Gypsilon Software GmbH, Aachen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/4ff98cfb0563658481f902f4598e4734.jpg?v=1"
+    },
+    {
+        "title": "„Bestimmung: Herrenmensch“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859983d65a16a75458520.5fbf7f863d65a14b9029b5d4.bestimmung-herrenmensch",
+        "startDate": {
+            "startDate": "2025-03-03T10:00:00.000Z",
+            "endDate": "2025-03-03T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/623c57656a4d6004e735559f3610079a.jpg?v=2"
+    },
+    {
+        "title": "„Wildnis(t)räume“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859983d65a16a75458520.5fbf7f883d65a14b9029b713.wildnistraeume",
+        "startDate": {
+            "startDate": "2025-03-03T10:00:00.000Z",
+            "endDate": "2025-03-03T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/21cc66328a36b7ddcd886a1cd263b12d.jpg?v=3"
+    },
+    {
+        "title": "„'Auch Du gehörst dem Führer'!? – Kinder und Jugendliche in der Region 1918-1945“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.650bee851b8a3d682b4d6dc2.auch-du-gehoerst-dem-fuehrer--kinder-und-jugendliche-in-der-region-1918-1945",
+        "startDate": {
+            "startDate": "2025-03-03T10:00:00.000Z",
+            "endDate": "2025-03-03T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1c6c9bb122425c20709fca3dfe1a3df3.jpg?v=2"
+    },
+    {
+        "title": "„Lebensadern der Natur“",
+        "url": "/kunst/ausstellung/naturwissenschaftlich/event/5f1859a83d65a16a75459898.65958641836b8435671834a2.lebensadern-der-natur",
+        "startDate": {
+            "startDate": "2025-03-03T10:00:00.000Z",
+            "endDate": "2025-03-03T16:00:00.000Z",
+            "text": "Heute, 10:00 - 16:00 Uhr"
+        },
+        "place": "Nationalpark-Tor Rurberg, Simmerath",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "naturwissenschaftlich"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/d58c0ad236e28c8faf0aec2c690e84e9.jfif?v=2"
+    },
+    {
+        "title": "Dauerausstellung im Grand Curtius",
+        "url": "/kunst/ausstellung/event/5f1859943d65a16a7545802e.6670026eba061d7045042db3.dauerausstellung-im-grand-curtius",
+        "startDate": {
+            "startDate": "2025-03-03T10:00:00.000Z",
+            "endDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 10:00 - 18:00 Uhr"
+        },
+        "place": "Le Grand Curtius, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/1a1cc4a6d9fa8e81404f78854fe1da66.jpg?v=1"
+    },
+    {
+        "title": "„Wink mit dem Zaunpfahl – offenSichtlich geht es um Gärten“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.6698588ab6704a49b455b0a3.wink-mit-dem-zaunpfahl--offensichtlich-geht-es-um-gaerten",
+        "startDate": {
+            "startDate": "2025-03-03T09:00:00.000Z",
+            "endDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/ebcacd73f8355cc7092b599d8985ade1.jpg?v=1"
+    },
+    {
+        "title": "„Grässliche Glückseligkeit. Faszination Kitsch“",
+        "url": "/kunst/ausstellung/event/5f1859993d65a16a75458659.66985bf9b6704a49b455b0a4.graessliche-glueckseligkeit-faszination-kitsch",
+        "startDate": {
+            "startDate": "2025-03-03T09:00:00.000Z",
+            "endDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/be25876deb327fa2f2d4629fde0454c7.jfif?v=2"
+    },
+    {
+        "title": "„Visionen der Macht: Neue Einblicke in die Architektur der NS-Ordensburg Vogelsang“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859983d65a16a75458520.66fbda76085f8742731a9d32.visionen-der-macht-neue-einblicke-in-die-architektur-der-ns-ordensburg-vogelsang",
+        "startDate": {
+            "startDate": "2025-03-03T10:00:00.000Z",
+            "endDate": "2025-03-03T17:00:00.000Z",
+            "text": "Heute, 10:00 - 17:00 Uhr"
+        },
+        "place": "Vogelsang IP, Schleiden",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/38fb956d7b73f0d28d0b03d3dcfc6424.jpg?v=1"
+    },
+    {
+        "title": "„Picturing the Invisible“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859923d65a16a75457e79.678d8b6bfc373631f8768983.picturing-the-invisible",
+        "startDate": {
+            "startDate": "2025-03-03T09:00:00.000Z",
+            "endDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/36520c3a6f036ba03e0446c902f8e938.jfif?v=2"
+    },
+    {
+        "title": "„Cordons“",
+        "url": "/kunst/ausstellung/event/5f1859923d65a16a75457e79.678d8bd137bd1f0b9b6b8cf3.cordons",
+        "startDate": {
+            "startDate": "2025-03-03T09:00:00.000Z",
+            "endDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "Cité Miroir, Lüttich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/36520c3a6f036ba03e0446c902f8e938.jfif?v=2"
+    },
+    {
+        "title": "„WirRheinländer“",
+        "url": "/kunst/ausstellung/historisch/event/5f1859993d65a16a75458659.678e52ea09d0471dd1422816.wirrheinlaender",
+        "startDate": {
+            "startDate": "2025-03-03T09:00:00.000Z",
+            "endDate": "2025-03-03T18:00:00.000Z",
+            "text": "Heute, 09:00 - 18:00 Uhr"
+        },
+        "place": "LVR-Freilichtmuseum Kommern, Mechernich",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "historisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/297c26326e2db6ece34b87124742666e.jfif?v=2"
+    },
+    {
+        "title": "„Alles rund um Karneval“",
+        "url": "/kunst/ausstellung/event/5f8a34043d65a15e2e3e7373.67aa1a09d78d530b4308a365.alles-rund-um-karneval",
+        "startDate": {
+            "startDate": "2025-03-03T08:30:00.000Z",
+            "endDate": "2025-03-03T12:00:00.000Z",
+            "text": "Heute, 08:30 - 12:00 Uhr"
+        },
+        "place": "Rathaus Kreuzau",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7d305937c2b099b3f23ed309672119fa.jfif?v=2"
+    },
+    {
+        "title": "Henriëtte van Gasteren: „Pre Fire Sale“",
+        "url": "/kunst/ausstellung/fotografie/event/5f1859a13d65a16a75459062.67b28a36b4f2bb2f4e317d06.henritte-van-gasteren-pre-fire-sale",
+        "startDate": {
+            "startDate": "2025-03-03",
+            "text": "Heute, ganztägig"
+        },
+        "place": "Galerie Vorn und Oben, Eupen",
+        "categorySlugs": [
+            "kunst",
+            "ausstellung",
+            "fotografie"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/0c42e569e6ccf61440379b75e773787b.jpeg?v=2"
+    },
+    {
+        "title": "„Rosenmontagszug“",
+        "url": "/verschiedenes/umzug/event/5ffecae43d65a1480f5ebe23.5fbf7f7d3d65a14b9029b13e.rosenmontagszug",
+        "startDate": {
+            "startDate": "2025-03-03T11:11:00.000Z",
+            "text": "Heute, 11:11 Uhr"
+        },
+        "place": "Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "umzug"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/7bca21ef5ea606527eacd670fe088e1b.jpg?v=2"
+    },
+    {
+        "title": "„Stammtisch Öcher Platt“",
+        "url": "/verschiedenes/geselliges-und-treffen/stammtisch/event/5f1859963d65a16a7545826c.625e9eefbe53ed65457ebc47.stammtisch-cher-platt",
+        "startDate": {
+            "startDate": "2025-03-03T18:30:00.000Z",
+            "text": "Heute, 18:30 Uhr"
+        },
+        "place": "Haus Löwenstein, Aachen",
+        "categorySlugs": [
+            "verschiedenes",
+            "geselliges-und-treffen",
+            "stammtisch"
+        ],
+        "image": "https://zva-igelbank.s3.eu-central-1.amazonaws.com/640x640_max/b18d74ebdd6f4acd4d94f137a3d8f7d0.jpg?v=1"
+    }
+]
